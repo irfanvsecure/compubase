@@ -67,7 +67,7 @@ class SitePages
 
     private static function titles(): array
     {
-        $js = file_get_contents(public_path('js/compubase.js'));
+        $js = file_get_contents(base_path('js/compubase.js'));
         if (! is_string($js) || ! preg_match('/const TITLES=(\{.*?\});/s', $js, $match)) {
             return [];
         }
