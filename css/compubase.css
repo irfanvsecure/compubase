@@ -43,7 +43,7 @@ h2{font-size:34px;margin:10px 0 14px}
 .utility .status{color:var(--gold-light);font-weight:700}
 .utility .status::before{content:"●";margin-right:6px;font-size:9px}
 /* ---------- Header ---------- */
-header.site{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50}
+header.site{background:#fff;border-bottom:1px solid var(--line);position:relative;z-index:50}
 header.site .container{display:flex;align-items:center;justify-content:space-between;min-height:78px;gap:20px}
 .logo{display:flex;align-items:center;flex-shrink:0}
 .logo img{display:block;height:54px;width:auto}
@@ -261,8 +261,8 @@ footer.site{background:var(--navy-deep);color:rgba(255,255,255,.8);padding:64px 
 .foot-grid h4{color:var(--gold-light);font-size:12px;letter-spacing:.16em;text-transform:uppercase;margin-bottom:16px}
 .foot-grid ul li{padding:5px 0}
 .foot-grid a:hover{color:#fff}
-.foot-logo{background:#fff;display:inline-block;padding:12px 18px;margin-bottom:18px}
-.foot-logo img{display:block;height:48px;width:auto}
+.foot-logo{display:inline-block;margin-bottom:18px}
+.foot-logo img{display:block;height:56px;width:auto}
 .foot-bottom{border-top:1px solid rgba(255,255,255,.12);margin-top:48px;padding:20px 0;font-size:13px}
 .foot-bottom .container{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 .foot-bottom a{margin-left:18px}
@@ -333,14 +333,22 @@ footer.site{background:var(--navy-deep);color:rgba(255,255,255,.8);padding:64px 
   .finder form{grid-template-columns:1fr 1fr}
   nav.main{display:none}
   .menu-toggle{display:block}
-  header.site.open nav.main{display:block;position:absolute;top:78px;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);padding:10px 24px 20px}
+  header.site.open nav.main{display:block;position:absolute;top:100%;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);padding:10px 24px 20px}
   header.site.open nav.main ul{flex-direction:column;gap:0}
   header.site.open nav.main li{border-bottom:1px solid var(--line)}
   header.site.open nav.main a{display:block;padding:14px 0;font-weight:700}
   .header-actions .btn-outline{display:none}
+  .utility .left span:nth-child(3){display:none}
 }
 @media(max-width:640px){
   .logo img{height:44px}
+  header.site .container{min-height:68px;gap:12px}
+  .header-actions{gap:8px}
+  .header-actions .btn-navy{display:none}
+  .header-actions .lang-btn{min-height:40px;padding:0 14px}
+  .menu-toggle{width:40px;height:40px}
+  .utility .left{display:none}
+  .utility .container{justify-content:center}
   h2{font-size:27px}
   .section{padding:52px 0}
   .hero{padding:56px 0 84px}

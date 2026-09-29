@@ -74,7 +74,7 @@
   <div class="container">
     <div class="foot-grid">
       <div>
-        <div class="foot-logo"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
+        <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
         <p style="font-size:13px">Classroom training in professional certification, IT, cyber security and languages. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       <div><h4>Certifications</h4><ul>

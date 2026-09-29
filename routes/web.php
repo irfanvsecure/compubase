@@ -24,22 +24,29 @@ Route::view('/ielts', 'pages.ielts')->name('ielts');
 Route::view('/arabic', 'pages.arabic')->name('arabic');
 Route::view('/office', 'pages.office')->name('office');
 
-// Arabic pages
-Route::view('/home-ar', 'pages.home-ar')->name('home-ar');
-Route::view('/about-ar', 'pages.about-ar')->name('about-ar');
-Route::view('/contact-ar', 'pages.contact-ar')->name('contact-ar');
-Route::view('/courses-ar', 'pages.courses-ar')->name('courses-ar');
-Route::view('/schedule-ar', 'pages.schedule-ar')->name('schedule-ar');
-Route::view('/corporate-ar', 'pages.corporate-ar')->name('corporate-ar');
-Route::view('/pmp-ar', 'pages.pmp-ar')->name('pmp-ar');
-Route::view('/cia-ar', 'pages.cia-ar')->name('cia-ar');
-Route::view('/cma-ar', 'pages.cma-ar')->name('cma-ar');
-Route::view('/cisa-ar', 'pages.cisa-ar')->name('cisa-ar');
-Route::view('/ceh-ar', 'pages.ceh-ar')->name('ceh-ar');
-Route::view('/cyber-ar', 'pages.cyber-ar')->name('cyber-ar');
-Route::view('/ai-ar', 'pages.ai-ar')->name('ai-ar');
-Route::view('/prompt-ar', 'pages.prompt-ar')->name('prompt-ar');
-Route::view('/english-ar', 'pages.english-ar')->name('english-ar');
-Route::view('/ielts-ar', 'pages.ielts-ar')->name('ielts-ar');
-Route::view('/arabic-ar', 'pages.arabic-ar')->name('arabic-ar');
-Route::view('/office-ar', 'pages.office-ar')->name('office-ar');
+// Arabic pages, under /ar/
+Route::prefix('ar')->group(function () {
+    Route::view('/', 'pages.home-ar')->name('home-ar');
+    Route::view('/about', 'pages.about-ar')->name('about-ar');
+    Route::view('/contact', 'pages.contact-ar')->name('contact-ar');
+    Route::view('/courses', 'pages.courses-ar')->name('courses-ar');
+    Route::view('/schedule', 'pages.schedule-ar')->name('schedule-ar');
+    Route::view('/corporate', 'pages.corporate-ar')->name('corporate-ar');
+    Route::view('/pmp', 'pages.pmp-ar')->name('pmp-ar');
+    Route::view('/cia', 'pages.cia-ar')->name('cia-ar');
+    Route::view('/cma', 'pages.cma-ar')->name('cma-ar');
+    Route::view('/cisa', 'pages.cisa-ar')->name('cisa-ar');
+    Route::view('/ceh', 'pages.ceh-ar')->name('ceh-ar');
+    Route::view('/cyber', 'pages.cyber-ar')->name('cyber-ar');
+    Route::view('/ai', 'pages.ai-ar')->name('ai-ar');
+    Route::view('/prompt', 'pages.prompt-ar')->name('prompt-ar');
+    Route::view('/english', 'pages.english-ar')->name('english-ar');
+    Route::view('/ielts', 'pages.ielts-ar')->name('ielts-ar');
+    Route::view('/arabic', 'pages.arabic-ar')->name('arabic-ar');
+    Route::view('/office', 'pages.office-ar')->name('office-ar');
+});
+
+// Old Arabic addresses (/home-ar, /about-ar, ...) move permanently to /ar/.
+foreach (['home', 'about', 'contact', 'courses', 'schedule', 'corporate', 'pmp', 'cia', 'cma', 'cisa', 'ceh', 'cyber', 'ai', 'prompt', 'english', 'ielts', 'arabic', 'office'] as $page) {
+    Route::get("/{$page}-ar", fn () => redirect()->route("{$page}-ar", request()->query(), 301));
+}

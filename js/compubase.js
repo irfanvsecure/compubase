@@ -1,6 +1,8 @@
 function pageUrl(slug){
   const root = String(window.APP_BASE || '').replace(/\/$/, '');
   if (!slug || slug === 'home') return root + '/';
+  if (slug === 'home-ar') return root + '/ar/';
+  if (slug.endsWith('-ar')) return root + '/ar/' + slug.slice(0, -3);
   return root + '/' + slug;
 }
 

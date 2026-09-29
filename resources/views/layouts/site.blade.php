@@ -19,6 +19,6 @@
 window.INITIAL_PAGE = document.body.dataset.page || 'home';
 window.APP_BASE = @json(rtrim(url('/'), '/'));
 </script>
-<script src="{{ asset('js/compubase.js') }}"></script>
+<script src="{{ asset('js/compubase.js') }}?v={{ filemtime(base_path('js/compubase.js')) }}"></script>
 </body>
 </html>

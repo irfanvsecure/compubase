@@ -51,7 +51,7 @@
 </div></section>
 
 <section class="section featured"><div class="container">
-  <div class="course-grid" style="grid-template-columns:repeat(3,1fr)">
+  <div class="course-grid">
   <div class="course-card"><div class="head"><span class="tag">شهادة مهنية</span><h3>شهادة إدارة المشاريع الاحترافية</h3></div>
     <div class="body"><p>تغطية كاملة لمجالات امتحان إدارة المشاريع مع أسئلة تدريبية وساعات التواصل المطلوبة للتقديم.</p>
       <div class="meta"><div><span>المدة</span><b>5 أيام · 40 ساعة</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">[التاريخ]</b></div></div>
@@ -113,7 +113,7 @@
   <div class="container">
     <div class="foot-grid">
       <div>
-        <div class="foot-logo"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
+        <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
         <p style="font-size:13px">تدريب صفّي في الشهادات المهنية وتقنية المعلومات والأمن السيبراني واللغات. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       <div><h4>الشهادات المهنية</h4><ul>
