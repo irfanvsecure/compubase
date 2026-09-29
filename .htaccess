@@ -1,7 +1,8 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /compubase/
 
+    # Serve the Laravel public folder without putting /public in the URL.
+    # No RewriteBase: this works both in /compubase on XAMPP and at the domain root.
     RewriteRule ^$ public/ [L]
     RewriteRule ^(.*)$ public/$1 [L]
 </IfModule>
