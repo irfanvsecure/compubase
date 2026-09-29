@@ -1,13 +1,22 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
-    # Already at the front controller.
-    RewriteRule ^public/index\.php$ - [L]
+    # Pass the Authorization header through to Laravel.
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 
-    # CSS and JS live next to this file, outside public/.
-    RewriteRule ^(css|js)/ - [L]
+    # CSS, JS and images live next to this file, outside public/.
+    RewriteRule ^(css|js|images)/ - [L]
 
-    # Send every page to Laravel. Rewriting /about to public/about 404s on
-    # LiteSpeed, because public/about is not a real file.
+    # Already inside public/ (front controller or a real file there).
+    RewriteRule ^public/ - [L]
+
+    # Real files that live in public/.
+    RewriteRule ^(favicon\.ico|robots\.txt)$ public/$1 [L]
+
+    # Send every page straight to Laravel. Rewriting /about to public/about
+    # 404s on LiteSpeed, because public/about is not a real file and
+    # LiteSpeed does not re-run public/.htaccess after the rewrite.
+    # No RewriteBase: this works both in /compubase on XAMPP and at the domain root.
     RewriteRule ^ public/index.php [L]
 </IfModule>

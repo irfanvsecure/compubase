@@ -21,7 +21,7 @@
 
 <header class="site">
   <div class="container">
-    <a class="logo" href="{{ route('home-ar') }}"><b>كمبيوبيس</b><small>حلول تدريبية مبتكرة</small></a>
+    <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
         <li><a href="{{ route('courses-ar') }}">الدورات</a></li>
@@ -385,7 +385,7 @@
   <div class="container">
     <div class="foot-grid">
       <div>
-        <div class="foot-logo"><b>كمبيوبيس</b><small>حلول تدريبية مبتكرة</small></div>
+        <div class="foot-logo"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
         <p style="font-size:13px">تدريب صفّي في الشهادات المهنية وتقنية المعلومات والأمن السيبراني واللغات. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       <div><h4>الشهادات المهنية</h4><ul>
