@@ -108,45 +108,23 @@
 <section class="section" id="courses">
   <div class="container">
     <div class="eyebrow">Course categories</div>
-    <h2>Three routes, twelve courses, one campus in Abu Dhabi.</h2>
+    @use('App\Support\Catalog')
+    <h2>{{ count(Catalog::courses()) }} courses, one campus in Abu Dhabi.</h2>
     <p style="max-width:720px">Whether you are sitting a professional exam, moving your team into cyber security and AI, or building the English, Arabic and Office skills the UAE workplace runs on — every CompuBase course is timetabled around a full working week.</p>
     <div class="cat-grid">
+      @foreach (array_slice(Catalog::categories(), 0, 3, true) as $cat => $category)
       <div class="cat">
-        <div class="num">01 <small>4 COURSES</small></div>
-        <h3>Professional certifications</h3>
-                <p>Exam-focused preparation for finance, audit and project management credentials. Evening timings suit candidates already in full-time roles.</p>
+        <div class="num">{{ sprintf('%02d', $loop->iteration) }} <small>{{ count($category['courses']) }} COURSES</small></div>
+        <h3>{{ $category['en'] }}</h3>
+        <p>{{ count($category['courses']) }} courses of {{ min(array_column($category['courses'], 'days')) }} to {{ max(array_column($category['courses'], 'days')) }} days, Monday to Friday at the Abu Dhabi centre.</p>
         <table>
-          <tr><td>PMP — Project Management</td><td>40 hrs</td></tr>
-          <tr><td>CIA — Internal Auditor</td><td>40 hrs</td></tr>
-          <tr><td>CMA — Management Accountant</td><td>40 hrs</td></tr>
-          <tr><td>CISA — Information Systems Auditor</td><td>40 hrs</td></tr>
+          @foreach (array_slice($category['courses'], 0, 4) as $course)
+          <tr><td>{{ $course['en'] }}</td><td>{{ Catalog::duration($course['days']) }}</td></tr>
+          @endforeach
         </table>
-        <a class="link" href="#" onclick="filterCat(event,'cert')">View certification courses →</a>
+        <a class="link" href="{{ route('courses', ['go' => $cat]) }}">View all {{ count($category['courses']) }} courses →</a>
       </div>
-      <div class="cat">
-        <div class="num">02 <small>4 COURSES</small></div>
-        <h3>IT and cyber security</h3>
-                <p>Short, practical courses that move a team from awareness to capability — from everyday AI use through to hands-on ethical hacking.</p>
-        <table>
-          <tr><td>EC-Council Ethical Hacking</td><td>40 hrs</td></tr>
-          <tr><td>Cyber Security Essentials</td><td>40 hrs</td></tr>
-          <tr><td>AI Essentials</td><td>18 hrs</td></tr>
-          <tr><td>Prompt Engineering</td><td>12 hrs</td></tr>
-        </table>
-        <a class="link" href="#" onclick="filterCat(event,'it')">View IT and cyber courses →</a>
-      </div>
-      <div class="cat">
-        <div class="num">03 <small>4 COURSES</small></div>
-        <h3>Languages and office skills</h3>
-                <p>The groundwork behind every other qualification: the English, Arabic and Microsoft skills a UAE workplace expects from day one.</p>
-        <table>
-          <tr><td>English Language</td><td>40 hrs</td></tr>
-          <tr><td>IELTS Preparation</td><td>20 hrs</td></tr>
-          <tr><td>Arabic for Non-Arabic Speakers</td><td>20 hrs</td></tr>
-          <tr><td>MS Office + Copilot</td><td>30 hrs</td></tr>
-        </table>
-        <a class="link" href="#" onclick="filterCat(event,'lang')">View language courses →</a>
-      </div>
+      @endforeach
     </div>
   </div>
 </section>
@@ -159,12 +137,12 @@
     <p style="max-width:720px">Each course runs Monday to Friday at our Abu Dhabi centre, with morning and evening groups so you can train around your job. Seats are allocated in the order enquiries are received.</p>
     <div class="filter-tabs" id="filterTabs">
       <button class="active" data-f="all">All courses</button>
-      <button data-f="cert">Professional certifications · 4</button>
-      <button data-f="it">IT and cyber security · 4</button>
-      <button data-f="lang">Languages and office skills · 4</button>
+      @foreach (Catalog::categories() as $cat => $category)
+      <button data-f="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</button>
+      @endforeach
     </div>
     <div class="course-grid" id="courseGrid"></div>
-    <p class="foot">Browse all 12 courses or call an advisor on <a href="tel:0506399915">050 6399915</a></p>
+    <p class="foot"><a href="{{ route('courses') }}">Browse all {{ count(Catalog::courses()) }} courses</a> or call an advisor on <a href="tel:0506399915">050 6399915</a></p>
   </div>
 </section>
 
@@ -186,14 +164,14 @@
         <tbody id="schedBody"></tbody>
       </table>
     </div>
-    <p class="sched-note">Showing 8 of 12 courses. All groups run Monday to Friday at the Abu Dhabi centre. <a href="#" data-scroll="featured" style="font-weight:700;text-decoration:underline">See the full schedule</a></p>
+    <p class="sched-note">Showing {{ min(8, count(Catalog::courses())) }} of {{ count(Catalog::courses()) }} courses. All groups run Monday to Friday at the Abu Dhabi centre. <a href="#" data-scroll="featured" style="font-weight:700;text-decoration:underline">See the full schedule</a></p>
   </div>
 </section>
 
 <!-- 09 FACTS BAND -->
 <section class="facts">
   <div class="container">
-    <div class="fact"><b>12</b><p>Scheduled courses across three categories</p></div>
+    <div class="fact"><b>{{ count(Catalog::courses()) }}</b><p>Scheduled courses across {{ count(Catalog::categories()) }} {{ Str::plural('category', count(Catalog::categories())) }}</p></div>
     <div class="fact"><b>2</b><p>Daily timings — morning and evening groups</p></div>
     <div class="fact"><b>AR / EN</b><p>Delivery in Arabic or English, by course</p></div>
     <div class="fact"><b>[X]</b><p>Professionals trained in Abu Dhabi — confirm the figure before publishing</p></div>
@@ -303,18 +281,15 @@
       <div class="side-box">
         <h4>Popular courses</h4>
         <ul>
-          <li><a href="{{ route('pmp') }}">PMP certification training</a></li>
-          <li><a href="{{ route('ceh') }}">Ethical hacking (CEH)</a></li>
-          <li><a href="{{ route('cisa') }}">CISA exam preparation</a></li>
-          <li><a href="{{ route('ielts') }}">IELTS preparation</a></li>
-          <li><a href="{{ route('office') }}">MS Office with Copilot</a></li>
-          <li><a href="{{ route('arabic') }}">Arabic for non-Arabic speakers</a></li>
+          @foreach (array_slice(Catalog::courses(), 0, 6) as $course)
+          <li><a href="{{ Catalog::url($course) }}">{{ $course['en'] }}</a></li>
+          @endforeach
         </ul>
       </div>
       <div class="side-box calendar" id="calendar">
         <h4>Course calendar</h4>
         <h3>Get every start date as a PDF</h3>
-        <p>All 12 courses, durations and timings on one page — useful when you need approval from a manager.</p>
+        <p>Every course, with durations and timings, on one page — useful when you need approval from a manager.</p>
         <form onsubmit="event.preventDefault();alert('Demo only — connect to your email handler before launch.')">
           <input type="email" placeholder="name@company.ae" required>
           <button class="btn btn-gold">Send me the calendar</button>
@@ -372,24 +347,7 @@
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
         <p style="font-size:15px">Classroom training in professional certification, IT, cyber security and languages. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
-      <div><h4>Certifications</h4><ul>
-        <li><a href="{{ route('pmp') }}">PMP</a></li>
-        <li><a href="{{ route('cia') }}">CIA</a></li>
-        <li><a href="{{ route('cma') }}">CMA</a></li>
-        <li><a href="{{ route('cisa') }}">CISA</a></li>
-      </ul></div>
-      <div><h4>IT and cyber</h4><ul>
-        <li><a href="{{ route('ceh') }}">Ethical Hacking</a></li>
-        <li><a href="{{ route('cyber') }}">Cyber Security Essentials</a></li>
-        <li><a href="{{ route('ai') }}">AI Essentials</a></li>
-        <li><a href="{{ route('prompt') }}">Prompt Engineering</a></li>
-      </ul></div>
-      <div><h4>Languages</h4><ul>
-        <li><a href="{{ route('english') }}">English Language</a></li>
-        <li><a href="{{ route('ielts') }}">IELTS Preparation</a></li>
-        <li><a href="{{ route('arabic') }}">Arabic for Non-Arabic Speakers</a></li>
-        <li><a href="{{ route('office') }}">MS Office + Copilot</a></li>
-      </ul></div>
+      @include('partials.footer-courses')
       <div><h4>Contact</h4>
         <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">[info@compubase.ae]</a><br>Sunday to Thursday · [opening hours]</p>

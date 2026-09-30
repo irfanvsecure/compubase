@@ -423,3 +423,14 @@ body{direction:rtl;text-align:right}
 .page[dir="rtl"] .slider .prev{left:auto;right:0}
 .page[dir="rtl"] .slider .next{right:auto;left:0}
 .page[dir="rtl"],.page[dir="rtl"] h1,.page[dir="rtl"] h2,.page[dir="rtl"] h3,.page[dir="rtl"] h4{font-family:'Cairo','Tajawal',sans-serif}
+/* ---------- Course outline (from the course documents) ---------- */
+.course-photo{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;margin-bottom:30px}
+.tabs a{cursor:pointer}
+.tab-panel{display:none}
+.tab-panel.active{display:block}
+.tab-panel>h2:first-child{margin-top:0}
+.tab-panel p+p{margin-top:12px}
+.module-items{list-style:disc;padding-left:20px;margin-top:8px;font-size:16px}
+.module-items li{padding:2px 0}
+.module-items ul{list-style:circle;padding-left:22px;margin:4px 0}
+.page[dir="rtl"] .module-items{padding-left:0;padding-right:20px}

@@ -46,7 +46,8 @@
   <div class="eyebrow">Who we are</div>
   <h2>Classroom training, done properly.</h2>
   <div style="max-width:760px">
-    <p>CompuBase Training Center — Innovative Training Solutions — is a professional training institute in Abu Dhabi, United Arab Emirates. We deliver twelve scheduled courses across three tracks: professional certifications (PMP, CIA, CMA, CISA), IT and cyber security (Ethical Hacking, Cyber Security Essentials, AI Essentials, Prompt Engineering), and languages and office skills (English, IELTS, Arabic for non-Arabic speakers, MS Office with Copilot).</p>
+@use('App\Support\Catalog')
+    <p>CompuBase Training Center — Innovative Training Solutions — is a professional training institute in Abu Dhabi, United Arab Emirates. We deliver {{ count(Catalog::courses()) }} scheduled courses in {{ implode(', ', array_column(Catalog::categories(), 'en')) }}.</p>
     <p>Every programme runs Monday to Friday with a morning group and an evening group, taught in English or Arabic depending on the group. Courses range from a two-day workshop to a full month of tuition — and all of them happen in a real classroom, with an instructor who answers questions the moment they come up.</p>
     <p>[Add: founding year, licence details, and two or three sentences of the centre's own history — to be supplied by CompuBase before publication.]</p>
   </div>
@@ -77,15 +78,7 @@
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
         <p style="font-size:15px">Classroom training in professional certification, IT, cyber security and languages. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
-      <div><h4>Certifications</h4><ul>
-        <li><a href="{{ route('pmp') }}">PMP</a></li><li><a href="{{ route('cia') }}">CIA</a></li><li><a href="{{ route('cma') }}">CMA</a></li><li><a href="{{ route('cisa') }}">CISA</a></li>
-      </ul></div>
-      <div><h4>IT and cyber</h4><ul>
-        <li><a href="{{ route('ceh') }}">Ethical Hacking</a></li><li><a href="{{ route('cyber') }}">Cyber Security Essentials</a></li><li><a href="{{ route('ai') }}">AI Essentials</a></li><li><a href="{{ route('prompt') }}">Prompt Engineering</a></li>
-      </ul></div>
-      <div><h4>Languages</h4><ul>
-        <li><a href="{{ route('english') }}">English Language</a></li><li><a href="{{ route('ielts') }}">IELTS Preparation</a></li><li><a href="{{ route('arabic') }}">Arabic for Non-Arabic Speakers</a></li><li><a href="{{ route('office') }}">MS Office + Copilot</a></li>
-      </ul></div>
+      @include('partials.footer-courses')
       <div><h4>Contact</h4>
         <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">[info@compubase.ae]</a><br>Sunday to Thursday · [opening hours]</p>

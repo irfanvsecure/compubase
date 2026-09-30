@@ -102,45 +102,23 @@
 <section class="section" id="courses">
   <div class="container">
     <div class="eyebrow">فئات الدورات</div>
-    <h2>ثلاثة مسارات، اثنتا عشرة دورة، ومقرّ واحد في أبوظبي.</h2>
+    @use('App\Support\Catalog')
+    <h2>{{ count(Catalog::courses()) }} دورة، ومقرّ واحد في أبوظبي.</h2>
     <p style="max-width:720px">سواء كنت تستعد لامتحان مهني، أو تنقل فريقك إلى مجال الأمن السيبراني والذكاء الاصطناعي، أو تبني مهارات اللغة والأوفيس التي تتطلبها بيئة العمل الإماراتية — فكل دوراتنا مجدولة حول أسبوع عمل كامل.</p>
     <div class="cat-grid">
+      @foreach (array_slice(Catalog::categories(), 0, 3, true) as $cat => $category)
       <div class="cat">
-        <div class="num">01 <small>4 دورات</small></div>
-        <h3>الشهادات المهنية</h3>
-        <p>تحضير مركّز على الامتحانات لاعتمادات الإدارة المالية والتدقيق وإدارة المشاريع. التوقيت المسائي يناسب الموظفين بدوام كامل.</p>
+        <div class="num">{{ sprintf('%02d', $loop->iteration) }} <small>{{ count($category['courses']) }} دورة</small></div>
+        <h3>{{ $category['ar'] }}</h3>
+        <p>{{ count($category['courses']) }} دورة، مدة كل منها من {{ min(array_column($category['courses'], 'days')) }} إلى {{ max(array_column($category['courses'], 'days')) }} أيام، من الاثنين إلى الجمعة في مقر أبوظبي.</p>
         <table>
-          <tr><td>شهادة إدارة المشاريع الاحترافية</td><td>40 ساعة</td></tr>
-          <tr><td>شهادة المدقق الداخلي المعتمد</td><td>40 ساعة</td></tr>
-          <tr><td>شهادة المحاسب الإداري المعتمد</td><td>40 ساعة</td></tr>
-          <tr><td>شهادة مدقق نظم المعلومات المعتمد</td><td>40 ساعة</td></tr>
+          @foreach (array_slice($category['courses'], 0, 4) as $course)
+          <tr><td>{{ $course['ar'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td></tr>
+          @endforeach
         </table>
-        <a class="link" href="#" data-scroll="featured">عرض دورات الشهادات ←</a>
+        <a class="link" href="{{ route('courses-ar', ['go' => $cat]) }}">عرض جميع الدورات ←</a>
       </div>
-      <div class="cat">
-        <div class="num">02 <small>4 دورات</small></div>
-        <h3>تقنية المعلومات والأمن السيبراني</h3>
-        <p>دورات قصيرة وعملية تنقل الفريق من مرحلة الوعي إلى مرحلة القدرة — من الاستخدام اليومي للذكاء الاصطناعي إلى الاختراق الأخلاقي التطبيقي.</p>
-        <table>
-          <tr><td>شهادة الاختراق الأخلاقي المعتمدة</td><td>40 ساعة</td></tr>
-          <tr><td>أساسيات الأمن السيبراني</td><td>40 ساعة</td></tr>
-          <tr><td>أساسيات الذكاء الاصطناعي</td><td>18 ساعة</td></tr>
-          <tr><td>هندسة الأوامر النصية</td><td>12 ساعة</td></tr>
-        </table>
-        <a class="link" href="#" data-scroll="featured">عرض دورات التقنية والأمن ←</a>
-      </div>
-      <div class="cat">
-        <div class="num">03 <small>4 دورات</small></div>
-        <h3>اللغات والمهارات المكتبية</h3>
-        <p>الأساس الذي تُبنى عليه كل المؤهلات الأخرى: مهارات اللغة الإنجليزية والعربية وبرامج الأوفيس التي تتوقعها أي جهة عمل من اليوم الأول.</p>
-        <table>
-          <tr><td>دورة اللغة الإنجليزية</td><td>40 ساعة</td></tr>
-          <tr><td>دورة التحضير لامتحان الآيلتس</td><td>20 ساعة</td></tr>
-          <tr><td>اللغة العربية لغير الناطقين بها</td><td>20 ساعة</td></tr>
-          <tr><td>مايكروسوفت أوفيس وكوبايلوت</td><td>30 ساعة</td></tr>
-        </table>
-        <a class="link" href="#" data-scroll="featured">عرض دورات اللغات ←</a>
-      </div>
+      @endforeach
     </div>
   </div>
 </section>
@@ -152,32 +130,11 @@
     <h2>الدورات الأكثر طلباً لدى جهات العمل في أبوظبي.</h2>
     <p style="max-width:720px">تُعقد كل دورة من الاثنين إلى الجمعة في مقرّنا بأبوظبي، مع مجموعات صباحية ومسائية لتتمكن من التدرّب دون ترك عملك. تُخصّص المقاعد حسب أسبقية الاستفسار.</p>
     <div class="course-grid">
-      <div class="course-card"><div class="head"><span class="tag">شهادة مهنية</span><h3>شهادة إدارة المشاريع الاحترافية</h3></div>
-        <div class="body"><p>تغطية كاملة لمجالات امتحان إدارة المشاريع مع أسئلة تدريبية وساعات التواصل الخمس والثلاثين المطلوبة للتقديم.</p>
-          <div class="meta"><div><span>المدة</span><b>5 أيام · 40 ساعة</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">[التاريخ]</b></div></div>
-          <a class="btn btn-outline" href="{{ route('contact-ar') }}">تفاصيل الدورة والرسوم ←</a></div></div>
-      <div class="course-card"><div class="head"><span class="tag">شهادة مهنية</span><h3>شهادة مدقق نظم المعلومات المعتمد</h3></div>
-        <div class="body"><p>تدقيق نظم المعلومات وضبطها وضمانها وفق مجالات الممارسة المهنية المعتمدة، في مجموعة مسائية.</p>
-          <div class="meta"><div><span>المدة</span><b>5 أيام · 40 ساعة</b></div><div><span>التوقيت</span><b>مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">[التاريخ]</b></div></div>
-          <a class="btn btn-outline" href="{{ route('contact-ar') }}">تفاصيل الدورة والرسوم ←</a></div></div>
-      <div class="course-card"><div class="head"><span class="tag">تقنية وأمن سيبراني</span><h3>شهادة الاختراق الأخلاقي المعتمدة</h3></div>
-        <div class="body"><p>اختبر الأنظمة كما يفعل المهاجم، في مختبر خاضع للإشراف، واستعد لامتحان الشهادة المعتمدة.</p>
-          <div class="meta"><div><span>المدة</span><b>5 أيام · 40 ساعة</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">[التاريخ]</b></div></div>
-          <a class="btn btn-outline" href="{{ route('contact-ar') }}">تفاصيل الدورة والرسوم ←</a></div></div>
-      <div class="course-card"><div class="head"><span class="tag">تقنية وأمن سيبراني</span><h3>أساسيات الذكاء الاصطناعي</h3></div>
-        <div class="body"><p>وظّف أدوات الذكاء الاصطناعي في مهام عملك اليومية — التقارير والصياغة والتحليل. لا حاجة للبرمجة.</p>
-          <div class="meta"><div><span>المدة</span><b>3 أيام · 18 ساعة</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">[التاريخ]</b></div></div>
-          <a class="btn btn-outline" href="{{ route('contact-ar') }}">تفاصيل الدورة والرسوم ←</a></div></div>
-      <div class="course-card"><div class="head"><span class="tag">لغات</span><h3>دورة التحضير لامتحان الآيلتس</h3></div>
-        <div class="body"><p>تدريب موقوت وتقنيات امتحان في الاستماع والقراءة والكتابة والمحادثة، مع تقييم لكل اختبار تجريبي.</p>
-          <div class="meta"><div><span>المدة</span><b>أسبوعان · 20 ساعة</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">[التاريخ]</b></div></div>
-          <a class="btn btn-outline" href="{{ route('contact-ar') }}">تفاصيل الدورة والرسوم ←</a></div></div>
-      <div class="course-card"><div class="head"><span class="tag">مهارات مكتبية</span><h3>مايكروسوفت أوفيس وكوبايلوت</h3></div>
-        <div class="body"><p>إكسل وورد وباوربوينت وآوتلوك بمستوى احترافي، مع استخدام كوبايلوت طوال أيام الدورة.</p>
-          <div class="meta"><div><span>المدة</span><b>أسبوع · 30 ساعة</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">[التاريخ]</b></div></div>
-          <a class="btn btn-outline" href="{{ route('contact-ar') }}">تفاصيل الدورة والرسوم ←</a></div></div>
+      @foreach (array_slice(Catalog::courses(), 0, 6) as $course)
+        @include('partials.course-card', ['ar' => true])
+      @endforeach
     </div>
-    <p class="foot">تصفّح الدورات الاثنتي عشرة كاملة أو اتصل بمستشار التدريب على <a href="tel:0506399915">050 6399915</a></p>
+    <p class="foot"><a href="{{ route('courses-ar') }}">تصفّح جميع الدورات ({{ count(Catalog::courses()) }})</a> أو اتصل بمستشار التدريب على <a href="tel:0506399915">050 6399915</a></p>
   </div>
 </section>
 
@@ -197,25 +154,20 @@
         <caption>المجموعات المؤكدة القادمة</caption>
         <thead><tr><th>الدورة</th><th>الفئة</th><th>المدة</th><th>التوقيت</th><th>تبدأ في</th><th>المقعد</th></tr></thead>
         <tbody>
-          <tr><td><b style="color:var(--navy)">شهادة إدارة المشاريع الاحترافية</b></td><td>شهادات مهنية</td><td>5 أيام · 40 ساعة</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
-          <tr><td><b style="color:var(--navy)">شهادة الاختراق الأخلاقي المعتمدة</b></td><td>تقنية وأمن</td><td>5 أيام · 40 ساعة</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
-          <tr><td><b style="color:var(--navy)">أساسيات الأمن السيبراني</b></td><td>تقنية وأمن</td><td>5 أيام · 40 ساعة</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
-          <tr><td><b style="color:var(--navy)">شهادة المدقق الداخلي المعتمد</b></td><td>شهادات مهنية</td><td>5 أيام · 40 ساعة</td><td>مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
-          <tr><td><b style="color:var(--navy)">شهادة المحاسب الإداري المعتمد</b></td><td>شهادات مهنية</td><td>5 أيام · 40 ساعة</td><td>مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
-          <tr><td><b style="color:var(--navy)">دورة اللغة الإنجليزية</b></td><td>لغات</td><td>شهر · 40 ساعة</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
-          <tr><td><b style="color:var(--navy)">أساسيات الذكاء الاصطناعي</b></td><td>تقنية وأمن</td><td>3 أيام · 18 ساعة</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
-          <tr><td><b style="color:var(--navy)">هندسة الأوامر النصية</b></td><td>تقنية وأمن</td><td>يومان · 12 ساعة</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
+          @foreach (array_slice(Catalog::courses(), 0, 8) as $course)
+          <tr><td><b style="color:var(--navy)">{{ $course['ar'] }}</b></td><td>{{ $course['catAr'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ Catalog::url($course, true) }}">سجّل</a></td></tr>
+          @endforeach
         </tbody>
       </table>
     </div>
-    <p class="sched-note">يعرض الجدول 8 دورات من أصل 12. تُعقد جميع المجموعات من الاثنين إلى الجمعة في مقر أبوظبي.</p>
+    <p class="sched-note">يعرض الجدول {{ min(8, count(Catalog::courses())) }} دورات من أصل {{ count(Catalog::courses()) }}. تُعقد جميع المجموعات من الاثنين إلى الجمعة في مقر أبوظبي.</p>
   </div>
 </section>
 
 <!-- FACTS -->
 <section class="facts">
   <div class="container">
-    <div class="fact"><b>12</b><p>دورة مجدولة في ثلاث فئات</p></div>
+    <div class="fact"><b>{{ count(Catalog::courses()) }}</b><p>دورة مجدولة في {{ count(Catalog::categories()) }} فئة</p></div>
     <div class="fact"><b>2</b><p>توقيتان يومياً — مجموعات صباحية ومسائية</p></div>
     <div class="fact"><b>ع / إ</b><p>التدريس بالعربية أو الإنجليزية حسب الدورة</p></div>
     <div class="fact"><b>[X]</b><p>متدرّب تخرّج من مركزنا في أبوظبي — يُؤكَّد الرقم قبل النشر</p></div>
@@ -322,18 +274,15 @@
       <div class="side-box">
         <h4>الدورات الأكثر طلباً</h4>
         <ul>
-          <li><a href="#" data-scroll="featured">شهادة إدارة المشاريع الاحترافية</a></li>
-          <li><a href="#" data-scroll="featured">شهادة الاختراق الأخلاقي</a></li>
-          <li><a href="#" data-scroll="featured">شهادة مدقق نظم المعلومات</a></li>
-          <li><a href="#" data-scroll="featured">التحضير لامتحان الآيلتس</a></li>
-          <li><a href="#" data-scroll="featured">أوفيس مع كوبايلوت</a></li>
-          <li><a href="#" data-scroll="featured">العربية لغير الناطقين بها</a></li>
+          @foreach (array_slice(Catalog::courses(), 0, 6) as $course)
+          <li><a href="{{ Catalog::url($course, true) }}">{{ $course['ar'] }}</a></li>
+          @endforeach
         </ul>
       </div>
       <div class="side-box calendar">
         <h4>تقويم الدورات</h4>
         <h3>احصل على جميع مواعيد البدء في ملف واحد</h3>
-        <p>الدورات الاثنتا عشرة بمددها وتوقيتاتها في صفحة واحدة — مفيد عند طلب موافقة مديرك.</p>
+        <p>جميع الدورات بمددها وتوقيتاتها في صفحة واحدة — مفيد عند طلب موافقة مديرك.</p>
         <form onsubmit="event.preventDefault();alert('نموذج تجريبي — يُربط بالبريد قبل الإطلاق.')">
           <input type="email" placeholder="name@company.ae" required>
           <button class="btn btn-gold">أرسلوا لي التقويم</button>
@@ -388,15 +337,7 @@
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
         <p style="font-size:15px">تدريب صفّي في الشهادات المهنية وتقنية المعلومات والأمن السيبراني واللغات. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
-      <div><h4>الشهادات المهنية</h4><ul>
-        <li><a href="#" data-scroll="featured">إدارة المشاريع الاحترافية</a></li><li><a href="#" data-scroll="featured">المدقق الداخلي المعتمد</a></li><li><a href="#" data-scroll="featured">المحاسب الإداري المعتمد</a></li><li><a href="#" data-scroll="featured">مدقق نظم المعلومات</a></li>
-      </ul></div>
-      <div><h4>التقنية والأمن</h4><ul>
-        <li><a href="#" data-scroll="featured">الاختراق الأخلاقي</a></li><li><a href="#" data-scroll="featured">أساسيات الأمن السيبراني</a></li><li><a href="#" data-scroll="featured">أساسيات الذكاء الاصطناعي</a></li><li><a href="#" data-scroll="featured">هندسة الأوامر النصية</a></li>
-      </ul></div>
-      <div><h4>اللغات</h4><ul>
-        <li><a href="#" data-scroll="featured">اللغة الإنجليزية</a></li><li><a href="#" data-scroll="featured">التحضير للآيلتس</a></li><li><a href="#" data-scroll="featured">العربية لغير الناطقين بها</a></li><li><a href="#" data-scroll="featured">أوفيس وكوبايلوت</a></li>
-      </ul></div>
+      @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
         <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">info@compubase.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>

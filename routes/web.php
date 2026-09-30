@@ -1,5 +1,6 @@
 <?php
 
+use App\Support\Catalog;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/home', fn () => redirect()->route('home'));
@@ -11,18 +12,6 @@ Route::view('/contact', 'pages.contact')->name('contact');
 Route::view('/courses', 'pages.courses')->name('courses');
 Route::view('/schedule', 'pages.schedule')->name('schedule');
 Route::view('/corporate', 'pages.corporate')->name('corporate');
-Route::view('/pmp', 'pages.pmp')->name('pmp');
-Route::view('/cia', 'pages.cia')->name('cia');
-Route::view('/cma', 'pages.cma')->name('cma');
-Route::view('/cisa', 'pages.cisa')->name('cisa');
-Route::view('/ceh', 'pages.ceh')->name('ceh');
-Route::view('/cyber', 'pages.cyber')->name('cyber');
-Route::view('/ai', 'pages.ai')->name('ai');
-Route::view('/prompt', 'pages.prompt')->name('prompt');
-Route::view('/english', 'pages.english')->name('english');
-Route::view('/ielts', 'pages.ielts')->name('ielts');
-Route::view('/arabic', 'pages.arabic')->name('arabic');
-Route::view('/office', 'pages.office')->name('office');
 
 // Arabic pages, under /ar/
 Route::prefix('ar')->group(function () {
@@ -32,21 +21,31 @@ Route::prefix('ar')->group(function () {
     Route::view('/courses', 'pages.courses-ar')->name('courses-ar');
     Route::view('/schedule', 'pages.schedule-ar')->name('schedule-ar');
     Route::view('/corporate', 'pages.corporate-ar')->name('corporate-ar');
-    Route::view('/pmp', 'pages.pmp-ar')->name('pmp-ar');
-    Route::view('/cia', 'pages.cia-ar')->name('cia-ar');
-    Route::view('/cma', 'pages.cma-ar')->name('cma-ar');
-    Route::view('/cisa', 'pages.cisa-ar')->name('cisa-ar');
-    Route::view('/ceh', 'pages.ceh-ar')->name('ceh-ar');
-    Route::view('/cyber', 'pages.cyber-ar')->name('cyber-ar');
-    Route::view('/ai', 'pages.ai-ar')->name('ai-ar');
-    Route::view('/prompt', 'pages.prompt-ar')->name('prompt-ar');
-    Route::view('/english', 'pages.english-ar')->name('english-ar');
-    Route::view('/ielts', 'pages.ielts-ar')->name('ielts-ar');
-    Route::view('/arabic', 'pages.arabic-ar')->name('arabic-ar');
-    Route::view('/office', 'pages.office-ar')->name('office-ar');
 });
 
 // Old Arabic addresses (/home-ar, /about-ar, ...) move permanently to /ar/.
-foreach (['home', 'about', 'contact', 'courses', 'schedule', 'corporate', 'pmp', 'cia', 'cma', 'cisa', 'ceh', 'cyber', 'ai', 'prompt', 'english', 'ielts', 'arabic', 'office'] as $page) {
+foreach (['home', 'about', 'contact', 'courses', 'schedule', 'corporate'] as $page) {
     Route::get("/{$page}-ar", fn () => redirect()->route("{$page}-ar", request()->query(), 301));
 }
+
+// Courses that were retired from the catalogue send visitors to the course list.
+foreach (['pmp', 'cia', 'cma', 'cisa', 'ceh', 'cyber', 'ai', 'prompt', 'english', 'ielts', 'arabic', 'office'] as $old) {
+    Route::get("/{$old}", fn () => redirect()->route('courses', [], 301));
+    Route::get("/{$old}-ar", fn () => redirect()->route('courses-ar', [], 301));
+    Route::get("/ar/{$old}", fn () => redirect()->route('courses-ar', [], 301));
+}
+
+// Course pages: /{category}/{course} and /ar/{category}/{course}.
+$categories = array_keys(Catalog::categories());
+
+$coursePage = function (string $view, string $category, string $course) {
+    $found = Catalog::find($category, $course);
+    abort_if($found === null, 404);
+
+    return view($view, ['course' => $found]);
+};
+
+Route::get('/ar/{category}/{course}', fn (string $category, string $course) => $coursePage('pages.course-ar', $category, $course))
+    ->whereIn('category', $categories)->name('course-ar');
+Route::get('/{category}/{course}', fn (string $category, string $course) => $coursePage('pages.course', $category, $course))
+    ->whereIn('category', $categories)->name('course');
