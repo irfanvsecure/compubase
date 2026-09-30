@@ -47,7 +47,7 @@
 <section class="course-hero">
   <div class="container">
     <div>
-      <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:11px;font-weight:800;letter-spacing:.02em;padding:5px 12px">تقنية وأمن سيبراني</span>
+      <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:12px;font-weight:800;letter-spacing:.02em;padding:5px 12px">تقنية وأمن سيبراني</span>
       <h1>هندسة الأوامر النصية</h1>
       <p class="lead">يومان مركّزان للحصول على نتائج أفضل باستمرار من أدوات الذكاء الاصطناعي — البنية والسياق والتكرار والتقييم.</p>
       <div class="hero-meta">
@@ -91,7 +91,7 @@
         <div class="trainer-photo">👤 &nbsp;صورة المدرّب</div>
         <b style="color:var(--navy)">[اسم المدرّب]</b><br>
         <small style="color:var(--gold-ink)">[المؤهلات] · كادر كمبيوبيس</small>
-        <p style="font-size:13px;margin-top:10px">[جملتان عن خبرة المدرّب والقطاعات التي عمل فيها.]</p>
+        <p style="font-size:15px;margin-top:10px">[جملتان عن خبرة المدرّب والقطاعات التي عمل فيها.]</p>
       </div>
     </aside>
   </div>
@@ -120,7 +120,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
-        <p style="font-size:13px">تدريب صفّي في الشهادات المهنية وتقنية المعلومات والأمن السيبراني واللغات. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
+        <p style="font-size:15px">تدريب صفّي في الشهادات المهنية وتقنية المعلومات والأمن السيبراني واللغات. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       <div><h4>الشهادات المهنية</h4><ul>
         <li><a href="#" data-scroll="featured">إدارة المشاريع الاحترافية</a></li><li><a href="#" data-scroll="featured">المدقق الداخلي المعتمد</a></li><li><a href="#" data-scroll="featured">المحاسب الإداري المعتمد</a></li><li><a href="#" data-scroll="featured">مدقق نظم المعلومات</a></li>

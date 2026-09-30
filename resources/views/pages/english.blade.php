@@ -42,7 +42,7 @@
 <section class="course-hero">
   <div class="container">
     <div>
-      <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:5px 12px">Languages</span>
+      <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:5px 12px">Languages</span>
       <h1>English Language</h1>
       
       <p class="lead">A month of general English tuition — speaking, writing, listening and reading — in a small classroom group, morning or evening.</p>
@@ -107,7 +107,7 @@
         <div class="trainer-photo">👤 &nbsp;Trainer portrait</div>
         <b style="color:var(--navy)">[Trainer name]</b><br>
         <small style="color:var(--gold-ink)">[Credentials] · CompuBase faculty</small>
-        <p style="font-size:13px;margin-top:10px">[Two sentences on the trainer's delivery background and the sectors they have worked in.]</p>
+        <p style="font-size:15px;margin-top:10px">[Two sentences on the trainer's delivery background and the sectors they have worked in.]</p>
       </div>
     </aside>
   </div>
@@ -148,7 +148,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
-        <p style="font-size:13px">Classroom training in professional certification, IT, cyber security and languages. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
+        <p style="font-size:15px">Classroom training in professional certification, IT, cyber security and languages. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       <div><h4>Certifications</h4><ul>
         <li><a href="{{ route('pmp') }}">PMP</a></li><li><a href="{{ route('cia') }}">CIA</a></li><li><a href="{{ route('cma') }}">CMA</a></li><li><a href="{{ route('cisa') }}">CISA</a></li>
