@@ -254,6 +254,7 @@ details .a{padding:0 22px 20px;font-size:16px}
 .closing p{color:var(--gold-ink);font-weight:500}
 .closing .actions{display:flex;gap:14px;flex-wrap:wrap}
 .closing .btn-outline{border-color:var(--navy-deep);color:var(--navy-deep)}
+.closing .btn-outline:hover{background:var(--navy-deep);color:#fff}
 
 /* ---------- Footer ---------- */
 footer.site{background:var(--navy-deep);color:rgba(255,255,255,.8);padding:64px 0 0;font-size:15px}
