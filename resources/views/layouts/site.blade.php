@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
 <title>@yield('title', 'CompuBase Training Center — Professional Training Courses in Abu Dhabi')</title>
 <meta name="description" content="@yield('description', 'CompuBase Training Center in Abu Dhabi. Professional certification, IT, and language courses.')">
 <link rel="icon" href="{{ asset('images/favicon.ico') }}" sizes="any">
