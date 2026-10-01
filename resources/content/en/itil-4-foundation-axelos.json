@@ -1,0 +1,135 @@
+{
+ "title": "ITIL 4 Foundation – Axelos",
+ "duration": "3 Days",
+ "overview": [
+  "The ITIL 4 Foundation course provides a comprehensive introduction to ITIL 4, the latest version of the ITIL framework for IT service management. It covers the key concepts and components of ITIL 4, including the Service Value System (SVS) and the four dimensions of service management. The course is designed to help participants understand how ITIL principles can be applied to improve IT service management and drive business value."
+ ],
+ "audience": [
+  "IT professionals and service managers.",
+  "Individuals involved in IT service management and support.",
+  "Business leaders and decision-makers interested in IT service management best practices.",
+  "Students and learners aiming for ITIL certification and knowledge in service management."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of ITIL 4 concepts and components.",
+  "Case Studies: Real-world scenarios to apply ITIL principles and best practices.",
+  "Group Discussions: Interactive sessions to explore ITIL concepts and their application.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam.",
+  "Interactive Activities: Exercises and role-playing to reinforce learning and application."
+ ],
+ "competencies": [
+  "ITIL 4 framework and principles",
+  "Service Value System (SVS) and Service Value Chain",
+  "Four Dimensions of Service Management",
+  "Key ITIL practices and processes"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of ITIL 4 and its key concepts.",
+  "To familiarize participants with the ITIL Service Value System (SVS) and Service Value Chain.",
+  "To prepare participants for the ITIL 4 Foundation certification exam.",
+  "To equip participants with knowledge to apply ITIL practices to improve IT service management."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to ITIL 4",
+   "items": [
+    {
+     "text": "Overview of ITIL and its Evolution",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Benefits of ITIL 4",
+     "level": 0
+    },
+    {
+     "text": "Understanding the ITIL Service Value System (SVS)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to the Service Value Chain",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. The ITIL Service Value System (SVS)",
+   "items": [
+    {
+     "text": "Components of the SVS: Governance, Service Management, and Continual Improvement",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Role of Guiding Principles",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Governance and Management Practices",
+     "level": 0
+    },
+    {
+     "text": "Importance of Continual Improvement in IT Service Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. The Service Value Chain",
+   "items": [
+    {
+     "text": "Understanding the Service Value Chain Activities: Plan, Improve, Engage, Design & Transition, Obtain/Build, and Deliver & Support",
+     "level": 0
+    },
+    {
+     "text": "The Role of Service Value Chain in Creating and Delivering Value",
+     "level": 0
+    },
+    {
+     "text": "Interactions between Service Value Chain Activities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. The Four Dimensions of Service Management",
+   "items": [
+    {
+     "text": "Organizations and People: Structure and Culture",
+     "level": 0
+    },
+    {
+     "text": "Information and Technology: Systems and Tools",
+     "level": 0
+    },
+    {
+     "text": "Partners and Suppliers: Relationships and Management",
+     "level": 0
+    },
+    {
+     "text": "Value Streams and Processes: Design and Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Key ITIL Practices",
+   "items": [
+    {
+     "text": "Overview of ITIL Practices and Their Purpose",
+     "level": 0
+    },
+    {
+     "text": "Key Practices: Incident Management, Problem Management, Change Control, Service Desk, and Service Level Management",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Importance and Application of Each Practice",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}

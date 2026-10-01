@@ -1,0 +1,273 @@
+{
+ "title": "Generative AI for Python Automation Testing",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed for QA engineers, test automation developers, and software testers who want to leverage Generative AI for enhanced test case generation, automation scripting, debugging, and test optimization.",
+  "Participants will explore:",
+  "AI-powered test case generation and automation",
+  "Using AI to improve Selenium, Py-Test, and Robot Framework scripts",
+  "Automating test data generation and edge case handling",
+  "AI-driven defect analysis and debugging assistance",
+  "Enhancing CI/CD pipelines with AI-powered testing",
+  "By the end of the course, testers will be able to use Generative AI to enhance automation testing workflows, improve test efficiency, and detect defects faster."
+ ],
+ "audience": [
+  "This course is designed for:",
+  "QA Engineers & Software Testers",
+  "Test Automation Developers",
+  "SDET (Software Development Engineers in Test)",
+  "DevOps & CI/CD Engineers",
+  "AI/ML Enthusiasts in Testing"
+ ],
+ "methodology": [
+  "This course follows a hands-on, practical approach, including:",
+  "Instructor-led sessions & real-world case studies",
+  "Hands-on coding exercises with AI-powered test automation",
+  "Live demonstrations of AI-enhanced testing workflows",
+  "Scenario-based problem-solving & debugging exercises",
+  "Capstone project: AI-powered automated testing framework"
+ ],
+ "competencies": [
+  "By the end of the course, participants will:",
+  "Use AI for automated test case generation and script optimization",
+  "Leverage Generative AI for debugging and defect analysis",
+  "Automate test data creation with AI-based techniques",
+  "Integrate AI-powered automation testing into CI/CD pipelines",
+  "Improve test coverage, efficiency, and accuracy using AI"
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will:"
+ ],
+ "objectives": [
+  "Develop AI-driven test case generation strategies",
+  "Use Generative AI for improving automation scripts in Python",
+  "Enhance debugging and defect detection with AI tools",
+  "Integrate AI-powered testing into DevOps workflows",
+  "Ensure comprehensive test coverage with AI-enhanced automation"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI in Test Automation",
+   "items": [
+    {
+     "text": "Overview of Generative AI and its impact on test automation",
+     "level": 0
+    },
+    {
+     "text": "Understanding AI models like GPT, LLa-MA, and Code-Gen for testing",
+     "level": 0
+    },
+    {
+     "text": "Exploring AI-powered testing tools and frameworks",
+     "level": 0
+    },
+    {
+     "text": "Case studies of AI-driven test automation in real-world applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI-Powered Test Case Generation",
+   "items": [
+    {
+     "text": "Automating test case creation using Generative AI",
+     "level": 0
+    },
+    {
+     "text": "Enhancing unit, integration, and end-to-end test scenarios with AI",
+     "level": 0
+    },
+    {
+     "text": "AI-based boundary value analysis and edge case generation",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Generating test cases using AI models",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI-Enhanced Automation Scripting with Python",
+   "items": [
+    {
+     "text": "Using AI to generate, optimize, and debug test scripts",
+     "level": 0
+    },
+    {
+     "text": "AI-enhanced Selenium, Py-Test, and Robot Framework automation",
+     "level": 0
+    },
+    {
+     "text": "Generative AI-powered test script conversion and refactoring",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Automating script generation with AI tools",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI for Test Data Generation & Management",
+   "items": [
+    {
+     "text": "AI-driven synthetic test data generation",
+     "level": 0
+    },
+    {
+     "text": "Enhancing data-driven testing using AI-generated datasets",
+     "level": 0
+    },
+    {
+     "text": "AI-powered data anonymization and privacy-aware testing",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI tools for automated test data generation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI for Debugging & Defect Analysis",
+   "items": [
+    {
+     "text": "AI-powered error detection and automated debugging",
+     "level": 0
+    },
+    {
+     "text": "Using AI to analyze test logs and suggest fixes",
+     "level": 0
+    },
+    {
+     "text": "AI-driven root cause analysis for test failures",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI to debug automation scripts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI in Regression & Performance Testing",
+   "items": [
+    {
+     "text": "AI-based test maintenance and flakiness detection",
+     "level": 0
+    },
+    {
+     "text": "Enhancing performance testing with AI-driven analysis",
+     "level": 0
+    },
+    {
+     "text": "AI-powered test prioritization and parallel execution",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI for test maintenance and performance monitoring",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI-Driven Security & API Testing",
+   "items": [
+    {
+     "text": "AI-powered security testing for vulnerability detection",
+     "level": 0
+    },
+    {
+     "text": "Automating API testing with AI-enhanced test generation",
+     "level": 0
+    },
+    {
+     "text": "AI-driven fuzz testing and penetration testing automation",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Automating API security testing using AI",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: AI in Continuous Integration & DevOps Testing",
+   "items": [
+    {
+     "text": "AI-driven test execution optimization in CI/CD pipelines",
+     "level": 0
+    },
+    {
+     "text": "AI-powered automated build validation and deployment testing",
+     "level": 0
+    },
+    {
+     "text": "Enhancing DevOps workflows with AI in Jenkins, GitHub Actions, etc.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Integrating AI-based testing in CI/CD workflows",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: AI-Driven Test Report Generation & Analysis",
+   "items": [
+    {
+     "text": "AI-powered test reporting and intelligent analytics",
+     "level": 0
+    },
+    {
+     "text": "Automating bug tracking and defect categorization with AI",
+     "level": 0
+    },
+    {
+     "text": "AI-driven dashboard insights for QA teams",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI to generate test reports and failure analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Capstone Project – AI-Powered Automation Testing Framework",
+   "items": [
+    {
+     "text": "Final project: Developing an AI-driven test automation strategy",
+     "level": 0
+    },
+    {
+     "text": "Peer review and expert feedback on AI testing implementation",
+     "level": 0
+    },
+    {
+     "text": "Course recap & final Q&A session",
+     "level": 0
+    },
+    {
+     "text": "Certification and next steps for AI in test automation",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "iii",
+   "paras": [],
+   "items": [
+    "Basic Python programming knowledge",
+    "Familiarity with test automation tools (Selenium, PyTest, etc.)",
+    "Understanding of testing methodologies and frameworks"
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

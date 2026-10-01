@@ -1,0 +1,164 @@
+{
+ "title": "Certified in the Governance of Enterprise IT (CGEIT)",
+ "duration": "3 Days",
+ "overview": [
+  "The Certified in the Governance of Enterprise IT (CGEIT) course is designed to provide comprehensive knowledge and skills in governance of enterprise IT. The course covers key concepts of IT governance frameworks, risk management, compliance, and strategic alignment of IT with business objectives. It prepares participants for the CGEIT certification exam, validating their ability to manage and govern enterprise IT effectively."
+ ],
+ "audience": [
+  "IT professionals involved in IT governance and management.",
+  "Chief Information Officers (CIOs), IT Managers, and IT Governance Managers.",
+  "Professionals responsible for IT strategy, risk management, and compliance.",
+  "Individuals seeking to gain certification in enterprise IT governance."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanation of CGEIT principles and best practices.",
+  "Hands-On Labs: Practical exercises to apply governance concepts and frameworks.",
+  "Case Studies: Analysis of real-world IT governance challenges and solutions.",
+  "Group Discussions: Interactive sessions to explore governance issues and strategies.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "IT governance frameworks and principles",
+  "Risk management and compliance",
+  "Strategic alignment of IT with business goals",
+  "Performance measurement and improvement"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of IT governance principles and frameworks.",
+  "To develop skills in managing and governing enterprise IT effectively.",
+  "To prepare participants for the Certified in the Governance of Enterprise IT (CGEIT) certification exam.",
+  "To equip participants with techniques for risk management, compliance, and strategic IT alignment."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to IT Governance",
+   "items": [
+    {
+     "text": "Overview of IT Governance and Its Importance",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Benefits of IT Governance",
+     "level": 0
+    },
+    {
+     "text": "IT Governance Frameworks and Standards",
+     "level": 0
+    },
+    {
+     "text": "Role of IT Governance in Organizational Success",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Governance Frameworks and Models",
+   "items": [
+    {
+     "text": "Understanding COBIT and Other IT Governance Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Implementation of Governance Models and Structures",
+     "level": 0
+    },
+    {
+     "text": "Aligning IT Governance with Business Objectives",
+     "level": 0
+    },
+    {
+     "text": "Developing IT Governance Policies and Procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Risk Management and Compliance",
+   "items": [
+    {
+     "text": "Identifying and Assessing IT Risks",
+     "level": 0
+    },
+    {
+     "text": "Developing Risk Management Strategies and Plans",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Compliance with Regulations and Standards",
+     "level": 0
+    },
+    {
+     "text": "Managing and Mitigating IT Risks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Strategic Alignment of IT",
+   "items": [
+    {
+     "text": "Aligning IT Strategy with Business Strategy",
+     "level": 0
+    },
+    {
+     "text": "Developing IT Strategic Plans and Roadmaps",
+     "level": 0
+    },
+    {
+     "text": "Measuring and Managing IT Performance",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Effective Resource Management and Allocation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Performance Measurement and Improvement",
+   "items": [
+    {
+     "text": "Techniques for Measuring IT Performance and Effectiveness",
+     "level": 0
+    },
+    {
+     "text": "Implementing Performance Improvement Initiatives",
+     "level": 0
+    },
+    {
+     "text": "Using Metrics and KPIs for IT Governance",
+     "level": 0
+    },
+    {
+     "text": "Conducting IT Audits and Reviews",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Governance Roles and Responsibilities",
+   "items": [
+    {
+     "text": "Understanding the Roles and Responsibilities in IT Governance",
+     "level": 0
+    },
+    {
+     "text": "Engaging Stakeholders and Managing Expectations",
+     "level": 0
+    },
+    {
+     "text": "Developing and Leading IT Governance Teams",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Effective Communication and Collaboration",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

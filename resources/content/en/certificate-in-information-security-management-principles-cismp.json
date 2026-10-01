@@ -1,0 +1,235 @@
+{
+ "title": "Certificate in Information Security Management Principles (CISMP)",
+ "duration": "5 Days",
+ "overview": [
+  "The BCS Foundation Certificate in Information Security Management Principles (CISMP) is an entry-level information security course that is non-technical in nature. This 5-day course is designed to provide the knowledge and skills required to manage information security, information assurance and information risk-based processes.",
+  "The CISMP qualification provides participants with detailed knowledge of the concepts relating to information security (confidentiality, integrity, availability, vulnerability, threats, risks and countermeasures), along with an understanding of current legislation and regulations which impact information security management. Certification holders will be able to apply the practical principles covered throughout the course to ensure their normal business processes become robust and more secure"
+ ],
+ "audience": [
+  "This course is ideal for members of information security management teams, IT managers, security and systems managers, information asset owners and employees with legal compliance responsibilities."
+ ],
+ "methodology": [
+  "This course uses a mixture of presentations, videos, group discussions, individual research and quizzes."
+ ],
+ "competencies": [
+  "Information security concepts",
+  "Information security risk management",
+  "Information security governance",
+  "Business continuity management and disaster recovery",
+  "Understanding of technical security controls"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the current business and common technical environments in which information security must operate.",
+  "Recognize current national and international standards, frameworks and organizations which facilitate the management of information security.",
+  "Explain the fundamental concepts relating to information security management.",
+  "Describe the categorization, operation and effectiveness of controls of different types and characteristics.",
+  "Understand current legislation and regulations which impact upon information security management."
+ ],
+ "outline": [
+  {
+   "title": "Information Security Management Principles",
+   "items": [
+    {
+     "text": "Concepts and Definitions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Information Risk",
+   "items": [
+    {
+     "text": "Threats",
+     "level": 0
+    },
+    {
+     "text": "Vulnerabilities",
+     "level": 0
+    },
+    {
+     "text": "Risk Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Information Security Framework",
+   "items": [
+    {
+     "text": "Organizations and responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Organizational policy, standards, and procedures",
+     "level": 0
+    },
+    {
+     "text": "Information security governance",
+     "level": 0
+    },
+    {
+     "text": "Information assurance program implementation",
+     "level": 0
+    },
+    {
+     "text": "Security incident management",
+     "level": 0
+    },
+    {
+     "text": "Legal frameworks",
+     "level": 0
+    },
+    {
+     "text": "Security standards and procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Security Lifecycle",
+   "items": [
+    {
+     "text": "The information life cycle",
+     "level": 0
+    },
+    {
+     "text": "Testing, audit, and review",
+     "level": 0
+    },
+    {
+     "text": "Systems development and support",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Procedural / People Security Controls",
+   "items": [
+    {
+     "text": "General controls",
+     "level": 0
+    },
+    {
+     "text": "People security",
+     "level": 0
+    },
+    {
+     "text": "User access controls",
+     "level": 0
+    },
+    {
+     "text": "Training and awareness",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Technical Security Controls",
+   "items": [
+    {
+     "text": "Technical security",
+     "level": 0
+    },
+    {
+     "text": "Protection from malicious software",
+     "level": 0
+    },
+    {
+     "text": "Networks and communications",
+     "level": 0
+    },
+    {
+     "text": "Operational Technology",
+     "level": 0
+    },
+    {
+     "text": "External services",
+     "level": 0
+    },
+    {
+     "text": "Cloud computing",
+     "level": 0
+    },
+    {
+     "text": "IT infrastructure",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Physical and Environmental Security Controls",
+   "items": [
+    {
+     "text": "Physical Security",
+     "level": 0
+    },
+    {
+     "text": "Different uses of controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Disaster Recovery (DR) and Business Continuity Management (BCM)",
+   "items": [
+    {
+     "text": "Relationship between DR/BCP, risk assessment and impact analysis",
+     "level": 0
+    },
+    {
+     "text": "Resilience and redundancy",
+     "level": 0
+    },
+    {
+     "text": "Approached to writing plans and implementing plans",
+     "level": 0
+    },
+    {
+     "text": "The need for documentation, maintenance, and testing",
+     "level": 0
+    },
+    {
+     "text": "The need for links to managed service provision and outsourcing",
+     "level": 0
+    },
+    {
+     "text": "The need for secure off-site storage of vital material",
+     "level": 0
+    },
+    {
+     "text": "The need to involve personnel, suppliers, and IT systems providers",
+     "level": 0
+    },
+    {
+     "text": "Relationship with security incident management",
+     "level": 0
+    },
+    {
+     "text": "Compliance with standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Other Technical Aspects",
+   "items": [
+    {
+     "text": "Investigations and forensics",
+     "level": 0
+    },
+    {
+     "text": "Role of cryptography",
+     "level": 0
+    },
+    {
+     "text": "Threat intelligence",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

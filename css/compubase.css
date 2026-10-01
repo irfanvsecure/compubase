@@ -102,6 +102,7 @@ nav.main a:hover{color:var(--gold-ink)}
 @media(max-width:640px){
   .filter-tabs.cat-filter{flex-wrap:nowrap;overflow-x:auto;padding-bottom:6px;-webkit-overflow-scrolling:touch}
   .filter-tabs.cat-filter button{flex:0 0 auto}
+  .filter-tabs .cat-group{flex:0 0 auto;align-self:center;margin:0 4px}
   .pager-pages{order:-1;flex-basis:100%}
   .pager-prev,.pager-next{flex:1 1 40%}
   .hero-slider,.hs-content{min-height:640px}
@@ -146,6 +147,7 @@ nav.main a:hover{color:var(--gold-ink)}
 .filter-tabs button{border:1px solid var(--line);background:var(--paper);padding:9px 18px;font-family:inherit;font-size:15px;font-weight:700;cursor:pointer;color:var(--text)}
 .cat-filter{margin-top:0}
 .cat-filter button:hover{border-color:var(--navy)}
+.cat-group{flex-basis:100%;font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-ink);margin:10px 0 -2px}
 .catalog-count{color:var(--gold-ink);font-size:15px;margin:0 0 20px}
 .pager{display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;margin-top:16px}
 .pager[hidden]{display:none}

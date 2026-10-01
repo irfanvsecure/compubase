@@ -1,0 +1,185 @@
+{
+ "title": "VMware Certified Professional – Data Center Virtualization (VCP-DCV)",
+ "duration": "5 Days",
+ "overview": [
+  "The VMware Certified Professional – Data Center Virtualization (VCP-DCV) course is designed to provide participants with the skills required to manage and deploy VMware vSphere environments. It covers fundamental concepts of virtualization, VMware ESXi, and vCenter Server, focusing on the configuration, management, and troubleshooting of a virtualized data center."
+ ],
+ "audience": [
+  "IT professionals responsible for managing and operating VMware environments.",
+  "System administrators and engineers working with virtualization technologies.",
+  "Individuals seeking to enhance their knowledge and skills in data center virtualization.",
+  "Students and learners aiming for VMware certification and career advancement in virtualization."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of VMware virtualization concepts and technologies.",
+  "Hands-On Labs: Practical exercises for configuring, managing, and troubleshooting VMware vSphere environments.",
+  "Case Studies: Real-world scenarios to apply virtualization knowledge and skills.",
+  "Group Discussions: Interactive sessions to explore virtualization challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "VMware vSphere architecture and components",
+  "ESXi and vCenter Server configuration and management",
+  "Virtual machine creation and management",
+  "Resource management and performance optimization"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of VMware vSphere and data center virtualization concepts.",
+  "To develop practical skills in configuring and managing VMware virtualized environments.",
+  "To prepare participants for the VMware Certified Professional – Data Center Virtualization (VCP-DCV) certification exam.",
+  "To familiarize participants with real-world scenarios and best practices for managing virtualized data centers."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to VMware vSphere",
+   "items": [
+    {
+     "text": "Understanding VMware vSphere Architecture and Components",
+     "level": 0
+    },
+    {
+     "text": "Exploring the Role of ESXi and vCenter Server",
+     "level": 0
+    },
+    {
+     "text": "Overview of vSphere Client and Web Interface",
+     "level": 0
+    },
+    {
+     "text": "Understanding Virtualization Concepts and Benefits",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Installing and Configuring VMware ESXi",
+   "items": [
+    {
+     "text": "Installing VMware ESXi on Physical Hardware",
+     "level": 0
+    },
+    {
+     "text": "Configuring ESXi Networking and Storage",
+     "level": 0
+    },
+    {
+     "text": "Managing ESXi Hosts Using vSphere Client",
+     "level": 0
+    },
+    {
+     "text": "Understanding ESXi Host Configuration and Settings",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Managing Virtual Machines",
+   "items": [
+    {
+     "text": "Creating and Configuring Virtual Machines",
+     "level": 0
+    },
+    {
+     "text": "Managing Virtual Machine Resources and Storage",
+     "level": 0
+    },
+    {
+     "text": "Implementing VM Cloning, Snapshots, and Templates",
+     "level": 0
+    },
+    {
+     "text": "Understanding VM Migration and High Availability",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Configuring and Managing vCenter Server",
+   "items": [
+    {
+     "text": "Installing and Configuring vCenter Server",
+     "level": 0
+    },
+    {
+     "text": "Managing vCenter Server Inventory and Resources",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Managing Resource Pools and Clusters",
+     "level": 0
+    },
+    {
+     "text": "Configuring and Managing vSphere Distributed Switches",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Resource Management and Optimization",
+   "items": [
+    {
+     "text": "Configuring and Managing vSphere Storage Solutions (VMFS, NFS, vSAN)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Resource Management and Allocation Policies",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and Optimizing Performance in vSphere Environments",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Configuring DRS (Distributed Resource Scheduler)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Implementing Security and Backup Solutions",
+   "items": [
+    {
+     "text": "Configuring ESXi and vCenter Server Security Settings",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Managing User Roles and Permissions",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Configuring Backup and Recovery Solutions",
+     "level": 0
+    },
+    {
+     "text": "Implementing VM Encryption and Data Protection",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Troubleshooting and Maintenance",
+   "items": [
+    {
+     "text": "Troubleshooting Common vSphere Issues and Errors",
+     "level": 0
+    },
+    {
+     "text": "Using vSphere Logs and Diagnostic Tools",
+     "level": 0
+    },
+    {
+     "text": "Performing Routine Maintenance and Upgrades",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Testing Disaster Recovery Procedures",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}

@@ -1,0 +1,261 @@
+{
+ "title": "IT Systems: Identity and Access Management",
+ "duration": "5 Days",
+ "overview": [
+  "We are living in the age of the Internet of Things (IoT) which provides seamless integration and ease of access between various objects regardless of their physical proximity. The IoT is spreading across different vertical domains such as healthcare systems, government services, banks and telecommunications, just to name a few. We are no longer only vulnerable to attacks against valuable enterprises' digital content but also to life threatening attacks, terrorist attacks, espionage attacks, etc. The need for providing identity assurance and stringent access control, as a result, is of utmost importance. This course covers the fundamental principles and architecture framework for an end-to-end IT identity and access management system. This includes identity assurance, authentication, authorization, accountability, auditability, Single Sign-On (SSO) and identity federation. It also discusses practical case studies such as e-passport, mobile banking, e-government services, EMV systems and other selected cases."
+ ],
+ "audience": [
+  "This course has been designed for IT professionals such as IT Strategic Planners, Project Managers, Security Managers, Security Architects and Risk Managers.Although the course is technical in nature, complex concepts are discussed at an abstract level to fit the needs of participants from various technical backgrounds."
+ ],
+ "methodology": [
+  "This course is highly interactive and includes group discussions, case studies and syndicate work. It also includes practical exercises and role playing that allow all participants to use the knowledge they gained to demonstrate their skills in identity and access management."
+ ],
+ "competencies": [
+  "Information security management",
+  "Impelementing public key infrastructure",
+  "Identification and authentication management",
+  "Identity Access Management (IAM)"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Illustrate the identity and access management architecture framework and discuss the security risks associated with its various deployment options",
+  "Discuss the different mechanisms for establishing strong authentication (e.g. OTP, certificate based authentication, device authentication, etc)",
+  "Explain the principles of key public infrastructure and certification authorities, and demonstrate their value in mitigating the security risks facing modern societies",
+  "Explain the most well-known access control mechanisms and the roles of oauth, OATH, SAML and OpenID standards in the IAM domain and apply the concepts of (federated) SSO",
+  "Demonstrate the building of IAM using selected industrial tools and practical case studies (e.g. e-passport and boarder gate, mobile-banking, EMV scheme, and e-movement services)"
+ ],
+ "outline": [
+  {
+   "title": "Introduction and principles of information security:",
+   "items": [
+    {
+     "text": "Identity and access management (IAM) overview",
+     "level": 0
+    },
+    {
+     "text": "Attributes of information security:",
+     "level": 0
+    },
+    {
+     "text": "Confidentiality",
+     "level": 0
+    },
+    {
+     "text": "Integrity",
+     "level": 0
+    },
+    {
+     "text": "Availability",
+     "level": 0
+    },
+    {
+     "text": "Non-repudiation",
+     "level": 0
+    },
+    {
+     "text": "Accountability",
+     "level": 0
+    },
+    {
+     "text": "Auditability",
+     "level": 0
+    },
+    {
+     "text": "Symmetric and asymmetric cryptography",
+     "level": 0
+    },
+    {
+     "text": "Hashing and digital signature",
+     "level": 0
+    },
+    {
+     "text": "Key management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Public Key Infrastructure (PKI)",
+   "items": [
+    {
+     "text": "Architecture: certification and registration authority",
+     "level": 0
+    },
+    {
+     "text": "Life cycle management",
+     "level": 0
+    },
+    {
+     "text": "Types of certificates and usage patterns:",
+     "level": 0
+    },
+    {
+     "text": "Encryption",
+     "level": 0
+    },
+    {
+     "text": "Digital signature",
+     "level": 0
+    },
+    {
+     "text": "Client certificate",
+     "level": 0
+    },
+    {
+     "text": "SSL server certificate",
+     "level": 0
+    },
+    {
+     "text": "Attribute based certificate",
+     "level": 0
+    },
+    {
+     "text": "Case studies (e.g. email protection, mobile banking, and document signing)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Identification and authentication",
+   "items": [
+    {
+     "text": "Identification, verification and authentication overview",
+     "level": 0
+    },
+    {
+     "text": "Mechanisms of identification and authentication:",
+     "level": 0
+    },
+    {
+     "text": "One time password",
+     "level": 0
+    },
+    {
+     "text": "Biometric",
+     "level": 0
+    },
+    {
+     "text": "Digital signature",
+     "level": 0
+    },
+    {
+     "text": "Smartcard",
+     "level": 0
+    },
+    {
+     "text": "Soft/hard tokens",
+     "level": 0
+    },
+    {
+     "text": "Mobile device",
+     "level": 0
+    },
+    {
+     "text": "Risk based authentication",
+     "level": 0
+    },
+    {
+     "text": "Step-up authentication",
+     "level": 0
+    },
+    {
+     "text": "Single-sign on and federated single-sign-on",
+     "level": 0
+    },
+    {
+     "text": "OATH, OpenID, BorwserID, and SAML",
+     "level": 0
+    },
+    {
+     "text": "Architecture framework and industrial tools",
+     "level": 0
+    },
+    {
+     "text": "Trusted computing role in identity assurance",
+     "level": 0
+    },
+    {
+     "text": "Security risks associated with the discussed mechanisms",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Access control",
+   "items": [
+    {
+     "text": "Principles of authorization",
+     "level": 0
+    },
+    {
+     "text": "Access control schemes",
+     "level": 0
+    },
+    {
+     "text": "OAuth protocol",
+     "level": 0
+    },
+    {
+     "text": "Enterprise rights management and digital rights management",
+     "level": 0
+    },
+    {
+     "text": "Privileged account management",
+     "level": 0
+    },
+    {
+     "text": "Governance and compliance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "IAM framework and use cases",
+   "items": [
+    {
+     "text": "IAM architecture framework",
+     "level": 0
+    },
+    {
+     "text": "IAM echo system",
+     "level": 0
+    },
+    {
+     "text": "IAM and cloud computing",
+     "level": 0
+    },
+    {
+     "text": "Illustrative use cases:",
+     "level": 0
+    },
+    {
+     "text": "Border control",
+     "level": 0
+    },
+    {
+     "text": "E-passport",
+     "level": 0
+    },
+    {
+     "text": "National ID",
+     "level": 0
+    },
+    {
+     "text": "E-banking",
+     "level": 0
+    },
+    {
+     "text": "E-health system",
+     "level": 0
+    },
+    {
+     "text": "EMV scheme",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

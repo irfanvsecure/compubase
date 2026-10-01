@@ -1,0 +1,271 @@
+{
+ "title": "Generative AI using Python",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides an in-depth exploration of Generative AI techniques using Python, empowering participants to design and implement AI models that can generate data, create content, and solve complex problems. Generative AI focuses on deep learning models that can generate text, images, audio, and other types of data. The course covers practical aspects of building and training models such as Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and transformer models using Python libraries like TensorFlow, PyTorch, and Hugging Face.",
+  "The course will teach participants how to leverage Generative AI to create innovative solutions and applications in fields like content generation, product design, music creation, and data augmentation."
+ ],
+ "audience": [
+  "This course is aimed at:",
+  "Data scientists and machine learning engineers looking to specialize in generative models",
+  "Software developers with an interest in deep learning and AI",
+  "AI enthusiasts and professionals who wish to explore creative applications of AI",
+  "Researchers working on cutting-edge AI models",
+  "Tech entrepreneurs interested in generative AI-based products or services",
+  "Prerequisites:",
+  "Basic understanding of Python programming",
+  "Familiarity with machine learning concepts (e.g., supervised vs unsupervised learning)",
+  "Familiarity with basic deep learning principles (e.g., neural networks, backpropagation)",
+  "Basic knowledge of libraries like NumPy, Pandas, TensorFlow, or Py-Torch is helpful but not required."
+ ],
+ "methodology": [
+  "The course employs a hands-on learning approach, with the following elements:",
+  "Instructor-led lectures covering theoretical concepts of generative models",
+  "Practical coding exercises to build and train generative models using Python",
+  "Real-world case studies of Generative AI applications in various industries",
+  "Interactive Q&A sessions and peer discussions to foster collaborative learning",
+  "Capstone project where participants create a generative model to solve a real-world problem",
+  "Support materials including notebooks, code samples, and datasets"
+ ],
+ "competencies": [
+  "By the end of this course, participants will be able to:",
+  "Understand the key concepts of Generative AI, including GANs, VAEs, and transformer models",
+  "Implement and train Generative AI models using Python and popular deep learning frameworks",
+  "Generate realistic data such as images, text, and music using AI models",
+  "Analyze and evaluate the performance of generative models",
+  "Create applications and solutions leveraging generative AI in real-world scenarios",
+  "Understand the ethical implications and limitations of generative models"
+ ],
+ "objectivesIntro": [
+  "Upon completion of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Build and train generative models using Python and deep learning frameworks like Py-Torch and TensorFlow.",
+  "Apply Generative AI techniques to generate text, images, and other content",
+  "Develop GANs (Generative Adversarial Networks) for applications like image generation, data augmentation, and style transfer",
+  "Implement VAEs (Variational Autoencoders) for tasks such as latent space exploration and anomaly detection.",
+  "Leverage transformer-based models (e.g., GPT, BERT) for text generation and NLP tasks",
+  "Evaluate generative models in terms of performance and generated content quality",
+  "Deploy generative models in production environments for scalable applications"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI and Python Basics",
+   "items": [
+    {
+     "text": "Overview of Generative AI and its applications (text, image, audio generation)",
+     "level": 0
+    },
+    {
+     "text": "Key concepts in deep learning for generative models",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Python for AI development",
+     "level": 0
+    },
+    {
+     "text": "Setting up the development environment: Jupyter Notebooks, Python libraries (NumPy, Pandas, TensorFlow, Py-Torch)",
+     "level": 0
+    },
+    {
+     "text": "Overview of machine learning frameworks: TensorFlow vs Py-Torch",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Fundamentals of Generative Models",
+   "items": [
+    {
+     "text": "What are Generative Models? Key differences from discriminative models",
+     "level": 0
+    },
+    {
+     "text": "Overview of probabilistic models and latent variables",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Generative Adversarial Networks (GANs)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Variational Autoencoders (VAEs)",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Basic image generation with GANs and VAEs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Building Generative Adversarial Networks (GANs)",
+   "items": [
+    {
+     "text": "Understanding the architecture of GANs: Generator vs Discriminator",
+     "level": 0
+    },
+    {
+     "text": "Training GANs and overcoming challenges like mode collapse and instability",
+     "level": 0
+    },
+    {
+     "text": "Applications of GANs in image generation, style transfer, and data augmentation",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building and training a GAN for image generation using Py-Torch.",
+     "level": 0
+    },
+    {
+     "text": "Techniques for improving GAN performance (e.g., DCGAN, WGAN, LSGAN)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Variational Autoencoders (VAEs) and Latent Space Exploration",
+   "items": [
+    {
+     "text": "Introduction to Autoencoders: Structure and functioning",
+     "level": 0
+    },
+    {
+     "text": "Variational Autoencoders (VAEs) and the concept of probabilistic inference",
+     "level": 0
+    },
+    {
+     "text": "Latent space representation: Exploration and manipulation",
+     "level": 0
+    },
+    {
+     "text": "Applications of VAEs in image generation, anomaly detection, and data compression",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building a VAE for latent space exploration using TensorFlow",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Transformer Models for Text Generation",
+   "items": [
+    {
+     "text": "Understanding the transformer architecture: Attention mechanism, encoder-decoderOverview of popular models: GPT, BERT, T5",
+     "level": 0
+    },
+    {
+     "text": "Text generation with GPT-based models",
+     "level": 0
+    },
+    {
+     "text": "Fine-tuning pre-trained models for text generation, summarization, and question answering",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building a text generation model using GPT-2 or GPT-3 and Hugging Face's Transformers library",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Applications of Generative AI in Real-World Scenarios",
+   "items": [
+    {
+     "text": "Use cases of Generative AI in various industries: Art, music, fashion, healthcare, finance",
+     "level": 0
+    },
+    {
+     "text": "AI for content generation: writing, art, and design",
+     "level": 0
+    },
+    {
+     "text": "AI in healthcare: Drug discovery, medical image generation, and diagnosis",
+     "level": 0
+    },
+    {
+     "text": "Ethical concerns in Generative AI: Bias, misinformation, and copyright issues",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing a practical application using a generative model",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Evaluating and Tuning Generative Models",
+   "items": [
+    {
+     "text": "Metrics for evaluating the quality of generated content",
+     "level": 0
+    },
+    {
+     "text": "Common evaluation methods: FID, IS, BLEU scores for images and text",
+     "level": 0
+    },
+    {
+     "text": "Hyperparameter tuning for better model performance",
+     "level": 0
+    },
+    {
+     "text": "Techniques for improving generative model quality",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Evaluating GANs and VAEs for performance and content quality",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Deploying and Scaling Generative AI Models",
+   "items": [
+    {
+     "text": "Deploying generative models in production environments",
+     "level": 0
+    },
+    {
+     "text": "Optimizing and scaling generative models using cloud platforms (AWS, Google Cloud, Azure)",
+     "level": 0
+    },
+    {
+     "text": "Serving models with Flask/Fast-API and integrating them into applications",
+     "level": 0
+    },
+    {
+     "text": "Best practices for model maintenance and updates",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Deploying a trained GAN or VAE model to a cloud platform",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Capstone Project – Building a Generative AI Application",
+   "items": [
+    {
+     "text": "Participants work on a real-world project applying generative models",
+     "level": 0
+    },
+    {
+     "text": "Develop a fully functional generative AI application (e.g., image generator, text generator, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Peer review and expert feedback",
+     "level": 0
+    },
+    {
+     "text": "Final course recap, Q&A, and certification discussion",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

@@ -1,0 +1,232 @@
+{
+ "title": "Python for Machine Learning",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Machine Learning (ML) using Python, covering data preprocessing, model training, evaluation, and deployment. Participants will gain hands-on experience with key ML libraries like Scikit-learn, TensorFlow, Keras, and Pandas, enabling them to build and deploy machine learning models efficiently."
+ ],
+ "audience": [
+  "Aspiring Machine Learning Engineers & Data Scientists",
+  "Software Developers looking to integrate ML into applications",
+  "AI Enthusiasts & Researchers",
+  "Business Analysts & Data Professionals interested in predictive analytics",
+  "Students & Academics exploring ML concepts"
+ ],
+ "methodology": [
+  "Hands-on Labs – Practical coding exercises and real-world ML projects",
+  "Live Demonstrations – Step-by-step walkthroughs of ML model building",
+  "Case Studies & Best Practices – Industry use cases for ML",
+  "Collaborative Learning – Group projects and peer discussions",
+  "Capstone Project – Developing an end-to-end ML solution"
+ ],
+ "competencies": [
+  "Python Programming for Machine Learning",
+  "Data Preprocessing & Feature Engineering",
+  "Supervised & Unsupervised Learning Techniques",
+  "Model Evaluation & Hyperparameter Tuning",
+  "Neural Networks & Deep Learning with TensorFlow/Keras",
+  "Deploying ML Models to Production"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Apply Python for Machine Learning tasks",
+  "Prepare and preprocess datasets for ML modeling",
+  "Train and evaluate ML models using Scikit-learn",
+  "Optimize models using feature selection and hyperparameter tuning",
+  "Implement Neural Networks and Deep Learning models",
+  "Deploy ML models into production environments"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Machine Learning with Python",
+   "items": [
+    {
+     "text": "Overview of Machine Learning Concepts",
+     "level": 0
+    },
+    {
+     "text": "Python’s Role in ML – Why Python?",
+     "level": 0
+    },
+    {
+     "text": "Setting Up the ML Development Environment (Jupyter, VS Code, Anaconda)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Key Libraries (NumPy, Pandas, Scikit-learn, TensorFlow, Keras)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Data Preprocessing & Feature Engineering",
+   "items": [
+    {
+     "text": "Understanding Datasets & Data Types",
+     "level": 0
+    },
+    {
+     "text": "Data Cleaning: Handling Missing Values, Outliers, and Duplicates",
+     "level": 0
+    },
+    {
+     "text": "Feature Engineering: Encoding Categorical Variables, Scaling, and Normalization",
+     "level": 0
+    },
+    {
+     "text": "Dimensionality Reduction Techniques (PCA, LDA)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Exploratory Data Analysis (EDA) & Data Visualization",
+   "items": [
+    {
+     "text": "Visualizing Data using Matplotlib & Seaborn",
+     "level": 0
+    },
+    {
+     "text": "Identifying Trends, Correlations, and Distributions",
+     "level": 0
+    },
+    {
+     "text": "Feature Selection & Importance Analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Supervised Learning Algorithms",
+   "items": [
+    {
+     "text": "Linear & Logistic Regression",
+     "level": 0
+    },
+    {
+     "text": "Decision Trees & Random Forest",
+     "level": 0
+    },
+    {
+     "text": "Support Vector Machines (SVM)",
+     "level": 0
+    },
+    {
+     "text": "Gradient Boosting Algorithms (XGBoost, CatBoost, LightGBM)",
+     "level": 0
+    },
+    {
+     "text": "Evaluating Model Performance (Accuracy, Precision, Recall, F1-Score, AUC-ROC)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Unsupervised Learning & Clustering",
+   "items": [
+    {
+     "text": "Understanding Unsupervised Learning",
+     "level": 0
+    },
+    {
+     "text": "K-Means Clustering & Hierarchical Clustering",
+     "level": 0
+    },
+    {
+     "text": "Principal Component Analysis (PCA) for Dimensionality Reduction",
+     "level": 0
+    },
+    {
+     "text": "Association Rule Mining (Apriori, FP-Growth)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Neural Networks & Deep Learning (Intro to TensorFlow/Keras)",
+   "items": [
+    {
+     "text": "Basics of Neural Networks & Deep Learning",
+     "level": 0
+    },
+    {
+     "text": "Implementing a Simple Neural Network with TensorFlow/Keras",
+     "level": 0
+    },
+    {
+     "text": "Hyperparameter Tuning & Optimization",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Convolutional Neural Networks (CNNs) & Recurrent Neural Networks (RNNs)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Model Evaluation & Hyperparameter Tuning",
+   "items": [
+    {
+     "text": "Cross-Validation Techniques (K-Fold, Stratified K-Fold)",
+     "level": 0
+    },
+    {
+     "text": "Hyperparameter Tuning using GridSearchCV & RandomizedSearchCV",
+     "level": 0
+    },
+    {
+     "text": "Bias-Variance Tradeoff & Overfitting Prevention",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Deploying Machine Learning Models",
+   "items": [
+    {
+     "text": "Saving & Loading Models (Pickle, Joblib)",
+     "level": 0
+    },
+    {
+     "text": "Deploying Models with Flask & FastAPI",
+     "level": 0
+    },
+    {
+     "text": "Using Docker & Kubernetes for ML Model Deployment",
+     "level": 0
+    },
+    {
+     "text": "Introduction to ML Model Monitoring & A/B Testing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Real-World Machine Learning Applications",
+   "items": [
+    {
+     "text": "Fraud Detection in Banking",
+     "level": 0
+    },
+    {
+     "text": "Customer Churn Prediction",
+     "level": 0
+    },
+    {
+     "text": "Recommendation Systems",
+     "level": 0
+    },
+    {
+     "text": "Sentiment Analysis & NLP Applications",
+     "level": 0
+    },
+    {
+     "text": "Time Series Forecasting",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

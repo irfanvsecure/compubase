@@ -1,0 +1,185 @@
+{
+ "title": "CompTIA IT Fundamentals+ (ITF+)",
+ "duration": "3 Days",
+ "overview": [
+  "The CompTIA IT Fundamentals+ (ITF+) course is designed to provide a broad understanding of IT concepts and fundamentals. It is intended for individuals who are new to IT or considering a career in IT. The course covers essential IT knowledge, including hardware, software, networking, security, and troubleshooting."
+ ],
+ "audience": [
+  "Individuals new to IT or considering a career in IT.",
+  "Entry-level IT professionals and support staff.",
+  "Students and learners seeking foundational IT knowledge.",
+  "Anyone interested in gaining basic IT skills for personal or professional use."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Overview of IT fundamentals and concepts.",
+  "Hands-On Labs: Practical exercises for hardware and software troubleshooting.",
+  "Case Studies: Real-world scenarios to apply IT knowledge and skills.",
+  "Group Discussions: Interactive sessions to explore IT concepts and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Basic IT concepts and terminology",
+  "Hardware and software components",
+  "Networking fundamentals",
+  "IT security and troubleshooting"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of IT concepts and terminology.",
+  "To develop basic skills in hardware, software, networking, and security.",
+  "To prepare participants for the CompTIA IT Fundamentals+ (ITF+) certification exam.",
+  "To familiarize participants with common IT tasks and troubleshooting techniques."
+ ],
+ "outline": [
+  {
+   "title": "1. IT Concepts and Terminology",
+   "items": [
+    {
+     "text": "Understanding Basic IT Concepts and Terminology",
+     "level": 0
+    },
+    {
+     "text": "Exploring the IT Industry and Career Paths",
+     "level": 0
+    },
+    {
+     "text": "Identifying Computer Hardware Components and Their Functions",
+     "level": 0
+    },
+    {
+     "text": "Understanding Operating Systems and Software Applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Hardware",
+   "items": [
+    {
+     "text": "Identifying and Installing Computer Hardware Components",
+     "level": 0
+    },
+    {
+     "text": "Understanding Peripheral Devices and Their Connections",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting Common Hardware Issues",
+     "level": 0
+    },
+    {
+     "text": "Performing Basic Hardware Upgrades and Maintenance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Software",
+   "items": [
+    {
+     "text": "Understanding Software Installation and Configuration",
+     "level": 0
+    },
+    {
+     "text": "Managing Operating Systems and Applications",
+     "level": 0
+    },
+    {
+     "text": "Exploring Software Licensing and Compliance",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting Software Issues and Errors",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Networking",
+   "items": [
+    {
+     "text": "Understanding Network Fundamentals and Topologies",
+     "level": 0
+    },
+    {
+     "text": "Identifying Network Devices and Their Functions",
+     "level": 0
+    },
+    {
+     "text": "Configuring and Troubleshooting Basic Network Connections",
+     "level": 0
+    },
+    {
+     "text": "Exploring Network Security Concepts and Best Practices",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. IT Security",
+   "items": [
+    {
+     "text": "Understanding Basic Security Concepts and Threats",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Measures and Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Identifying and Preventing Common Security Vulnerabilities",
+     "level": 0
+    },
+    {
+     "text": "Understanding Data Protection and Privacy Principles",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. IT Troubleshooting",
+   "items": [
+    {
+     "text": "Troubleshooting Common IT Issues and Errors",
+     "level": 0
+    },
+    {
+     "text": "Using Diagnostic Tools and Techniques",
+     "level": 0
+    },
+    {
+     "text": "Performing System and Application Troubleshooting",
+     "level": 0
+    },
+    {
+     "text": "Implementing Problem-Solving Strategies and Solutions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. IT Support and Maintenance",
+   "items": [
+    {
+     "text": "Understanding IT Support Roles and Responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Managing IT Support Requests and Incidents",
+     "level": 0
+    },
+    {
+     "text": "Performing Routine System Maintenance and Updates",
+     "level": 0
+    },
+    {
+     "text": "Implementing Backup and Recovery Procedures",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}

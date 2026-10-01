@@ -1,0 +1,261 @@
+{
+ "title": "Django using Python",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Django, a high-level Python web framework that simplifies web application development. Participants will learn how to build scalable, secure, and maintainable web applications using Django’s powerful features, including ORM (Object-Relational Mapping), authentication, middleware, REST APIs, and deployment. Hands-on projects will reinforce database-driven web development, security best practices, and integration with modern frontend frameworks."
+ ],
+ "audience": [
+  "Python Developers looking to expand into web development",
+  "Backend Developers aiming to master Django for scalable applications",
+  "Full-Stack Developers building modern web applications",
+  "Software Engineers working on enterprise-level web solutions",
+  "Students & Professionals interested in web application development"
+ ],
+ "methodology": [
+  "Hands-on Coding Labs – Writing Django applications from scratch",
+  "Live Demonstrations – Implementing Django features in real-time",
+  "Case Studies & Real-World Examples – Understanding best practices",
+  "Collaborative Learning – Group projects and interactive discussions",
+  "Capstone Project – Developing a fully functional Django-based web application"
+ ],
+ "competencies": [
+  "Django Framework & MVC Architecture",
+  "Building Dynamic Web Applications using Python & Django",
+  "Database Management with Django ORM & PostgreSQL/MySQL",
+  "Developing REST APIs using Django REST Framework (DRF)",
+  "User Authentication & Security Best Practices",
+  "Deploying Django Applications on Cloud Platforms"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Django’s architecture and core components",
+  "Build dynamic web applications with Django models, views, and templates",
+  "Work with databases using Django ORM",
+  "Develop RESTful APIs using Django REST Framework (DRF)",
+  "Implement authentication and user management in Django applications",
+  "Optimize Django applications for performance and scalability",
+  "Deploy Django applications to production environments"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Django & Web Development Fundamentals",
+   "items": [
+    {
+     "text": "Introduction to Web Development & Python Frameworks",
+     "level": 0
+    },
+    {
+     "text": "What is Django? – Features, Benefits, and Use Cases",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Django Development Environment",
+     "level": 0
+    },
+    {
+     "text": "Understanding Django MVC/MVT Architecture",
+     "level": 0
+    },
+    {
+     "text": "Creating the First Django Project & App",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Django Models & Database Management",
+   "items": [
+    {
+     "text": "Introduction to Django ORM (Object-Relational Mapping)",
+     "level": 0
+    },
+    {
+     "text": "Defining Models & Using Django Migrations",
+     "level": 0
+    },
+    {
+     "text": "Working with SQLite, PostgreSQL, MySQL Databases",
+     "level": 0
+    },
+    {
+     "text": "Performing CRUD Operations using Django ORM",
+     "level": 0
+    },
+    {
+     "text": "Advanced Querying & Relationships (One-to-One, One-to-Many, Many-to-Many)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Django Views & Templates",
+   "items": [
+    {
+     "text": "Understanding Django Views & URL Routing",
+     "level": 0
+    },
+    {
+     "text": "Working with Django Templates & Template Inheritance",
+     "level": 0
+    },
+    {
+     "text": "Passing Data from Views to Templates",
+     "level": 0
+    },
+    {
+     "text": "Using Static Files (CSS, JS, Images) in Django",
+     "level": 0
+    },
+    {
+     "text": "Form Handling & User Input Processing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Django Authentication & User Management",
+   "items": [
+    {
+     "text": "Built-in Django Authentication System",
+     "level": 0
+    },
+    {
+     "text": "Creating User Registration & Login Systems",
+     "level": 0
+    },
+    {
+     "text": "Managing User Sessions & Permissions",
+     "level": 0
+    },
+    {
+     "text": "Implementing Social Authentication (Google, Facebook, GitHub Login)",
+     "level": 0
+    },
+    {
+     "text": "Securing Django Applications – CSRF, XSS, SQL Injection Prevention",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Django REST Framework (DRF) & API Development",
+   "items": [
+    {
+     "text": "Introduction to RESTful APIs & Django REST Framework (DRF)",
+     "level": 0
+    },
+    {
+     "text": "Creating APIs using Django Serializers & Views",
+     "level": 0
+    },
+    {
+     "text": "Authentication & Permissions for APIs",
+     "level": 0
+    },
+    {
+     "text": "Implementing Pagination & Filtering in APIs",
+     "level": 0
+    },
+    {
+     "text": "API Testing using Postman & Django Test Framework",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Middleware, Signals & Advanced Django Features",
+   "items": [
+    {
+     "text": "Understanding Django Middleware & Custom Middleware",
+     "level": 0
+    },
+    {
+     "text": "Using Django Signals for Event-Driven Programming",
+     "level": 0
+    },
+    {
+     "text": "Implementing Caching & Performance Optimization",
+     "level": 0
+    },
+    {
+     "text": "Logging & Error Handling in Django",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Frontend Integration with Django",
+   "items": [
+    {
+     "text": "Integrating Django with Bootstrap & JavaScript",
+     "level": 0
+    },
+    {
+     "text": "Using Django with React.js & Vue.js for Modern Web Apps",
+     "level": 0
+    },
+    {
+     "text": "Implementing AJAX & jQuery in Django Applications",
+     "level": 0
+    },
+    {
+     "text": "Developing Single Page Applications (SPA) with Django & Frontend Frameworks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Deployment & Scaling Django Applications",
+   "items": [
+    {
+     "text": "Preparing Django Applications for Production",
+     "level": 0
+    },
+    {
+     "text": "Deploying Django on AWS, Heroku, DigitalOcean, & Docker",
+     "level": 0
+    },
+    {
+     "text": "Using Nginx & Gunicorn for Production Deployment",
+     "level": 0
+    },
+    {
+     "text": "Setting up CI/CD Pipelines for Django Applications",
+     "level": 0
+    },
+    {
+     "text": "Performance Monitoring & Error Logging in Production",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Security Best Practices in Django",
+   "items": [
+    {
+     "text": "Understanding Common Security Threats (SQL Injection, CSRF, XSS)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Django’s Built-in Security Features",
+     "level": 0
+    },
+    {
+     "text": "Using Django’s Secure Cookie & Session Management",
+     "level": 0
+    },
+    {
+     "text": "Secure API Development – Token Authentication & OAuth2",
+     "level": 0
+    },
+    {
+     "text": "Regular Expressions & Data Validation in Django",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

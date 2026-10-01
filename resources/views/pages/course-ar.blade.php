@@ -6,6 +6,11 @@
     $duration = Catalog::duration($course['days'], true);
     $content = Catalog::content($course, true);
     $photo = Catalog::photo($course);
+    $summary = Catalog::summary($course, true);
+    $hasObjectives = $content && ($content['competencies'] || $content['objectives'] || $content['objectivesIntro']);
+    $hasAudience = ! $content || $content['audience'];
+    // An outline-only document has nothing for the Overview tab, so the page opens on the outline.
+    $hasOverview = ! $content || $photo || $content['overview'] || $content['methodology'] || ! empty($content['extra']);
 @endphp
 
 @section('page', 'course-ar')
@@ -57,7 +62,7 @@
     <div>
       <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:12px;font-weight:800;letter-spacing:.02em;padding:5px 12px">{{ $course['catAr'] }}</span>
       <h1>{{ $title }}</h1>
-      <p class="lead">{{ $content ? preg_split('/(?<=\.)\s/u', $content['overview'][0], 2)[0] : '[ملخص الدورة من مخطط دورات كمبيوبيس.]' }}</p>
+      @if ($summary || ! $content)<p class="lead">{{ $summary ?? '[ملخص الدورة من مخطط دورات كمبيوبيس.]' }}</p>@endif
       <div class="hero-meta">
         <div><span>المدة</span><b>{{ $duration }}</b></div>
         <div><span>الأيام</span><b>الاثنين – الجمعة</b></div>
@@ -84,17 +89,20 @@
   <div class="container">
     <div>
       <div class="tabs" role="tablist">
-        <a href="#overview" data-tab="overview" class="active" role="tab">نظرة عامة</a>
-        <a href="#objectives" data-tab="objectives" role="tab">الأهداف</a>
-        <a href="#outline" data-tab="outline" role="tab">محاور الدورة</a>
-        <a href="#" data-scroll="attend-side">لمن هذه الدورة</a>
+        @if ($hasOverview)<a href="#overview" data-tab="overview" class="active" role="tab">نظرة عامة</a>@endif
+        @if ($hasObjectives || ! $content)<a href="#objectives" data-tab="objectives" role="tab">الأهداف</a>@endif
+        <a href="#outline" data-tab="outline" @class(['active' => ! $hasOverview]) role="tab">محاور الدورة</a>
+        @if ($hasAudience)<a href="#" data-scroll="attend-side">لمن هذه الدورة</a>@endif
       </div>
 
+      @if ($hasOverview)
       <div class="tab-panel active" id="overview" role="tabpanel">
         @if ($photo)<img class="course-photo" src="{{ $photo }}" alt="{{ $title }}">@endif
         @if ($content)
+        @if ($content['overview'])
         <h2>نبذة عن الدورة</h2>
         @foreach ($content['overview'] as $para)<p>{{ $para }}</p>@endforeach
+        @endif
         @if ($content['methodology'])
         <h2>منهجية التدريب</h2>
         @foreach ($content['methodology'] as $para)<p>{{ $para }}</p>@endforeach
@@ -125,6 +133,7 @@
         <div class="placeholder-note">[وصف الدورة من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
+      @endif
 
       <div class="tab-panel" id="objectives" role="tabpanel">
         @if ($content)
@@ -134,18 +143,20 @@
           @foreach ($content['competencies'] as $item)<li>{{ $item }}</li>@endforeach
         </ul>
         @endif
+        @if ($content['objectives'] || $content['objectivesIntro'])
         <h2>أهداف الدورة</h2>
         @foreach ($content['objectivesIntro'] as $para)<p>{{ $para }}</p>@endforeach
         <ul class="outcomes">
           @foreach ($content['objectives'] as $item)<li>{{ $item }}</li>@endforeach
         </ul>
+        @endif
         @else
         <h2>بنهاية الدورة ستكون قادراً على</h2>
         <div class="placeholder-note">[مخرجات التعلّم من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
 
-      <div class="tab-panel" id="outline" role="tabpanel">
+      <div @class(['tab-panel', 'active' => ! $hasOverview]) id="outline" role="tabpanel">
         <h2>محاور الدورة</h2>
         @if ($content)
         @foreach ($content['outline'] as $module)
@@ -173,6 +184,7 @@
       </div>
     </div>
     <aside>
+      @if ($hasAudience)
       <div class="side-box" id="attend-side">
         <h4>لمن هذه الدورة</h4>
         @if ($content)
@@ -181,6 +193,7 @@
         <div class="placeholder-note" style="margin-top:0">[الفئة المستهدفة من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
+      @endif
     </aside>
   </div>
 </section>
@@ -208,7 +221,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
-        <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وغيرها. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
+        <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وتقنية المعلومات، والأمن السيبراني، والذكاء الاصطناعي. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>

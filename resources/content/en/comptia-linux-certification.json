@@ -1,0 +1,206 @@
+{
+ "title": "CompTIA Linux+ Certification",
+ "duration": "5 Days",
+ "overview": [
+  "The CompTIA Linux+ Certification course is designed to provide foundational knowledge and skills needed to manage and support Linux operating systems. This course prepares participants for the CompTIA Linux+ certification exam, covering Linux installation, configuration, maintenance, and troubleshooting."
+ ],
+ "audience": [
+  "IT professionals seeking to validate their Linux skills.",
+  "System administrators and support technicians working with Linux systems.",
+  "Individuals preparing for the CompTIA Linux+ certification exam.",
+  "Those interested in learning Linux operating system fundamentals and administration."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanations of Linux concepts and administration tasks.",
+  "Hands-On Labs: Practical exercises for Linux system installation, configuration, and troubleshooting.",
+  "Case Studies: Real-world scenarios to apply Linux administration skills.",
+  "Group Discussions: Interactive sessions to explore Linux challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Linux system installation and configuration",
+  "Linux file system and storage management",
+  "User and permission management",
+  "System maintenance, security, and troubleshooting"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of Linux operating system fundamentals and administration.",
+  "To prepare participants for the CompTIA Linux+ certification exam.",
+  "To equip learners with practical skills for managing, configuring, and troubleshooting Linux systems.",
+  "To familiarize participants with best practices and advanced Linux administration techniques."
+ ],
+ "outline": [
+  {
+   "title": "1. Linux System Architecture",
+   "items": [
+    {
+     "text": "Understanding Linux System Components (Kernel, Shell, and File System)",
+     "level": 0
+    },
+    {
+     "text": "Installing Linux Distributions and Components",
+     "level": 0
+    },
+    {
+     "text": "Managing Boot Processes and Runlevels",
+     "level": 0
+    },
+    {
+     "text": "Using Package Management Systems (APT, YUM, RPM)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Linux Installation and Package Management",
+   "items": [
+    {
+     "text": "Installing and Configuring Linux Systems",
+     "level": 0
+    },
+    {
+     "text": "Using Package Managers to Install, Update, and Remove Software",
+     "level": 0
+    },
+    {
+     "text": "Managing Repositories and Software Sources",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting Package Management Issues",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Linux File Systems and Storage",
+   "items": [
+    {
+     "text": "Understanding Linux File System Hierarchy (Filesystem Hierarchy Standard - FHS)",
+     "level": 0
+    },
+    {
+     "text": "Managing Partitions and Filesystems (ext4, XFS, Btrfs)",
+     "level": 0
+    },
+    {
+     "text": "Configuring Disk Quotas and File System Permissions",
+     "level": 0
+    },
+    {
+     "text": "Implementing RAID and LVM (Logical Volume Management)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. User and Group Management",
+   "items": [
+    {
+     "text": "Managing User Accounts and Passwords",
+     "level": 0
+    },
+    {
+     "text": "Configuring User and Group Permissions",
+     "level": 0
+    },
+    {
+     "text": "Implementing Sudo and Access Control",
+     "level": 0
+    },
+    {
+     "text": "Managing User Environment and Shell Profiles",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. System Maintenance and Monitoring",
+   "items": [
+    {
+     "text": "Performing System Updates and Patching",
+     "level": 0
+    },
+    {
+     "text": "Monitoring System Performance and Resource Usage",
+     "level": 0
+    },
+    {
+     "text": "Scheduling Tasks with Cron and At",
+     "level": 0
+    },
+    {
+     "text": "Using Log Files for System Troubleshooting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Linux Security",
+   "items": [
+    {
+     "text": "Implementing Basic Security Measures (Firewall, SELinux)",
+     "level": 0
+    },
+    {
+     "text": "Configuring SSH and Remote Access",
+     "level": 0
+    },
+    {
+     "text": "Managing Security Updates and Vulnerability Scanning",
+     "level": 0
+    },
+    {
+     "text": "Securing System and Network Services",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Networking and Services",
+   "items": [
+    {
+     "text": "Configuring Network Interfaces and IP Addresses",
+     "level": 0
+    },
+    {
+     "text": "Managing Network Services (DNS, DHCP, NFS, FTP)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Network Troubleshooting Tools (ping, traceroute, netstat)",
+     "level": 0
+    },
+    {
+     "text": "Configuring and Managing Network Firewalls (iptables, firewalld)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Troubleshooting and Support",
+   "items": [
+    {
+     "text": "Diagnosing and Resolving Common Linux System Issues",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Boot and System Logs for Troubleshooting",
+     "level": 0
+    },
+    {
+     "text": "Using Diagnostic Tools (top, dmesg, strace)",
+     "level": 0
+    },
+    {
+     "text": "Performing System Recovery and Backup",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Coding & Programming Courses.docx"
+}

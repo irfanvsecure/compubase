@@ -1,0 +1,244 @@
+{
+ "title": "Generative AI",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Generative Artificial Intelligence (AI), covering the principles, applications, and ethical considerations of generative models such as GPT, GANs, VAEs, and diffusion models. Participants will explore how these models work, their real-world applications, and how to build and fine-tune them using Python frameworks such as TensorFlow, PyTorch, and Hugging Face Transformers.",
+  "By the end of the training, participants will gain hands-on experience in building AI-generated content, including text, images, and audio, while understanding the risks and mitigation strategies associated with generative AI."
+ ],
+ "audience": [
+  "This course is designed for:",
+  "AI & ML Enthusiasts looking to understand and implement generative AI models.",
+  "Data Scientists & ML Engineers aiming to enhance their knowledge in deep learning and generative models.",
+  "Software Developers interested in integrating generative AI capabilities into applications.",
+  "Researchers & Academicians exploring advancements in AI-driven creativity.",
+  "Business & Product Leaders seeking to understand generative AI for strategic decision-making."
+ ],
+ "methodology": [
+  "The training follows a practical, hands-on approach with a blend of:",
+  "Lectures & Concept Explanations – Covering theoretical foundations with real-world",
+  "examples Live Coding Demonstrations – Step-by-step implementation of generative AI models.",
+  "Hands-on Labs & Exercises – Practice coding assignments and projects.",
+  "Case Studies & Industry Applications – Analysis of how generative AI is used in various domains.",
+  "Group Discussions & Q&A – Encouraging knowledge sharing and problem-solving.",
+  "Capstone Project – A final project where participants build and deploy a generative AI model."
+ ],
+ "competencies": [
+  "By completing this course, participants will develop competencies in:",
+  "Understanding Generative AI Architectures (e.g., GANs, VAEs, Transformers).",
+  "Building & Fine-Tuning Generative Models using AI frameworks.",
+  "Generating AI-driven Content such as text, images, and audio.",
+  "Applying Generative AI in Business & Creative Fields.",
+  "Addressing Ethical, Bias, & Security Challenges in AI."
+ ],
+ "objectivesIntro": [
+  "Upon successful completion, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain the core concepts of Generative AI and its different architectures.",
+  "Implement Deep Learning Models for content generation.",
+  "Use Python & AI Frameworks (TensorFlow, PyTorch, Hugging Face) for generative tasks.",
+  "Apply Text Generation, Image Synthesis, and Audio Generation techniques.",
+  "Identify and mitigate bias, hallucinations, and security risks in generative AI.",
+  "Deploy generative AI solutions in real-world applications."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI",
+   "items": [
+    {
+     "text": "Overview of AI & Machine Learning",
+     "level": 0
+    },
+    {
+     "text": "Evolution of Generative AI",
+     "level": 0
+    },
+    {
+     "text": "Applications & Use Cases in Various Industries",
+     "level": 0
+    },
+    {
+     "text": "Ethical Considerations & Risks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Foundations of Deep Learning for Generative AI",
+   "items": [
+    {
+     "text": "Neural Networks & Deep Learning Refresher",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Autoencoders & Variational Autoencoders (VAEs)",
+     "level": 0
+    },
+    {
+     "text": "Convolutional Neural Networks (CNNs) for Image Generation",
+     "level": 0
+    },
+    {
+     "text": "Recurrent Neural Networks (RNNs) & Transformers for Text Generation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Generative Adversarial Networks (GANs)",
+   "items": [
+    {
+     "text": "Introduction to GANs – Concept & Architecture",
+     "level": 0
+    },
+    {
+     "text": "Training GANs: Generator & Discriminator",
+     "level": 0
+    },
+    {
+     "text": "Types of GANs (DCGAN, StyleGAN, CycleGAN)",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Implementing GANs for Image Generation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Transformers & Large Language Models (LLMs)",
+   "items": [
+    {
+     "text": "Introduction to Transformers & Self-Attention Mechanism",
+     "level": 0
+    },
+    {
+     "text": "Understanding BERT, GPT, and Other LLMs",
+     "level": 0
+    },
+    {
+     "text": "Text Generation with GPT (e.g., OpenAI’s ChatGPT, Llama)",
+     "level": 0
+    },
+    {
+     "text": "Fine-Tuning and Customizing Large Language Models",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building a Text Generator using Hugging Face",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Diffusion Models & AI Image Generation",
+   "items": [
+    {
+     "text": "Introduction to Diffusion Models (e.g., DALL·E, Stable Diffusion)",
+     "level": 0
+    },
+    {
+     "text": "Image Synthesis using Latent Diffusion Models",
+     "level": 0
+    },
+    {
+     "text": "Comparing GANs vs. Diffusion Models",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Generating AI Images with Stable Diffusion",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Audio & Video Generation using AI",
+   "items": [
+    {
+     "text": "AI-generated Music and Speech Synthesis (TTS, Voice Cloning)",
+     "level": 0
+    },
+    {
+     "text": "Deepfake Technology & AI-driven Video Editing",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Implementing AI-powered Speech Generation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Ethics, Bias, and Security in Generative AI",
+   "items": [
+    {
+     "text": "Understanding AI Bias & Hallucinations",
+     "level": 0
+    },
+    {
+     "text": "Security Challenges (e.g., Deepfakes, Misinformation)",
+     "level": 0
+    },
+    {
+     "text": "Responsible AI & Regulation Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Safe Deployment of Generative AI",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Applications & Deployment of Generative AI",
+   "items": [
+    {
+     "text": "Use Cases in Business, Marketing, Gaming, & Healthcare",
+     "level": 0
+    },
+    {
+     "text": "Deploying AI Models on Cloud & Edge Devices",
+     "level": 0
+    },
+    {
+     "text": "API Integration & Building AI-powered Applications",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Deploying a Generative AI Model with APIs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Capstone Project & Final Assessment",
+   "items": [
+    {
+     "text": "Participants work on a real-world project applying Generative AI",
+     "level": 0
+    },
+    {
+     "text": "Project Presentation & Peer Review",
+     "level": 0
+    },
+    {
+     "text": "Certification & Next Steps in AI Career",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "iii",
+   "paras": [],
+   "items": [
+    "Basic knowledge of Python programming.",
+    "Fundamental understanding of Machine Learning & Deep Learning concepts.",
+    "Familiarity with AI frameworks like TensorFlow or PyTorch (optional but beneficial)."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

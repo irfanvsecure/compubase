@@ -1,0 +1,105 @@
+{
+ "title": "ITIL 4 Managing Professional - ITIL 4 Specialist: Create, Deliver, and Support (CDS)",
+ "duration": "3 Days",
+ "overview": [
+  "This course focuses on the core service management activities required to create, deliver, and support IT services. It provides participants with the knowledge and skills necessary to ensure that services meet customer needs, are delivered efficiently, and are continuously improved."
+ ],
+ "audience": [
+  "IT service managers and team leads",
+  "IT professionals involved in service delivery",
+  "IT operations and support staff",
+  "IT consultants focused on service management and operations"
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth exploration of service management.",
+  "Practical Labs: Hands-on activities for real-world service management.",
+  "Case Studies: Practical application of ITIL principles.",
+  "Assessments: Quizzes and mock exams to prepare for certification."
+ ],
+ "competencies": [
+  "Service performance management",
+  "Service design and delivery",
+  "Incident and problem management",
+  "IT workflow optimization"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop a practical understanding of creating, delivering, and supporting services.",
+  "Learn how to optimize workflows and manage service performance.",
+  "Understand the role of incident and problem management in delivering effective IT services.",
+  "Prepare participants for the ITIL CDS certification exam."
+ ],
+ "outline": [
+  {
+   "title": "1. Designing Service Offerings",
+   "items": [
+    {
+     "text": "Creating and Managing Service Value Streams",
+     "level": 0
+    },
+    {
+     "text": "Service Portfolio Management",
+     "level": 0
+    },
+    {
+     "text": "Service Design Principles and Practices",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Managing Service Performance",
+   "items": [
+    {
+     "text": "Monitoring and Reporting on Service Performance",
+     "level": 0
+    },
+    {
+     "text": "Service Level Agreements (SLAs)",
+     "level": 0
+    },
+    {
+     "text": "Performance Optimization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Incident and Problem Management",
+   "items": [
+    {
+     "text": "Incident Management Processes",
+     "level": 0
+    },
+    {
+     "text": "Problem Identification and Root Cause Analysis",
+     "level": 0
+    },
+    {
+     "text": "Implementing Problem Solutions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Service Optimization",
+   "items": [
+    {
+     "text": "Automation and Streamlining Service Delivery",
+     "level": 0
+    },
+    {
+     "text": "Continuous Service Improvement (CSI)",
+     "level": 0
+    },
+    {
+     "text": "Leveraging AI and Machine Learning in Service Management",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

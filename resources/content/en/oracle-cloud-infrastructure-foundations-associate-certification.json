@@ -1,0 +1,164 @@
+{
+ "title": "Oracle Cloud Infrastructure Foundations Associate Certification",
+ "duration": "3 Days",
+ "overview": [
+  "The Oracle Cloud Infrastructure Foundations Associate Certification course is designed to provide a foundational understanding of Oracle Cloud Infrastructure (OCI) services and solutions. This course prepares participants for the Oracle Cloud Infrastructure Foundations Associate certification exam, focusing on core OCI concepts, architecture, and management."
+ ],
+ "audience": [
+  "IT professionals and beginners seeking to understand Oracle Cloud Infrastructure.",
+  "Cloud architects, administrators, and developers interested in OCI fundamentals.",
+  "Individuals preparing for the Oracle Cloud Infrastructure Foundations Associate certification exam.",
+  "Non-technical professionals who need a basic understanding of OCI services."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of OCI services, architecture, and management tools.",
+  "Hands-On Labs: Practical exercises for interacting with OCI services and tools.",
+  "Case Studies: Real-world scenarios to understand OCI solutions and use cases.",
+  "Group Discussions: Collaborative sessions to explore OCI concepts and applications.",
+  "Quizzes and Practice Exams: Assessments to evaluate knowledge and readiness for the certification exam."
+ ],
+ "competencies": [
+  "OCI core services and solutions",
+  "OCI architecture and components",
+  "Cloud deployment models and security",
+  "OCI pricing, support, and governance"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of Oracle Cloud Infrastructure services and solutions.",
+  "To prepare participants for the Oracle Cloud Infrastructure Foundations Associate certification exam.",
+  "To familiarize learners with OCI architecture, pricing, and management tools.",
+  "To introduce basic concepts of OCI security, compliance, and governance."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Oracle Cloud Infrastructure",
+   "items": [
+    {
+     "text": "Overview of Oracle Cloud and Cloud Computing Concepts",
+     "level": 0
+    },
+    {
+     "text": "Understanding Oracle Cloud Infrastructure (OCI) Architecture",
+     "level": 0
+    },
+    {
+     "text": "OCI Global Infrastructure (Regions, Availability Domains)",
+     "level": 0
+    },
+    {
+     "text": "Benefits of OCI and Use Cases",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Core OCI Services",
+   "items": [
+    {
+     "text": "Compute Services (Virtual Machines, Bare Metal Servers)",
+     "level": 0
+    },
+    {
+     "text": "Storage Services (Block Storage, Object Storage, File Storage)",
+     "level": 0
+    },
+    {
+     "text": "Networking Services (Virtual Cloud Network, Load Balancer, FastConnect)",
+     "level": 0
+    },
+    {
+     "text": "Database Services (Autonomous Database, Oracle Database Cloud Service)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. OCI Pricing, Billing, and Support",
+   "items": [
+    {
+     "text": "Understanding OCI Pricing and Cost Management",
+     "level": 0
+    },
+    {
+     "text": "OCI Cost Estimator and Billing Tools",
+     "level": 0
+    },
+    {
+     "text": "OCI Support Plans and Resources",
+     "level": 0
+    },
+    {
+     "text": "Managing and Monitoring OCI Costs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. OCI Security and Compliance",
+   "items": [
+    {
+     "text": "OCI Security Fundamentals and Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Identity and Access Management (IAM) in OCI",
+     "level": 0
+    },
+    {
+     "text": "Data Protection and Encryption in OCI",
+     "level": 0
+    },
+    {
+     "text": "Compliance and Regulatory Considerations (GDPR, HIPAA)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. OCI Management and Monitoring",
+   "items": [
+    {
+     "text": "Managing OCI Resources with OCI Console and CLI",
+     "level": 0
+    },
+    {
+     "text": "Monitoring OCI Resources with Oracle Cloud Monitoring",
+     "level": 0
+    },
+    {
+     "text": "Implementing Resource Management with Tags and Policies",
+     "level": 0
+    },
+    {
+     "text": "Backup and Disaster Recovery Strategies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. OCI Deployment and Automation",
+   "items": [
+    {
+     "text": "Introduction to OCI Deployment Options (Compute, Storage)",
+     "level": 0
+    },
+    {
+     "text": "Automating Deployments with OCI Resource Manager",
+     "level": 0
+    },
+    {
+     "text": "Using OCI APIs and SDKs for Automation",
+     "level": 0
+    },
+    {
+     "text": "Infrastructure as Code (IaC) with OCI",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cloud Computing Courses.docx"
+}

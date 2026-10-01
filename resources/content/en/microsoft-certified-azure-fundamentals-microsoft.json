@@ -1,0 +1,143 @@
+{
+ "title": "Microsoft Certified: Azure Fundamentals – Microsoft",
+ "duration": "3 Days",
+ "overview": [
+  "The Microsoft Certified: Azure Fundamentals course is designed to introduce individuals to the basic concepts of cloud services and how those concepts are implemented using Microsoft Azure. It covers fundamental cloud concepts, core Azure services, Azure pricing, and support, providing a foundation for further Azure certifications and cloud-related roles."
+ ],
+ "audience": [
+  "Individuals new to cloud computing and Microsoft Azure.",
+  "IT professionals seeking to understand cloud services and Azure basics.",
+  "Business decision-makers and managers interested in cloud solutions.",
+  "Students and learners aiming to start a career in cloud computing."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Overview of cloud computing and Azure services.",
+  "Hands-On Labs: Practical exercises to explore Azure services and management tools.",
+  "Case Studies: Real-world examples to illustrate cloud solutions and benefits.",
+  "Group Discussions: Interactive sessions to discuss cloud strategies and implementations.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Basic cloud concepts and Azure services",
+  "Azure pricing and support",
+  "Core Azure resources and solutions",
+  "Cloud governance and compliance"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of cloud computing and Microsoft Azure.",
+  "To develop basic skills in navigating and utilizing Azure services.",
+  "To prepare participants for the Microsoft Certified: Azure Fundamentals (AZ-900) certification exam.",
+  "To familiarize participants with Azure pricing, support options, and management tools."
+ ],
+ "outline": [
+  {
+   "title": "1. Cloud Concepts",
+   "items": [
+    {
+     "text": "Understanding Cloud Computing Models (Public, Private, Hybrid)",
+     "level": 0
+    },
+    {
+     "text": "Exploring Cloud Service Models (IaaS, PaaS, SaaS)",
+     "level": 0
+    },
+    {
+     "text": "Identifying Cloud Benefits (Scalability, Flexibility, Cost Efficiency)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Cloud Computing Use Cases and Deployment Models",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Core Azure Services",
+   "items": [
+    {
+     "text": "Introduction to Microsoft Azure and Its Components",
+     "level": 0
+    },
+    {
+     "text": "Exploring Core Azure Services (Virtual Machines, Storage, Databases)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Azure Resource Manager (ARM) and Resource Groups",
+     "level": 0
+    },
+    {
+     "text": "Exploring Azure Networking Services (Virtual Networks, Load Balancers)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Azure Pricing and Support",
+   "items": [
+    {
+     "text": "Understanding Azure Pricing and Cost Management",
+     "level": 0
+    },
+    {
+     "text": "Exploring Azure Pricing Calculator and Total Cost of Ownership (TCO) Calculator",
+     "level": 0
+    },
+    {
+     "text": "Identifying Azure Support Plans and Service Level Agreements (SLAs)",
+     "level": 0
+    },
+    {
+     "text": "Managing Azure Subscriptions and Billing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Azure Governance and Compliance",
+   "items": [
+    {
+     "text": "Understanding Azure Governance Tools (Policy, Blueprints)",
+     "level": 0
+    },
+    {
+     "text": "Exploring Azure Compliance Offerings and Certifications",
+     "level": 0
+    },
+    {
+     "text": "Managing Resource Security and Access Control",
+     "level": 0
+    },
+    {
+     "text": "Understanding Azure Security Center and Key Vault",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Azure Solutions and Tools",
+   "items": [
+    {
+     "text": "Exploring Azure Solutions for AI, IoT, and DevOps",
+     "level": 0
+    },
+    {
+     "text": "Understanding Azure Management Tools (Azure Portal, Azure CLI, Azure PowerShell)",
+     "level": 0
+    },
+    {
+     "text": "Using Azure Marketplace for Additional Services and Solutions",
+     "level": 0
+    },
+    {
+     "text": "Understanding Integration with On-Premises Environments",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

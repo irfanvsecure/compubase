@@ -1,0 +1,186 @@
+{
+ "title": "Microsoft Certified: Azure Solutions Architect Expert",
+ "duration": "5 Days",
+ "overview": [
+  "The Microsoft Certified: Azure Solutions Architect Expert course is designed to prepare IT professionals for the Azure Solutions Architect Expert certification exam. This course focuses on designing and implementing solutions on Microsoft Azure, covering topics such as compute, network, storage, and security."
+ ],
+ "audience": [
+  "IT professionals and systems administrators aiming for advanced Azure certification.",
+  "Solutions architects and engineers involved in designing and implementing cloud solutions.",
+  "Developers and consultants with experience in cloud technologies seeking Azure expertise.",
+  "Individuals preparing for the Microsoft Certified: Azure Solutions Architect Expert exam."
+ ],
+ "methodology": [
+  "Lectures and Demonstrations: Detailed explanations of Azure services and architecture principles.",
+  "Hands-On Labs: Practical exercises for deploying and managing Azure resources.",
+  "Case Studies: Real-world scenarios to understand and apply Azure solutions.",
+  "Group Discussions: Collaborative activities to address architectural challenges.",
+  "Quizzes and Practice Exams: Tools to assess knowledge and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Designing Azure infrastructure solutions",
+  "Implementing and managing Azure resources",
+  "Security and compliance in Azure",
+  "Cost management and optimization",
+  "Advanced networking and storage solutions"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of Azure services and solutions architecture.",
+  "To prepare participants for the Microsoft Certified: Azure Solutions Architect Expert exam.",
+  "To enable participants to design, implement, and manage Azure solutions effectively.",
+  "To familiarize learners with best practices for security, compliance, and cost management in Azure."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Azure Solutions Architecture",
+   "items": [
+    {
+     "text": "Overview of Azure and Cloud Computing",
+     "level": 0
+    },
+    {
+     "text": "Azure Core Services and Components",
+     "level": 0
+    },
+    {
+     "text": "Azure Management Tools (Portal, CLI, PowerShell)",
+     "level": 0
+    },
+    {
+     "text": "Exam Overview and Study Plan",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Designing Azure Infrastructure Solutions",
+   "items": [
+    {
+     "text": "Designing Compute Solutions (VMs, App Services, Containers)",
+     "level": 0
+    },
+    {
+     "text": "Designing Networking Solutions (Virtual Networks, VPN, ExpressRoute)",
+     "level": 0
+    },
+    {
+     "text": "Designing Storage Solutions (Blob Storage, Disk Storage, File Storage)",
+     "level": 0
+    },
+    {
+     "text": "Designing for High Availability and Disaster Recovery",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Implementing and Managing Azure Resources",
+   "items": [
+    {
+     "text": "Implementing Virtual Machines and VM Scale Sets",
+     "level": 0
+    },
+    {
+     "text": "Managing and Configuring Virtual Networks",
+     "level": 0
+    },
+    {
+     "text": "Deploying and Managing Storage Accounts and Data Services",
+     "level": 0
+    },
+    {
+     "text": "Implementing Azure Resource Manager (ARM) Templates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Security and Compliance",
+   "items": [
+    {
+     "text": "Designing for Security and Compliance in Azure",
+     "level": 0
+    },
+    {
+     "text": "Implementing Azure Security Center and Azure Policy",
+     "level": 0
+    },
+    {
+     "text": "Managing Identity and Access with Azure AD",
+     "level": 0
+    },
+    {
+     "text": "Configuring Network Security Groups (NSGs) and Azure Firewall",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Cost Management and Optimization",
+   "items": [
+    {
+     "text": "Understanding Azure Pricing and Cost Management",
+     "level": 0
+    },
+    {
+     "text": "Implementing Cost Management Tools (Cost Management + Billing)",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Resource Utilization and Performance",
+     "level": 0
+    },
+    {
+     "text": "Planning and Managing Azure Budgets",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Advanced Networking and Storage Solutions",
+   "items": [
+    {
+     "text": "Implementing Advanced Networking Solutions (Application Gateway, Load Balancer)",
+     "level": 0
+    },
+    {
+     "text": "Designing and Configuring Content Delivery Networks (CDN)",
+     "level": 0
+    },
+    {
+     "text": "Managing Advanced Storage Solutions (Azure Backup, Site Recovery)",
+     "level": 0
+    },
+    {
+     "text": "Configuring Data Synchronization and Integration",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Monitoring and Troubleshooting",
+   "items": [
+    {
+     "text": "Monitoring Azure Resources with Azure Monitor",
+     "level": 0
+    },
+    {
+     "text": "Using Azure Log Analytics and Application Insights",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting Common Issues in Azure Environments",
+     "level": 0
+    },
+    {
+     "text": "Implementing Alerts and Diagnostics",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cloud Computing Courses.docx"
+}

@@ -1,0 +1,261 @@
+{
+ "duration": "5 أيام",
+ "overview": [
+  "تقدّم هذه الدورة فهماً معمّقاً لـ Apache Spark باستخدام Scala، اللغة الأصلية لـ Spark. وسيتعرّف المشاركون على البنية الأساسية لـ Spark، وRDDs، وDataFrames، وSpark SQL، والمعالجة المتدفقة المهيكلة (Structured Streaming)، وتعلّم الآلة باستخدام MLlib، مع التركيز على كيفية إسهام Scala في تعزيز أداء Spark وقابليته للتوسع. وستغطي المختبرات العملية بناء مسارات فعّالة للبيانات الضخمة، وتحسين مهام Spark، ونشر تطبيقات واقعية."
+ ],
+ "audience": [
+  "مهندسو البيانات الضخمة العاملون في مجال معالجة البيانات الموزعة",
+  "مطوّرو Scala الساعون إلى دمج Apache Spark",
+  "علماء البيانات الذين يحتاجون إلى مسارات عمل قابلة للتوسع في تعلّم الآلة",
+  "مهندسو البرمجيات الذين يطوّرون حلول التحليلات في الوقت الفعلي",
+  "متخصصو الحوسبة السحابية وDevOps العاملون مع عناقيد Spark",
+  "محللو البيانات الذين يتعاملون مع مجموعات بيانات ضخمة في Spark"
+ ],
+ "methodology": [
+  "مختبرات برمجة عملية – كتابة تطبيقات Spark وتنفيذها بلغة Scala",
+  "عروض توضيحية حية – استعراض قدرات Spark باستخدام بيانات واقعية",
+  "دراسات حالة – تطبيق Spark في سيناريوهات الأعمال والقطاعات المختلفة",
+  "التعلّم التعاوني – حل المشكلات بشكل جماعي ونقاشات تفاعلية",
+  "مشروع تخرّج – تنفيذ مسار متكامل للبيانات الضخمة قائم على Spark"
+ ],
+ "competencies": [
+  "المكوّنات الأساسية لـ Apache Spark ونموذج التنفيذ",
+  "العمل مع Spark RDDs وDataFrames وSpark SQL",
+  "معالجة البيانات الموزعة باستخدام Scala في Spark",
+  "تحسين الأداء وضبط تنفيذ المهام",
+  "المعالجة المتدفقة في الوقت الفعلي باستخدام Spark Structured Streaming",
+  "تعلّم الآلة باستخدام Spark MLlib",
+  "نشر تطبيقات Spark وإدارتها في بيئة الإنتاج"
+ ],
+ "objectivesIntro": [
+  "بنهاية الدورة، سيكون المشاركون قادرين على:"
+ ],
+ "objectives": [
+  "فهم بنية Apache Spark ومكوّناته ودور Scala فيه",
+  "تنفيذ تحويلات Spark وإجراءاته باستخدام Scala",
+  "معالجة البيانات المهيكلة وشبه المهيكلة باستخدام DataFrames وSpark SQL",
+  "تحسين مهام Spark لتحقيق أداء فعّال",
+  "تطوير نماذج تعلّم الآلة باستخدام MLlib",
+  "بث البيانات ومعالجتها في الوقت الفعلي باستخدام Spark Structured Streaming",
+  "نشر تطبيقات Spark على العناقيد السحابية والمحلية"
+ ],
+ "outline": [
+  {
+   "title": "الوحدة 1: مقدمة إلى Apache Spark وScala",
+   "items": [
+    {
+     "text": "نظرة عامة على البيانات الضخمة والحوسبة الموزعة",
+     "level": 0
+    },
+    {
+     "text": "ما هو Apache Spark؟ – التطور وحالات الاستخدام والفوائد",
+     "level": 0
+    },
+    {
+     "text": "منظومة Spark: Core وSQL وStreaming وMLlib وGraphX",
+     "level": 0
+    },
+    {
+     "text": "إعداد بيئة تطوير Scala لـ Spark",
+     "level": 0
+    },
+    {
+     "text": "مقدمة إلى صياغة Scala وأنواع البيانات والبرمجة الوظيفية",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 2: بنية Apache Spark ونموذج التنفيذ",
+   "items": [
+    {
+     "text": "فهم مكوّنات عنقود Spark – المشغّل (Driver) والمنفّذات (Executors) والمهام (Tasks)",
+     "level": 0
+    },
+    {
+     "text": "RDDs مقابل DataFrames مقابل Datasets – الفروق الرئيسية",
+     "level": 0
+    },
+    {
+     "text": "نموذج التنفيذ في Spark: التحويلات والإجراءات",
+     "level": 0
+    },
+    {
+     "text": "إدارة الذاكرة وتقسيم البيانات في Spark",
+     "level": 0
+    },
+    {
+     "text": "نشر تطبيقات Spark في الوضع المحلي ووضع العنقود",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 3: العمل مع Spark RDDs باستخدام Scala",
+   "items": [
+    {
+     "text": "مقدمة إلى مجموعات البيانات الموزعة المرنة (RDDs)",
+     "level": 0
+    },
+    {
+     "text": "إنشاء RDDs وتحويلها والاحتفاظ بها",
+     "level": 0
+    },
+    {
+     "text": "التقييم الكسول (Lazy Evaluation) وتحمّل الأعطال في Spark",
+     "level": 0
+    },
+    {
+     "text": "عمليات RDD الشائعة: map وfilter وflatMap وreduceByKey",
+     "level": 0
+    },
+    {
+     "text": "تحسين الأداء: الخلط (Shuffling) والتقسيم (Partitioning) والتخزين المؤقت (Caching)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 4: DataFrames وSpark SQL باستخدام Scala",
+   "items": [
+    {
+     "text": "مقدمة إلى DataFrames وDatasets",
+     "level": 0
+    },
+    {
+     "text": "إنشاء DataFrames من CSV وJSON وParquet وJDBC",
+     "level": 0
+    },
+    {
+     "text": "إجراء تحويلات البيانات وعمليات التجميع",
+     "level": 0
+    },
+    {
+     "text": "استخدام Spark SQL للاستعلام عن البيانات المهيكلة",
+     "level": 0
+    },
+    {
+     "text": "تحسين الأداء باستخدام Catalyst Optimizer",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 5: هندسة البيانات المتقدمة باستخدام Apache Spark",
+   "items": [
+    {
+     "text": "التقسيم (Partitioning) والتجزئة (Bucketing) لتحسين الأداء",
+     "level": 0
+    },
+    {
+     "text": "التعامل مع تطوّر المخطط (Schema Evolution) وهياكل البيانات المتداخلة",
+     "level": 0
+    },
+    {
+     "text": "التكامل مع التخزين السحابي (AWS S3 وAzure Blob وGoogle Cloud Storage)",
+     "level": 0
+    },
+    {
+     "text": "إدارة مسارات عمل البيانات باستخدام Apache Airflow وApache Kafka",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 6: تعلّم الآلة باستخدام Spark MLlib في Scala",
+   "items": [
+    {
+     "text": "مقدمة إلى Spark MLlib لتعلّم الآلة القابل للتوسع",
+     "level": 0
+    },
+    {
+     "text": "هندسة الخصائص (Feature Engineering) والمعالجة المسبقة للبيانات في Spark",
+     "level": 0
+    },
+    {
+     "text": "تدريب نماذج تعلّم الآلة وتقييمها",
+     "level": 0
+    },
+    {
+     "text": "بناء مسارات متكاملة لتعلّم الآلة في Spark",
+     "level": 0
+    },
+    {
+     "text": "ضبط المعاملات الفائقة (Hyperparameter Tuning) ونشر النماذج",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 7: معالجة البيانات في الوقت الفعلي باستخدام Spark Streaming",
+   "items": [
+    {
+     "text": "مقدمة إلى Spark Structured Streaming",
+     "level": 0
+    },
+    {
+     "text": "مصادر البيانات المتدفقة – Kafka وAWS Kinesis وAzure Event Hubs",
+     "level": 0
+    },
+    {
+     "text": "المعالجة ذات الحالة (Stateful) والمعالجة حسب وقت الحدث (Event-Time) باستخدام Structured Streaming",
+     "level": 0
+    },
+    {
+     "text": "التعامل مع البيانات المتأخرة الوصول وغير المرتبة",
+     "level": 0
+    },
+    {
+     "text": "حالات استخدام واقعية للمعالجة المتدفقة – كشف الاحتيال وتحليلات إنترنت الأشياء (IoT)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 8: تحسين الأداء وتصحيح الأخطاء في Spark",
+   "items": [
+    {
+     "text": "فهم واجهة Spark UI وخطة تنفيذ المهام",
+     "level": 0
+    },
+    {
+     "text": "أفضل الممارسات لإدارة الذاكرة وتحسين عمليات الخلط (Shuffle)",
+     "level": 0
+    },
+    {
+     "text": "المتغيرات المُذاعة (Broadcast Variables) والمُراكِمات (Accumulators) لتحسين الأداء",
+     "level": 0
+    },
+    {
+     "text": "تصحيح أخطاء تطبيقات Spark والتعامل مع الإخفاقات",
+     "level": 0
+    },
+    {
+     "text": "تحسين شيفرة Scala لرفع أداء Spark",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "الوحدة 9: نشر تطبيقات Apache Spark",
+   "items": [
+    {
+     "text": "تشغيل Spark على عناقيد Standalone وYARN وKubernetes",
+     "level": 0
+    },
+    {
+     "text": "نشر تطبيقات Spark على AWS EMR وAzure HDInsight وGCP Dataproc",
+     "level": 0
+    },
+    {
+     "text": "مسارات CI/CD لتطبيقات Spark",
+     "level": 0
+    },
+    {
+     "text": "استخدام Databricks لعمليات نشر Spark القابلة للتوسع",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

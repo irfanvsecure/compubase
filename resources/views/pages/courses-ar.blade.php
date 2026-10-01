@@ -55,7 +55,10 @@
   data-showing="عرض {from}–{to} من {total} دورة"><div class="container">
   <nav class="filter-tabs cat-filter" aria-label="تصفّح الدورات حسب الفئة">
     <button type="button" class="active" data-cat="all">جميع الدورات · {{ count(Catalog::courses()) }}</button>
-    @foreach (Catalog::categories() as $cat => $category)<button type="button" data-cat="{{ $cat }}">{{ $category['ar'] }} · {{ count($category['courses']) }}</button>@endforeach
+    @foreach (['management' => 'الدورات الإدارية', 'it' => 'دورات تقنية المعلومات'] as $group => $label)
+    <span class="cat-group">{{ $label }}</span>
+    @foreach (Catalog::categories() as $cat => $category)@if ($category['group'] === $group)<button type="button" data-cat="{{ $cat }}">{{ $category['ar'] }} · {{ count($category['courses']) }}</button>@endif @endforeach
+    @endforeach
   </nav>
   <p class="catalog-count" aria-live="polite"></p>
   <div class="course-grid">
@@ -81,7 +84,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
-        <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وغيرها. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
+        <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وتقنية المعلومات، والأمن السيبراني، والذكاء الاصطناعي. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>

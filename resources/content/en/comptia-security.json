@@ -1,0 +1,206 @@
+{
+ "title": "CompTIA Security+",
+ "duration": "5 Days",
+ "overview": [
+  "The CompTIA Security+ course is designed to provide a comprehensive understanding of fundamental security principles and practices. This course prepares participants for the CompTIA Security+ certification exam by covering key areas of cybersecurity, risk management, and security practices."
+ ],
+ "audience": [
+  "IT professionals looking to validate their knowledge in cybersecurity.",
+  "System administrators, network administrators, and security professionals.",
+  "Individuals preparing for the CompTIA Security+ certification exam.",
+  "Anyone interested in learning foundational security concepts and practices."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of security concepts and practices.",
+  "Hands-On Labs: Practical exercises for implementing and managing security measures.",
+  "Case Studies: Real-world scenarios to apply security knowledge and solutions.",
+  "Group Discussions: Interactive sessions to explore security challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Network security and threat management",
+  "Risk assessment and mitigation strategies",
+  "Security operations and incident response",
+  "Compliance and security policies"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of core security concepts and practices.",
+  "To prepare participants for the CompTIA Security+ certification exam.",
+  "To equip learners with practical skills for managing and implementing security measures.",
+  "To familiarize participants with best practices and foundational principles in cybersecurity."
+ ],
+ "outline": [
+  {
+   "title": "1. Threats, Attacks, and Vulnerabilities",
+   "items": [
+    {
+     "text": "Identifying Types of Threats and Attacks (Malware, Phishing, DDoS)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Vulnerability Assessment and Penetration Testing",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Threat Intelligence and Mitigation Techniques",
+     "level": 0
+    },
+    {
+     "text": "Implementing Defense Mechanisms (Firewalls, Antivirus, IDS/IPS)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Technologies and Tools",
+   "items": [
+    {
+     "text": "Implementing and Managing Network Security Devices (Routers, Switches, Firewalls)",
+     "level": 0
+    },
+    {
+     "text": "Configuring and Using Security Tools (Wireshark, Nmap)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Encryption and Cryptography (Symmetric, Asymmetric, Hashing)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Secure Access Controls and Authentication Methods",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Architecture and Design",
+   "items": [
+    {
+     "text": "Designing Secure Network Architectures and Segmentation",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Controls in Cloud Environments",
+     "level": 0
+    },
+    {
+     "text": "Understanding Security in Mobile and IoT Devices",
+     "level": 0
+    },
+    {
+     "text": "Managing Network Security Policies and Procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Identity and Access Management (IAM)",
+   "items": [
+    {
+     "text": "Implementing Authentication Mechanisms (Passwords, Multi-Factor Authentication)",
+     "level": 0
+    },
+    {
+     "text": "Managing User Access Control and Permissions",
+     "level": 0
+    },
+    {
+     "text": "Implementing Single Sign-On (SSO) and Federated Identity Management",
+     "level": 0
+    },
+    {
+     "text": "Securing Authentication and Authorization Processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Risk Management",
+   "items": [
+    {
+     "text": "Conducting Risk Assessments and Vulnerability Scanning",
+     "level": 0
+    },
+    {
+     "text": "Implementing Risk Mitigation Strategies and Controls",
+     "level": 0
+    },
+    {
+     "text": "Understanding Business Continuity and Disaster Recovery Planning",
+     "level": 0
+    },
+    {
+     "text": "Managing Security Incidents and Response Procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Security Assessment and Testing",
+   "items": [
+    {
+     "text": "Performing Security Assessments and Penetration Testing",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Security Metrics and Performance",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Monitoring and Logging",
+     "level": 0
+    },
+    {
+     "text": "Understanding Security Audits and Compliance Requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Security Operations and Incident Response",
+   "items": [
+    {
+     "text": "Managing Security Operations and Incident Response Procedures",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Incident Handling and Investigation",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Security Logs and Forensics",
+     "level": 0
+    },
+    {
+     "text": "Conducting Post-Incident Reviews and Lessons Learned",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Compliance and Security Policies",
+   "items": [
+    {
+     "text": "Understanding Compliance Frameworks and Standards (GDPR, HIPAA, PCI-DSS)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Policies and Procedures",
+     "level": 0
+    },
+    {
+     "text": "Managing Security Documentation and Reporting",
+     "level": 0
+    },
+    {
+     "text": "Understanding Legal and Regulatory Requirements",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cyber Security Courses.docx"
+}

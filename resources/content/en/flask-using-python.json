@@ -1,0 +1,290 @@
+{
+ "title": "Flask using Python",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Flask, a lightweight and powerful Python web framework used for building web applications and RESTful APIs. Participants will learn how to develop scalable, secure, and maintainable applications using Flask’s core features, including routing, templates, database integration, authentication, and deployment. Through hands-on projects, learners will gain practical experience in developing full-stack web applications using Flask and integrating them with modern frontend frameworks."
+ ],
+ "audience": [
+  "Python Developers looking to expand into web development",
+  "Backend Developers seeking expertise in Flask for API development",
+  "Full-Stack Developers interested in lightweight web frameworks",
+  "Software Engineers working on microservices and web applications",
+  "Students & Professionals aspiring to become web developers"
+ ],
+ "methodology": [
+  "Hands-on Coding Labs – Building Flask applications from scratch",
+  "Live Demonstrations – Implementing Flask features in real-time",
+  "Case Studies & Real-World Examples – Understanding best practices",
+  "Collaborative Learning – Group discussions and pair programming",
+  "Capstone Project – Developing a fully functional Flask-based web application"
+ ],
+ "competencies": [
+  "Flask Web Framework & MVC Architecture",
+  "Building Dynamic Web Applications using Python & Flask",
+  "Database Integration with Flask SQLAlchemy & SQLite/MySQL",
+  "Developing RESTful APIs using Flask-RESTful & Flask-RESTX",
+  "User Authentication & Security Best Practices",
+  "Deploying Flask Applications on Cloud Platforms"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Flask’s architecture and core components",
+  "Build dynamic web applications with Flask routes and templates",
+  "Work with databases using Flask SQLAlchemy ORM",
+  "Develop RESTful APIs using Flask-RESTful & Flask-RESTX",
+  "Implement authentication and user management in Flask applications",
+  "Optimize Flask applications for performance and scalability",
+  "Deploy Flask applications to production environments"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Flask & Web Development Fundamentals",
+   "items": [
+    {
+     "text": "Introduction to Web Development & Python Frameworks",
+     "level": 0
+    },
+    {
+     "text": "What is Flask? – Features, Benefits, and Use Cases",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Flask Development Environment",
+     "level": 0
+    },
+    {
+     "text": "Understanding Flask MVC (Model-View-Controller) Architecture",
+     "level": 0
+    },
+    {
+     "text": "Creating the First Flask Application",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Flask Routing & URL Handling",
+   "items": [
+    {
+     "text": "Defining Routes using @app.route()",
+     "level": 0
+    },
+    {
+     "text": "Dynamic Routing & URL Variables",
+     "level": 0
+    },
+    {
+     "text": "Handling GET and POST Requests",
+     "level": 0
+    },
+    {
+     "text": "Redirects & Error Handling (abort, 404, 500)",
+     "level": 0
+    },
+    {
+     "text": "URL Converters and Custom Routes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Flask Templates & Frontend Integration",
+   "items": [
+    {
+     "text": "Using Jinja2 Templating Engine",
+     "level": 0
+    },
+    {
+     "text": "Template Inheritance & Dynamic Content",
+     "level": 0
+    },
+    {
+     "text": "Integrating CSS, JavaScript, and Bootstrap",
+     "level": 0
+    },
+    {
+     "text": "Using Flask-WTF for Form Handling",
+     "level": 0
+    },
+    {
+     "text": "Processing User Input & Data Validation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Flask & Database Integration with SQLAlchemy",
+   "items": [
+    {
+     "text": "Introduction to Flask-SQLAlchemy ORM",
+     "level": 0
+    },
+    {
+     "text": "Creating & Managing Databases (SQLite, PostgreSQL, MySQL)",
+     "level": 0
+    },
+    {
+     "text": "Performing CRUD Operations with Flask Models",
+     "level": 0
+    },
+    {
+     "text": "Database Relationships – One-to-One, One-to-Many, Many-to-Many",
+     "level": 0
+    },
+    {
+     "text": "Using Flask-Migrate for Database Migrations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: User Authentication & Security in Flask",
+   "items": [
+    {
+     "text": "Implementing User Registration & Login Systems",
+     "level": 0
+    },
+    {
+     "text": "Using Flask-Login for Session Management",
+     "level": 0
+    },
+    {
+     "text": "Password Hashing & Authentication Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Securing Flask Applications – CSRF Protection, XSS, SQL Injection Prevention",
+     "level": 0
+    },
+    {
+     "text": "Social Authentication with OAuth (Google, Facebook, GitHub)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Flask RESTful APIs & Microservices Development",
+   "items": [
+    {
+     "text": "Introduction to RESTful API Development",
+     "level": 0
+    },
+    {
+     "text": "Building APIs using Flask-RESTful & Flask-RESTX",
+     "level": 0
+    },
+    {
+     "text": "Handling API Requests & Responses (JSON, XML)",
+     "level": 0
+    },
+    {
+     "text": "Authentication & Authorization in APIs (JWT, OAuth2)",
+     "level": 0
+    },
+    {
+     "text": "API Testing using Postman & Flask Testing Framework",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Flask Middleware, Blueprints & Modular Applications",
+   "items": [
+    {
+     "text": "Understanding Middleware in Flask",
+     "level": 0
+    },
+    {
+     "text": "Structuring Large Flask Applications using Blueprints",
+     "level": 0
+    },
+    {
+     "text": "Implementing Custom Middleware for Logging & Security",
+     "level": 0
+    },
+    {
+     "text": "Using Flask Extensions (Flask-Mail, Flask-Caching, Flask-Babel, Flask-CORS)",
+     "level": 0
+    },
+    {
+     "text": "Configuring Flask for Development, Testing & Production",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Frontend Integration & Full-Stack Development with Flask",
+   "items": [
+    {
+     "text": "Using Flask with AJAX, jQuery & JavaScript",
+     "level": 0
+    },
+    {
+     "text": "Flask Integration with React.js & Vue.js for Modern Web Apps",
+     "level": 0
+    },
+    {
+     "text": "Building a Single Page Application (SPA) with Flask & Frontend Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Real-Time Communication using Flask-SocketIO (WebSockets)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Deploying & Scaling Flask Applications",
+   "items": [
+    {
+     "text": "Preparing Flask Applications for Production",
+     "level": 0
+    },
+    {
+     "text": "Deploying Flask on AWS, Heroku, DigitalOcean, & Docker",
+     "level": 0
+    },
+    {
+     "text": "Setting up Gunicorn & Nginx for Production Deployment",
+     "level": 0
+    },
+    {
+     "text": "Using CI/CD Pipelines for Flask Applications",
+     "level": 0
+    },
+    {
+     "text": "Performance Monitoring & Error Logging in Production",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Security Best Practices & Performance Optimization",
+   "items": [
+    {
+     "text": "Understanding Common Security Threats (SQL Injection, CSRF, XSS)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Flask’s Built-in Security Features",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Database Queries & Caching for Performance",
+     "level": 0
+    },
+    {
+     "text": "Secure API Development – JWT Authentication & OAuth2 Implementation",
+     "level": 0
+    },
+    {
+     "text": "Regular Expressions & Data Validation in Flask",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

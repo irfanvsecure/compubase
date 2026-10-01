@@ -1,0 +1,263 @@
+{
+ "title": "Python for Automation",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to teach participants how to use Python to automate repetitive and time-consuming tasks, improving efficiency and productivity. The course covers file and folder automation, web scraping, API automation, task scheduling, database automation, and GUI automation. By the end of this course, participants will be able to write Python scripts to automate various processes in their daily workflows."
+ ],
+ "audience": [
+  "Software Developers looking to automate processes",
+  "System Administrators & IT Professionals who want to automate tasks",
+  "Business Analysts & Data Professionals handling large datasets",
+  "QA Engineers & Testers automating testing workflows",
+  "Students & Enthusiasts interested in Python scripting"
+ ],
+ "methodology": [
+  "Hands-on Coding Labs – Practical exercises on automation tasks",
+  "Live Demonstrations – Implementing automation scripts in real-time",
+  "Case Studies & Best Practices – Learning from industry scenarios",
+  "Collaborative Learning – Group discussions and peer coding sessions",
+  "Capstone Project – Developing a full automation solution"
+ ],
+ "competencies": [
+  "Automating File and Folder Operations",
+  "Web Scraping using Python",
+  "Interacting with APIs & Automating Data Handling",
+  "Task Scheduling & Process Automation",
+  "Database Automation with Python",
+  "Automating GUI & Desktop Applications"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Python’s automation capabilities",
+  "Write Python scripts to automate file, web, and API tasks",
+  "Use libraries such as Selenium, BeautifulSoup, and Requests",
+  "Schedule and execute automated tasks efficiently",
+  "Implement automation solutions in business and IT workflows"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Python Automation",
+   "items": [
+    {
+     "text": "Why automate tasks with Python?",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Python development environment",
+     "level": 0
+    },
+    {
+     "text": "Installing and managing Python libraries (pip, virtualenv)",
+     "level": 0
+    },
+    {
+     "text": "Writing and executing Python scripts",
+     "level": 0
+    },
+    {
+     "text": "Understanding Python’s built-in automation capabilities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: File & Folder Automation",
+   "items": [
+    {
+     "text": "Automating file operations (create, delete, move, rename)",
+     "level": 0
+    },
+    {
+     "text": "Working with OS and shutil modules",
+     "level": 0
+    },
+    {
+     "text": "Automating folder management and cleanup tasks",
+     "level": 0
+    },
+    {
+     "text": "Handling CSV, Excel, and PDF files using Pandas & PyPDF2",
+     "level": 0
+    },
+    {
+     "text": "Bulk renaming and file organization scripts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Web Scraping with Python",
+   "items": [
+    {
+     "text": "Introduction to web scraping and its applications",
+     "level": 0
+    },
+    {
+     "text": "Using BeautifulSoup for HTML parsing",
+     "level": 0
+    },
+    {
+     "text": "Automating data extraction from websites",
+     "level": 0
+    },
+    {
+     "text": "Handling dynamic content with Selenium",
+     "level": 0
+    },
+    {
+     "text": "Exporting scraped data to CSV, Excel, or Databases",
+     "level": 0
+    },
+    {
+     "text": "Handling CAPTCHAs and anti-scraping measures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: API Automation with Python",
+   "items": [
+    {
+     "text": "Introduction to REST APIs and HTTP requests",
+     "level": 0
+    },
+    {
+     "text": "Using Requests and JSON libraries for API interactions",
+     "level": 0
+    },
+    {
+     "text": "Automating data retrieval and processing",
+     "level": 0
+    },
+    {
+     "text": "Sending automated emails & messages via APIs (Twilio, Gmail API)",
+     "level": 0
+    },
+    {
+     "text": "Working with authentication (OAuth, API Keys, JWT)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Task Scheduling & Process Automation",
+   "items": [
+    {
+     "text": "Scheduling tasks with Task Scheduler (Windows) & Cron Jobs (Linux)",
+     "level": 0
+    },
+    {
+     "text": "Automating repetitive system tasks",
+     "level": 0
+    },
+    {
+     "text": "Running Python scripts in the background",
+     "level": 0
+    },
+    {
+     "text": "Automating system monitoring and logging",
+     "level": 0
+    },
+    {
+     "text": "Creating real-time notification systems",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Database Automation",
+   "items": [
+    {
+     "text": "Connecting Python with MySQL, PostgreSQL, SQLite",
+     "level": 0
+    },
+    {
+     "text": "Automating database queries using SQLAlchemy",
+     "level": 0
+    },
+    {
+     "text": "Automating data entry, retrieval, and backups",
+     "level": 0
+    },
+    {
+     "text": "Handling bulk data processing and migration",
+     "level": 0
+    },
+    {
+     "text": "Integrating database automation with web scraping and APIs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: GUI & Desktop Automation",
+   "items": [
+    {
+     "text": "Automating desktop applications with PyAutoGUI",
+     "level": 0
+    },
+    {
+     "text": "Controlling keyboard and mouse actions",
+     "level": 0
+    },
+    {
+     "text": "Automating data entry in software applications",
+     "level": 0
+    },
+    {
+     "text": "Creating automated form fillers",
+     "level": 0
+    },
+    {
+     "text": "Automating GUI testing for software applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Automating Reports & Emails",
+   "items": [
+    {
+     "text": "Generating automated reports in Excel & PDFs",
+     "level": 0
+    },
+    {
+     "text": "Sending emails with smtplib & email modules",
+     "level": 0
+    },
+    {
+     "text": "Automating email responses & notifications",
+     "level": 0
+    },
+    {
+     "text": "Integrating Python automation with Slack & Microsoft Teams",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Real-World Automation Projects",
+   "items": [
+    {
+     "text": "Automating web login and form submissions",
+     "level": 0
+    },
+    {
+     "text": "Automating data scraping and reporting workflows",
+     "level": 0
+    },
+    {
+     "text": "Creating an automated backup and cleanup system",
+     "level": 0
+    },
+    {
+     "text": "Automating social media posting with Python",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

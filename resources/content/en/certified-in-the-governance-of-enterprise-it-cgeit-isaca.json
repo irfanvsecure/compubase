@@ -1,0 +1,215 @@
+{
+ "title": "Certified in the Governance of Enterprise IT (CGEIT) – ISACA",
+ "duration": "5 Days",
+ "overview": [
+  "The CGEIT certification course provides a deep understanding of the principles and practices of IT governance. It covers the frameworks, processes, and methodologies required for effective governance of enterprise IT. The course aims to prepare professionals for the CGEIT certification exam and equip them with the skills needed to manage and oversee IT governance processes in organizations."
+ ],
+ "audience": [
+  "IT governance professionals and managers.",
+  "IT auditors and risk management professionals.",
+  "IT consultants and strategists.",
+  "Senior executives involved in IT decision-making.",
+  "Individuals seeking to enhance their knowledge and skills in IT governance."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanation of IT governance concepts, frameworks, and practices.",
+  "Hands-On Labs: Practical exercises for applying IT governance principles.",
+  "Case Studies: Analysis of real-world scenarios and application of IT governance practices.",
+  "Group Discussions: Interactive sessions to explore governance challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the CGEIT certification exam."
+ ],
+ "competencies": [
+  "IT governance frameworks and principles",
+  "Risk management and control",
+  "IT strategy and alignment",
+  "Performance measurement and monitoring",
+  "Compliance and regulatory requirements"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide comprehensive knowledge of IT governance frameworks and principles.",
+  "To develop skills for implementing and managing IT governance processes.",
+  "To prepare participants for the CGEIT certification exam.",
+  "To equip participants with techniques for ensuring effective governance of enterprise IT."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to IT Governance",
+   "items": [
+    {
+     "text": "Overview of IT Governance",
+     "level": 0
+    },
+    {
+     "text": "Importance and Benefits of IT Governance",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Terminology",
+     "level": 0
+    },
+    {
+     "text": "IT Governance Frameworks and Standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Governance Frameworks and Structures",
+   "items": [
+    {
+     "text": "Governance Frameworks: Introduction to Key IT Governance Frameworks",
+     "level": 0
+    },
+    {
+     "text": "COBIT (Control Objectives for Information and Related Technologies)",
+     "level": 0
+    },
+    {
+     "text": "ITIL (Information Technology Infrastructure Library)",
+     "level": 0
+    },
+    {
+     "text": "ISO/IEC 38500",
+     "level": 0
+    },
+    {
+     "text": "Governance Structures: Establishing IT Governance Structures and Roles",
+     "level": 0
+    },
+    {
+     "text": "IT Steering Committees",
+     "level": 0
+    },
+    {
+     "text": "IT Governance Boards",
+     "level": 0
+    },
+    {
+     "text": "Responsibilities and Accountabilities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. IT Governance Processes",
+   "items": [
+    {
+     "text": "Governance Processes: Key Processes in IT Governance",
+     "level": 0
+    },
+    {
+     "text": "IT Strategy Development and Alignment",
+     "level": 0
+    },
+    {
+     "text": "Risk Management and Control",
+     "level": 0
+    },
+    {
+     "text": "Performance Measurement and Management",
+     "level": 0
+    },
+    {
+     "text": "Policy and Framework Development: Creating and Implementing IT Policies and Frameworks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Risk Management and Control",
+   "items": [
+    {
+     "text": "Risk Management: Identifying and Managing IT Risks",
+     "level": 0
+    },
+    {
+     "text": "Risk Assessment and Analysis",
+     "level": 0
+    },
+    {
+     "text": "Risk Mitigation Strategies",
+     "level": 0
+    },
+    {
+     "text": "Control Frameworks: Implementing IT Controls and Monitoring Effectiveness",
+     "level": 0
+    },
+    {
+     "text": "Control Objectives and Standards",
+     "level": 0
+    },
+    {
+     "text": "Internal Controls and Audits",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. IT Strategy and Alignment",
+   "items": [
+    {
+     "text": "Strategic Planning: Developing IT Strategy Aligned with Business Goals",
+     "level": 0
+    },
+    {
+     "text": "Strategic IT Planning Processes",
+     "level": 0
+    },
+    {
+     "text": "Alignment with Business Objectives",
+     "level": 0
+    },
+    {
+     "text": "Value Delivery: Ensuring IT Investments Deliver Value to the Organization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Performance Measurement and Monitoring",
+   "items": [
+    {
+     "text": "Performance Metrics: Defining and Measuring IT Performance",
+     "level": 0
+    },
+    {
+     "text": "Key Performance Indicators (KPIs)",
+     "level": 0
+    },
+    {
+     "text": "Benchmarking and Reporting",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement: Techniques for Continuous Improvement in IT Governance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Compliance and Regulatory Requirements",
+   "items": [
+    {
+     "text": "Compliance Management: Ensuring Compliance with Regulatory Requirements",
+     "level": 0
+    },
+    {
+     "text": "Legal and Regulatory Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Data Privacy and Security Regulations",
+     "level": 0
+    },
+    {
+     "text": "Audit and Assurance: Conducting IT Audits and Ensuring Compliance",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Governance Courses.docx"
+}

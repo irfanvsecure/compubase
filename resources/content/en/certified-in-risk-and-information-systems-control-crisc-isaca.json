@@ -1,0 +1,213 @@
+{
+ "title": "Certified in Risk and Information Systems Control (CRISC) – ISACA",
+ "duration": "5 Days",
+ "overview": [
+  "The CRISC certification course focuses on the principles and practices of risk management and information systems control. It covers the methodologies for identifying, assessing, and managing IT and business risks. The course prepares participants for the CRISC certification exam and provides them with the skills needed to design, implement, and monitor risk management and control systems effectively."
+ ],
+ "audience": [
+  "IT risk management professionals.",
+  "Information systems control professionals.",
+  "IT auditors and compliance officers.",
+  "Risk managers and consultants.",
+  "Individuals seeking to enhance their skills in risk management and control."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanation of CRISC domains, principles, and practices.",
+  "Hands-On Labs: Practical exercises related to risk management and control.",
+  "Case Studies: Analysis of real-world scenarios and application of CRISC methodologies.",
+  "Group Discussions: Interactive sessions to discuss risk management challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to gauge understanding and readiness for the CRISC certification exam."
+ ],
+ "competencies": [
+  "Risk identification and assessment",
+  "Risk response and mitigation",
+  "Control design and implementation",
+  "Risk monitoring and reporting"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide comprehensive knowledge of risk management and information systems control.",
+  "To develop skills for identifying, assessing, and managing IT and business risks.",
+  "To prepare participants for the CRISC certification exam.",
+  "To equip participants with techniques for implementing and monitoring risk management and control systems."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Risk and Information Systems Control",
+   "items": [
+    {
+     "text": "Overview of CRISC and Its Importance",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Terminology",
+     "level": 0
+    },
+    {
+     "text": "CRISC Certification and Its Value",
+     "level": 0
+    },
+    {
+     "text": "Frameworks and Standards for Risk Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Risk Identification and Assessment",
+   "items": [
+    {
+     "text": "Risk Identification: Identifying and Categorizing Risks",
+     "level": 0
+    },
+    {
+     "text": "Risk Identification Techniques",
+     "level": 0
+    },
+    {
+     "text": "Sources of Risk (Internal and External)",
+     "level": 0
+    },
+    {
+     "text": "Risk Assessment: Assessing Risk Impact and Likelihood",
+     "level": 0
+    },
+    {
+     "text": "Risk Assessment Methods (Qualitative and Quantitative)",
+     "level": 0
+    },
+    {
+     "text": "Risk Assessment Tools and Techniques",
+     "level": 0
+    },
+    {
+     "text": "Risk Register: Creating and Maintaining a Risk Register",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Risk Response and Mitigation",
+   "items": [
+    {
+     "text": "Risk Response Strategies: Developing Risk Response Plans",
+     "level": 0
+    },
+    {
+     "text": "Risk Avoidance, Reduction, Sharing, and Acceptance",
+     "level": 0
+    },
+    {
+     "text": "Selecting Appropriate Risk Responses",
+     "level": 0
+    },
+    {
+     "text": "Control Design: Designing Effective Controls",
+     "level": 0
+    },
+    {
+     "text": "Control Types and Objectives",
+     "level": 0
+    },
+    {
+     "text": "Control Design Considerations",
+     "level": 0
+    },
+    {
+     "text": "Control Implementation: Implementing and Managing Controls",
+     "level": 0
+    },
+    {
+     "text": "Control Implementation Processes",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and Testing Controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Control Monitoring and Reporting",
+   "items": [
+    {
+     "text": "Control Monitoring: Techniques for Monitoring Controls",
+     "level": 0
+    },
+    {
+     "text": "Continuous Monitoring and Evaluation",
+     "level": 0
+    },
+    {
+     "text": "Performance Metrics and KPIs",
+     "level": 0
+    },
+    {
+     "text": "Reporting: Reporting on Risk and Control",
+     "level": 0
+    },
+    {
+     "text": "Risk and Control Reporting Requirements",
+     "level": 0
+    },
+    {
+     "text": "Communicating Risk and Control Information to Stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Incident Management: Handling and Reporting Security Incidents",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Integration with Other Frameworks and Standards",
+   "items": [
+    {
+     "text": "Frameworks: Integrating CRISC with Other Risk Management Frameworks",
+     "level": 0
+    },
+    {
+     "text": "ISO/IEC 27001",
+     "level": 0
+    },
+    {
+     "text": "COSO ERM",
+     "level": 0
+    },
+    {
+     "text": "Standards: Aligning with Industry Standards and Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Industry-Specific Standards (e.g., SOX, GDPR)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Case Studies and Practical Application",
+   "items": [
+    {
+     "text": "Case Studies: Real-World Examples of Risk Management and Control",
+     "level": 0
+    },
+    {
+     "text": "Analysis of Risk Management Practices",
+     "level": 0
+    },
+    {
+     "text": "Lessons Learned and Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Hands-On Labs: Practical Exercises",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Governance Courses.docx"
+}

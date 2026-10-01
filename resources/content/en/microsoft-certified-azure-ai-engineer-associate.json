@@ -1,0 +1,185 @@
+{
+ "title": "Microsoft Certified: Azure AI Engineer Associate",
+ "duration": "5 Days",
+ "overview": [
+  "The Microsoft Certified: Azure AI Engineer Associate course is designed to equip participants with the skills needed to design and implement AI solutions on Microsoft Azure. This course prepares candidates for the AI-102 exam by covering key areas such as AI solution design, machine learning, computer vision, natural language processing, and AI integration."
+ ],
+ "audience": [
+  "AI engineers and developers working with Azure.",
+  "Data scientists and machine learning practitioners.",
+  "IT professionals interested in AI and Azure technologies.",
+  "Individuals preparing for the Azure AI Engineer Associate certification exam."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of Azure AI services and solutions.",
+  "Hands-On Labs: Practical exercises for implementing AI solutions using Azure services.",
+  "Case Studies: Real-world examples to illustrate the application of AI technologies.",
+  "Group Discussions: Interactive sessions to explore AI challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Azure AI services and solutions",
+  "Machine learning and deep learning",
+  "Natural language processing and computer vision",
+  "AI solution design and implementation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of AI technologies and services on Azure.",
+  "To develop practical skills in designing and implementing AI solutions using Azure.",
+  "To prepare participants for the Microsoft Certified: Azure AI Engineer Associate certification exam.",
+  "To familiarize participants with real-world AI applications and integration scenarios."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Azure AI",
+   "items": [
+    {
+     "text": "Overview of Azure AI Services and Solutions",
+     "level": 0
+    },
+    {
+     "text": "Understanding AI and Machine Learning Concepts",
+     "level": 0
+    },
+    {
+     "text": "Exploring Azure Cognitive Services and Azure Machine Learning",
+     "level": 0
+    },
+    {
+     "text": "Designing AI Solutions on Azure",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Analyzing and Processing Data",
+   "items": [
+    {
+     "text": "Implementing Data Storage and Management Solutions",
+     "level": 0
+    },
+    {
+     "text": "Using Azure Data Factory for Data Integration",
+     "level": 0
+    },
+    {
+     "text": "Understanding Data Preparation and Feature Engineering",
+     "level": 0
+    },
+    {
+     "text": "Implementing Data Analytics with Azure Synapse Analytics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Implementing Machine Learning Solutions",
+   "items": [
+    {
+     "text": "Building and Training Machine Learning Models with Azure Machine Learning",
+     "level": 0
+    },
+    {
+     "text": "Implementing Automated ML and Custom ML Models",
+     "level": 0
+    },
+    {
+     "text": "Evaluating and Tuning Machine Learning Models",
+     "level": 0
+    },
+    {
+     "text": "Deploying Machine Learning Models to Azure",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Implementing Computer Vision Solutions",
+   "items": [
+    {
+     "text": "Utilizing Azure Computer Vision Services",
+     "level": 0
+    },
+    {
+     "text": "Implementing Image Classification, Object Detection, and Image Analysis",
+     "level": 0
+    },
+    {
+     "text": "Building Custom Vision Models with Azure Custom Vision",
+     "level": 0
+    },
+    {
+     "text": "Integrating Computer Vision Solutions with Applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Implementing Natural Language Processing Solutions",
+   "items": [
+    {
+     "text": "Using Azure Cognitive Services for Text Analytics",
+     "level": 0
+    },
+    {
+     "text": "Implementing Language Understanding (LUIS) and Text Translation",
+     "level": 0
+    },
+    {
+     "text": "Building Chatbots with Azure Bot Services and QnA Maker",
+     "level": 0
+    },
+    {
+     "text": "Integrating NLP Solutions with Applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Integrating and Managing AI Solutions",
+   "items": [
+    {
+     "text": "Integrating AI Models with Azure Applications and Services",
+     "level": 0
+    },
+    {
+     "text": "Managing and Monitoring AI Solutions in Azure",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security and Compliance for AI Solutions",
+     "level": 0
+    },
+    {
+     "text": "Understanding Cost Management and Optimization for AI Solutions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Designing AI Solutions",
+   "items": [
+    {
+     "text": "Designing End-to-End AI Solutions Based on Requirements",
+     "level": 0
+    },
+    {
+     "text": "Selecting the Right AI Services and Tools for Specific Scenarios",
+     "level": 0
+    },
+    {
+     "text": "Developing and Documenting AI Solution Architectures",
+     "level": 0
+    },
+    {
+     "text": "Conducting Solution Reviews and Iterations",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Emerging Technologies Courses.docx"
+}

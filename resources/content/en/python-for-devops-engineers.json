@@ -1,0 +1,228 @@
+{
+ "title": "Python for DevOps Engineers",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to teach DevOps engineers how to leverage Python for automation, infrastructure management, CI/CD pipelines, configuration management, and cloud operations. The course covers key DevOps tools and frameworks such as Docker, Kubernetes, Ansible, Terraform, Jenkins, AWS, and Azure, along with Python scripting to automate and optimize DevOps workflows."
+ ],
+ "audience": [
+  "DevOps Engineers & Site Reliability Engineers (SREs)",
+  "System Administrators & Cloud Engineers",
+  "Software Engineers & IT Professionals involved in infrastructure management",
+  "Automation Engineers looking to streamline workflows",
+  "Aspiring DevOps Professionals"
+ ],
+ "methodology": [
+  "Hands-on Practice – Real-world automation scripts and cloud operations",
+  "Live Demonstrations – Python scripting for DevOps tools",
+  "Case Studies & Best Practices – Industry applications of Python in DevOps",
+  "Collaborative Learning – Peer reviews and real-world DevOps challenges",
+  "Capstone Project – Building an automated DevOps pipeline"
+ ],
+ "competencies": [
+  "Automating Infrastructure with Python",
+  "Managing Containers (Docker & Kubernetes) using Python",
+  "Infrastructure as Code (IaC) with Python & Terraform",
+  "Configuring and Deploying Applications using Python & Ansible",
+  "CI/CD Pipeline Automation using Python & Jenkins",
+  "Cloud Automation using Python with AWS, Azure, and GCP"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Write Python scripts for DevOps automation",
+  "Manage cloud infrastructure using Python SDKs (Boto3, Azure SDK)",
+  "Use Python for configuration management with Ansible",
+  "Deploy and manage Docker containers & Kubernetes clusters using Python",
+  "Automate CI/CD pipelines using Python & Jenkins",
+  "Monitor and log system events using Python"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Python for DevOps",
+   "items": [
+    {
+     "text": "Overview of DevOps & Python’s Role",
+     "level": 0
+    },
+    {
+     "text": "Python Basics (Data Types, Loops, Functions, OOP)",
+     "level": 0
+    },
+    {
+     "text": "Python Virtual Environments & Dependency Management",
+     "level": 0
+    },
+    {
+     "text": "Working with APIs & HTTP Requests (Requests Library)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Scripting for DevOps Tasks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Automating Infrastructure with Python",
+   "items": [
+    {
+     "text": "Understanding Infrastructure as Code (IaC)",
+     "level": 0
+    },
+    {
+     "text": "Managing Server Configurations with Python",
+     "level": 0
+    },
+    {
+     "text": "Automating System Administration (SSH, File Handling, Logging)",
+     "level": 0
+    },
+    {
+     "text": "Working with Python & Bash Scripts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Python for Configuration Management",
+   "items": [
+    {
+     "text": "Introduction to Ansible & Python Scripting",
+     "level": 0
+    },
+    {
+     "text": "Writing Ansible Playbooks with Python",
+     "level": 0
+    },
+    {
+     "text": "Automating Configuration Updates",
+     "level": 0
+    },
+    {
+     "text": "Managing Secrets & Credentials",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Containerization with Python & Docker",
+   "items": [
+    {
+     "text": "Introduction to Containers & Docker",
+     "level": 0
+    },
+    {
+     "text": "Writing Python Scripts for Building & Managing Docker Containers",
+     "level": 0
+    },
+    {
+     "text": "Automating Container Orchestration with Docker SDK",
+     "level": 0
+    },
+    {
+     "text": "Using Python with Docker Compose",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Kubernetes Automation with Python",
+   "items": [
+    {
+     "text": "Introduction to Kubernetes (K8s) Architecture",
+     "level": 0
+    },
+    {
+     "text": "Managing Kubernetes Clusters using Python & Kubectl",
+     "level": 0
+    },
+    {
+     "text": "Automating Kubernetes Deployments with Python SDK",
+     "level": 0
+    },
+    {
+     "text": "Monitoring Kubernetes Resources",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: CI/CD Pipeline Automation with Python",
+   "items": [
+    {
+     "text": "Introduction to Continuous Integration & Continuous Deployment",
+     "level": 0
+    },
+    {
+     "text": "Using Python with Jenkins, GitHub Actions, GitLab CI/CD",
+     "level": 0
+    },
+    {
+     "text": "Automating Deployment Pipelines with Python",
+     "level": 0
+    },
+    {
+     "text": "Writing Custom CI/CD Scripts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Cloud Automation with Python (AWS, Azure, GCP)",
+   "items": [
+    {
+     "text": "Using Python SDKs: Boto3 (AWS), Azure SDK, Google Cloud SDK",
+     "level": 0
+    },
+    {
+     "text": "Automating EC2, S3, Lambda Functions with Python",
+     "level": 0
+    },
+    {
+     "text": "Managing Cloud Networking & Security Policies",
+     "level": 0
+    },
+    {
+     "text": "Monitoring & Logging with Python",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Monitoring & Logging with Python",
+   "items": [
+    {
+     "text": "Using Python for System Monitoring & Log Analysis",
+     "level": 0
+    },
+    {
+     "text": "Automating Alerts & Notifications (Slack, Email, Webhooks)",
+     "level": 0
+    },
+    {
+     "text": "Integrating Python with ELK Stack & Prometheus",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Security & Compliance Automation with Python",
+   "items": [
+    {
+     "text": "Writing Security Scripts with Python",
+     "level": 0
+    },
+    {
+     "text": "Automating Compliance Checks & Auditing",
+     "level": 0
+    },
+    {
+     "text": "Implementing Secure DevOps Practices",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

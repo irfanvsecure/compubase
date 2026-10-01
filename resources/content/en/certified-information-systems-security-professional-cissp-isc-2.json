@@ -1,0 +1,206 @@
+{
+ "title": "Certified Information Systems Security Professional (CISSP) – (ISC)²",
+ "duration": "5 Days",
+ "overview": [
+  "The Certified Information Systems Security Professional (CISSP) course is designed to provide a comprehensive understanding of information security principles and practices. This course prepares participants for the CISSP certification exam by covering key domains of security, risk management, and best practices in information security management."
+ ],
+ "audience": [
+  "Information security professionals and managers.",
+  "IT and cybersecurity professionals seeking to validate their expertise in information security.",
+  "Individuals preparing for the CISSP certification exam.",
+  "Security analysts, consultants, and architects interested in advancing their security knowledge and career."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of CISSP concepts, principles, and domains.",
+  "Hands-On Labs: Practical exercises for implementing security measures and policies.",
+  "Case Studies: Real-world scenarios to apply CISSP concepts and solutions.",
+  "Group Discussions: Interactive sessions to explore security challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to gauge understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Information security governance and risk management",
+  "Asset security and security architecture",
+  "Network and communication security",
+  "Security operations and incident management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of CISSP domains and security principles.",
+  "To prepare participants for the CISSP certification exam.",
+  "To equip learners with practical skills for implementing and managing information security.",
+  "To familiarize participants with best practices and advanced concepts in information security management."
+ ],
+ "outline": [
+  {
+   "title": "1. Security and Risk Management",
+   "items": [
+    {
+     "text": "Understanding Security Governance and Compliance",
+     "level": 0
+    },
+    {
+     "text": "Managing Risk and Security Policies",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Frameworks and Standards",
+     "level": 0
+    },
+    {
+     "text": "Conducting Business Continuity Planning and Disaster Recovery",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Asset Security",
+   "items": [
+    {
+     "text": "Classifying and Managing Information and Assets",
+     "level": 0
+    },
+    {
+     "text": "Implementing Data Privacy and Protection Measures",
+     "level": 0
+    },
+    {
+     "text": "Understanding Data Handling and Storage Requirements",
+     "level": 0
+    },
+    {
+     "text": "Securing Information Throughout Its Lifecycle",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Security Engineering",
+   "items": [
+    {
+     "text": "Designing and Implementing Security Architecture",
+     "level": 0
+    },
+    {
+     "text": "Understanding Security Models and Concepts (CIA Triad, Security Controls)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Secure Systems and Application Security",
+     "level": 0
+    },
+    {
+     "text": "Managing Cryptography and Encryption",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Communication and Network Security",
+   "items": [
+    {
+     "text": "Implementing Network Security Architecture and Design",
+     "level": 0
+    },
+    {
+     "text": "Securing Network Protocols and Communication Channels",
+     "level": 0
+    },
+    {
+     "text": "Managing Network Security Devices (Firewalls, IDS/IPS)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Wireless Security and Remote Access",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Identity and Access Management (IAM)",
+   "items": [
+    {
+     "text": "Implementing IAM Policies and Procedures",
+     "level": 0
+    },
+    {
+     "text": "Managing Identity Lifecycle and Authentication Mechanisms",
+     "level": 0
+    },
+    {
+     "text": "Implementing Access Control Models (DAC, MAC, RBAC)",
+     "level": 0
+    },
+    {
+     "text": "Managing Privileged Access and Directory Services",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Security Assessment and Testing",
+   "items": [
+    {
+     "text": "Conducting Security Assessments and Vulnerability Scanning",
+     "level": 0
+    },
+    {
+     "text": "Implementing Penetration Testing and Security Testing",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Security Logs and Monitoring Systems",
+     "level": 0
+    },
+    {
+     "text": "Understanding Security Metrics and Reporting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Security Operations",
+   "items": [
+    {
+     "text": "Managing Security Operations and Incident Response",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Monitoring and Event Management",
+     "level": 0
+    },
+    {
+     "text": "Conducting Forensic Investigations and Handling Security Incidents",
+     "level": 0
+    },
+    {
+     "text": "Understanding Security Operations Best Practices and Procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Software Development Security",
+   "items": [
+    {
+     "text": "Understanding Secure Software Development Lifecycle (SDLC)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Application Security Controls and Testing",
+     "level": 0
+    },
+    {
+     "text": "Managing Security in Software Development and Deployment",
+     "level": 0
+    },
+    {
+     "text": "Addressing Common Software Vulnerabilities (OWASP Top Ten)",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cyber Security Courses.docx"
+}

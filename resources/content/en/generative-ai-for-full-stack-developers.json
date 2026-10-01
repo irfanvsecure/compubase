@@ -1,0 +1,238 @@
+{
+ "title": "Generative AI for Full Stack Developers",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip Full Stack Developers with the knowledge and skills to integrate Generative AI into modern web applications. It covers both frontend and backend AI integrations, focusing on AI-powered chatbots, content generation, intelligent automation, AI-driven recommendations, and code optimization.",
+  "Developers will learn how to leverage AI models like GPT, LLaMA, Stable Diffusion, and Hugging Face APIs to enhance user experiences, improve productivity, and optimize application workflows. By the end of the course, participants will be able to build AI-powered full-stack applications that are scalable, efficient, and user-centric."
+ ],
+ "audience": [
+  "This course is ideal for:",
+  "Full Stack Developers looking to integrate AI into web applications.",
+  "Frontend Engineers interested in AI-powered UX/UI enhancements.",
+  "Backend Developers working with AI-based APIs and automation.",
+  "Tech Leads & Architects designing AI-driven application architectures.",
+  "AI Enthusiasts & Data Engineers looking to merge AI with web development."
+ ],
+ "methodology": [
+  "This course follows a hands-on, project-based approach, including:",
+  "Instructor-led lectures & live coding – Concept explanations and AI tool demonstrations.",
+  "Practical assignments & case studies – Applying AI in real-world web applications.",
+  "Interactive coding labs – Implementing AI-powered features in full-stack projects.",
+  "Capstone project – Developing and deploying a full AI-powered web application."
+ ],
+ "competencies": [
+  "By the end of the course, participants will be proficient in:",
+  "Integrating AI models into frontend and backend architectures.",
+  "Building AI-powered chatbots, recommendation engines, and search features.",
+  "Optimizing full-stack applications with AI-driven automation.",
+  "Deploying AI-enhanced applications on cloud platforms.",
+  "Using AI to generate, debug, and optimize code for full-stack development."
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will:"
+ ],
+ "objectives": [
+  "Build and deploy full-stack applications with AI-powered features.",
+  "Implement AI-enhanced chatbots, search engines, and recommendation systems.",
+  "Use AI for automated content generation and workflow automation.",
+  "Integrate AI APIs and models into frontend and backend systems.",
+  "Optimize full-stack applications using AI-driven insights and automation."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI for Full Stack Developers",
+   "items": [
+    {
+     "text": "Overview of Generative AI and its impact on web development.",
+     "level": 0
+    },
+    {
+     "text": "Exploring AI-powered frontend and backend integrations.",
+     "level": 0
+    },
+    {
+     "text": "Overview of AI tools & APIs (GPT-4, Hugging Face, Open-AI, Mid-Journey, Stable Diffusion, Lang-Chain).",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Setting up an AI-ready full-stack development environment.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI-Powered Content Generation for Web Applications",
+   "items": [
+    {
+     "text": "AI-generated text, blogs, email templates, and SEO-optimized content.Automating form filling, report generation, and dynamic web content.Implementing AI-powered email and notification generation.Hands-on: Integrating AI-powered content generation into a full-stack web app.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI Chatbots & Virtual Assistants for Full Stack Applications",
+   "items": [
+    {
+     "text": "Creating AI-powered chatbots with Open-AI, Rasa, and Dialog-flow.",
+     "level": 0
+    },
+    {
+     "text": "Implementing real-time AI chat support using Web-Sockets.",
+     "level": 0
+    },
+    {
+     "text": "AI-based sentiment analysis for chatbot responses.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building a full-stack AI chatbot with a React frontend and Node.js/Django backend.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI-Powered Recommendation Systems",
+   "items": [
+    {
+     "text": "Implementing AI-based product and content recommendations.",
+     "level": 0
+    },
+    {
+     "text": "Using collaborative and content-based filtering for user personalization.",
+     "level": 0
+    },
+    {
+     "text": "Enhancing user engagement with AI-driven recommendations.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing a full-stack AI recommendation engine.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI-Powered Search & Auto-Completion",
+   "items": [
+    {
+     "text": "Implementing semantic search using AI.",
+     "level": 0
+    },
+    {
+     "text": "AI-driven auto-suggestions and autocomplete for search bars.",
+     "level": 0
+    },
+    {
+     "text": "Enhancing database queries with natural language search.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered intelligent search feature.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI-Generated Code & Development Automation",
+   "items": [
+    {
+     "text": "Using AI for code generation, refactoring, and debugging.",
+     "level": 0
+    },
+    {
+     "text": "AI-assisted unit testing, documentation, and database schema design.",
+     "level": 0
+    },
+    {
+     "text": "Automating API documentation and testing with AI tools.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Generating and optimizing full-stack application code with AI.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI-Enhanced UI/UX & Frontend Optimization",
+   "items": [
+    {
+     "text": "AI-powered UI/UX enhancements for dynamic and personalized interfaces.AI-driven image and video generation using Stable Diffusion.Implementing AI-powered design suggestions and layout optimizations.Hands-on: Building an AI-enhanced frontend with dynamic UI/UX improvements.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: AI for Predictive Analytics & Business Intelligence",
+   "items": [
+    {
+     "text": "Using AI for user behavior prediction and business insights.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered real-time data analytics and visualization.",
+     "level": 0
+    },
+    {
+     "text": "Implementing predictive analytics in full-stack applications.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing an AI-powered business intelligence dashboard.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Deploying AI-Powered Full Stack Applications",
+   "items": [
+    {
+     "text": "Best practices for deploying AI-enhanced full-stack applications.Optimizing performance, security, and scalability of AI features.",
+     "level": 0
+    },
+    {
+     "text": "Deploying AI-powered web apps on AWS, Azure, or Google Cloud.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Deploying an AI-integrated full-stack application.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Capstone Project – AI-Powered Full Stack Web Application",
+   "items": [
+    {
+     "text": "Final project: Building and deploying a full-stack web application with AI-powered features.",
+     "level": 0
+    },
+    {
+     "text": "Peer review and evaluation of AI integrations.",
+     "level": 0
+    },
+    {
+     "text": "Course recap & final Q&A session.",
+     "level": 0
+    },
+    {
+     "text": "Certification and career guidance for AI-powered full-stack development",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "iii",
+   "paras": [],
+   "items": [
+    "Proficiency in frontend (React, Vue, or Angular) and backend (Node.js, Django, Flask, or Express).",
+    "Familiarity with REST APIs, databases (SQL/NoSQL), and cloud deployments.",
+    "Basic understanding of Machine Learning & AI concepts (helpful but optional)."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

@@ -1,0 +1,223 @@
+{
+ "title": "Python for Network Engineers",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to teach network engineers how to leverage Python for network automation, configuration management, and troubleshooting. It covers Python scripting, network device interaction, automation frameworks, and real-world use cases. The course will help network engineers enhance their efficiency, reduce manual tasks, and improve network reliability."
+ ],
+ "audience": [
+  "Network Engineers & Administrators",
+  "Systems Engineers & IT Professionals",
+  "DevOps Engineers working with networking",
+  "Cybersecurity Professionals managing network security",
+  "Aspiring Network Automation Engineers"
+ ],
+ "methodology": [
+  "Hands-on Practice – Writing Python scripts for network tasks",
+  "Live Demonstrations – Real-world network automation scenarios",
+  "Case Studies & Best Practices – Industry examples of network automation",
+  "Collaborative Learning – Group discussions on challenges and solutions",
+  "Capstone Project – Automating a real-world network infrastructure"
+ ],
+ "competencies": [
+  "Python Scripting for Network Automation",
+  "Managing Network Devices using APIs & Libraries (Netmiko, Paramiko, NAPALM)",
+  "Automating Network Configuration & Management",
+  "Using Python for Network Monitoring & Troubleshooting",
+  "Integrating Python with DevOps & Cloud Networking"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Write Python scripts for network automation",
+  "Manage network devices via SSH, Telnet, and APIs",
+  "Automate network configuration and updates",
+  "Monitor network performance using Python scripts",
+  "Integrate Python with network automation tools like Ansible & Nornir",
+  "Work with cloud networking and SDN automation"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Python for Network Engineering",
+   "items": [
+    {
+     "text": "Why Python for Networking?",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Python Development Environment (VS Code, PyCharm, Jupyter)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Python Scripting Basics (Data Types, Loops, Functions, OOP)",
+     "level": 0
+    },
+    {
+     "text": "Working with Python Virtual Environments & Dependency Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Network Automation Basics",
+   "items": [
+    {
+     "text": "Introduction to Network Automation & its benefits",
+     "level": 0
+    },
+    {
+     "text": "Overview of Networking Protocols (TCP/IP, HTTP, SSH, Telnet, SNMP, REST APIs)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Automation Libraries (Netmiko, Paramiko, NAPALM, PyATS)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Managing Network Devices with Python",
+   "items": [
+    {
+     "text": "Connecting to network devices using SSH & Telnet (Paramiko & Netmiko)",
+     "level": 0
+    },
+    {
+     "text": "Automating Device Configuration & Backup",
+     "level": 0
+    },
+    {
+     "text": "Running Commands on Cisco, Juniper, and Arista devices",
+     "level": 0
+    },
+    {
+     "text": "Using NAPALM for multi-vendor network automation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Network Monitoring & Troubleshooting with Python",
+   "items": [
+    {
+     "text": "Using Python for Ping, Traceroute, and Port Scanning",
+     "level": 0
+    },
+    {
+     "text": "Automating SNMP Monitoring & Log Analysis",
+     "level": 0
+    },
+    {
+     "text": "Real-time Syslog & NetFlow Analysis",
+     "level": 0
+    },
+    {
+     "text": "Writing Python scripts for Network Health Checks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: APIs for Network Automation",
+   "items": [
+    {
+     "text": "Understanding REST APIs & JSON Data",
+     "level": 0
+    },
+    {
+     "text": "Working with Cisco’s RESTCONF & NETCONF APIs",
+     "level": 0
+    },
+    {
+     "text": "Automating Cloud Networking (AWS, Azure)",
+     "level": 0
+    },
+    {
+     "text": "Extracting network data using Python",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Configuration Management & Ansible Integration",
+   "items": [
+    {
+     "text": "Introduction to Infrastructure as Code (IaC)",
+     "level": 0
+    },
+    {
+     "text": "Automating device configurations using Python & Ansible",
+     "level": 0
+    },
+    {
+     "text": "Writing Ansible Playbooks for Network Automation",
+     "level": 0
+    },
+    {
+     "text": "Using Nornir for large-scale automation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: SDN & Cloud Networking with Python",
+   "items": [
+    {
+     "text": "Understanding Software-Defined Networking (SDN)",
+     "level": 0
+    },
+    {
+     "text": "Automating Cloud Networks using Python SDKs (AWS, Azure, GCP)",
+     "level": 0
+    },
+    {
+     "text": "Managing Cisco ACI, OpenFlow, and VMware NSX with Python",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Network Function Virtualization (NFV) & Cloud APIs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Security & Compliance Automation",
+   "items": [
+    {
+     "text": "Automating Security Audits with Python",
+     "level": 0
+    },
+    {
+     "text": "Implementing Firewalls & ACL Automation",
+     "level": 0
+    },
+    {
+     "text": "Writing scripts for DDoS Detection & Intrusion Prevention",
+     "level": 0
+    },
+    {
+     "text": "Automating Compliance Reporting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Logging, Alerting, and Reporting",
+   "items": [
+    {
+     "text": "Capturing Syslogs & SNMP Traps using Python",
+     "level": 0
+    },
+    {
+     "text": "Sending Automated Alerts (Slack, Email, Webhooks)",
+     "level": 0
+    },
+    {
+     "text": "Generating Network Reports & Dashboards using Python",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

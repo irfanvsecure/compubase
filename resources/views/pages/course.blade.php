@@ -6,6 +6,11 @@
     $duration = Catalog::duration($course['days']);
     $content = Catalog::content($course);
     $photo = Catalog::photo($course);
+    $summary = Catalog::summary($course);
+    $hasObjectives = $content && ($content['competencies'] || $content['objectives'] || $content['objectivesIntro']);
+    $hasAudience = ! $content || $content['audience'];
+    // An outline-only document has nothing for the Overview tab, so the page opens on the outline.
+    $hasOverview = ! $content || $photo || $content['overview'] || $content['methodology'] || ! empty($content['extra']);
 @endphp
 
 @section('page', 'course')
@@ -53,7 +58,7 @@
     <div>
       <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:5px 12px">{{ $course['catEn'] }}</span>
       <h1>{{ $title }}</h1>
-      <p class="lead">{{ $content ? preg_split('/(?<=\.)\s/', $content['overview'][0], 2)[0] : '[Course summary from the CompuBase course outline.]' }}</p>
+      @if ($summary || ! $content)<p class="lead">{{ $summary ?? '[Course summary from the CompuBase course outline.]' }}</p>@endif
       <div class="hero-meta">
         <div><span>Duration</span><b>{{ $duration }}</b></div>
         <div><span>Days</span><b>Monday to Friday</b></div>
@@ -80,17 +85,20 @@
   <div class="container">
     <div>
       <div class="tabs" role="tablist">
-        <a href="#overview" data-tab="overview" class="active" role="tab">Overview</a>
-        @if ($content)<a href="#objectives" data-tab="objectives" role="tab">Objectives</a>@endif
-        <a href="#outline" data-tab="outline" role="tab">Course outline</a>
-        <a href="#" data-scroll="attend-side">Who should attend</a>
+        @if ($hasOverview)<a href="#overview" data-tab="overview" class="active" role="tab">Overview</a>@endif
+        @if ($hasObjectives)<a href="#objectives" data-tab="objectives" role="tab">Objectives</a>@endif
+        <a href="#outline" data-tab="outline" @class(['active' => ! $hasOverview]) role="tab">Course outline</a>
+        @if ($hasAudience)<a href="#" data-scroll="attend-side">Who should attend</a>@endif
       </div>
 
+      @if ($hasOverview)
       <div class="tab-panel active" id="overview" role="tabpanel">
         @if ($photo)<img class="course-photo" src="{{ $photo }}" alt="{{ $title }}">@endif
         @if ($content)
+        @if ($content['overview'])
         <h2>Course overview</h2>
         @foreach ($content['overview'] as $para)<p>{{ $para }}</p>@endforeach
+        @endif
         @if ($content['methodology'])
         <h2>Training methodology</h2>
         @foreach ($content['methodology'] as $para)<p>{{ $para }}</p>@endforeach
@@ -121,8 +129,9 @@
         <div class="placeholder-note">[Course description from the CompuBase course outline.]</div>
         @endif
       </div>
+      @endif
 
-      @if ($content)
+      @if ($hasObjectives)
       <div class="tab-panel" id="objectives" role="tabpanel">
         @if ($content['competencies'])
         <h2>Target competencies</h2>
@@ -130,15 +139,17 @@
           @foreach ($content['competencies'] as $item)<li>{{ $item }}</li>@endforeach
         </ul>
         @endif
+        @if ($content['objectives'] || $content['objectivesIntro'])
         <h2>Course objectives</h2>
         @foreach ($content['objectivesIntro'] as $para)<p>{{ $para }}</p>@endforeach
         <ul class="outcomes">
           @foreach ($content['objectives'] as $item)<li>{{ $item }}</li>@endforeach
         </ul>
+        @endif
       </div>
       @endif
 
-      <div class="tab-panel" id="outline" role="tabpanel">
+      <div @class(['tab-panel', 'active' => ! $hasOverview]) id="outline" role="tabpanel">
         <h2>Course outline</h2>
         @if ($content)
         @foreach ($content['outline'] as $module)
@@ -167,6 +178,7 @@
 
     </div>
     <aside>
+      @if ($hasAudience)
       <div class="side-box" id="attend-side">
         <h4>Who should attend</h4>
         @if ($content)
@@ -175,6 +187,7 @@
         <div class="placeholder-note" style="margin-top:0">[Target audience from the CompuBase course outline.]</div>
         @endif
       </div>
+      @endif
     </aside>
   </div>
 </section>
@@ -210,7 +223,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
-        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, and more. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
+        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>

@@ -1,0 +1,143 @@
+{
+ "title": "Microsoft Certified: Windows Server Hybrid Administrator Associate",
+ "duration": "5 Days",
+ "overview": [
+  "The Microsoft Certified: Windows Server Hybrid Administrator Associate course is designed to provide participants with the skills needed to manage and administer hybrid Windows Server environments. The course covers Windows Server installation, configuration, and management both on-premises and in the cloud, focusing on hybrid scenarios that integrate on-premises and Azure resources."
+ ],
+ "audience": [
+  "IT professionals responsible for managing Windows Server environments.",
+  "System administrators and network engineers working with hybrid cloud solutions.",
+  "Individuals seeking to enhance their skills in managing Windows Server in hybrid environments.",
+  "Students and learners aiming for certification in Windows Server administration."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of Windows Server concepts and hybrid administration.",
+  "Hands-On Labs: Practical exercises for configuring and managing Windows Server environments both on-premises and in Azure.",
+  "Case Studies: Real-world scenarios to apply hybrid administration knowledge and skills.",
+  "Group Discussions: Interactive sessions to explore hybrid cloud challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Windows Server installation and configuration",
+  "Managing Windows Server in hybrid environments",
+  "Integration with Azure services",
+  "Security and compliance management in hybrid scenarios"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of Windows Server administration in hybrid environments.",
+  "To develop practical skills in configuring and managing Windows Server both on-premises and in Azure.",
+  "To prepare participants for the Microsoft Certified: Windows Server Hybrid Administrator Associate certification exam.",
+  "To familiarize participants with real-world hybrid administration scenarios and best practices."
+ ],
+ "outline": [
+  {
+   "title": "1. Windows Server Installation and Configuration",
+   "items": [
+    {
+     "text": "Installing and Configuring Windows Server 2022",
+     "level": 0
+    },
+    {
+     "text": "Managing Server Roles and Features",
+     "level": 0
+    },
+    {
+     "text": "Configuring Networking and Storage Solutions",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Managing Active Directory Domain Services (AD DS)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Hybrid Cloud Integration",
+   "items": [
+    {
+     "text": "Understanding Hybrid Cloud Concepts and Benefits",
+     "level": 0
+    },
+    {
+     "text": "Integrating Windows Server with Azure Services (Azure AD, Azure Backup)",
+     "level": 0
+    },
+    {
+     "text": "Configuring Azure Arc for Hybrid Management",
+     "level": 0
+    },
+    {
+     "text": "Managing Hybrid Environments with Azure Site Recovery",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Managing Windows Server in Hybrid Environments",
+   "items": [
+    {
+     "text": "Implementing and Managing Windows Admin Center",
+     "level": 0
+    },
+    {
+     "text": "Configuring and Managing Hybrid Identities with Azure AD Connect",
+     "level": 0
+    },
+    {
+     "text": "Implementing Group Policy and Security Settings in Hybrid Scenarios",
+     "level": 0
+    },
+    {
+     "text": "Managing Updates and Patching in Hybrid Environments",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Security and Compliance Management",
+   "items": [
+    {
+     "text": "Implementing Security Measures and Best Practices for Hybrid Environments",
+     "level": 0
+    },
+    {
+     "text": "Configuring Windows Defender and Advanced Threat Protection",
+     "level": 0
+    },
+    {
+     "text": "Managing Compliance and Regulatory Requirements",
+     "level": 0
+    },
+    {
+     "text": "Implementing Data Protection and Encryption Solutions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Monitoring and Troubleshooting",
+   "items": [
+    {
+     "text": "Monitoring Windows Server Performance and Health",
+     "level": 0
+    },
+    {
+     "text": "Using Diagnostic Tools and Logs for Troubleshooting",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Managing Backup and Recovery Solutions",
+     "level": 0
+    },
+    {
+     "text": "Resolving Common Issues in Hybrid Environments",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}

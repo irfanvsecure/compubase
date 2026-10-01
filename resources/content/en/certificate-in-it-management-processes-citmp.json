@@ -1,0 +1,235 @@
+{
+ "title": "Certificate in IT Management Processes (CITMP)",
+ "duration": "5 Days",
+ "overview": [
+  "The omnipresence of information technology (IT) across an organization creates a scenario where an organization’s success depends on IT success. Consequently, if IT is fragile then so is the organization and its business.",
+  "Very often we hear about failed IT projects, major cyber incidents, and rising costs of IT. Other times we hear about outsourcing issues, difficulties complying with regulations or repeated audit findings. Common among these issues is that someone, somewhere, left something to chance.",
+  "This course gives participants the knowledge to manage IT processes in a robust manner, to seek out hidden problems and to prevent these problems from erupting at the most unexpected moment. This course provides participants the insight required to strengthen IT, which in turn strengthens the organization."
+ ],
+ "audience": [
+  "This course is suitable for anyone who is managing an IT team or who is responsible to establish IT processes within an organization. This includes, but is not limited to, Chief Technology Officers, IT department or team managers, Auditors, Risk Managers, Compliance Officers and any other professionals involved in defining or leading IT functions, processes and capabilities within an organization."
+ ],
+ "methodology": [
+  "This course will be highly interactive with group discussions, case studies, hands-on practical exercises, and group activities being the core focus."
+ ],
+ "competencies": [
+  "IT Management",
+  "IT Process Maturity Assessment",
+  "Organizational Change Management",
+  "Management Systems"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify IT management processes required by their organization and align these to business objectives",
+  "Apply best practices for defining common IT processes",
+  "Apply management system components to build or improve an IT management process",
+  "Conduct gap analysis on IT process maturity to identify areas that need to be improved",
+  "Perform risk assessments on IT management processes and implement controls to ensure IT management processes achieve the required objectives"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Common IT Processes",
+   "items": [
+    {
+     "text": "Common IT processes",
+     "level": 0
+    },
+    {
+     "text": "Drivers for robust IT processes",
+     "level": 0
+    },
+    {
+     "text": "Objectives of common IT processes",
+     "level": 0
+    },
+    {
+     "text": "Aligning IT processes to business objectives",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Components of a Management System",
+   "items": [
+    {
+     "text": "Policies and organizational imperatives",
+     "level": 0
+    },
+    {
+     "text": "Organizational structures",
+     "level": 0
+    },
+    {
+     "text": "Information for decision making",
+     "level": 0
+    },
+    {
+     "text": "Tools",
+     "level": 0
+    },
+    {
+     "text": "Culture and behavior",
+     "level": 0
+    },
+    {
+     "text": "Control framework",
+     "level": 0
+    },
+    {
+     "text": "Rewards and disciplinary actions",
+     "level": 0
+    },
+    {
+     "text": "Processes",
+     "level": 0
+    },
+    {
+     "text": "Documentation",
+     "level": 0
+    },
+    {
+     "text": "Skills",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Deep Dive into Common IT Processes",
+   "items": [
+    {
+     "text": "IT risk management",
+     "level": 0
+    },
+    {
+     "text": "Cyber security",
+     "level": 0
+    },
+    {
+     "text": "IT outsourcing and cloud computing",
+     "level": 0
+    },
+    {
+     "text": "Business continuity and disaster recovery",
+     "level": 0
+    },
+    {
+     "text": "Project management",
+     "level": 0
+    },
+    {
+     "text": "Change management",
+     "level": 0
+    },
+    {
+     "text": "Data governance",
+     "level": 0
+    },
+    {
+     "text": "Incident management and escalation",
+     "level": 0
+    },
+    {
+     "text": "Asset management",
+     "level": 0
+    },
+    {
+     "text": "Service management",
+     "level": 0
+    },
+    {
+     "text": "Problem management",
+     "level": 0
+    },
+    {
+     "text": "Capacity management",
+     "level": 0
+    },
+    {
+     "text": "Enterprise architecture",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Process Maturity",
+   "items": [
+    {
+     "text": "Process purpose and outcomes",
+     "level": 0
+    },
+    {
+     "text": "IT Process risks",
+     "level": 0
+    },
+    {
+     "text": "Metrics",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and dashboards",
+     "level": 0
+    },
+    {
+     "text": "Maturity of management system components",
+     "level": 0
+    },
+    {
+     "text": "Process maturity",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Organizational Change Management and Culture",
+   "items": [
+    {
+     "text": "Gap analysis",
+     "level": 0
+    },
+    {
+     "text": "Drivers for change",
+     "level": 0
+    },
+    {
+     "text": "Identifying current maturity",
+     "level": 0
+    },
+    {
+     "text": "Identifying desired maturity",
+     "level": 0
+    },
+    {
+     "text": "Performing the gap analysis",
+     "level": 0
+    },
+    {
+     "text": "Implementing change",
+     "level": 0
+    },
+    {
+     "text": "Establish the need to change",
+     "level": 0
+    },
+    {
+     "text": "Creating an effective plan",
+     "level": 0
+    },
+    {
+     "text": "Communication",
+     "level": 0
+    },
+    {
+     "text": "Empowering role players",
+     "level": 0
+    },
+    {
+     "text": "Keeping the momentum",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

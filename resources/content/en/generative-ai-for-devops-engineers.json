@@ -1,0 +1,265 @@
+{
+ "title": "Generative AI for DevOps Engineers",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides an in-depth exploration of how Generative AI can enhance DevOps workflows, including CI/CD automation, infrastructure as code (IaC), log analysis, anomaly detection, security monitoring, and incident response. Participants will learn how to integrate AI-driven automation into DevOps pipelines, leverage AI-powered chatbots for support, and optimize cloud operations using AI tools.",
+  "By the end of this training, DevOps engineers will be able to use Python-based AI frameworks, OpenAI APIs, and cloud-native AI services to build intelligent DevOps solutions that improve efficiency, security, and scalability."
+ ],
+ "audience": [
+  "This course is designed for:",
+  "DevOps Engineers & SREs seeking to automate and optimize operations using AI.",
+  "Cloud Engineers integrating AI in cloud-native applications and workflows.",
+  "System Administrators using AI for log analysis, security monitoring, and incident response.",
+  "Software Developers & Automation Engineers looking to incorporate AI in CI/CD.",
+  "Tech Leads & IT Managers exploring AI-driven DevOps strategies."
+ ],
+ "methodology": [
+  "The course follows a hands-on, practical approach that includes:",
+  "Instructor-led sessions & demos – AI integration with DevOps workflows.",
+  "Live coding & hands-on labs – Using Python, AI models, and cloud AI services.",
+  "Practical exercises & real-world case studies – Implementing AI in DevOps.",
+  "Group discussions & Q&A – Exploring best practices and troubleshooting.",
+  "Capstone project – Deploying an AI-powered DevOps automation tool."
+ ],
+ "competencies": [
+  "By completing this course, participants will gain skills in:",
+  "Automating CI/CD workflows using AI.",
+  "Leveraging AI for log analysis & anomaly detection.",
+  "Building AI-powered ChatOps bots for incident management.",
+  "Using AI for predictive scaling & cloud cost optimization.",
+  "Integrating AI in security monitoring & compliance automation.",
+  "Deploying AI-driven DevOps solutions in cloud environments."
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand how Generative AI enhances DevOps workflows.",
+  "Implement AI-based automation in CI/CD pipelines.",
+  "Use AI for log analysis, anomaly detection, and predictive monitoring.",
+  "Build AI-powered ChatOps bots for DevOps support.",
+  "Optimize cloud infrastructure using AI-driven cost management.",
+  "Deploy AI-based security monitoring and compliance automation."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI for DevOps",
+   "items": [
+    {
+     "text": "What is Generative AI, and why does it matter in DevOps?",
+     "level": 0
+    },
+    {
+     "text": "AI-driven automation in CI/CD, security, monitoring, and cloud management.",
+     "level": 0
+    },
+    {
+     "text": "Overview of AI tools for DevOps (OpenAI API, LangChain, Hugging Face, AWS AI services).",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Exploring AI-powered DevOps use cases with Python.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI-Powered CI/CD Automation",
+   "items": [
+    {
+     "text": "Automating CI/CD pipelines with AI.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered code review & static analysis.",
+     "level": 0
+    },
+    {
+     "text": "Using LLMs to generate & optimize infrastructure code (Terraform, Ansible).",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered CI/CD assistant.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI-Driven Log Analysis & Anomaly Detection",
+   "items": [
+    {
+     "text": "Using AI for log parsing & error detection.",
+     "level": 0
+    },
+    {
+     "text": "AI-based anomaly detection in system & application logs.",
+     "level": 0
+    },
+    {
+     "text": "Automating root cause analysis (RCA) using LLMs.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing an AI-based log monitoring tool.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI for Incident Management & ChatOps",
+   "items": [
+    {
+     "text": "AI-powered ChatOps bots for automated troubleshooting.",
+     "level": 0
+    },
+    {
+     "text": "Integrating AI with Slack, Teams, and Discord for real-time DevOps support.",
+     "level": 0
+    },
+    {
+     "text": "AI-driven incident response automation.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI chatbot for incident management.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Predictive Scaling & AI-Driven Cloud Cost Optimization",
+   "items": [
+    {
+     "text": "AI in predictive autoscaling for cloud workloads.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered resource allocation & cost optimization.",
+     "level": 0
+    },
+    {
+     "text": "Using machine learning for anomaly detection in cloud billing.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-driven cloud cost optimization tool.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI for Security Monitoring & Compliance Automation",
+   "items": [
+    {
+     "text": "AI-based threat detection & security monitoring in DevOps.",
+     "level": 0
+    },
+    {
+     "text": "AI for compliance automation (GDPR, SOC 2, ISO 27001, NIST).",
+     "level": 0
+    },
+    {
+     "text": "AI-powered vulnerability scanning & risk assessment.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing an AI security compliance checker.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI-Driven Infrastructure as Code (IaC) Optimization",
+   "items": [
+    {
+     "text": "Generative AI for Terraform, Ansible, and Kubernetes automation.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered configuration drift detection & remediation.",
+     "level": 0
+    },
+    {
+     "text": "Automating infrastructure provisioning & policy enforcement with AI.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI to generate and optimize Terraform configurations.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: AI in Performance Monitoring & Troubleshooting",
+   "items": [
+    {
+     "text": "AI-driven application performance monitoring (APM).",
+     "level": 0
+    },
+    {
+     "text": "Predictive AI for capacity planning and fault prediction.",
+     "level": 0
+    },
+    {
+     "text": "AI-enhanced troubleshooting for Kubernetes and microservices.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing an AI-driven performance monitoring system.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: AI-Powered SRE & Reliability Engineering",
+   "items": [
+    {
+     "text": "Using AI for Service Level Objective (SLO) tracking.",
+     "level": 0
+    },
+    {
+     "text": "AI-based error budget analysis and reliability forecasting.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered post-mortem automation & RCA reporting.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered SRE assistant.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Capstone Project – AI-Driven DevOps Automation",
+   "items": [
+    {
+     "text": "Final project: Developing and deploying an AI-powered DevOps automation tool.",
+     "level": 0
+    },
+    {
+     "text": "Peer review and evaluation of AI DevOps implementations.",
+     "level": 0
+    },
+    {
+     "text": "Certification and career guidance for AI-powered DevOps roles",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "iii",
+   "paras": [],
+   "items": [
+    "Basic Python programming knowledge.",
+    "Understanding of DevOps concepts & tools (Docker, Kubernetes, Terraform, CI/CD).",
+    "Familiarity with Cloud Platforms (AWS, Azure, GCP) (recommended but optional)."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

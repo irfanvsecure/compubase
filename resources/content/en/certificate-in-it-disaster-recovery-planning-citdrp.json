@@ -1,0 +1,278 @@
+{
+ "title": "Certificate in IT Disaster Recovery Planning (CITDRP)",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides participants with concrete solutions, strategies and insights into the delivery of an effective IT infrastructure and disaster recovery plan with the goal of establishing resilience measures to protect their organizations’ IT.",
+  "Using tested processes and procedures, participants will analyze the risks and impact to IT operations that threats might cause. A framework for building operational resilience will be provided to deliver an effective response for safeguarding the organizations technology interests and value-creating activities.",
+  "This practical course provides participants with a framework that considers ISO 27031, ISO 20000, ITIL and ISO 22301, aligned with the Business Continuity Institute (BCI) Good Practice Guidelines (GPG) 2013 and NCEMA 7000-2012."
+ ],
+ "audience": [
+  "IT managers and professionals, including Disaster Recovery (DR) managers or anyone responsible for, or involved with, Disaster Recovery Plans (DRP), Business Continuity Plans (BCP) and/or technology and IT auditing."
+ ],
+ "methodology": [
+  "This course will be highly interactive and includes group discussions, videos, case studies and syndicate work.",
+  "Risk Evaluation, BIA and High Level IT DR Plan Templates will be applied during the course and given for use after the course. Supporting information, such as Steering Committee Terms of Reference (ToR’s), Change Management, DR Test Strategy and testing processes and procedures will also be made available.",
+  "It includes specific templates for carrying-out a Business Impact Analysis (BIA) as well as completion of an IT DR Plan (DRP) that participants will be able to take away for use in their own organizations."
+ ],
+ "competencies": [
+  "Applying IT Readiness for Business Continuity (IRBC)",
+  "Conducting Risk Evaluation",
+  "Conducting Business Impact Analysis",
+  "Incident and Change Management",
+  "Disaster Recovery Planning",
+  "IT Disaster Recovery Testing"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Consider policies, objectives, targets, processes and procedures that are relevant to managing risk and improving IT Readiness for Business Continuity (IRBC)",
+  "Apply best practice to build IT infrastructure and operational sustainability, including security of the environment",
+  "Describe the processes and procedures to carry out a risk evaluation and identify risks, threats, hazards, vulnerabilities and weaknesses that could affect your organization",
+  "Review the key components of asset, human, change and supply chain management that are specific to IT",
+  "Discuss the components of a successful IT Disaster Recovery (DR) Program, including data management and the key components that are necessary to carry out a technology Business Impact Analysis (BIA)",
+  "Estimate the Maximum Tolerable Period of Disruption (MTPD), to then identify the relationship with Recovery Time Objective (RTO) and Recovery Point Objective (RPO)",
+  "Produce a High Level IT Disaster Recovery Plan"
+ ],
+ "outline": [
+  {
+   "title": "IT infrastructure",
+   "items": [
+    {
+     "text": "The issue of resilience",
+     "level": 0
+    },
+    {
+     "text": "ISO 27031 Relationship with Information Security Management System (ISMS)",
+     "level": 0
+    },
+    {
+     "text": "Data center and IT infrastructure",
+     "level": 0
+    },
+    {
+     "text": "Operational sustainability",
+     "level": 0
+    },
+    {
+     "text": "Data center site infrastructure tier standard",
+     "level": 1
+    },
+    {
+     "text": "Elements of operational sustainability",
+     "level": 1
+    },
+    {
+     "text": "Infrastructure strategy and policy",
+     "level": 0
+    },
+    {
+     "text": "The strategy – how and depth",
+     "level": 1
+    },
+    {
+     "text": "The policy requirements",
+     "level": 1
+    },
+    {
+     "text": "Site and building protection",
+     "level": 1
+    },
+    {
+     "text": "Network and information systems protection",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Risk evaluation and Business Impact Analysis (BIA)",
+   "items": [
+    {
+     "text": "Site and building risk assessment",
+     "level": 0
+    },
+    {
+     "text": "PESTLE analysis (Political, Economic, Sociological, Technological, Legal, Environmental)",
+     "level": 0
+    },
+    {
+     "text": "Types of BIA; strategic, tactical and operational",
+     "level": 0
+    },
+    {
+     "text": "Implementation methods for technology BIA",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Managing recovery plans",
+   "items": [
+    {
+     "text": "Processes and procedures for supply chain management using a 3PQ (Third Party Questionnaire) approach, aligned with BSI PAS 7000",
+     "level": 0
+    },
+    {
+     "text": "On and off-site data and information storage, including emergency response arrangements",
+     "level": 0
+    },
+    {
+     "text": "Change management processes and procedures for day-to-day requirements",
+     "level": 0
+    },
+    {
+     "text": "Risk control measures for critical supporting equipment and systems",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Understanding IT Disaster Recovery (DR) and reviewing the main activities",
+   "items": [
+    {
+     "text": "DR lifecycle, including resources and training",
+     "level": 0
+    },
+    {
+     "text": "IT DR as part of the ISMS",
+     "level": 0
+    },
+    {
+     "text": "Scope of IT elements and requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "IT disaster recovery plans",
+   "items": [
+    {
+     "text": "Building technology recovery plans",
+     "level": 0
+    },
+    {
+     "text": "Plan ownership and structure, and roles and responsibilities of IT DR Team",
+     "level": 1
+    },
+    {
+     "text": "Data and information sources, and internal and external dependencies",
+     "level": 1
+    },
+    {
+     "text": "Best practice considerations using ISO 27301, as well as ISO 20000 and ITIL",
+     "level": 1
+    },
+    {
+     "text": "Managing and recovering end-user computing and communications technology and infrastructure",
+     "level": 1
+    },
+    {
+     "text": "Recovery options",
+     "level": 1
+    },
+    {
+     "text": "Developing, implementing and testing",
+     "level": 0
+    },
+    {
+     "text": "Ownership and plan structure",
+     "level": 1
+    },
+    {
+     "text": "Roles and responsibilities of BC Champion and Team Leaders",
+     "level": 1
+    },
+    {
+     "text": "Command, Coordination, Communications and Intelligence (C3i)",
+     "level": 1
+    },
+    {
+     "text": "Role of the command center and essentials",
+     "level": 1
+    },
+    {
+     "text": "Equipment and supporting information",
+     "level": 1
+    },
+    {
+     "text": "Producing Situation Reports (SITREPS)",
+     "level": 1
+    },
+    {
+     "text": "Types of testing/exercising",
+     "level": 1
+    },
+    {
+     "text": "Major incident response",
+     "level": 0
+    },
+    {
+     "text": "Defining an “incident” and the escalation process",
+     "level": 1
+    },
+    {
+     "text": "Establishing Command, Coordination and Communications (3C)",
+     "level": 1
+    },
+    {
+     "text": "Clarifying the role of the Network Operations Centre (NOC)",
+     "level": 1
+    },
+    {
+     "text": "Emergency response and plan invocation",
+     "level": 1
+    },
+    {
+     "text": "Consideration of the supporting information, equipment and systems required",
+     "level": 1
+    },
+    {
+     "text": "Production of Situation Reports (SITREPS), activity logging and tools",
+     "level": 1
+    },
+    {
+     "text": "Post incident review",
+     "level": 0
+    },
+    {
+     "text": "Learning from incidents",
+     "level": 1
+    },
+    {
+     "text": "The value of post-incident review",
+     "level": 1
+    },
+    {
+     "text": "Post-incident process",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Audit and maintenance",
+   "items": [
+    {
+     "text": "What is the function of an IT audit?",
+     "level": 0
+    },
+    {
+     "text": "Steering Committee and Terms of Reference (ToR’s)",
+     "level": 0
+    },
+    {
+     "text": "Overriding management review and continuous improvement",
+     "level": 0
+    },
+    {
+     "text": "Incorporating DR into the organization lifecycle processes and establishing virtual teams",
+     "level": 0
+    },
+    {
+     "text": "DR documentation and working with internal and external audit functions",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

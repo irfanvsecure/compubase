@@ -1,0 +1,164 @@
+{
+ "title": "Certified Agile Project Manager",
+ "duration": "3 Days",
+ "overview": [
+  "The Certified Agile Project Manager course provides a thorough understanding of Agile project management principles, methodologies, and practices. It is designed to equip participants with the skills necessary to manage Agile projects effectively and lead Agile teams. The course covers various Agile frameworks, including Scrum, Kanban, and Lean, and emphasizes practical application and management techniques."
+ ],
+ "audience": [
+  "Project managers and team leaders involved in Agile projects.",
+  "Professionals seeking to advance their skills in Agile project management.",
+  "Scrum Masters, Product Owners, and Agile Coaches.",
+  "Individuals preparing for certification in Agile project management."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Comprehensive explanations of Agile principles and practices.",
+  "Hands-On Labs: Practical exercises and simulations to apply Agile techniques.",
+  "Case Studies: Analysis of real-world Agile projects and challenges.",
+  "Group Discussions: Interactive sessions to explore Agile concepts and experiences.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for certification."
+ ],
+ "competencies": [
+  "Agile project management principles and frameworks",
+  "Team collaboration and leadership",
+  "Agile planning, execution, and delivery",
+  "Managing Agile projects and stakeholders"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a deep understanding of Agile project management principles and practices.",
+  "To develop skills for managing and leading Agile projects effectively.",
+  "To prepare participants for the Certified Agile Project Manager certification exam.",
+  "To equip participants with techniques for successful Agile project execution and team management."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Agile Project Management",
+   "items": [
+    {
+     "text": "Overview of Agile Principles and Values",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Challenges of Agile Project Management",
+     "level": 0
+    },
+    {
+     "text": "Comparison of Agile with Traditional Project Management Approaches",
+     "level": 0
+    },
+    {
+     "text": "Agile Methodologies and Frameworks (Scrum, Kanban, Lean)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Agile Frameworks and Methodologies",
+   "items": [
+    {
+     "text": "Detailed Study of Scrum Framework and Its Practices",
+     "level": 0
+    },
+    {
+     "text": "Understanding Kanban and Lean Principles",
+     "level": 0
+    },
+    {
+     "text": "Implementing Agile Techniques for Planning and Execution",
+     "level": 0
+    },
+    {
+     "text": "Choosing the Right Agile Framework for Your Project",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Agile Project Planning and Execution",
+   "items": [
+    {
+     "text": "Developing Agile Project Plans and Roadmaps",
+     "level": 0
+    },
+    {
+     "text": "Implementing Iterative Development and Continuous Delivery",
+     "level": 0
+    },
+    {
+     "text": "Managing and Prioritizing Backlogs",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Estimation, Scheduling, and Resource Allocation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Team Dynamics and Leadership",
+   "items": [
+    {
+     "text": "Building and Leading High-Performing Agile Teams",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Effective Team Collaboration and Communication",
+     "level": 0
+    },
+    {
+     "text": "Managing Team Dynamics and Resolving Conflicts",
+     "level": 0
+    },
+    {
+     "text": "Coaching and Mentoring Agile Team Members",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Stakeholder Engagement and Communication",
+   "items": [
+    {
+     "text": "Engaging and Managing Stakeholders in Agile Projects",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Effective Communication and Collaboration",
+     "level": 0
+    },
+    {
+     "text": "Handling Stakeholder Expectations and Feedback",
+     "level": 0
+    },
+    {
+     "text": "Managing Changes and Scope in Agile Projects",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Agile Metrics and Continuous Improvement",
+   "items": [
+    {
+     "text": "Measuring and Monitoring Agile Project Performance",
+     "level": 0
+    },
+    {
+     "text": "Using Agile Metrics and KPIs for Project Management",
+     "level": 0
+    },
+    {
+     "text": "Implementing Continuous Improvement Practices",
+     "level": 0
+    },
+    {
+     "text": "Conducting Retrospectives and Incorporating Feedback",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Agile Management Courses.docx"
+}

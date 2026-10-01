@@ -1,0 +1,257 @@
+{
+ "title": "Generative AI Course for Everyone",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a beginner-friendly introduction to Generative AI, covering its fundamentals, real-world applications, ethical considerations, and hands-on usage of AI tools. Participants will explore how AI models like Chat-GPT, Mid-Journey, Stable Diffusion, and Open-AI’s DALL·E can be used for content creation, automation, and problem-solving in various fields such as business, education, marketing, and software development.",
+  "By the end of this course, learners will have a strong understanding of how to effectively use Generative AI in their personal and professional lives, even without prior technical expertise."
+ ],
+ "audience": [
+  "This course is designed for everyone, including:",
+  "Business Professionals looking to improve productivity using AI.",
+  "Students & Educators interested in leveraging AI for learning and research.",
+  "Marketing & Content Creators exploring AI for writing, design, and media.",
+  "Entrepreneurs & Freelancers using AI for business growth.",
+  "Tech Enthusiasts who want a non-technical introduction to AI.",
+  "Software Developers & Analysts who want to explore AI-driven automation.",
+  "No programming or AI background is required."
+ ],
+ "methodology": [
+  "The course follows a practical and interactive learning approach, including:",
+  "Instructor-led sessions – Explaining AI concepts in simple terms.",
+  "Hands-on exercises & live demos – Using AI tools for content creation, automation, and analysis.",
+  "Real-world case studies – Exploring how AI is transforming industries.",
+  "Group discussions & Q&A – Encouraging collaborative learning.",
+  "Capstone project – Applying AI tools to a personalized use case."
+ ],
+ "competencies": [
+  "By completing this course, participants will be able to:",
+  "Understand the basics of Generative AI and its real-world applications.",
+  "Use AI tools like Chat-GPT, Bard, and DALL·E for creative and business tasks.",
+  "Leverage AI for automation, content creation, and decision-making.",
+  "Analyze the ethical and societal implications of AI.",
+  "Effectively integrate AI into personal and professional workflows."
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will:"
+ ],
+ "objectives": [
+  "Understand what Generative AI is and how it works.",
+  "Use AI tools for text generation, image creation, and data analysis.",
+  "Automate tasks like writing, brainstorming, and content enhancement.",
+  "Apply AI for business productivity, education, and creative projects.",
+  "Recognize ethical concerns and best practices in AI usage."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI",
+   "items": [
+    {
+     "text": "What is Generative AI, and how does it work?",
+     "level": 0
+    },
+    {
+     "text": "Types of Generative AI: Text, Images, Audio, and Code.",
+     "level": 0
+    },
+    {
+     "text": "Overview of popular AI tools (ChatGPT, Bard, DALL·E, Stable Diffusion, MidJourney).",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Exploring AI-generated text and images with free online tools.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI-Powered Text Generation & Automation",
+   "items": [
+    {
+     "text": "How AI generates human-like text (LLMs & Chatbots).",
+     "level": 0
+    },
+    {
+     "text": "Using AI for writing emails, articles, and reports.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered summarization, translation, and rewriting.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using Chat-GPT for content writing and idea generation.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI for Image & Media Generation",
+   "items": [
+    {
+     "text": "How AI creates art, graphics, and visuals.",
+     "level": 0
+    },
+    {
+     "text": "Using DALL·E, Mid-Journey, and Stable Diffusion for image generation.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered photo editing and enhancement.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Creating AI-generated images for presentations, social media, and design.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI for Productivity & Business Automation",
+   "items": [
+    {
+     "text": "How AI can streamline workflows & boost efficiency.",
+     "level": 0
+    },
+    {
+     "text": "Using AI for meeting summaries, task automation, and data analysis.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered decision-making and business insights.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Automating business tasks with AI tools like Notion AI & Jasper.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI in Marketing, Social Media, & Branding",
+   "items": [
+    {
+     "text": "Using AI to generate social media posts, ads, and branding materials.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered SEO optimization & blog content creation.",
+     "level": 0
+    },
+    {
+     "text": "AI for customer engagement & chatbot marketing.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Creating AI-generated social media posts and branding visuals.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI for Educators & Students",
+   "items": [
+    {
+     "text": "How AI can assist in learning, research, and knowledge retention.",
+     "level": 0
+    },
+    {
+     "text": "Using AI for tutoring, lesson planning, and content summarization.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered research paper generation & plagiarism detection.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI for academic writing and study assistance.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI in Software Development & Automation",
+   "items": [
+    {
+     "text": "Introduction to AI-assisted coding with GitHub Copilot & ChatGPT.",
+     "level": 0
+    },
+    {
+     "text": "How AI helps debug, document, and improve code.",
+     "level": 0
+    },
+    {
+     "text": "Automating repetitive tasks with AI-powered scripts.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Generating Python code snippets with AI.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Ethics, Bias, & Responsible AI Usage",
+   "items": [
+    {
+     "text": "Ethical concerns in AI-generated content.",
+     "level": 0
+    },
+    {
+     "text": "AI bias, misinformation, and privacy risks.",
+     "level": 0
+    },
+    {
+     "text": "Best practices for using AI responsibly & avoiding misuse.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Identifying AI biases and evaluating ethical AI usage.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Future of AI & Career Opportunities",
+   "items": [
+    {
+     "text": "How AI is transforming industries: Healthcare, Finance, Retail, and More.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered jobs and future career opportunities.",
+     "level": 0
+    },
+    {
+     "text": "AI skills that will be in high demand in the coming years.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Exploring AI career paths and upskilling options.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Capstone Project – Applying AI to Your Workflow",
+   "items": [
+    {
+     "text": "Final project: Implementing an AI-powered solution in personal or professional work.",
+     "level": 0
+    },
+    {
+     "text": "Presenting AI use cases and project demonstrations.",
+     "level": 0
+    },
+    {
+     "text": "Course recap & final Q&A session.",
+     "level": 0
+    },
+    {
+     "text": "Certification and career guidance for AI adoption in various domains.",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

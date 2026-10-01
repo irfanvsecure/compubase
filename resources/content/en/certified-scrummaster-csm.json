@@ -1,0 +1,164 @@
+{
+ "title": "Certified ScrumMaster (CSM)",
+ "duration": "3 Days",
+ "overview": [
+  "The Certified ScrumMaster (CSM) course provides in-depth training on Scrum principles, roles, and practices. It is designed to equip participants with the knowledge and skills needed to effectively facilitate Scrum teams and processes. The course covers the Scrum framework, including roles, events, artifacts, and techniques for supporting and guiding Agile teams."
+ ],
+ "audience": [
+  "Individuals new to Scrum or Agile methodologies.",
+  "Project managers, team leaders, and Scrum Masters looking to enhance their Scrum knowledge.",
+  "Product Owners and stakeholders involved in Scrum projects.",
+  "Professionals seeking certification to advance their careers in Agile and Scrum."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of Scrum principles and practices.",
+  "Hands-On Labs: Practical exercises and simulations to apply Scrum concepts.",
+  "Case Studies: Analysis of real-world Scrum implementations and challenges.",
+  "Group Discussions: Interactive sessions to explore Scrum practices and experiences.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Scrum framework and roles",
+  "Scrum events and artifacts",
+  "Facilitation and coaching techniques",
+  "Team dynamics and Agile practices"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of Scrum principles, roles, and practices.",
+  "To develop skills in facilitating Scrum events and coaching Scrum teams.",
+  "To prepare participants for the Certified ScrumMaster (CSM) certification exam.",
+  "To equip participants with practical techniques for supporting and guiding Agile teams."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Scrum",
+   "items": [
+    {
+     "text": "Overview of Agile and Scrum Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Scrum Values and Principles",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Challenges of Using Scrum",
+     "level": 0
+    },
+    {
+     "text": "Comparing Scrum to Other Agile Methodologies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Scrum Roles",
+   "items": [
+    {
+     "text": "Understanding the Scrum Master Role and Responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Roles of the Product Owner and Scrum Team",
+     "level": 0
+    },
+    {
+     "text": "Interactions and Collaboration among Scrum Roles",
+     "level": 0
+    },
+    {
+     "text": "Key Responsibilities and Skills for Each Role",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Scrum Events",
+   "items": [
+    {
+     "text": "Detailed Study of Scrum Events (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective)",
+     "level": 0
+    },
+    {
+     "text": "Purpose and Structure of Each Event",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Effective Facilitation of Scrum Events",
+     "level": 0
+    },
+    {
+     "text": "Managing and Resolving Issues During Events",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Scrum Artifacts",
+   "items": [
+    {
+     "text": "Overview of Scrum Artifacts (Product Backlog, Sprint Backlog, Increment)",
+     "level": 0
+    },
+    {
+     "text": "Creating and Managing Backlogs",
+     "level": 0
+    },
+    {
+     "text": "Definition of Done and Its Importance",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Prioritizing and Estimating Work",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Scrum Practices and Techniques",
+   "items": [
+    {
+     "text": "Implementing Scrum Practices for Effective Team Collaboration",
+     "level": 0
+    },
+    {
+     "text": "Using Agile Estimation and Planning Techniques",
+     "level": 0
+    },
+    {
+     "text": "Managing and Resolving Impediments",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement and Adaptation in Scrum",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Facilitating and Coaching Scrum Teams",
+   "items": [
+    {
+     "text": "Techniques for Coaching and Mentoring Scrum Teams",
+     "level": 0
+    },
+    {
+     "text": "Building High-Performing Scrum Teams",
+     "level": 0
+    },
+    {
+     "text": "Managing Team Dynamics and Conflict Resolution",
+     "level": 0
+    },
+    {
+     "text": "Engaging and Communicating with Stakeholders",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Agile Management Courses.docx"
+}

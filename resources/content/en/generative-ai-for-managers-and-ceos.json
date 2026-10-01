@@ -1,0 +1,244 @@
+{
+ "title": "Generative AI for Managers & CEOs",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed for business leaders, executives, and managers who want to understand how Generative AI can transform their businesses, improve decision-making, enhance operational efficiency, and drive innovation."
+ ],
+ "audience": [
+  "This course is ideal for:",
+  "CEOs, CTOs, and CIOs",
+  "Senior Executives & Business Leaders",
+  "Department Heads & Directors",
+  "Managers looking to integrate AI into operations",
+  "Entrepreneurs & Startup Founders"
+ ],
+ "methodology": [
+  "This course follows a strategic and hands-on approach, including:",
+  "Instructor-led sessions & real-world case studies",
+  "Live demonstrations of AI-driven business applications",
+  "Group discussions and peer networking",
+  "Hands-on AI strategy development exercises",
+  "Capstone project: Developing an AI roadmap for business transformation"
+ ],
+ "competencies": [
+  "By the end of the course, participants will:",
+  "Understand the fundamentals of Generative AI and its business impact",
+  "Learn how to integrate AI into business strategies and decision-making",
+  "Identify opportunities for AI-driven automation and efficiency",
+  "Mitigate risks and ethical challenges associated with AI adoption",
+  "Develop an AI strategy for their organization’s growth"
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will:"
+ ],
+ "objectives": [
+  "Develop AI-driven business strategies for growth and innovation",
+  "Leverage AI for data-driven decision-making and automation",
+  "Identify AI tools to enhance business productivity and efficiency",
+  "Understand the risks and ethical implications of AI adoption",
+  "Create an actionable AI roadmap for their organization"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI for Business Leaders",
+   "items": [
+    {
+     "text": "What is Generative AI, and how does it work?",
+     "level": 0
+    },
+    {
+     "text": "Understanding AI’s capabilities, limitations, and evolution",
+     "level": 0
+    },
+    {
+     "text": "AI-driven business model transformation and opportunities",
+     "level": 0
+    },
+    {
+     "text": "Case studies: How top companies are using AI to gain a competitive edge",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: The Strategic Role of AI in Business Transformation",
+   "items": [
+    {
+     "text": "How AI is reshaping industries and driving digital transformation",
+     "level": 0
+    },
+    {
+     "text": "AI-driven market analysis, forecasting, and competitive intelligence",
+     "level": 0
+    },
+    {
+     "text": "The ROI of AI investments – Cost savings vs. revenue growth",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Identifying AI opportunities within your organization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI for Decision-Making & Business Intelligence",
+   "items": [
+    {
+     "text": "AI-powered data analytics and predictive insights",
+     "level": 0
+    },
+    {
+     "text": "Leveraging AI-driven dashboards and reports for strategic decisions",
+     "level": 0
+    },
+    {
+     "text": "AI in financial forecasting, risk assessment, and scenario planning",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI tools for executive decision-making",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI for Productivity, Automation & Efficiency",
+   "items": [
+    {
+     "text": "Automating repetitive tasks and workflows with AI",
+     "level": 0
+    },
+    {
+     "text": "AI-powered virtual assistants for management and operations",
+     "level": 0
+    },
+    {
+     "text": "AI-driven project management, HR, and supply chain optimization",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Exploring AI tools for workplace automation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI for Marketing, Sales & Customer Engagement",
+   "items": [
+    {
+     "text": "AI-driven personalization and targeted marketing",
+     "level": 0
+    },
+    {
+     "text": "Chatbots, virtual assistants, and AI-powered customer support",
+     "level": 0
+    },
+    {
+     "text": "AI-enhanced sales forecasting and lead generation",
+     "level": 0
+    },
+    {
+     "text": "Case Study: How AI is revolutionizing marketing & customer experience",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI for Innovation & Competitive Advantage",
+   "items": [
+    {
+     "text": "How AI fosters new product development and service innovation",
+     "level": 0
+    },
+    {
+     "text": "AI-powered business model innovation and market expansion",
+     "level": 0
+    },
+    {
+     "text": "Leveraging AI for R&D and intellectual property development",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Exploring AI-driven innovation strategies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI Ethics, Security & Regulatory Considerations",
+   "items": [
+    {
+     "text": "The ethical implications of AI in decision-making",
+     "level": 0
+    },
+    {
+     "text": "AI bias, privacy concerns, and data security risks",
+     "level": 0
+    },
+    {
+     "text": "Global AI regulations, compliance, and governance frameworks",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing responsible AI policies for your business",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Overcoming AI Adoption Challenges",
+   "items": [
+    {
+     "text": "Common roadblocks in AI implementation and how to address them",
+     "level": 0
+    },
+    {
+     "text": "AI talent acquisition vs. upskilling existing teams",
+     "level": 0
+    },
+    {
+     "text": "Ensuring AI alignment with company culture and values",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Creating an AI adoption strategy for your company",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: AI in Mergers, Acquisitions & Investment Strategies",
+   "items": [
+    {
+     "text": "AI’s role in due diligence, risk assessment, and financial analysis",
+     "level": 0
+    },
+    {
+     "text": "Leveraging AI for identifying acquisition targets and investment opportunities",
+     "level": 0
+    },
+    {
+     "text": "AI-powered valuation models and predictive deal success analysis",
+     "level": 0
+    },
+    {
+     "text": "Case Study: How AI is transforming investment and corporate strategy",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "ii",
+   "paras": [],
+   "items": [
+    "No prior technical background is required",
+    "Basic understanding of business operations and strategy"
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

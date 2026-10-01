@@ -1,0 +1,164 @@
+{
+ "title": "ITIL 4 Managing Professional - ITIL 4 Strategist: Direct, Plan, and Improve (DPI)",
+ "duration": "3 Days",
+ "overview": [
+  "The ITIL 4 Strategist: Direct, Plan, and Improve (DPI) course is designed to provide an in-depth understanding of how to direct, plan, and improve IT services and practices. This course focuses on integrating strategic planning with IT service management, improving service quality, and aligning IT services with organizational goals. It prepares participants for the DPI module of the ITIL 4 Managing Professional designation."
+ ],
+ "audience": [
+  "IT managers and senior IT professionals.",
+  "Service managers and business leaders involved in strategic planning.",
+  "IT consultants and advisors responsible for service improvements.",
+  "Professionals seeking the ITIL 4 Managing Professional (MP) designation."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Comprehensive explanations of ITIL 4 DPI principles and practices.",
+  "Hands-On Labs: Practical exercises and simulations to apply DPI concepts.",
+  "Case Studies: Analysis of real-world scenarios and strategic planning challenges.",
+  "Group Discussions: Interactive sessions to explore strategic planning and improvement techniques.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Strategic direction and planning",
+  "Continuous improvement and service management",
+  "Governance and organizational alignment",
+  "Risk management and stakeholder engagement"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of ITIL 4’s approach to directing, planning, and improving IT services.",
+  "To develop skills for creating and implementing effective strategic plans for IT services.",
+  "To prepare participants for the ITIL 4 Strategist: DPI certification exam.",
+  "To equip participants with techniques for continuous improvement and alignment with organizational goals."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Direct, Plan, and Improve",
+   "items": [
+    {
+     "text": "Overview of ITIL 4 DPI Module",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Benefits of DPI",
+     "level": 0
+    },
+    {
+     "text": "Relationship Between DPI and Other ITIL 4 Modules",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Importance of Strategic Planning and Improvement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Directing and Planning",
+   "items": [
+    {
+     "text": "Creating Strategic Plans and Objectives",
+     "level": 0
+    },
+    {
+     "text": "Aligning IT Strategies with Business Goals",
+     "level": 0
+    },
+    {
+     "text": "Developing Governance Structures and Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Effective Strategic Decision-Making",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Improvement Practices",
+   "items": [
+    {
+     "text": "Understanding the Continual Improvement Model",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Managing Improvement Initiatives",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Measuring and Monitoring Performance",
+     "level": 0
+    },
+    {
+     "text": "Using Feedback and Data for Service Improvement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Risk Management and Governance",
+   "items": [
+    {
+     "text": "Identifying and Managing Risks in IT Services",
+     "level": 0
+    },
+    {
+     "text": "Developing Risk Management Strategies and Plans",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Governance and Compliance",
+     "level": 0
+    },
+    {
+     "text": "Aligning IT Governance with Organizational Policies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Stakeholder Engagement and Communication",
+   "items": [
+    {
+     "text": "Engaging with Stakeholders and Understanding Their Needs",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Effective Communication and Collaboration",
+     "level": 0
+    },
+    {
+     "text": "Managing Stakeholder Expectations and Feedback",
+     "level": 0
+    },
+    {
+     "text": "Building and Maintaining Strong Relationships with Stakeholders",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Tools and Techniques for DPI",
+   "items": [
+    {
+     "text": "Utilizing Tools for Planning and Improvement",
+     "level": 0
+    },
+    {
+     "text": "Applying Techniques for Effective Monitoring and Reporting",
+     "level": 0
+    },
+    {
+     "text": "Integrating DPI Practices with Other ITIL Practices",
+     "level": 0
+    },
+    {
+     "text": "Leveraging Technology for Strategic Planning and Improvement",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

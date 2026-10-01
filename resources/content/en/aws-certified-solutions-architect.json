@@ -1,0 +1,186 @@
+{
+ "title": "AWS Certified Solutions Architect",
+ "duration": "3 Days",
+ "overview": [
+  "The AWS Certified Solutions Architect – Associate course is designed to prepare IT professionals for the AWS Certified Solutions Architect – Associate exam. This course covers essential AWS services, solutions architecture best practices, and the skills needed to design and deploy scalable, highly available, and fault-tolerant systems on AWS."
+ ],
+ "audience": [
+  "IT professionals with experience in designing distributed systems and solutions.",
+  "Solution architects, developers, and system administrators seeking AWS certification.",
+  "Cloud engineers and consultants interested in validating their skills in AWS architecture.",
+  "Individuals aiming to enhance their understanding of AWS services and solutions."
+ ],
+ "methodology": [
+  "Interactive Lectures: In-depth explanations of AWS services and architectural principles.",
+  "Hands-On Labs: Practical exercises to deploy and manage AWS solutions.",
+  "Case Studies: Real-world scenarios to understand application design and best practices.",
+  "Group Discussions: Collaborative sessions to solve architectural challenges.",
+  "Quizzes and Practice Exams: Assessments to evaluate knowledge and readiness for certification."
+ ],
+ "competencies": [
+  "AWS architecture and design principles",
+  "Deployment and management of AWS services",
+  "Scalability and high availability",
+  "Security and compliance",
+  "Cost management and optimization"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of AWS services and solutions architecture.",
+  "To prepare participants for the AWS Certified Solutions Architect – Associate exam.",
+  "To enable participants to design, deploy, and manage scalable and resilient systems on AWS.",
+  "To familiarize learners with best practices for security, cost management, and high availability in AWS."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to AWS",
+   "items": [
+    {
+     "text": "Overview of AWS Cloud Services",
+     "level": 0
+    },
+    {
+     "text": "AWS Global Infrastructure",
+     "level": 0
+    },
+    {
+     "text": "Key AWS Services and Components",
+     "level": 0
+    },
+    {
+     "text": "AWS Management Console and CLI",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Designing Resilient Architectures",
+   "items": [
+    {
+     "text": "Designing Highly Available and Fault-Tolerant Systems",
+     "level": 0
+    },
+    {
+     "text": "AWS Regions and Availability Zones",
+     "level": 0
+    },
+    {
+     "text": "Load Balancing with ELB (Elastic Load Balancing)",
+     "level": 0
+    },
+    {
+     "text": "Auto Scaling and Elasticity",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Implementation and Deployment",
+   "items": [
+    {
+     "text": "Launching and Configuring EC2 Instances",
+     "level": 0
+    },
+    {
+     "text": "Working with Amazon RDS (Relational Database Service)",
+     "level": 0
+    },
+    {
+     "text": "Implementing AWS VPC (Virtual Private Cloud)",
+     "level": 0
+    },
+    {
+     "text": "Using AWS CloudFormation for Infrastructure as Code",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Security and Compliance",
+   "items": [
+    {
+     "text": "AWS Identity and Access Management (IAM)",
+     "level": 0
+    },
+    {
+     "text": "Securing Data with Encryption (S3, EBS)",
+     "level": 0
+    },
+    {
+     "text": "Network Security with Security Groups and NACLs",
+     "level": 0
+    },
+    {
+     "text": "Compliance and Governance with AWS Config and CloudTrail",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Data Storage and Management",
+   "items": [
+    {
+     "text": "Choosing the Right Storage Options (S3, EBS, EFS)",
+     "level": 0
+    },
+    {
+     "text": "Managing Databases with Amazon RDS and DynamoDB",
+     "level": 0
+    },
+    {
+     "text": "Data Backup and Disaster Recovery Strategies",
+     "level": 0
+    },
+    {
+     "text": "Implementing Caching Solutions with Amazon ElastiCache",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Cost and Performance Optimization",
+   "items": [
+    {
+     "text": "Understanding AWS Pricing and Billing",
+     "level": 0
+    },
+    {
+     "text": "Cost Management Tools (Cost Explorer, Budgets)",
+     "level": 0
+    },
+    {
+     "text": "Performance Tuning and Optimization Strategies",
+     "level": 0
+    },
+    {
+     "text": "Optimizing AWS Resource Usage",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Monitoring and Troubleshooting",
+   "items": [
+    {
+     "text": "Monitoring with Amazon CloudWatch",
+     "level": 0
+    },
+    {
+     "text": "Logging and Troubleshooting with CloudTrail",
+     "level": 0
+    },
+    {
+     "text": "Diagnosing and Resolving Performance Issues",
+     "level": 0
+    },
+    {
+     "text": "Using AWS Trusted Advisor for Best Practices",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cloud Computing Courses.docx"
+}

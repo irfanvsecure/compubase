@@ -1,0 +1,215 @@
+{
+ "title": "Apache PySpark using Databricks",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive understanding of Apache PySpark and Databricks, enabling participants to process large-scale data efficiently. It covers core PySpark concepts, DataFrames, RDDs, SQL, machine learning, and real-world implementations in Databricks, a cloud-based collaborative data analytics platform. Participants will gain hands-on experience in using Databricks for big data processing, analytics, and AI-driven workloads."
+ ],
+ "audience": [
+  "Data Engineers and Data Scientists",
+  "Big Data Analysts and AI Engineers",
+  "Software Developers working with large datasets",
+  "Cloud Engineers focusing on distributed computing",
+  "Business Analysts and BI Professionals working with Spark",
+  "Anyone looking to integrate PySpark with Databricks"
+ ],
+ "methodology": [
+  "Hands-on Labs – Practical exercises using Databricks Notebooks",
+  "Real-World Use Cases – Implementing PySpark in business scenarios",
+  "Live Demonstrations – Step-by-step walkthroughs on PySpark & Databricks",
+  "Code-Along Sessions – Writing, executing, and debugging PySpark scripts",
+  "Group Discussions & Q&A – Engaging discussions on Spark optimizations",
+  "Project-Based Learning – Final capstone project using Databricks & PySpark"
+ ],
+ "competencies": [
+  "Big Data Processing with Apache PySpark",
+  "Data Manipulation and Transformation using PySpark DataFrames",
+  "Writing and Optimizing Spark SQL Queries",
+  "Integrating PySpark with Databricks",
+  "Parallel Computing and Cluster Management",
+  "Machine Learning with MLlib on Spark",
+  "Performance Optimization and Debugging in Spark Jobs"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Apache PySpark’s architecture, components, and ecosystem",
+  "Write PySpark scripts for data analysis and transformation",
+  "Perform structured data processing with DataFrames and SQL",
+  "Use Databricks for distributed computing and collaborative analytics",
+  "Optimize PySpark jobs for better performance and scalability",
+  "Implement machine learning workflows using Spark MLlib",
+  "Handle real-world big data challenges with PySpark and Databricks"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Apache PySpark and Databricks",
+   "items": [
+    {
+     "text": "Overview of Big Data, Apache Spark, and PySpark",
+     "level": 0
+    },
+    {
+     "text": "What is Databricks and how does it enhance Spark?",
+     "level": 0
+    },
+    {
+     "text": "Setting up a Databricks Workspace (Cloud & On-Prem options)",
+     "level": 0
+    },
+    {
+     "text": "PySpark vs. Pandas vs. SQL – When to use what?",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: PySpark Core Concepts",
+   "items": [
+    {
+     "text": "Resilient Distributed Datasets (RDDs) vs. DataFrames",
+     "level": 0
+    },
+    {
+     "text": "PySpark Transformations and Actions",
+     "level": 0
+    },
+    {
+     "text": "Lazy Evaluation and Execution Plans",
+     "level": 0
+    },
+    {
+     "text": "Data Serialization and Storage Formats (Parquet, Avro, JSON)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Data Processing with PySpark DataFrames",
+   "items": [
+    {
+     "text": "Creating DataFrames from structured and semi-structured data",
+     "level": 0
+    },
+    {
+     "text": "Performing Data Cleaning and Data Wrangling",
+     "level": 0
+    },
+    {
+     "text": "Using PySpark UDFs (User-Defined Functions) for custom operations",
+     "level": 0
+    },
+    {
+     "text": "Data Aggregation, Joins, and Window Functions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Spark SQL and Query Optimization",
+   "items": [
+    {
+     "text": "Writing SQL queries in PySpark",
+     "level": 0
+    },
+    {
+     "text": "Using Catalyst Optimizer for query execution planning",
+     "level": 0
+    },
+    {
+     "text": "Partitioning and Caching for Performance",
+     "level": 0
+    },
+    {
+     "text": "Handling Large-Scale Datasets Efficiently",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Databricks Environment and Workflow",
+   "items": [
+    {
+     "text": "Working with Databricks Notebooks",
+     "level": 0
+    },
+    {
+     "text": "Cluster Management and Autoscaling in Databricks",
+     "level": 0
+    },
+    {
+     "text": "Databricks Jobs & Task Scheduling",
+     "level": 0
+    },
+    {
+     "text": "Integrating Databricks with Cloud Storage (Azure, AWS, GCP)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Machine Learning with PySpark MLlib",
+   "items": [
+    {
+     "text": "Introduction to Spark MLlib for Scalable Machine Learning",
+     "level": 0
+    },
+    {
+     "text": "Feature Engineering and Data Preprocessing in PySpark",
+     "level": 0
+    },
+    {
+     "text": "Training and Evaluating ML Models in Databricks",
+     "level": 0
+    },
+    {
+     "text": "Running ML Pipelines in a Distributed Environment",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Performance Optimization and Debugging in PySpark",
+   "items": [
+    {
+     "text": "Understanding Job Execution Plans & Spark UI",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Shuffling, Caching, and Broadcast Joins",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting Memory Issues and Out-of-Memory Errors",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Optimized Cluster Resource Allocation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Real-World Use Cases & Industry Applications",
+   "items": [
+    {
+     "text": "ETL Pipelines using PySpark in Databricks",
+     "level": 0
+    },
+    {
+     "text": "Customer Segmentation using Spark MLlib",
+     "level": 0
+    },
+    {
+     "text": "Log Analytics and Fraud Detection with PySpark",
+     "level": 0
+    },
+    {
+     "text": "Real-Time Data Processing with Structured Streaming",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

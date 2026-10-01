@@ -1,0 +1,164 @@
+{
+ "title": "Cisco Certified CyberOps Associate",
+ "duration": "5 Days",
+ "overview": [
+  "The Cisco Certified CyberOps Associate course is designed to provide foundational knowledge and skills for working in a security operations center (SOC). This course prepares participants for the Cisco Certified CyberOps Associate certification exam by covering key areas such as cybersecurity operations, incident response, and network security."
+ ],
+ "audience": [
+  "IT professionals and network administrators interested in cybersecurity operations.",
+  "Security operations center (SOC) analysts and engineers.",
+  "Individuals preparing for the Cisco Certified CyberOps Associate certification exam.",
+  "Anyone looking to build a career in cybersecurity operations."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanations of CyberOps concepts and practices.",
+  "Hands-On Labs: Practical exercises for managing and responding to security incidents.",
+  "Case Studies: Real-world scenarios to apply CyberOps concepts and solutions.",
+  "Group Discussions: Interactive sessions to explore cybersecurity operations challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to measure understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Cybersecurity operations and incident response",
+  "Network security and monitoring",
+  "Security operations tools and technologies",
+  "Security policies and procedures"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of cybersecurity operations and practices.",
+  "To prepare participants for the Cisco Certified CyberOps Associate certification exam.",
+  "To equip learners with practical skills for working in a SOC and managing security incidents.",
+  "To familiarize participants with best practices and technologies in cybersecurity operations."
+ ],
+ "outline": [
+  {
+   "title": "1. Security Concepts",
+   "items": [
+    {
+     "text": "Understanding Security Threats and Vulnerabilities",
+     "level": 0
+    },
+    {
+     "text": "Identifying Security Controls and Mitigation Strategies",
+     "level": 0
+    },
+    {
+     "text": "Understanding Network and Information Security Fundamentals",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Security Architecture and Design Principles",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Security Operations",
+   "items": [
+    {
+     "text": "Implementing Security Operations and Incident Response Processes",
+     "level": 0
+    },
+    {
+     "text": "Understanding Security Event and Incident Management (SEIM) Systems",
+     "level": 0
+    },
+    {
+     "text": "Managing Security Monitoring and Analysis Tools",
+     "level": 0
+    },
+    {
+     "text": "Conducting Threat Hunting and Investigation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Network Security",
+   "items": [
+    {
+     "text": "Configuring and Managing Network Security Devices (Firewalls, IDS/IPS)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Network Segmentation and Access Controls",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Network Traffic and Logs",
+     "level": 0
+    },
+    {
+     "text": "Understanding Network Security Protocols and Standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Security Monitoring and Analysis",
+   "items": [
+    {
+     "text": "Implementing Security Monitoring Strategies and Tools",
+     "level": 0
+    },
+    {
+     "text": "Analyzing Security Alerts and Incidents",
+     "level": 0
+    },
+    {
+     "text": "Conducting Log Analysis and Correlation",
+     "level": 0
+    },
+    {
+     "text": "Managing Security Information and Event Management (SIEM) Systems",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Incident Response",
+   "items": [
+    {
+     "text": "Developing and Implementing Incident Response Plans",
+     "level": 0
+    },
+    {
+     "text": "Managing and Responding to Security Incidents and Breaches",
+     "level": 0
+    },
+    {
+     "text": "Conducting Forensic Analysis and Evidence Collection",
+     "level": 0
+    },
+    {
+     "text": "Performing Post-Incident Reviews and Lessons Learned",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Security Policies and Procedures",
+   "items": [
+    {
+     "text": "Developing and Implementing Security Policies and Procedures",
+     "level": 0
+    },
+    {
+     "text": "Understanding Compliance and Regulatory Requirements",
+     "level": 0
+    },
+    {
+     "text": "Managing Security Awareness and Training Programs",
+     "level": 0
+    },
+    {
+     "text": "Conducting Security Audits and Assessments",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cyber Security Courses.docx"
+}

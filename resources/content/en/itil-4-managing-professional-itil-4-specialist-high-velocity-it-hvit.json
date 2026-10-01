@@ -1,0 +1,105 @@
+{
+ "title": "ITIL 4 Managing Professional - ITIL 4 Specialist: High-Velocity IT (HVIT)",
+ "duration": "3 Days",
+ "overview": [
+  "The HVIT course covers the use of IT in rapidly changing, high-velocity environments. It introduces Agile, Lean, and DevOps practices, with a focus on delivering IT services quickly and effectively to meet business demands in the digital age."
+ ],
+ "audience": [
+  "IT managers and leaders in digital transformation",
+  "IT operations and support professionals",
+  "Agile and DevOps practitioners",
+  "IT consultants involved in digital services"
+ ],
+ "methodology": [
+  "Lectures and Presentations: Key insights into high-velocity IT operations.",
+  "Hands-On Labs: Practical applications of Agile and DevOps practices.",
+  "Case Studies: Real-world digital transformation examples.",
+  "Assessments: Quizzes and mock exams for certification preparation."
+ ],
+ "competencies": [
+  "Agile and Lean IT practices",
+  "DevOps and continuous integration/delivery",
+  "Risk management in high-velocity environments",
+  "Automation and innovation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Learn to manage and optimize IT services in high-velocity digital environments.",
+  "Understand Agile, Lean, and DevOps principles and practices.",
+  "Develop the ability to quickly deliver and support digital services.",
+  "Prepare for the ITIL HVIT certification exam."
+ ],
+ "outline": [
+  {
+   "title": "1. Digital Transformation in IT",
+   "items": [
+    {
+     "text": "Understanding High-Velocity IT",
+     "level": 0
+    },
+    {
+     "text": "Leveraging IT for Business Agility",
+     "level": 0
+    },
+    {
+     "text": "Role of IT in Digital Transformation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Agile and Lean Practices",
+   "items": [
+    {
+     "text": "Introduction to Agile Methodologies",
+     "level": 0
+    },
+    {
+     "text": "Lean IT Principles and Waste Elimination",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement through Lean",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. DevOps and Automation",
+   "items": [
+    {
+     "text": "Implementing DevOps Practices",
+     "level": 0
+    },
+    {
+     "text": "Continuous Integration and Continuous Delivery (CI/CD)",
+     "level": 0
+    },
+    {
+     "text": "Automating IT Operations for Speed and Efficiency",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Managing Risk and Resilience",
+   "items": [
+    {
+     "text": "Risk Management in High-Velocity Environments",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Resilience and Stability Amid Change",
+     "level": 0
+    },
+    {
+     "text": "Proactive Risk Mitigation Strategies",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

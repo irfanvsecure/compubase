@@ -1,0 +1,164 @@
+{
+ "title": "Agile Certified Practitioner (PMI-ACP)",
+ "duration": "3 Days",
+ "overview": [
+  "The Agile Certified Practitioner (PMI-ACP) course provides comprehensive training on Agile principles, practices, and methodologies. It is designed for professionals who are looking to enhance their knowledge and skills in Agile project management and demonstrate their ability to apply Agile practices effectively in various project environments."
+ ],
+ "audience": [
+  "Project managers and team leaders involved in Agile projects.",
+  "Professionals seeking to advance their career in Agile project management.",
+  "Scrum Masters, Product Owners, and Agile Coaches.",
+  "Individuals preparing for the PMI-ACP certification exam."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanations of Agile methodologies and practices.",
+  "Hands-On Labs: Practical exercises and simulations to apply Agile principles in real-world scenarios.",
+  "Case Studies: Analysis of Agile projects to understand best practices and common challenges.",
+  "Group Discussions: Interactive sessions to explore Agile concepts and experiences.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Agile principles and frameworks (Scrum, Kanban, Lean, XP)",
+  "Agile project management practices and tools",
+  "Team collaboration and stakeholder engagement",
+  "Agile planning, execution, and delivery"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of Agile principles, methodologies, and practices.",
+  "To develop skills in applying Agile techniques to manage and deliver projects effectively.",
+  "To prepare participants for the PMI-ACP certification exam.",
+  "To equip participants with knowledge to lead Agile teams and manage Agile projects."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Agile",
+   "items": [
+    {
+     "text": "Understanding Agile Principles and Mindset",
+     "level": 0
+    },
+    {
+     "text": "Overview of Agile Methodologies (Scrum, Kanban, Lean, XP)",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Challenges of Agile Practices",
+     "level": 0
+    },
+    {
+     "text": "Agile vs. Traditional Project Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Agile Frameworks and Methodologies",
+   "items": [
+    {
+     "text": "Detailed Study of Scrum Framework",
+     "level": 0
+    },
+    {
+     "text": "Understanding Kanban and Lean Principles",
+     "level": 0
+    },
+    {
+     "text": "Overview of Extreme Programming (XP) Practices",
+     "level": 0
+    },
+    {
+     "text": "Comparing Agile Methodologies and Choosing the Right Approach",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Agile Practices and Tools",
+   "items": [
+    {
+     "text": "Implementing Agile Practices for Planning and Estimation",
+     "level": 0
+    },
+    {
+     "text": "Using Agile Tools for Project Tracking and Collaboration",
+     "level": 0
+    },
+    {
+     "text": "Managing Agile Backlogs and Prioritization",
+     "level": 0
+    },
+    {
+     "text": "Conducting Agile Ceremonies (Daily Standups, Sprint Planning, Retrospectives)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Agile Team Dynamics and Stakeholder Engagement",
+   "items": [
+    {
+     "text": "Building and Leading High-Performing Agile Teams",
+     "level": 0
+    },
+    {
+     "text": "Engaging and Communicating with Stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Managing Team Dynamics and Resolving Conflicts",
+     "level": 0
+    },
+    {
+     "text": "Facilitating Effective Team Collaboration and Decision-Making",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Agile Planning and Execution",
+   "items": [
+    {
+     "text": "Developing Agile Project Plans and Roadmaps",
+     "level": 0
+    },
+    {
+     "text": "Implementing Iterative Development and Continuous Delivery",
+     "level": 0
+    },
+    {
+     "text": "Managing Risks and Issues in Agile Projects",
+     "level": 0
+    },
+    {
+     "text": "Measuring and Ensuring Project Performance and Quality",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Advanced Agile Topics",
+   "items": [
+    {
+     "text": "Scaling Agile Practices for Larger Projects and Organizations",
+     "level": 0
+    },
+    {
+     "text": "Integrating Agile with Other Project Management Approaches",
+     "level": 0
+    },
+    {
+     "text": "Applying Agile Principles in Non-Software Projects",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement and Adaptation in Agile Environments",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Agile Management Courses.docx"
+}

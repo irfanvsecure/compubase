@@ -1,0 +1,200 @@
+{
+ "title": "ISO 9001 Lead Implementer",
+ "duration": "5 Days",
+ "overview": [
+  "The ISO 9001 Lead Implementer course provides in-depth knowledge and skills for establishing, implementing, and maintaining an ISO 9001 Quality Management System (QMS). The course covers the principles of ISO 9001, including how to design and deploy a QMS effectively within an organization. Participants will learn to lead the implementation process, ensure compliance with ISO 9001 standards, and drive continuous improvement."
+ ],
+ "audience": [
+  "Quality managers and quality assurance professionals.",
+  "Process owners and team leaders involved in quality management.",
+  "Individuals responsible for the implementation and maintenance of ISO 9001.",
+  "Professionals aiming for advanced roles in quality management systems."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanation of ISO 9001 principles, requirements, and implementation strategies.",
+  "Hands-On Labs: Practical exercises for developing and implementing a QMS.",
+  "Case Studies: Analysis of real-world scenarios for applying ISO 9001 implementation techniques.",
+  "Group Discussions: Interactive sessions to explore implementation challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "ISO 9001 requirements and implementation strategies",
+  "Designing and deploying a Quality Management System",
+  "Leading and managing ISO 9001 implementation projects",
+  "Continuous improvement and compliance management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide comprehensive knowledge of the ISO 9001 standard and its requirements.",
+  "To develop skills for designing, implementing, and maintaining a QMS based on ISO 9001.",
+  "To prepare participants for the ISO 9001 Lead Implementer certification exam.",
+  "To equip participants with techniques for leading ISO 9001 implementation projects and driving continuous improvement."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to ISO 9001 Lead Implementing",
+   "items": [
+    {
+     "text": "Overview of ISO 9001 Standard and Its Requirements",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Importance of Implementing a Quality Management System",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Terminology",
+     "level": 0
+    },
+    {
+     "text": "Structure and Clauses of ISO 9001",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. ISO 9001 Principles and Requirements",
+   "items": [
+    {
+     "text": "Principles: Understanding the 7 Quality Management Principles",
+     "level": 0
+    },
+    {
+     "text": "Customer Focus",
+     "level": 0
+    },
+    {
+     "text": "Leadership",
+     "level": 0
+    },
+    {
+     "text": "Engagement of People",
+     "level": 0
+    },
+    {
+     "text": "Process Approach",
+     "level": 0
+    },
+    {
+     "text": "Improvement",
+     "level": 0
+    },
+    {
+     "text": "Evidence-Based Decision Making",
+     "level": 0
+    },
+    {
+     "text": "Relationship Management",
+     "level": 0
+    },
+    {
+     "text": "Requirements: Detailed Study of ISO 9001 Requirements",
+     "level": 0
+    },
+    {
+     "text": "Context of the Organization",
+     "level": 0
+    },
+    {
+     "text": "Leadership and Planning",
+     "level": 0
+    },
+    {
+     "text": "Support and Operation",
+     "level": 0
+    },
+    {
+     "text": "Performance Evaluation and Improvement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Designing and Planning a QMS",
+   "items": [
+    {
+     "text": "QMS Design: Developing the Framework for a Quality Management System",
+     "level": 0
+    },
+    {
+     "text": "Planning: Setting Objectives, Scope, and Processes",
+     "level": 0
+    },
+    {
+     "text": "Resource Management: Allocating Resources and Defining Roles and Responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Risk Management: Identifying and Addressing Risks and Opportunities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Implementing the QMS",
+   "items": [
+    {
+     "text": "Deployment: Implementing ISO 9001 Processes and Procedures",
+     "level": 0
+    },
+    {
+     "text": "Training and Communication: Ensuring Effective Training and Communication",
+     "level": 0
+    },
+    {
+     "text": "Documentation: Developing and Maintaining QMS Documentation",
+     "level": 0
+    },
+    {
+     "text": "Operational Control: Managing and Monitoring QMS Operations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Monitoring and Evaluating the QMS",
+   "items": [
+    {
+     "text": "Performance Monitoring: Measuring and Analyzing QMS Performance",
+     "level": 0
+    },
+    {
+     "text": "Internal Audits: Conducting Internal Audits and Managing Nonconformities",
+     "level": 0
+    },
+    {
+     "text": "Management Reviews: Performing Management Reviews and Evaluating Effectiveness",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement: Implementing Corrective Actions and Improvements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Leading and Managing Implementation Projects",
+   "items": [
+    {
+     "text": "Leadership Skills: Developing Leadership and Project Management Skills",
+     "level": 0
+    },
+    {
+     "text": "Change Management: Managing Change and Overcoming Resistance",
+     "level": 0
+    },
+    {
+     "text": "Project Management: Planning and Executing QMS Implementation Projects",
+     "level": 0
+    },
+    {
+     "text": "Stakeholder Engagement: Engaging Stakeholders and Managing Expectations",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Quality & Process Management Courses.docx"
+}

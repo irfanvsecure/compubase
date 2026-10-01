@@ -1,0 +1,259 @@
+{
+ "title": "Apache PySpark using Python",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a deep dive into Apache PySpark, an open-source distributed computing framework for big data processing. Participants will learn how to use PySpark with Python to process, analyze, and transform large datasets efficiently. The course covers RDDs, DataFrames, Spark SQL, machine learning (MLlib), and performance optimizations, enabling participants to build scalable and high-performance data processing pipelines."
+ ],
+ "audience": [
+  "Data Engineers who want to process large-scale data efficiently",
+  "Data Scientists working with big data and machine learning",
+  "Software Developers who need to integrate Spark into their applications",
+  "Cloud & DevOps Engineers working with distributed computing",
+  "Business Analysts dealing with massive datasets",
+  "AI & ML Practitioners leveraging PySpark for model training"
+ ],
+ "methodology": [
+  "Hands-on Coding Sessions – Writing and executing PySpark scripts",
+  "Live Demonstrations – Showcasing PySpark’s real-world applications",
+  "Real-World Use Cases – Applying PySpark in different business domains",
+  "Group Discussions & Q&A – Interactive knowledge-sharing sessions",
+  "Project-Based Learning – Final capstone project for practical implementation"
+ ],
+ "competencies": [
+  "Big Data Processing with PySpark",
+  "Writing and Optimizing PySpark DataFrames & RDDs",
+  "Using Spark SQL for Large-Scale Data Analysis",
+  "Integrating PySpark with Cloud Storage & Databases",
+  "Performance Optimization Techniques in Spark",
+  "Machine Learning with MLlib in PySpark",
+  "Handling Streaming Data with Structured Streaming"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Apache Spark’s architecture and execution model",
+  "Work with PySpark RDDs, DataFrames, and Spark SQL",
+  "Implement data transformations and aggregations efficiently",
+  "Optimize PySpark applications for performance and scalability",
+  "Develop machine learning models using Spark MLlib",
+  "Handle real-time data processing using Spark Streaming",
+  "Work with cloud-based and on-premises Spark clusters"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Apache PySpark",
+   "items": [
+    {
+     "text": "Overview of Big Data and Distributed Computing",
+     "level": 0
+    },
+    {
+     "text": "What is Apache Spark? – Architecture and Components",
+     "level": 0
+    },
+    {
+     "text": "Understanding Spark Clusters & Execution Model",
+     "level": 0
+    },
+    {
+     "text": "PySpark Installation and Setup (Local, Cluster, and Cloud)",
+     "level": 0
+    },
+    {
+     "text": "PySpark vs. Pandas vs. Dask – Key Differences",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: PySpark Core Concepts – RDDs and DataFrames",
+   "items": [
+    {
+     "text": "Understanding Resilient Distributed Datasets (RDDs)",
+     "level": 0
+    },
+    {
+     "text": "Creating and Transforming RDDs",
+     "level": 0
+    },
+    {
+     "text": "Introduction to DataFrames and Schema Definition",
+     "level": 0
+    },
+    {
+     "text": "Actions vs. Transformations – How Spark Works",
+     "level": 0
+    },
+    {
+     "text": "Data Loading and Storage Formats (Parquet, Avro, JSON, CSV)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Data Processing and Transformation with PySpark",
+   "items": [
+    {
+     "text": "Filtering, Sorting, and Aggregating Data",
+     "level": 0
+    },
+    {
+     "text": "Handling Missing Data and Data Cleaning Techniques",
+     "level": 0
+    },
+    {
+     "text": "Using PySpark UDFs (User-Defined Functions)",
+     "level": 0
+    },
+    {
+     "text": "Window Functions and Advanced Data Transformations",
+     "level": 0
+    },
+    {
+     "text": "Working with Structured and Semi-Structured Data",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Spark SQL and Query Optimization",
+   "items": [
+    {
+     "text": "Writing SQL Queries in PySpark",
+     "level": 0
+    },
+    {
+     "text": "Using Catalyst Optimizer for Query Optimization",
+     "level": 0
+    },
+    {
+     "text": "Partitioning and Bucketing for Performance Improvement",
+     "level": 0
+    },
+    {
+     "text": "Handling Large Datasets using Joins and Broadcast Variables",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Query Optimization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Machine Learning with PySpark MLlib",
+   "items": [
+    {
+     "text": "Introduction to Spark MLlib for Scalable Machine Learning",
+     "level": 0
+    },
+    {
+     "text": "Feature Engineering and Data Preprocessing",
+     "level": 0
+    },
+    {
+     "text": "Training and Evaluating ML Models",
+     "level": 0
+    },
+    {
+     "text": "Building ML Pipelines in PySpark",
+     "level": 0
+    },
+    {
+     "text": "Hyperparameter Tuning and Model Selection",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Performance Optimization & Debugging in PySpark",
+   "items": [
+    {
+     "text": "Understanding Spark Jobs and Stages",
+     "level": 0
+    },
+    {
+     "text": "Using the Spark UI for Job Monitoring",
+     "level": 0
+    },
+    {
+     "text": "Memory Management and Caching Strategies",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Shuffling and Data Serialization",
+     "level": 0
+    },
+    {
+     "text": "Debugging PySpark Applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Real-Time Data Processing with PySpark Streaming",
+   "items": [
+    {
+     "text": "Introduction to Structured Streaming in Spark",
+     "level": 0
+    },
+    {
+     "text": "Building Streaming Pipelines with Kafka and PySpark",
+     "level": 0
+    },
+    {
+     "text": "Handling Late Arriving Data & Stateful Processing",
+     "level": 0
+    },
+    {
+     "text": "Real-World Use Cases: IoT Data Processing, Log Analytics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Integrating PySpark with Cloud and Databases",
+   "items": [
+    {
+     "text": "Connecting PySpark to Cloud Storage (AWS S3, Google Cloud, Azure Blob)",
+     "level": 0
+    },
+    {
+     "text": "Reading/Writing Data to Databases (PostgreSQL, MySQL, MongoDB, Cassandra)",
+     "level": 0
+    },
+    {
+     "text": "Running PySpark on Cloud-Based Spark Clusters (AWS EMR, Databricks, GCP Dataproc)",
+     "level": 0
+    },
+    {
+     "text": "Deploying PySpark Applications in Production",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Real-World Use Cases & Case Studies",
+   "items": [
+    {
+     "text": "ETL Pipelines with PySpark – Data Extraction and Transformation",
+     "level": 0
+    },
+    {
+     "text": "Customer Segmentation using Spark MLlib",
+     "level": 0
+    },
+    {
+     "text": "Real-Time Fraud Detection using Streaming Data",
+     "level": 0
+    },
+    {
+     "text": "Big Data Analytics for E-commerce and Finance",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

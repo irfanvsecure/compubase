@@ -1,0 +1,272 @@
+{
+ "title": "Python for Automation Testing",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to teach participants how to use Python for automation testing, covering unit testing, web testing, API testing, and performance testing. Participants will learn to use testing frameworks like Selenium, PyTest, Unittest, and Behave to create reliable, scalable, and efficient test automation suites. The course includes hands-on exercises, real-world scenarios, and a capstone project to reinforce learning."
+ ],
+ "audience": [
+  "Software Testers & QA Engineers who want to automate testing processes",
+  "Developers looking to integrate automated testing into their workflow",
+  "DevOps Engineers aiming to include testing in CI/CD pipelines",
+  "Business Analysts & IT Professionals involved in software quality assurance",
+  "Students & Enthusiasts seeking a career in test automation"
+ ],
+ "methodology": [
+  "Hands-on Practice – Implementing automation scripts in real-world scenarios",
+  "Live Demonstrations – Creating and executing automation test cases",
+  "Case Studies & Best Practices – Learning from industry-standard testing practices",
+  "Collaborative Learning – Group discussions, peer code reviews, and challenges",
+  "Capstone Project – Developing a full automation testing framework"
+ ],
+ "competencies": [
+  "Automating UI Testing with Selenium",
+  "API Testing using Python and Requests Library",
+  "Unit Testing and Test-Driven Development (TDD)",
+  "Behavior-Driven Development (BDD) using Behave",
+  "Integrating Test Automation with CI/CD Pipelines",
+  "Generating and Managing Test Reports"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Write automated test scripts using Python",
+  "Use Selenium to automate web application testing",
+  "Perform API testing using Requests and PyTest",
+  "Apply BDD principles with Behave for automation",
+  "Integrate automation testing into CI/CD workflows",
+  "Generate and interpret detailed test reports"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Automation Testing with Python",
+   "items": [
+    {
+     "text": "What is Automation Testing?",
+     "level": 0
+    },
+    {
+     "text": "Benefits of Test Automation",
+     "level": 0
+    },
+    {
+     "text": "Understanding Types of Automated Testing (Unit, UI, API, Performance, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Overview of Python for Automation Testing",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Python Testing Environment (PyCharm, VS Code, Jupyter Notebook)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Python Basics for Test Automation",
+   "items": [
+    {
+     "text": "Python Fundamentals (Data Types, Functions, Loops, OOP)",
+     "level": 0
+    },
+    {
+     "text": "Working with Files, Logs, and Exception Handling",
+     "level": 0
+    },
+    {
+     "text": "Understanding Python Modules and Packages",
+     "level": 0
+    },
+    {
+     "text": "Virtual Environments and Dependency Management (pip, virtualenv)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Unit Testing and Test-Driven Development (TDD)",
+   "items": [
+    {
+     "text": "Introduction to Unit Testing",
+     "level": 0
+    },
+    {
+     "text": "Writing Unit Tests using Unittest and PyTest",
+     "level": 0
+    },
+    {
+     "text": "Assertions and Exception Handling in Tests",
+     "level": 0
+    },
+    {
+     "text": "Mocking External Dependencies",
+     "level": 0
+    },
+    {
+     "text": "Implementing Test-Driven Development (TDD) with Python",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Web Automation Testing with Selenium & Python",
+   "items": [
+    {
+     "text": "Introduction to Selenium WebDriver",
+     "level": 0
+    },
+    {
+     "text": "Setting up Selenium with Python",
+     "level": 0
+    },
+    {
+     "text": "Working with Locators (XPath, CSS Selectors, ID, Name, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Interacting with Web Elements (Forms, Buttons, Tables, Alerts, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Handling Dynamic Web Pages, Popups, and IFrames",
+     "level": 0
+    },
+    {
+     "text": "Writing Data-Driven Tests using Selenium & PyTest",
+     "level": 0
+    },
+    {
+     "text": "Implementing Page Object Model (POM) for Maintainable Tests",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: API Testing using Python",
+   "items": [
+    {
+     "text": "Understanding REST APIs and HTTP Methods (GET, POST, PUT, DELETE)",
+     "level": 0
+    },
+    {
+     "text": "Working with Requests Library for API Automation",
+     "level": 0
+    },
+    {
+     "text": "Handling Authentication (OAuth, API Keys, JWT Tokens)",
+     "level": 0
+    },
+    {
+     "text": "Validating API Responses using Assertions in PyTest",
+     "level": 0
+    },
+    {
+     "text": "Automating API Workflows and End-to-End Testing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Behavior-Driven Development (BDD) using Behave",
+   "items": [
+    {
+     "text": "Introduction to Behavior-Driven Development (BDD)",
+     "level": 0
+    },
+    {
+     "text": "Setting up Behave for Python",
+     "level": 0
+    },
+    {
+     "text": "Writing Gherkin Language Feature Files",
+     "level": 0
+    },
+    {
+     "text": "Implementing Step Definitions in Python",
+     "level": 0
+    },
+    {
+     "text": "Running BDD Tests and Generating Reports",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Performance Testing with Python",
+   "items": [
+    {
+     "text": "Introduction to Performance & Load Testing",
+     "level": 0
+    },
+    {
+     "text": "Setting up and using Locust for Performance Testing",
+     "level": 0
+    },
+    {
+     "text": "Writing Performance Test Scripts",
+     "level": 0
+    },
+    {
+     "text": "Running Load Tests and Analyzing Results",
+     "level": 0
+    },
+    {
+     "text": "Integrating Performance Testing into Automation Pipelines",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Test Automation Frameworks & CI/CD Integration",
+   "items": [
+    {
+     "text": "Introduction to Test Automation Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Structuring a Scalable Test Automation Suite",
+     "level": 0
+    },
+    {
+     "text": "Running Automated Tests in Jenkins, GitHub Actions, and GitLab CI/CD",
+     "level": 0
+    },
+    {
+     "text": "Using Docker & Selenium Grid for Parallel Test Execution",
+     "level": 0
+    },
+    {
+     "text": "Generating Test Reports (HTML Reports, Allure, Extent Reports)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Real-World Test Automation Scenarios",
+   "items": [
+    {
+     "text": "Automating E-commerce Website Testing",
+     "level": 0
+    },
+    {
+     "text": "Automating Login & Registration Workflow Testing",
+     "level": 0
+    },
+    {
+     "text": "Automating Database Testing using Python",
+     "level": 0
+    },
+    {
+     "text": "Automating Mobile App Testing with Appium",
+     "level": 0
+    },
+    {
+     "text": "Continuous Testing & Regression Testing Strategies",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

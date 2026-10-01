@@ -47,7 +47,7 @@
   <h2>Classroom training, done properly.</h2>
   <div style="max-width:760px">
 @use('App\Support\Catalog')
-    <p>CompuBase Training Center — Innovative Training Solutions — is a professional training institute in Abu Dhabi, United Arab Emirates. We deliver {{ count(Catalog::courses()) }} scheduled courses in {{ implode(', ', array_column(Catalog::categories(), 'en')) }}.</p>
+    <p>CompuBase Training Center — Innovative Training Solutions — is a professional training institute in Abu Dhabi, United Arab Emirates. We deliver {{ count(Catalog::courses()) }} scheduled courses in {{ count(Catalog::categories()) }} categories of management and IT training, from personal development, leadership and finance to cyber security, cloud computing and artificial intelligence.</p>
     <p>Every programme runs Monday to Friday with a morning group and an evening group, taught in English or Arabic depending on the group. Courses range from a two-day workshop to a full month of tuition — and all of them happen in a real classroom, with an instructor who answers questions the moment they come up.</p>
     <p>[Add: founding year, licence details, and two or three sentences of the centre's own history — to be supplied by CompuBase before publication.]</p>
   </div>
@@ -76,7 +76,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
-        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, and more. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
+        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>

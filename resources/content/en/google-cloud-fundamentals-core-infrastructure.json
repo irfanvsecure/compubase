@@ -1,0 +1,164 @@
+{
+ "title": "Google Cloud Fundamentals: Core Infrastructure",
+ "duration": "3 Days",
+ "overview": [
+  "The Google Cloud Fundamentals: Core Infrastructure course is designed to provide a foundational understanding of Google Cloud Platform (GCP) services and solutions. This course covers core GCP infrastructure components, including compute, storage, and networking, and prepares participants for further specialization in Google Cloud technologies."
+ ],
+ "audience": [
+  "Individuals new to Google Cloud Platform (GCP) and cloud computing.",
+  "IT professionals and system administrators looking to understand GCP infrastructure.",
+  "Developers and data engineers interested in GCP services and solutions.",
+  "Anyone preparing to build foundational knowledge of Google Cloud Platform."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of GCP core infrastructure services and components.",
+  "Hands-On Labs: Practical exercises for working with GCP services and tools.",
+  "Case Studies: Real-world examples to understand GCP solutions and use cases.",
+  "Group Discussions: Interactive sessions to explore GCP infrastructure challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for further specialization."
+ ],
+ "competencies": [
+  "GCP core services and infrastructure",
+  "Cloud computing fundamentals and concepts",
+  "GCP deployment and management",
+  "GCP security and compliance"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of Google Cloud Platform services and infrastructure.",
+  "To introduce participants to core GCP services, including compute, storage, and networking.",
+  "To prepare learners for further specialization in Google Cloud technologies.",
+  "To familiarize participants with GCP deployment, management, and security best practices."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Google Cloud Platform",
+   "items": [
+    {
+     "text": "Overview of Google Cloud Platform and Its Benefits",
+     "level": 0
+    },
+    {
+     "text": "Understanding GCP Core Infrastructure Components",
+     "level": 0
+    },
+    {
+     "text": "Key GCP Concepts and Terminology",
+     "level": 0
+    },
+    {
+     "text": "Navigating the GCP Console and Tools",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Compute Services",
+   "items": [
+    {
+     "text": "Introduction to Google Compute Engine (VMs)",
+     "level": 0
+    },
+    {
+     "text": "Overview of Google Kubernetes Engine (GKE)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Google App Engine",
+     "level": 0
+    },
+    {
+     "text": "Using Google Cloud Functions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Storage Services",
+   "items": [
+    {
+     "text": "Overview of Google Cloud Storage (Buckets, Objects)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Google Persistent Disks",
+     "level": 0
+    },
+    {
+     "text": "Using Google Filestore and Cloud SQL",
+     "level": 0
+    },
+    {
+     "text": "Understanding Google Cloud Bigtable and BigQuery",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Networking Services",
+   "items": [
+    {
+     "text": "Introduction to Google Virtual Private Cloud (VPC)",
+     "level": 0
+    },
+    {
+     "text": "Configuring Google Cloud Load Balancers",
+     "level": 0
+    },
+    {
+     "text": "Understanding Google Cloud DNS and Cloud CDN",
+     "level": 0
+    },
+    {
+     "text": "Managing Network Security with Google Cloud Firewalls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Security and Identity Management",
+   "items": [
+    {
+     "text": "Overview of Google Cloud Identity and Access Management (IAM)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Best Practices in GCP",
+     "level": 0
+    },
+    {
+     "text": "Using Google Cloud Key Management Service (KMS)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Compliance and Regulatory Requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Deployment and Management",
+   "items": [
+    {
+     "text": "Using Google Cloud Deployment Manager",
+     "level": 0
+    },
+    {
+     "text": "Implementing Infrastructure as Code (IaC) with GCP",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and Logging with Google Cloud Operations Suite",
+     "level": 0
+    },
+    {
+     "text": "Managing Costs and Budgeting with GCP",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cloud Computing Courses.docx"
+}

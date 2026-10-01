@@ -1,0 +1,160 @@
+{
+ "title": "Certified Information Security Manager (CISM) – ISACA",
+ "duration": "5 Days",
+ "overview": [
+  "The Certified Information Security Manager (CISM) course is designed to provide a comprehensive understanding of information security management and governance. This course prepares participants for the CISM certification exam by covering essential areas such as information security governance, risk management, and incident response."
+ ],
+ "audience": [
+  "Information security managers and professionals.",
+  "IT auditors, consultants, and risk managers.",
+  "Individuals preparing for the CISM certification exam.",
+  "Those interested in advancing their knowledge and career in information security management."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanations of CISM concepts and domains.",
+  "Hands-On Labs: Practical exercises for implementing and managing information security measures.",
+  "Case Studies: Real-world scenarios to apply CISM concepts and solutions.",
+  "Group Discussions: Interactive sessions to explore security management challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to gauge understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Information security governance and management",
+  "Risk management and assessment",
+  "Information security program development and management",
+  "Incident response and crisis management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of information security management principles and practices.",
+  "To prepare participants for the CISM certification exam.",
+  "To equip learners with practical skills for managing and implementing information security strategies.",
+  "To familiarize participants with best practices and advanced concepts in information security management."
+ ],
+ "outline": [
+  {
+   "title": "1. Information Security Governance",
+   "items": [
+    {
+     "text": "Establishing and Maintaining Information Security Governance Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Aligning Information Security with Business Goals and Objectives",
+     "level": 0
+    },
+    {
+     "text": "Developing and Implementing Information Security Policies and Procedures",
+     "level": 0
+    },
+    {
+     "text": "Understanding Legal, Regulatory, and Compliance Requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Risk Management",
+   "items": [
+    {
+     "text": "Conducting Information Security Risk Assessments",
+     "level": 0
+    },
+    {
+     "text": "Identifying and Evaluating Risk Management Strategies and Controls",
+     "level": 0
+    },
+    {
+     "text": "Implementing Risk Mitigation and Risk Treatment Plans",
+     "level": 0
+    },
+    {
+     "text": "Managing Risk and Incident Response Plans",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Information Security Program Development and Management",
+   "items": [
+    {
+     "text": "Designing and Implementing Information Security Programs",
+     "level": 0
+    },
+    {
+     "text": "Developing and Managing Information Security Policies, Standards, and Procedures",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and Measuring Information Security Program Effectiveness",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Continuous Improvement and Adaptation of Security Programs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Information Security Incident Management",
+   "items": [
+    {
+     "text": "Developing and Implementing Incident Response Plans",
+     "level": 0
+    },
+    {
+     "text": "Managing and Responding to Security Incidents and Breaches",
+     "level": 0
+    },
+    {
+     "text": "Conducting Post-Incident Reviews and Lessons Learned",
+     "level": 0
+    },
+    {
+     "text": "Understanding Crisis Management and Communication Strategies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Information Security Strategy and Planning",
+   "items": [
+    {
+     "text": "Aligning Information Security with Organizational Strategy",
+     "level": 0
+    },
+    {
+     "text": "Developing Information Security Roadmaps and Strategic Plans",
+     "level": 0
+    },
+    {
+     "text": "Managing Information Security Budget and Resources",
+     "level": 0
+    },
+    {
+     "text": "Evaluating and Selecting Security Technologies and Solutions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Security Management and Operations",
+   "items": [
+    {
+     "text": "Implementing and Managing Security Operations and Monitoring",
+     "level": 0
+    },
+    {
+     "text": "Managing Security Performance and Metrics",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Security Awareness and Training Programs",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cyber Security Courses.docx"
+}

@@ -1,0 +1,266 @@
+{
+ "title": "Python for Data Science",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Python for Data Science, covering data manipulation, visualization, statistical analysis, machine learning, and AI. Participants will learn how to use popular Python libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and TensorFlow to analyze data, extract insights, and build predictive models. The course is highly practical, with hands-on exercises and a capstone project."
+ ],
+ "audience": [
+  "Aspiring Data Scientists & Analysts looking to build a strong foundation in Python",
+  "Software Developers who want to transition into Data Science",
+  "Machine Learning Engineers & AI Practitioners",
+  "Business Analysts & Professionals seeking to leverage data for decision-making",
+  "Students & Researchers in fields requiring data analysis"
+ ],
+ "methodology": [
+  "Hands-on Coding Labs – Practical exercises with real-world datasets",
+  "Live Demonstrations – Applying concepts to real case studies",
+  "Data Science Case Studies – Industry applications of Python",
+  "Collaborative Learning – Group projects and peer reviews",
+  "Capstone Project – Developing a complete data science solution"
+ ],
+ "competencies": [
+  "Python Programming for Data Science",
+  "Data Manipulation & Cleaning using Pandas & NumPy",
+  "Data Visualization using Matplotlib & Seaborn",
+  "Exploratory Data Analysis (EDA)",
+  "Statistical Analysis & Hypothesis Testing",
+  "Machine Learning & Predictive Modeling using Scikit-learn",
+  "Introduction to Deep Learning & TensorFlow"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Write Python scripts for data manipulation and analysis",
+  "Use Pandas & NumPy for data handling and preprocessing",
+  "Perform exploratory data analysis (EDA) and statistical analysis",
+  "Create data visualizations using Matplotlib & Seaborn",
+  "Apply Machine Learning techniques using Scikit-learn",
+  "Implement basic Deep Learning models using TensorFlow",
+  "Work on real-world data science problems"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Python for Data Science",
+   "items": [
+    {
+     "text": "Overview of Data Science and Python’s Role",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Python Environment (Jupyter Notebook, VS Code, Anaconda)",
+     "level": 0
+    },
+    {
+     "text": "Python Basics – Data Types, Functions, Loops, and OOP",
+     "level": 0
+    },
+    {
+     "text": "Using Python for Mathematical and Statistical Computations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Data Manipulation with Pandas & NumPy",
+   "items": [
+    {
+     "text": "Understanding DataFrames & Series in Pandas",
+     "level": 0
+    },
+    {
+     "text": "Data Cleaning: Handling Missing Data, Duplicates, and Outliers",
+     "level": 0
+    },
+    {
+     "text": "Data Transformation & Aggregation",
+     "level": 0
+    },
+    {
+     "text": "Working with NumPy for Numerical Computing",
+     "level": 0
+    },
+    {
+     "text": "Reshaping Data: Pivot Tables, Melting, and Stacking",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Data Visualization with Matplotlib & Seaborn",
+   "items": [
+    {
+     "text": "Introduction to Data Visualization",
+     "level": 0
+    },
+    {
+     "text": "Creating Basic Charts (Line, Bar, Scatter, Pie, Histograms)",
+     "level": 0
+    },
+    {
+     "text": "Advanced Visualizations: Box Plots, Heatmaps, Pair Plots",
+     "level": 0
+    },
+    {
+     "text": "Customizing Plots and Styling Visualizations",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Data Storytelling",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Exploratory Data Analysis (EDA)",
+   "items": [
+    {
+     "text": "What is EDA and Why is it Important?",
+     "level": 0
+    },
+    {
+     "text": "Descriptive Statistics & Summary Functions",
+     "level": 0
+    },
+    {
+     "text": "Identifying Trends, Patterns, and Anomalies in Data",
+     "level": 0
+    },
+    {
+     "text": "Feature Engineering for Machine Learning",
+     "level": 0
+    },
+    {
+     "text": "Automating EDA using Python Libraries",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Statistical Analysis & Hypothesis Testing",
+   "items": [
+    {
+     "text": "Basics of Probability and Statistics",
+     "level": 0
+    },
+    {
+     "text": "Measures of Central Tendency & Variability",
+     "level": 0
+    },
+    {
+     "text": "Correlation & Regression Analysis",
+     "level": 0
+    },
+    {
+     "text": "Hypothesis Testing (T-tests, ANOVA, Chi-square)",
+     "level": 0
+    },
+    {
+     "text": "Identifying Statistical Significance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Introduction to Machine Learning with Python",
+   "items": [
+    {
+     "text": "Understanding Supervised vs. Unsupervised Learning",
+     "level": 0
+    },
+    {
+     "text": "Preparing Data for Machine Learning Models",
+     "level": 0
+    },
+    {
+     "text": "Training and Evaluating Models",
+     "level": 0
+    },
+    {
+     "text": "Overfitting & Underfitting Issues",
+     "level": 0
+    },
+    {
+     "text": "Cross-Validation Techniques",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Machine Learning with Scikit-learn",
+   "items": [
+    {
+     "text": "Linear & Logistic Regression",
+     "level": 0
+    },
+    {
+     "text": "Decision Trees & Random Forest",
+     "level": 0
+    },
+    {
+     "text": "Support Vector Machines (SVM)",
+     "level": 0
+    },
+    {
+     "text": "Clustering Algorithms (K-Means, DBSCAN)",
+     "level": 0
+    },
+    {
+     "text": "Model Evaluation Metrics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Deep Learning with TensorFlow & Keras (Intro)",
+   "items": [
+    {
+     "text": "Understanding Neural Networks & Deep Learning",
+     "level": 0
+    },
+    {
+     "text": "Introduction to TensorFlow and Keras",
+     "level": 0
+    },
+    {
+     "text": "Building a Simple Neural Network",
+     "level": 0
+    },
+    {
+     "text": "Implementing Convolutional Neural Networks (CNNs) for Image Processing",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Natural Language Processing (NLP) with Python",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Real-World Data Science Applications",
+   "items": [
+    {
+     "text": "Financial Data Analysis",
+     "level": 0
+    },
+    {
+     "text": "Customer Segmentation in Marketing",
+     "level": 0
+    },
+    {
+     "text": "Predictive Analytics in Healthcare",
+     "level": 0
+    },
+    {
+     "text": "Sentiment Analysis in Social Media",
+     "level": 0
+    },
+    {
+     "text": "Automating Data Science Workflows",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

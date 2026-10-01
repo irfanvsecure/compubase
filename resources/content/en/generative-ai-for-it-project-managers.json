@@ -1,0 +1,265 @@
+{
+ "title": "Generative AI for IT Project Managers",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed for IT Project Managers who want to integrate Generative AI into project management workflows to improve efficiency, decision-making, and automation.",
+  "Participants will learn how to:",
+  "Leverage AI for project planning, risk assessment, and decision-making.",
+  "Automate project documentation, reporting, and stakeholder communication.",
+  "Use AI for agile methodologies, sprint planning, and resource allocation.",
+  "Optimize IT project workflows with AI-powered tools.",
+  "Address AI ethics, security, and governance in project execution",
+  "By the end of this course, IT Project Managers will be equipped to effectively incorporate AI-driven solutions into project management processes for greater productivity and successful project execution."
+ ],
+ "audience": [
+  "This course is designed for:",
+  "IT Project Managers & Program Managers",
+  "Scrum Masters & Agile Coaches",
+  "Product Owners & Product Managers",
+  "Technology Consultants & Digital Transformation Leads",
+  "Business Analysts & Process Improvement Experts",
+  "Prerequisites:",
+  "Basic understanding of IT project management methodologies (Agile, Waterfall, etc.)",
+  "Familiarity with project management tools like Jira, Trello, MS Project, Asana, etc.",
+  "Interest in AI-driven automation and decision-making"
+ ],
+ "methodology": [
+  "This course follows a practical, real-world approach, including:",
+  "Instructor-led sessions & industry case studies",
+  "Hands-on demonstrations of AI tools for project management",
+  "Scenario-based problem-solving & decision-making exercises",
+  "Group discussions on AI adoption challenges in project management",
+  "Capstone project: AI-powered project management framework"
+ ],
+ "competencies": [
+  "By the end of the course, participants will:",
+  "Use AI for predictive project planning and risk assessment",
+  "Automate project documentation, reporting, and stakeholder communication",
+  "Enhance Agile and DevOps project workflows using AI tools",
+  "Improve decision-making with AI-powered analytics",
+  "Implement AI governance and compliance measures in IT projects"
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will:"
+ ],
+ "objectives": [
+  "Develop an AI-enhanced project management strategy",
+  "Use AI for intelligent task automation and resource optimization",
+  "Leverage AI-driven insights for better risk management",
+  "Enhance Agile, Scrum, and DevOps processes with AI capabilities",
+  "Ensure ethical and responsible AI use in project execution"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI for IT Project Management",
+   "items": [
+    {
+     "text": "Understanding Generative AI and its impact on project management",
+     "level": 0
+    },
+    {
+     "text": "Overview of AI-powered automation in IT project workflows",
+     "level": 0
+    },
+    {
+     "text": "Exploring AI tools like Chat-GPT, Bard, Claude, and enterprise AI solutions",
+     "level": 0
+    },
+    {
+     "text": "Case studies of AI adoption in IT project management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI for Project Planning & Scheduling",
+   "items": [
+    {
+     "text": "AI-driven task scheduling and resource allocation",
+     "level": 0
+    },
+    {
+     "text": "Predictive project planning using historical data and AI models",
+     "level": 0
+    },
+    {
+     "text": "AI-powered Gantt charts, milestones, and timeline optimization",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI-based project planning tools",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI for Risk Management & Issue Resolution",
+   "items": [
+    {
+     "text": "AI-based risk identification, mitigation, and response planning",
+     "level": 0
+    },
+    {
+     "text": "Predictive analytics for early detection of project bottlenecks",
+     "level": 0
+    },
+    {
+     "text": "AI-powered issue tracking & resolution strategies",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI tools for risk assessment in Jira and Trello",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI for Agile & Scrum Project Management",
+   "items": [
+    {
+     "text": "AI-powered backlog prioritization and sprint planning",
+     "level": 0
+    },
+    {
+     "text": "AI-driven automated standup reports and sprint retrospectives",
+     "level": 0
+    },
+    {
+     "text": "Enhancing Kanban boards, burndown charts, and velocity tracking with AI",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Integrating AI with Agile project management tools",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI for Project Documentation & Reporting",
+   "items": [
+    {
+     "text": "Automating meeting minutes, reports, and project documentation",
+     "level": 0
+    },
+    {
+     "text": "AI-generated status reports, executive summaries, and dashboards",
+     "level": 0
+    },
+    {
+     "text": "Enhancing stakeholder communication with AI-driven insights",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI to generate real-time project reports",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI for Team Collaboration & Communication",
+   "items": [
+    {
+     "text": "AI-powered email automation, chatbots, and virtual assistants",
+     "level": 0
+    },
+    {
+     "text": "Enhancing team collaboration with AI-driven sentiment analysis",
+     "level": 0
+    },
+    {
+     "text": "AI-powered knowledge management and decision support systems",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Exploring AI-driven collaboration tools (Notion AI, Microsoft Copilot, etc.)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI in DevOps & IT Operations Management",
+   "items": [
+    {
+     "text": "AI-powered incident detection and resolution for IT projects",
+     "level": 0
+    },
+    {
+     "text": "Automating CI/CD pipelines, testing, and deployment",
+     "level": 0
+    },
+    {
+     "text": "AI in ITSM (IT Service Management) and IT governance",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Exploring AI tools in DevOps workflows",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: AI for Cost Estimation & Budget Optimization",
+   "items": [
+    {
+     "text": "AI-powered budget forecasting and cost estimation",
+     "level": 0
+    },
+    {
+     "text": "AI-driven real-time financial tracking and resource optimization",
+     "level": 0
+    },
+    {
+     "text": "Predictive analytics for financial risk mitigation",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI for cost analysis in IT projects",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Ethical AI, Compliance & Governance in IT Project Management",
+   "items": [
+    {
+     "text": "Understanding AI ethics, bias, and transparency in project execution",
+     "level": 0
+    },
+    {
+     "text": "Navigating AI regulations (GDPR, CCPA, AI Act) and compliance challenges",
+     "level": 0
+    },
+    {
+     "text": "Implementing AI governance frameworks for responsible AI adoption",
+     "level": 0
+    },
+    {
+     "text": "Case studies on AI risks and governance best practices",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Capstone Project – AI-Enhanced IT Project Management Framework",
+   "items": [
+    {
+     "text": "Final project: Developing an AI-powered project management strategy",
+     "level": 0
+    },
+    {
+     "text": "Peer review and expert feedback on AI implementation plans",
+     "level": 0
+    },
+    {
+     "text": "Course recap & final Q&A session",
+     "level": 0
+    },
+    {
+     "text": "Certification and next steps for AI-driven project management",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

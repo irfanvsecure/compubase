@@ -1,0 +1,236 @@
+{
+ "title": "Ruby on Rails",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Ruby on Rails, a popular web development framework known for its simplicity, efficiency, and scalability. Participants will learn how to build dynamic, database-driven web applications using Rails conventions, MVC architecture, RESTful APIs, and deployment strategies. The course covers both frontend and backend development, making it ideal for full-stack developers."
+ ],
+ "audience": [
+  "Aspiring Web Developers looking to master Rails",
+  "Backend Developers wanting to build scalable applications",
+  "Full-Stack Developers interested in modern web frameworks",
+  "Entrepreneurs & Startups developing web applications",
+  "Software Engineers & IT Professionals transitioning into web development"
+ ],
+ "methodology": [
+  "Hands-on Coding Exercises – Practical labs & mini-projects",
+  "Live Demonstrations – Step-by-step application development",
+  "Real-World Case Studies – Learning from industry use cases",
+  "Collaborative Learning – Group discussions & pair programming",
+  "Capstone Project – Building a fully functional web application"
+ ],
+ "competencies": [
+  "Ruby programming & Rails framework",
+  "MVC architecture & RESTful web development",
+  "Database management with Active Record & PostgreSQL",
+  "Frontend integration with HTML, CSS, JavaScript, and Bootstrap",
+  "Authentication & security best practices in Rails",
+  "Deploying Ruby on Rails applications"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop full-stack web applications using Ruby on Rails",
+  "Design and manage databases using Active Record",
+  "Build RESTful APIs for web and mobile applications",
+  "Implement authentication and authorization using Devise",
+  "Deploy Rails applications on cloud platforms (Heroku, AWS, etc.)",
+  "Follow best practices in Rails development and performance optimization"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Ruby on Rails",
+   "items": [
+    {
+     "text": "Overview of Web Development & Rails Ecosystem",
+     "level": 0
+    },
+    {
+     "text": "Understanding MVC (Model-View-Controller) Architecture",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Development Environment (Rails, RVM, Bundler, Gems)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Rails Convention over Configuration",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Ruby Fundamentals for Rails",
+   "items": [
+    {
+     "text": "Ruby Syntax & Data Structures",
+     "level": 0
+    },
+    {
+     "text": "Object-Oriented Programming (OOP) in Ruby",
+     "level": 0
+    },
+    {
+     "text": "Working with Classes, Modules, and Methods",
+     "level": 0
+    },
+    {
+     "text": "Handling Files, Exceptions, and APIs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Creating Your First Rails Application",
+   "items": [
+    {
+     "text": "Generating a Rails Project",
+     "level": 0
+    },
+    {
+     "text": "Understanding Rails Directory Structure",
+     "level": 0
+    },
+    {
+     "text": "Creating Controllers, Models, and Views",
+     "level": 0
+    },
+    {
+     "text": "Working with Routes & URL Helpers",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Database Management with Active Record",
+   "items": [
+    {
+     "text": "Understanding Active Record ORM",
+     "level": 0
+    },
+    {
+     "text": "Creating & Managing Migrations & Database Tables",
+     "level": 0
+    },
+    {
+     "text": "Implementing CRUD Operations (Create, Read, Update, Delete)",
+     "level": 0
+    },
+    {
+     "text": "Associations: One-to-One, One-to-Many, Many-to-Many",
+     "level": 0
+    },
+    {
+     "text": "Using PostgreSQL & SQLite with Rails",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Working with Views & Frontend Integration",
+   "items": [
+    {
+     "text": "Using ERB (Embedded Ruby) & HAML",
+     "level": 0
+    },
+    {
+     "text": "Integrating CSS, JavaScript, and Bootstrap",
+     "level": 0
+    },
+    {
+     "text": "Handling Forms & Validations in Rails",
+     "level": 0
+    },
+    {
+     "text": "Working with AJAX & Turbo for dynamic updates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: RESTful APIs & JSON Handling",
+   "items": [
+    {
+     "text": "Understanding RESTful Routes & Controllers",
+     "level": 0
+    },
+    {
+     "text": "Generating JSON APIs in Rails",
+     "level": 0
+    },
+    {
+     "text": "Using Postman for API Testing",
+     "level": 0
+    },
+    {
+     "text": "API Authentication using JWT & OAuth",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Authentication & Authorization",
+   "items": [
+    {
+     "text": "Implementing User Authentication with Devise",
+     "level": 0
+    },
+    {
+     "text": "Role-Based Access Control (RBAC)",
+     "level": 0
+    },
+    {
+     "text": "Protecting Routes with Pundit & CanCanCan",
+     "level": 0
+    },
+    {
+     "text": "Handling Sessions & Cookies Securely",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Advanced Rails Features",
+   "items": [
+    {
+     "text": "Background Jobs & Asynchronous Processing (Sidekiq, Delayed Job)",
+     "level": 0
+    },
+    {
+     "text": "Caching & Performance Optimization",
+     "level": 0
+    },
+    {
+     "text": "Working with WebSockets & ActionCable",
+     "level": 0
+    },
+    {
+     "text": "Testing & Debugging Rails Applications (RSpec, Capybara)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Deployment & DevOps for Rails Applications",
+   "items": [
+    {
+     "text": "Configuring & Deploying Rails Apps on Heroku & AWS",
+     "level": 0
+    },
+    {
+     "text": "Setting up CI/CD Pipelines for Rails",
+     "level": 0
+    },
+    {
+     "text": "Using Docker & Kubernetes with Rails",
+     "level": 0
+    },
+    {
+     "text": "Monitoring & Logging with Rails Performance Tools",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

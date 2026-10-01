@@ -1,0 +1,206 @@
+{
+ "title": "Cisco Certified DevNet Associate",
+ "duration": "5 Days",
+ "overview": [
+  "The Cisco Certified DevNet Associate (DevNet Associate) course is designed to provide foundational knowledge and skills required for developing and maintaining applications built on Cisco platforms. This course prepares participants for the DevNet Associate certification exam, covering essential programming, automation, and network fundamentals."
+ ],
+ "audience": [
+  "Network engineers and developers interested in network automation and programmability.",
+  "IT professionals seeking to validate their skills in developing applications on Cisco platforms.",
+  "Individuals preparing for the Cisco Certified DevNet Associate certification exam.",
+  "Developers looking to understand network infrastructure and automation tools."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of Cisco DevNet concepts and technologies.",
+  "Hands-On Labs: Practical exercises for developing and automating network applications.",
+  "Case Studies: Real-world scenarios to apply DevNet skills and solutions.",
+  "Group Discussions: Interactive sessions to explore network automation challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to measure understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Cisco API and automation tools",
+  "Programming and scripting for network automation",
+  "Cisco platform integration and application development",
+  "Network fundamentals and DevOps practices"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of Cisco DevNet technologies and practices.",
+  "To prepare participants for the Cisco Certified DevNet Associate (DevNet Associate) exam.",
+  "To equip learners with practical skills for developing, automating, and managing network applications.",
+  "To familiarize participants with Cisco APIs, SDKs, and tools for network programmability."
+ ],
+ "outline": [
+  {
+   "title": "1. Software Development and Design",
+   "items": [
+    {
+     "text": "Introduction to Software Development and Programming Concepts",
+     "level": 0
+    },
+    {
+     "text": "Understanding APIs and Web Services (RESTful APIs, JSON, XML)",
+     "level": 0
+    },
+    {
+     "text": "Using Cisco’s APIs and SDKs",
+     "level": 0
+    },
+    {
+     "text": "Developing Python Scripts for Automation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Understanding and Using APIs",
+   "items": [
+    {
+     "text": "Cisco API Overview and Authentication",
+     "level": 0
+    },
+    {
+     "text": "Working with Cisco DNA (Digital Network Architecture) APIs",
+     "level": 0
+    },
+    {
+     "text": "Integrating Cisco Collaboration APIs",
+     "level": 0
+    },
+    {
+     "text": "Consuming and Testing APIs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Network Fundamentals",
+   "items": [
+    {
+     "text": "Basic Networking Concepts (IP Addressing, Subnetting, Routing)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Network Topologies and Protocols",
+     "level": 0
+    },
+    {
+     "text": "Overview of Cisco Networking Devices and Configurations",
+     "level": 0
+    },
+    {
+     "text": "Network Security Fundamentals",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Cisco Platform Programmability",
+   "items": [
+    {
+     "text": "Introduction to Cisco Platform and Programmability Concepts",
+     "level": 0
+    },
+    {
+     "text": "Using Cisco IOS XE, NX-OS, and Catalyst APIs",
+     "level": 0
+    },
+    {
+     "text": "Implementing Automation with Cisco Network Programmability",
+     "level": 0
+    },
+    {
+     "text": "Managing Network Devices with REST APIs and SNMP",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Network Automation and Orchestration",
+   "items": [
+    {
+     "text": "Automating Network Configuration and Management",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Network Automation Tools (Ansible, Puppet)",
+     "level": 0
+    },
+    {
+     "text": "Using Cisco DNA for Automation and Analytics",
+     "level": 0
+    },
+    {
+     "text": "Implementing CI/CD for Network Automation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Application Development and Deployment",
+   "items": [
+    {
+     "text": "Developing and Deploying Network Applications",
+     "level": 0
+    },
+    {
+     "text": "Integrating Applications with Cisco Platforms",
+     "level": 0
+    },
+    {
+     "text": "Managing Application Lifecycle (Testing, Deployment)",
+     "level": 0
+    },
+    {
+     "text": "Using DevOps Practices for Application Development",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Security and Compliance",
+   "items": [
+    {
+     "text": "Implementing Security Best Practices in Network Automation",
+     "level": 0
+    },
+    {
+     "text": "Understanding Compliance and Regulatory Requirements",
+     "level": 0
+    },
+    {
+     "text": "Securing APIs and Network Automation Tools",
+     "level": 0
+    },
+    {
+     "text": "Managing Access Controls and Authentication",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Troubleshooting and Monitoring",
+   "items": [
+    {
+     "text": "Troubleshooting Common Network Issues and Automation Problems",
+     "level": 0
+    },
+    {
+     "text": "Monitoring Network Performance and Application Health",
+     "level": 0
+    },
+    {
+     "text": "Using Diagnostic Tools and Logs for Troubleshooting",
+     "level": 0
+    },
+    {
+     "text": "Implementing Alerts and Notifications",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Coding & Programming Courses.docx"
+}

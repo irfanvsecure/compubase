@@ -1,0 +1,285 @@
+{
+ "title": "Generative AI for Cybersecurity Domain",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive understanding of Generative AI’s applications in Cybersecurity. Participants will explore how AI-driven models, such as GPT, GANs, and Transformers, can be used for threat detection, anomaly detection, malware analysis, automated security tasks, and adversarial AI.",
+  "The course will also cover defensive and offensive AI techniques, ethical considerations, and best practices to ensure responsible AI implementation in cybersecurity. Learners will gain hands-on experience using Python-based AI frameworks and security tools to build AI-driven security solutions."
+ ],
+ "audience": [
+  "This course is ideal for:",
+  "Cybersecurity Professionals looking to integrate AI into security operations.",
+  "AI & Machine Learning Engineers focusing on security applications.",
+  "Ethical Hackers & Penetration Testers using AI for adversarial testing.",
+  "SOC Analysts & Threat Hunters aiming to enhance threat intelligence.",
+  "IT & Security Managers exploring AI-driven automation in security."
+ ],
+ "methodology": [
+  "This training is hands-on and industry-focused, combining:",
+  "Instructor-led sessions – Concepts explained with real-world case studies.",
+  "Live coding & demonstrations – Implementing AI-powered cybersecurity solutions.",
+  "Practical hands-on labs – Using Python, AI libraries, and security tools.",
+  "Threat simulation exercises – Applying AI for offensive and defensive security.",
+  "Capstone project – Building an AI-driven cybersecurity solution."
+ ],
+ "competencies": [
+  "By completing this course, participants will develop expertise in:",
+  "Leveraging AI for cybersecurity (threat detection, SOC automation).",
+  "Building AI-powered security models for anomaly and malware detection.",
+  "Understanding adversarial AI (AI-driven cyberattacks & defenses).",
+  "Automating security operations using AI models.",
+  "Developing responsible AI strategies to mitigate security risks."
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Generative AI’s role in Cybersecurity.",
+  "Use AI models for threat intelligence and malware detection.",
+  "Implement AI-driven SOC automation for incident response.",
+  "Detect and prevent adversarial AI attacks.",
+  "Build custom AI security tools using Python.",
+  "Address ethical, bias, and regulatory concerns in AI cybersecurity."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI in Cybersecurity",
+   "items": [
+    {
+     "text": "Overview of Generative AI & Large Language Models (LLMs).",
+     "level": 0
+    },
+    {
+     "text": "How AI is transforming Cybersecurity Operations.",
+     "level": 0
+    },
+    {
+     "text": "Real-world use cases: Threat detection, fraud prevention, malware analysis.",
+     "level": 0
+    },
+    {
+     "text": "Ethical & regulatory considerations in AI-powered cybersecurity.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI-Powered Threat Intelligence & Analysis",
+   "items": [
+    {
+     "text": "Understanding Threat Intelligence and AI’s role in cybersecurity.",
+     "level": 0
+    },
+    {
+     "text": "Using NLP (Natural Language Processing) for cyber threat intelligence.",
+     "level": 0
+    },
+    {
+     "text": "AI-driven automation for phishing email detection.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered threat intelligence tool.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI for Anomaly & Intrusion Detection",
+   "items": [
+    {
+     "text": "Introduction to Anomaly Detection with AI.",
+     "level": 0
+    },
+    {
+     "text": "Using AI models to detect unusual behavior in network traffic.",
+     "level": 0
+    },
+    {
+     "text": "Implementing AI for Insider Threat Detection.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-based Intrusion Detection System (IDS).",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Malware Analysis using AI",
+   "items": [
+    {
+     "text": "How Generative AI helps in malware detection & classification.",
+     "level": 0
+    },
+    {
+     "text": "Using AI for reverse engineering malware behavior.",
+     "level": 0
+    },
+    {
+     "text": "Applying Deep Learning for ransomware detection.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: AI-based malware analysis using Python.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Adversarial AI & AI-Powered Cyber Attacks",
+   "items": [
+    {
+     "text": "Understanding Adversarial AI and its threats.",
+     "level": 0
+    },
+    {
+     "text": "Generative AI for spear-phishing & deepfake attacks.",
+     "level": 0
+    },
+    {
+     "text": "Adversarial examples: How hackers manipulate AI security models.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Simulating an AI-driven cyberattack.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI in Security Operations & Incident Response (SOC Automation)",
+   "items": [
+    {
+     "text": "Automating Security Operations Centers (SOC) with AI.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered log analysis and threat hunting.",
+     "level": 0
+    },
+    {
+     "text": "Implementing AI chatbots for automated incident response.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-based Security Incident Response System.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI-Based Fraud Detection & Risk Scoring",
+   "items": [
+    {
+     "text": "AI in fraud detection and behavioral analytics.",
+     "level": 0
+    },
+    {
+     "text": "Risk scoring using Machine Learning models.",
+     "level": 0
+    },
+    {
+     "text": "Detecting financial fraud, account takeovers, and credential stuffing.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered fraud detection system.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Deepfake & Synthetic Media Detection",
+   "items": [
+    {
+     "text": "Introduction to Deepfake Technology.",
+     "level": 0
+    },
+    {
+     "text": "Identifying AI-generated fake images, videos, and voices.",
+     "level": 0
+    },
+    {
+     "text": "Using AI for fake news and misinformation detection.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI tool to detect deepfakes.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: AI-Driven Cybersecurity Automation with Python",
+   "items": [
+    {
+     "text": "Automating repetitive cybersecurity tasks using AI.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered password cracking and brute-force attack prevention.",
+     "level": 0
+    },
+    {
+     "text": "Implementing AI in SIEM (Security Information & Event Management) platforms.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Automating security alerts with Python-based AI models.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Ethics, Compliance, and Responsible AI in Cybersecurity",
+   "items": [
+    {
+     "text": "AI bias and security concerns in Cybersecurity.",
+     "level": 0
+    },
+    {
+     "text": "Compliance with GDPR, NIST AI Risk Management Framework, and other standards.",
+     "level": 0
+    },
+    {
+     "text": "Best practices for ethical AI use in Cybersecurity.",
+     "level": 0
+    },
+    {
+     "text": "Future trends in AI-powered security.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 11: Capstone Project – AI-Powered Cybersecurity Solution",
+   "items": [
+    {
+     "text": "Final project: Building and deploying an AI-driven cybersecurity application.",
+     "level": 0
+    },
+    {
+     "text": "Peer review and evaluation of security models.",
+     "level": 0
+    },
+    {
+     "text": "Certification and career guidance in AI & Cybersecurity",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "iii",
+   "paras": [],
+   "items": [
+    "Basic Python programming knowledge.",
+    "Understanding of Cybersecurity concepts (threat detection, SOC operations).",
+    "Familiarity with Machine Learning & AI basics (optional but beneficial)."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

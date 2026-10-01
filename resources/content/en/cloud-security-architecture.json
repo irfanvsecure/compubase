@@ -1,0 +1,219 @@
+{
+ "title": "Cloud Security Architecture",
+ "duration": "5 Days",
+ "overview": [
+  "Cloud computing is a new concept using old technologies. It has quickly become a vital tool in organizations across all industries as an Internet-scale computing infrastructure. Nevertheless, despite Cloud computing’s increasing relevance and popularity, there is a lack of understanding of the security risks associated with Clouds and optimal approaches for migration into Clouds. This course covers these from a practical angle; specifically, it covers Cloud computing architecture, management services, and security challenges. It also discusses Cloud migration planning and the main requirements to move current Cloud untrusted infrastructure to a trustworthy Internet-scale Cloud critical computing infrastructure"
+ ],
+ "audience": [
+  "IT and infrastructure leaders, decision makers (CxO), risk analysts, strategic planners, architects, administrators, software and business developers, and project managers"
+ ],
+ "methodology": [
+  "This course is highly interactive and includes group discussions, case studies and syndicate work. It also includes practical exercises that allow all participants to use the knowledge they gained to demonstrate their skills in cloud management and security."
+ ],
+ "competencies": [
+  "Cloud management",
+  "Identity management",
+  "Access management",
+  "Security risks management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand cloud strengths and misconceptions, and discuss its benefits and weaknesses",
+  "Explain cloud structure, properties and management services",
+  "Set a cloud adoption strategy",
+  "Discuss the main requirements to move current cloud untrusted infrastructure to a trustworthy internet-scale cloud critical computing infrastructure",
+  "Analyze the major risks associated with the different cloud services and deployment models",
+  "Discuss the main principles, mechanisms and best practices for treating cloud risks",
+  "Demonstrate the discussed concepts using practical case studies, business models and industrial tools"
+ ],
+ "outline": [
+  {
+   "title": "Cloud overview",
+   "items": [
+    {
+     "text": "Cloud definition, misconceptions and evolution",
+     "level": 0
+    },
+    {
+     "text": "Cloud services and deployment types",
+     "level": 0
+    },
+    {
+     "text": "Challenges",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Cloud management",
+   "items": [
+    {
+     "text": "Cloud structure and its properties",
+     "level": 0
+    },
+    {
+     "text": "Virtual and application layer management services",
+     "level": 0
+    },
+    {
+     "text": "Cloud dynamic nature and its challenges",
+     "level": 0
+    },
+    {
+     "text": "Application development and integration within clouds",
+     "level": 0
+    },
+    {
+     "text": "Security best practices for automating cloud infrastructure management",
+     "level": 0
+    },
+    {
+     "text": "Clarifying the concepts using industrial platforms",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Establishing trust in clouds",
+   "items": [
+    {
+     "text": "Defining cloud trustworthiness",
+     "level": 0
+    },
+    {
+     "text": "Its properties",
+     "level": 0
+    },
+    {
+     "text": "Assessing cloud trustworthiness",
+     "level": 0
+    },
+    {
+     "text": "Establishing trust in:",
+     "level": 0
+    },
+    {
+     "text": "Private",
+     "level": 0
+    },
+    {
+     "text": "Hybrid",
+     "level": 0
+    },
+    {
+     "text": "Community",
+     "level": 0
+    },
+    {
+     "text": "Public cloud deployment types",
+     "level": 0
+    },
+    {
+     "text": "Establishing trust in:",
+     "level": 0
+    },
+    {
+     "text": "IaaS (Infrastructure as a Service)",
+     "level": 0
+    },
+    {
+     "text": "PaaS (Platform as a Service)",
+     "level": 0
+    },
+    {
+     "text": "SaaS (Software as a Service)",
+     "level": 0
+    },
+    {
+     "text": "Clarifying the concepts using openstack management platform",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Identity and access management",
+   "items": [
+    {
+     "text": "Authentication",
+     "level": 0
+    },
+    {
+     "text": "Authorization",
+     "level": 0
+    },
+    {
+     "text": "Access management",
+     "level": 0
+    },
+    {
+     "text": "Federated access management",
+     "level": 0
+    },
+    {
+     "text": "Insiders vs attackers",
+     "level": 0
+    },
+    {
+     "text": "Insiders analysis and management",
+     "level": 0
+    },
+    {
+     "text": "Related industrial tools:",
+     "level": 0
+    },
+    {
+     "text": "Cloud insider treatments",
+     "level": 0
+    },
+    {
+     "text": "Cloud strong authentication",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Provenance in clouds",
+   "items": [
+    {
+     "text": "Definition and attributes",
+     "level": 0
+    },
+    {
+     "text": "Challenges faced",
+     "level": 0
+    },
+    {
+     "text": "Security risks mitigation using provenance",
+     "level": 0
+    },
+    {
+     "text": "Case studies for using provenance:",
+     "level": 0
+    },
+    {
+     "text": "Forensic investigation",
+     "level": 0
+    },
+    {
+     "text": "Trustworthy operational management",
+     "level": 0
+    },
+    {
+     "text": "Proactive and predictive management",
+     "level": 0
+    },
+    {
+     "text": "Bill assurance",
+     "level": 0
+    },
+    {
+     "text": "Related industrial tools",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

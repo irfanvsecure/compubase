@@ -1,0 +1,408 @@
+{
+ "title": "Data Visualization with Power Bi",
+ "duration": "3 Days",
+ "overview": [
+  "This course will discuss the various methods and best practices that are in line with business and technical requirements for modeling, visualizing, and analyzing data with Power BI . The course will also show how to access and process data from a range of data sources including both relational and non-relational data. It will also explore how to implement proper security standards and policies across the Power BI spectrum including datasets and groups. And discuss how to manage and deploy reports and dashboards for sharing and content distribution. Finally, this course will show how to build paginated reports within the Power BI service and publish them to a workspace for inclusion within Power BI"
+ ],
+ "audience": [
+  "The audience for this course are data and business intelligence professionals who want to learn how to accurately perform data analysis using Power BI. This course is also targeted toward those individuals who develop reports that visualize data from the data platform technologies that exist on both in the cloud and on-premises."
+ ],
+ "methodology": [
+  "We employ research-based training programs with practical Training Methodology and easy-to-understand approach that guarantees the delivery of extensive knowledge implementation over a short period of time"
+ ],
+ "competencies": [
+  "Ingest, clean, and transform data",
+  "Model data for performance and scalability",
+  "Design and create reports for data analysis",
+  "Apply and perform advanced report analytics",
+  "Manage and share report assets",
+  "Create paginated reports in Power BI"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the role of data analytics within Microsoft's ecosystem and how Power BI fits into it.",
+  "Learn to connect to various data sources, profile data, and handle errors within Power BI.",
+  "Gain the ability to shape, transform, and optimize data structures for performance in Power BI Desktop.",
+  "Acquire skills in designing and optimizing data models, creating calculated columns, measures, and tables using DAX Develop proficiency in creating interactive & visually compelling reports & dashboards that provide actionable insights.",
+  "Learn advanced data analytics techniques, including the use of AI visuals to uncover patterns and trends.",
+  "Understand how to manage, share, and distribute Power BI content efficiently across workspaces.",
+  "Master the application of row-level security to protect data in Power BI reports and dashboards.",
+  "Explore the creation & management of datasets, parameters, and the integration of Power BI with other Microsoft services."
+ ],
+ "outline": [
+  {
+   "title": "Get Started with Microsoft Data Analytics",
+   "items": [
+    {
+     "text": "Data Analytics and Microsoft",
+     "level": 0
+    },
+    {
+     "text": "Getting Started with Power BI",
+     "level": 0
+    },
+    {
+     "text": "Lab: Getting Started in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Get data from various data sources",
+     "level": 0
+    },
+    {
+     "text": "Lab: Preparing Data in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Prepare Data",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Clean, Transform, and Load Data in Power BI",
+   "items": [
+    {
+     "text": "Data shaping",
+     "level": 0
+    },
+    {
+     "text": "Enhance the data structure",
+     "level": 0
+    },
+    {
+     "text": "Data Profiling",
+     "level": 0
+    },
+    {
+     "text": "Lab: Transforming and Loading Data in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Loading Data",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Design a Data Model in Power BI",
+   "items": [
+    {
+     "text": "Introduction to data modeling",
+     "level": 0
+    },
+    {
+     "text": "Working with tables",
+     "level": 0
+    },
+    {
+     "text": "Dimensions and Hierarchies",
+     "level": 0
+    },
+    {
+     "text": "Lab: Data Modeling in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Create Model Relationships",
+     "level": 0
+    },
+    {
+     "text": "Configure Tables",
+     "level": 0
+    },
+    {
+     "text": "Review the model interface",
+     "level": 0
+    },
+    {
+     "text": "Create Quick Measures",
+     "level": 0
+    },
+    {
+     "text": "Lab: Advanced Data Modeling in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Configure many-to-many relationships",
+     "level": 0
+    },
+    {
+     "text": "Enforce row-level security",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Create Model Calculations using DAX in Power BI",
+   "items": [
+    {
+     "text": "Introduction to DAX",
+     "level": 0
+    },
+    {
+     "text": "DAX context",
+     "level": 0
+    },
+    {
+     "text": "Advanced DAX",
+     "level": 0
+    },
+    {
+     "text": "Lab: Advanced DAX in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Use the CALCULATE() function to manipulate filter context",
+     "level": 0
+    },
+    {
+     "text": "Use Time Intelligence functions",
+     "level": 0
+    },
+    {
+     "text": "Lab: Introduction to DAX in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Create calculated tables",
+     "level": 0
+    },
+    {
+     "text": "Create calculated columns",
+     "level": 0
+    },
+    {
+     "text": "Create measures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Optimize Model Performance in Power BI",
+   "items": [
+    {
+     "text": "Optimze the model for performance",
+     "level": 0
+    },
+    {
+     "text": "Optimize DirectQuery Models",
+     "level": 0
+    },
+    {
+     "text": "Create and manage Aggregations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Create Reports in Power BI",
+   "items": [
+    {
+     "text": "Design a report",
+     "level": 0
+    },
+    {
+     "text": "Enhance the report",
+     "level": 0
+    },
+    {
+     "text": "Lab: Designing a report in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Create a live connection in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Design a report",
+     "level": 0
+    },
+    {
+     "text": "Configure visual fields and format properties",
+     "level": 0
+    },
+    {
+     "text": "Lab: Enhancing reports with interaction and formatting in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Create and configure Sync Slicers",
+     "level": 0
+    },
+    {
+     "text": "Create a drillthrough page",
+     "level": 0
+    },
+    {
+     "text": "Apply conditional formatting",
+     "level": 0
+    },
+    {
+     "text": "Create and use Bookmarks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Create Dashboards in Power BI",
+   "items": [
+    {
+     "text": "Create a Dashboard",
+     "level": 0
+    },
+    {
+     "text": "Real-time Dashboards",
+     "level": 0
+    },
+    {
+     "text": "Enhance a Dashboard",
+     "level": 0
+    },
+    {
+     "text": "Lab: Creating a Dashboard in Power BI Service",
+     "level": 0
+    },
+    {
+     "text": "Create a Dashboard",
+     "level": 0
+    },
+    {
+     "text": "Pin visuals to a Dashboard",
+     "level": 0
+    },
+    {
+     "text": "Configure a Dashboard tile alert",
+     "level": 0
+    },
+    {
+     "text": "Use Q&A to create a dashboard tile",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Enhance reports for usability and storytelling in Power BI",
+   "items": [
+    {
+     "text": "Paginated report overview",
+     "level": 0
+    },
+    {
+     "text": "Create Paginated reports",
+     "level": 0
+    },
+    {
+     "text": "Lab: Creating a Paginated report in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Use Power BI Report Builder",
+     "level": 0
+    },
+    {
+     "text": "Design a multi-page report layout",
+     "level": 0
+    },
+    {
+     "text": "Define a data source",
+     "level": 0
+    },
+    {
+     "text": "Define a dataset",
+     "level": 0
+    },
+    {
+     "text": "Create a report parameter",
+     "level": 0
+    },
+    {
+     "text": "Export a report to PDF",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Perform Advanced Analytics in Power BI",
+   "items": [
+    {
+     "text": "Advanced Analytics",
+     "level": 0
+    },
+    {
+     "text": "Data Insights through AI visuals",
+     "level": 0
+    },
+    {
+     "text": "Lab: Data Analysis in Power BI Desktop",
+     "level": 0
+    },
+    {
+     "text": "Create animated scatter charts",
+     "level": 0
+    },
+    {
+     "text": "Use the visual to forecast values",
+     "level": 0
+    },
+    {
+     "text": "Work with Decomposition Tree visual",
+     "level": 0
+    },
+    {
+     "text": "Work with the Key Influencers visual",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Manage Datasets in Power BI",
+   "items": [
+    {
+     "text": "Parameters",
+     "level": 0
+    },
+    {
+     "text": "Datasets",
+     "level": 0
+    },
+    {
+     "text": "Security in Power BI",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Create and Manage Workspaces in Power BI",
+   "items": [
+    {
+     "text": "Creating Workspaces",
+     "level": 0
+    },
+    {
+     "text": "Sharing and Managing Assets",
+     "level": 0
+    },
+    {
+     "text": "Lab: Publishing and Sharing Power BI Content",
+     "level": 0
+    },
+    {
+     "text": "Map security principals to dataset roles",
+     "level": 0
+    },
+    {
+     "text": "Share a dashboard",
+     "level": 0
+    },
+    {
+     "text": "Publish an App",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Business Productivity Courses.docx"
+}

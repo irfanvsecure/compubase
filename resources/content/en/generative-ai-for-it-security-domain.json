@@ -1,0 +1,321 @@
+{
+ "title": "Generative AI for IT Security Domain",
+ "duration": "5 Days",
+ "overview": [
+  "This training course is designed for IT security professionals to understand the risks, opportunities, and applications of generative AI in cybersecurity. It covers threat detection, security automation, adversarial AI risks, and AI-driven defense strategies. Participants will gain hands-on experience with AI-powered security tools and frameworks to mitigate risks while leveraging AI for enhanced security operations."
+ ],
+ "audience": [
+  "This course is ideal for:",
+  "CISOs (Chief Information Security Officers)",
+  "Security Architects & Engineers",
+  "SOC (Security Operations Center) Analysts",
+  "Penetration Testers & Ethical Hackers",
+  "Incident Response Teams",
+  "Cybersecurity Consultants & Compliance Officers",
+  "AI & ML Security Researchers"
+ ],
+ "methodology": [
+  "Instructor-led sessions (virtual or in-person)",
+  "Hands-on labs (AI-driven security tools and adversarial AI testing)",
+  "Real-world cybersecurity case studies",
+  "Interactive workshops (attack simulations and AI-powered defenses)",
+  "Live hacking demonstrations (using generative AI for red teaming)",
+  "Panel discussions with AI security experts",
+  "Capstone project: AI-driven security strategy for an enterprise"
+ ],
+ "competencies": [
+  "Upon completing this course, participants will develop skills in:",
+  "Understanding AI-driven cyber threats and attack vectors.",
+  "Implementing AI-powered security automation for threat detection.",
+  "Identifying adversarial AI risks and mitigation strategies.",
+  "Ensuring AI security governance and compliance.",
+  "Using generative AI for security analytics and response.",
+  "Developing defensive AI models for cybersecurity resilience."
+ ],
+ "objectivesIntro": [
+  "By the end of this course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain how generative AI is used in both cybersecurity attacks and defenses.",
+  "Assess AI-powered threat detection and mitigation techniques.",
+  "Develop security automation strategies using AI-driven tools.",
+  "Identify adversarial AI techniques (evasion, poisoning, deepfake threats).",
+  "Implement AI security governance frameworks.",
+  "Use generative AI for SOC and incident response workflows.",
+  "Mitigate AI-generated phishing, social engineering, and misinformation attacks."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI in Cybersecurity",
+   "items": [
+    {
+     "text": "What is Generative AI and how it applies to cybersecurity?",
+     "level": 1
+    },
+    {
+     "text": "Overview of machine learning (ML) and deep learning (DL) in security",
+     "level": 1
+    },
+    {
+     "text": "Benefits and risks of AI-powered cybersecurity solutions",
+     "level": 1
+    },
+    {
+     "text": "AI threat intelligence and automated security analytics",
+     "level": 1
+    },
+    {
+     "text": "Case Study: AI-driven threat detection in enterprise security",
+     "level": 1
+    },
+    {
+     "text": "💡 Hands-on Lab: Exploring AI-generated attack simulations and defenses.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI-Powered Cyber Threats and Attack Vectors",
+   "items": [
+    {
+     "text": "How hackers leverage AI for cyberattacks",
+     "level": 1
+    },
+    {
+     "text": "AI-powered malware and ransomware",
+     "level": 1
+    },
+    {
+     "text": "Deepfake-based fraud and identity attacks",
+     "level": 1
+    },
+    {
+     "text": "AI-generated phishing emails and social engineering",
+     "level": 1
+    },
+    {
+     "text": "Evasion attacks: How AI circumvents traditional security tools",
+     "level": 1
+    },
+    {
+     "text": "Case Study: Real-world AI-driven attacks on major organizations",
+     "level": 1
+    },
+    {
+     "text": "💡 Live Hacking Demo: AI-generated phishing & deepfake social engineering.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI for Threat Detection and Incident Response",
+   "items": [
+    {
+     "text": "AI-driven Security Information and Event Management (SIEM)",
+     "level": 1
+    },
+    {
+     "text": "How AI helps in malware analysis and anomaly detection",
+     "level": 1
+    },
+    {
+     "text": "Behavioral analytics with AI for insider threat detection",
+     "level": 1
+    },
+    {
+     "text": "Automating SOC workflows using AI-based security orchestration",
+     "level": 1
+    },
+    {
+     "text": "Case Study: AI-powered SOC in large-scale enterprises",
+     "level": 1
+    },
+    {
+     "text": "💡 Hands-on Lab: Using AI to detect anomalies in cybersecurity logs.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Adversarial AI and Defensive Strategies",
+   "items": [
+    {
+     "text": "Adversarial attacks: Model evasion, data poisoning, and perturbations",
+     "level": 1
+    },
+    {
+     "text": "How to protect AI security models from manipulation",
+     "level": 1
+    },
+    {
+     "text": "AI in penetration testing and red teaming",
+     "level": 1
+    },
+    {
+     "text": "Detecting and defending against adversarial AI",
+     "level": 1
+    },
+    {
+     "text": "Case Study: AI-based fraud detection and evasion tactics",
+     "level": 1
+    },
+    {
+     "text": "💡 Workshop: Developing a strategy to counter adversarial AI threats.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI in Security Automation and Zero Trust Architectures",
+   "items": [
+    {
+     "text": "How AI automates security incident response",
+     "level": 1
+    },
+    {
+     "text": "AI in privileged access management (PAM) and endpoint security",
+     "level": 1
+    },
+    {
+     "text": "AI-driven Zero Trust architecture and continuous authentication",
+     "level": 1
+    },
+    {
+     "text": "AI for Dev-Sec-Ops: Securing CI/CD pipelines",
+     "level": 1
+    },
+    {
+     "text": "Case Study: AI-enhanced endpoint protection and access control",
+     "level": 1
+    },
+    {
+     "text": "💡 Hands-on Lab: Implementing AI-driven security automation tools.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI Governance, Compliance, and Ethical Considerations",
+   "items": [
+    {
+     "text": "Ensuring AI security compliance (NIST AI Framework, GDPR, CCPA)",
+     "level": 1
+    },
+    {
+     "text": "Regulatory challenges in AI-powered cybersecurity",
+     "level": 1
+    },
+    {
+     "text": "AI bias, explain ability, and transparency in security operations",
+     "level": 1
+    },
+    {
+     "text": "Building AI security governance models for enterprises",
+     "level": 1
+    },
+    {
+     "text": "Case Study: AI compliance failures and lessons learned",
+     "level": 1
+    },
+    {
+     "text": "💡 Workshop: Designing an AI security governance framework.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Future Trends in AI for Cybersecurity",
+   "items": [
+    {
+     "text": "Emerging AI threats: Quantum AI, automated hacking, self-learning malware",
+     "level": 1
+    },
+    {
+     "text": "AI in cyber warfare and nation-state attacks",
+     "level": 1
+    },
+    {
+     "text": "AI-driven predictive threat intelligence",
+     "level": 1
+    },
+    {
+     "text": "AI in biometric security and continuous authentication",
+     "level": 1
+    },
+    {
+     "text": "Case Study: The role of AI in future cybersecurity strategies",
+     "level": 1
+    },
+    {
+     "text": "💡 Interactive Discussion: How to prepare for AI-powered cyber threats.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Capstone Project: AI-Driven Security Strategy for an Enterprise",
+   "items": [
+    {
+     "text": "Participants develop a comprehensive AI security strategy for a real or hypothetical company.",
+     "level": 0
+    },
+    {
+     "text": "Present AI security risk mitigation & governance plan.",
+     "level": 0
+    },
+    {
+     "text": "Panel review by cybersecurity experts.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Final Deliverables",
+   "items": [
+    {
+     "text": "AI Security Playbook – A guide to AI-driven cybersecurity solutions.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on Experience – Working with AI-powered security tools.",
+     "level": 0
+    },
+    {
+     "text": "AI Attack Simulation Report – Analyzing adversarial AI threats.",
+     "level": 0
+    },
+    {
+     "text": "AI Security Governance Model – Framework for responsible AI security implementation.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Bonus Materials & Resources",
+   "items": [
+    {
+     "text": "List of AI-powered security tools (AI-driven SIEM, threat detection, automation platforms).",
+     "level": 0
+    },
+    {
+     "text": "AI cybersecurity threat reports from MITRE, NIST, and OWASP.",
+     "level": 0
+    },
+    {
+     "text": "Guides on securing AI systems from industry leaders.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Final Thoughts",
+   "items": [
+    {
+     "text": "This course prepares IT security professionals to leverage AI for cybersecurity defenses while mitigating AI-driven threats. Whether you’re a CISO, SOC analyst, or security architect, you’ll gain the skills to defend, automate, and govern AI in cybersecurity operations",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

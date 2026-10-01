@@ -1,0 +1,105 @@
+{
+ "title": "ITIL 4 Managing Professional - ITIL 4 Specialist: Drive Stakeholder Value (DSV)",
+ "duration": "3 Days",
+ "overview": [
+  "The ITIL DSV course focuses on the customer journey and interactions, ensuring that IT professionals understand how to engage stakeholders, improve customer satisfaction, and deliver valuable services. It emphasizes the importance of customer experience, stakeholder engagement, and value co-creation."
+ ],
+ "audience": [
+  "Service relationship managers",
+  "IT professionals managing customer experience",
+  "IT project managers",
+  "Consultants involved in stakeholder and customer relations"
+ ],
+ "methodology": [
+  "Lectures and Presentations: Deep dives into customer journey mapping.",
+  "Case Studies: Real-world examples of stakeholder engagement.",
+  "Interactive Sessions: Discussions and role-plays for stakeholder management.",
+  "Assessments: Quizzes and practice exams for certification preparation."
+ ],
+ "competencies": [
+  "Customer journey management",
+  "Stakeholder relationship building",
+  "Demand management",
+  "Service design and co-creation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Learn how to map the customer journey and improve customer experience.",
+  "Understand stakeholder needs and manage their expectations.",
+  "Develop skills in demand management and service co-creation.",
+  "Prepare for the ITIL DSV certification exam."
+ ],
+ "outline": [
+  {
+   "title": "1. Customer Journey Mapping",
+   "items": [
+    {
+     "text": "Understanding Customer Needs and Expectations",
+     "level": 0
+    },
+    {
+     "text": "Mapping Customer and User Journeys",
+     "level": 0
+    },
+    {
+     "text": "Identifying Key Touchpoints and Pain Points",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Stakeholder Relationship Management",
+   "items": [
+    {
+     "text": "Building and Managing Stakeholder Relationships",
+     "level": 0
+    },
+    {
+     "text": "Engagement Models for Different Stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Managing and Meeting Stakeholder Expectations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Demand and Service Management",
+   "items": [
+    {
+     "text": "Identifying and Managing Customer Demands",
+     "level": 0
+    },
+    {
+     "text": "Co-Creating Value with Stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Service Offerings and Portfolios",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Enhancing Customer Experience",
+   "items": [
+    {
+     "text": "Designing Positive User Experiences",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement of Customer Relationships",
+     "level": 0
+    },
+    {
+     "text": "Feedback Loops and Experience Measurement",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

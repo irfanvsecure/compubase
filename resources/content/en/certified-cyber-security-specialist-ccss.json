@@ -1,0 +1,178 @@
+{
+ "title": "Certified Cyber Security Specialist (CCSS)",
+ "duration": "5 Days",
+ "overview": [
+  "Participants on this Certified Cyber Security Specialist course will engage in an immersive learning experience that covers cybersecurity definitions, principles, practices, and industry standards. The aim of this course is to go beyond just theory, and equip participants with practical skills to tackle organizational risks effectively. This includes understanding asset security, using endpoint security, and learning about secure design principles and cryptography.",
+  "The course provides a holistic approach to security, in which participants will learn how to manage different types of controls (technical, physical, and managerial) to ensure their organizations are secure. Participants will gain skills in designing security programs, and will learn about to utilize cyber threat intelligence and Open-Source Intelligence (OSINT) to detect and respond to cyber threats. Participants will also gain insight and practice into business impact analysis, by creating plans for business continuity and disaster recovery, and will learn the basics of incident management, in order to handle cyber security incidents effectively."
+ ],
+ "audience": [
+  "This course is suitable for anyone already familiar and involved with IT / Cyber / Digital Security, and seeking to build on their fundamental principles of security. This includes, but is not limited to, IT professionals, security professionals, auditors, system administrators, general management, and anyone who is tasked with managing and protecting the integrity of the network/organizational infrastructure."
+ ],
+ "methodology": [
+  "The course will include practical sessions, presentations, group work and demonstrations in order to enhance the learning experience."
+ ],
+ "competencies": [
+  "Information security management",
+  "Development of IT policies and procedures",
+  "Applications of cyber security solutions",
+  "Threat Intelligence",
+  "Incident management and response"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Apply skills for identifying, assessing, analyzing, responding to, and monitoring risks and threats within the organization, facilitating informed decision-making and proactive risk mitigation",
+  "Master principles of asset security, including endpoint security, resilient architectures, secure design, SDLC practices, configuration management, and cryptography",
+  "Implement a holistic security approach by deploying and managing technical, physical, and managerial controls to ensure a robust and comprehensive security posture",
+  "Utilize knowledge and skills in leveraging cyber threat intelligence and Open-Source Intelligence (OSINT) for proactive identification, response, and mitigation of potential cyber threats",
+  "Conduct business impact analyses, create business continuity plans, and craft disaster recovery plans to ensure effective organizational sustainability and recovery from disruptive incidents"
+ ],
+ "outline": [
+  {
+   "title": "Fundamentals of Cyber Security",
+   "items": [
+    {
+     "text": "Definitions",
+     "level": 0
+    },
+    {
+     "text": "Security concepts and definitions",
+     "level": 0
+    },
+    {
+     "text": "Cyber security standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk Management",
+   "items": [
+    {
+     "text": "Risk and threat landscape",
+     "level": 0
+    },
+    {
+     "text": "Risk assessment, evaluation and analysis",
+     "level": 0
+    },
+    {
+     "text": "Risk response",
+     "level": 0
+    },
+    {
+     "text": "Risk monitoring and reporting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Asset Management",
+   "items": [
+    {
+     "text": "Endpoint security",
+     "level": 0
+    },
+    {
+     "text": "Creating a secure architecture",
+     "level": 0
+    },
+    {
+     "text": "Secure by design",
+     "level": 0
+    },
+    {
+     "text": "System development lifecycle",
+     "level": 0
+    },
+    {
+     "text": "Device configuration",
+     "level": 0
+    },
+    {
+     "text": "Overview of cryptography",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Security Controls",
+   "items": [
+    {
+     "text": "Technical controls",
+     "level": 0
+    },
+    {
+     "text": "Physical controls",
+     "level": 0
+    },
+    {
+     "text": "Administrative controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Security Education, Training, and Awareness (SETA)",
+   "items": [
+    {
+     "text": "Developing a security education, training and awareness program",
+     "level": 0
+    },
+    {
+     "text": "Developing and measuring against SETA metrics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Threat Management",
+   "items": [
+    {
+     "text": "Cyber Threat Intelligence",
+     "level": 0
+    },
+    {
+     "text": "Open-Source Intelligence overview",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Business Continuity and Disaster Recovery",
+   "items": [
+    {
+     "text": "Business impact analysis",
+     "level": 0
+    },
+    {
+     "text": "Business continuity planning",
+     "level": 0
+    },
+    {
+     "text": "Disaster recovery planning",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Incident Management",
+   "items": [
+    {
+     "text": "Incident management and incident response overview",
+     "level": 0
+    },
+    {
+     "text": "Incident handling life cycle",
+     "level": 0
+    },
+    {
+     "text": "Digital forensics principles",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

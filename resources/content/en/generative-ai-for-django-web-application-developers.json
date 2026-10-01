@@ -1,0 +1,265 @@
+{
+ "title": "Generative AI for Django Web Application Developers",
+ "duration": "5 Days",
+ "overview": [
+  "This course explores how Generative AI can be integrated into Django-based web applications, enhancing functionality with AI-driven content generation, chatbots, recommendations, search optimization, code automation, and intelligent analytics.",
+  "Participants will learn how to incorporate AI models (GPT, Stable Diffusion, Llama, and OpenAI APIs) into Django applications, automate development tasks, and optimize user experiences using AI.",
+  "By the end of the course, learners will be able to build AI-powered Django applications that include personalized user experiences, automated content generation, intelligent search, and predictive analytics."
+ ],
+ "audience": [
+  "This course is ideal for:",
+  "Django Web Developers who want to integrate AI into their applications.",
+  "Full-Stack Developers building AI-enhanced web applications.",
+  "Backend Engineers looking to implement AI-powered APIs and automation.",
+  "Tech Leads & Software Architects interested in AI-driven web development strategies.",
+  "AI Enthusiasts & Data Scientists who want to integrate AI models with Django."
+ ],
+ "methodology": [
+  "The course follows a hands-on and project-based approach, including:",
+  "Instructor-led sessions – Concept explanations with practical demonstrations.",
+  "Live coding & hands-on labs – Implementing AI features in Django projects.",
+  "Practical assignments & case studies – Solving real-world Django AI use cases.",
+  "Capstone project – Developing a fully functional AI-powered Django web application."
+ ],
+ "competencies": [
+  "By completing this course, participants will gain expertise in:",
+  "Integrating AI models (GPT, Stable Diffusion, Hugging Face) into Django.",
+  "Building AI-powered chatbots & recommendation systems.",
+  "Enhancing search and analytics using AI.",
+  "Automating web development tasks with AI-generated code.",
+  "Deploying AI-powered Django applications in cloud environments."
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Implement AI-powered content generation in Django applications.",
+  "Build AI-enhanced chatbots and recommendation engines.",
+  "Use AI for intelligent search and personalized experiences.",
+  "Automate Django code generation and debugging with AI.",
+  "Deploy AI-driven analytics and predictive insights.",
+  "Optimize AI-powered Django applications for scalability and security."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI for Django",
+   "items": [
+    {
+     "text": "Overview of Generative AI and its applications in web development.",
+     "level": 0
+    },
+    {
+     "text": "Understanding AI-powered automation in Django.",
+     "level": 0
+    },
+    {
+     "text": "Exploring Open-AI API, Hugging Face, Lang-Chain, and Stable Diffusion.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Setting up an AI-ready Django development environment.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: AI-Powered Content Generation in Django",
+   "items": [
+    {
+     "text": "Using LLMs (Large Language Models) to generate blog posts, summaries, and reports.",
+     "level": 0
+    },
+    {
+     "text": "Automating SEO-friendly content generation for Django applications.",
+     "level": 0
+    },
+    {
+     "text": "AI-driven email generation and response automation.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered content generation feature in Django.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: AI-Enhanced Chatbots & Virtual Assistants",
+   "items": [
+    {
+     "text": "Integrating AI chatbots using OpenAI API in Django applications.",
+     "level": 0
+    },
+    {
+     "text": "Building an AI-driven customer support bot with Django REST API.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered sentiment analysis for chatbot responses.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Creating an AI chatbot with Django and GPT API.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI-Powered Recommendation Systems",
+   "items": [
+    {
+     "text": "Implementing AI-based product & content recommendations.",
+     "level": 0
+    },
+    {
+     "text": "Using collaborative & content-based filtering in Django applications.",
+     "level": 0
+    },
+    {
+     "text": "Enhancing user engagement with personalized AI-driven recommendations.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing a Django-based AI recommendation engine.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI for Intelligent Search & Auto-Completion",
+   "items": [
+    {
+     "text": "Enhancing search functionality using AI-powered semantic search.",
+     "level": 0
+    },
+    {
+     "text": "Implementing natural language search in Django applications.",
+     "level": 0
+    },
+    {
+     "text": "AI-driven auto-suggestions and autocomplete for search bars.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered intelligent search feature in Django.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Automating Django Code Generation with AI",
+   "items": [
+    {
+     "text": "Using AI to generate Django models, serializers, and API endpoints.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered code refactoring and debugging in Django projects.",
+     "level": 0
+    },
+    {
+     "text": "Automating unit tests and documentation with AI.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Using AI to optimize Django development workflows.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI for Predictive Analytics & Data Insights",
+   "items": [
+    {
+     "text": "Implementing AI-powered data visualization & analytics dashboards.",
+     "level": 0
+    },
+    {
+     "text": "Using AI for user behavior prediction & business insights.",
+     "level": 0
+    },
+    {
+     "text": "AI-driven predictive analytics for user engagement & retention.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Developing a predictive analytics dashboard in Django.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: AI-Powered Image & Video Generation in Django",
+   "items": [
+    {
+     "text": "Integrating Stable Diffusion for AI-generated images.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered profile picture & banner generation.",
+     "level": 0
+    },
+    {
+     "text": "Implementing video summarization & AI-generated thumbnails.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Adding AI-generated image features to a Django application.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Deploying AI-Driven Django Applications",
+   "items": [
+    {
+     "text": "Best practices for deploying AI-powered Django applications.",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Django applications for performance & scalability.",
+     "level": 0
+    },
+    {
+     "text": "Securing AI-powered features against misuse & vulnerabilities.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Deploying an AI-enhanced Django project to cloud platforms.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Capstone Project – AI-Powered Django Web Application",
+   "items": [
+    {
+     "text": "Final project: Building & deploying a Django web application with AI-powered features.",
+     "level": 0
+    },
+    {
+     "text": "Peer review and evaluation of AI integrations in Django projects.",
+     "level": 0
+    },
+    {
+     "text": "Certification and career guidance in AI-enhanced web development.",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "iiii",
+   "paras": [],
+   "items": [
+    "Python proficiency (Intermediate level).",
+    "Familiarity with Django & REST Framework.",
+    "Basic knowledge of APIs and databases.",
+    "Understanding of Machine Learning & AI concepts (helpful but optional)."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

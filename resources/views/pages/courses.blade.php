@@ -47,7 +47,10 @@
   data-showing="Showing {from}–{to} of {total} courses"><div class="container">
   <nav class="filter-tabs cat-filter" aria-label="Browse courses by category">
     <button type="button" class="active" data-cat="all">All courses · {{ count(Catalog::courses()) }}</button>
-    @foreach (Catalog::categories() as $cat => $category)<button type="button" data-cat="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</button>@endforeach
+    @foreach (['management' => 'Management courses', 'it' => 'IT courses'] as $group => $label)
+    <span class="cat-group">{{ $label }}</span>
+    @foreach (Catalog::categories() as $cat => $category)@if ($category['group'] === $group)<button type="button" data-cat="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</button>@endif @endforeach
+    @endforeach
   </nav>
   <p class="catalog-count" aria-live="polite"></p>
   <div class="course-grid">
@@ -70,7 +73,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
-        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, and more. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
+        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>

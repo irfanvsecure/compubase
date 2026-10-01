@@ -1,0 +1,271 @@
+{
+ "title": "Six Sigma Green Belt – ASQ",
+ "duration": "3 DAYS",
+ "overview": [
+  "Six Sigma is an industry-standard methodology for process improvement and business transformation. Our Green Belt course is aligned with ASQ and IASSC's (known for their comprehensive and robust content) international Body of Knowledge (BOK). This unique Green Belt Six Sigma course will help you improve the quality of your organization's operations by adopting a data-driven approach. It will also give you the skills to work on projects that benefit all processes and businesses. Participants will learn the different phases of Define, Measure, Analyze, Improve, and Control (DMAIC) and how to craft a project charter. Additionally, they will learn about quality tools and statistics to support them while formulating problem statements and translating them into a measurable format. Participants will also be provided with the means to assess their organization's readiness to launch Six Sigma projects."
+ ],
+ "audience": [
+  "Managers, supervisors, and professionals who wish to fully utilize the Six Sigma approach in their organizations or gain professional certification or learn how Six Sigma relates to work and business improvement"
+ ],
+ "methodology": [
+  "Through interactive lectures and group and individual presentations, the course will allow participants to practice the skills they have acquired through exercises and case studies. Additionally, videos will be shown on companies that implemented the Six Sigma methodology. Throughout the course, a case study will show how Six Sigma can be applied within an organization"
+ ],
+ "competencies": [
+  "Deploying Six Sigma",
+  "Problem-solving",
+  "Critical thinking",
+  "Using applied statistics",
+  "Lean principles"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain Six Sigma and its importance to drive and sustain business improvement",
+  "Examine the define stage components and generate the project charter",
+  "Discuss the measure, data sampling, and collection stage using various tools in Minitab",
+  "Explore the analysis stage using various graphical analysis charts and tests",
+  "Evaluate the improve and control stages using various Six Sigma tools",
+  "Distinguish between Six Sigma methodology (variation removal) and Lean thinking (waste removal)"
+ ],
+ "outline": [
+  {
+   "title": "Overview: Six Sigma History",
+   "items": [
+    {
+     "text": "Understanding Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "History of Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "What is Six Sigma?",
+     "level": 0
+    },
+    {
+     "text": "Gurus' contribution",
+     "level": 0
+    },
+    {
+     "text": "Six Sigma roles and responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Cost of Poor Quality (COPQ)",
+     "level": 0
+    },
+    {
+     "text": "Process metrics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Define Phase",
+   "items": [
+    {
+     "text": "Voice of the customer / Critical to Quality (CTQ)",
+     "level": 0
+    },
+    {
+     "text": "Selecting projects",
+     "level": 0
+    },
+    {
+     "text": "Developing the project charter and problem statement",
+     "level": 0
+    },
+    {
+     "text": "SIPOC diagram",
+     "level": 0
+    },
+    {
+     "text": "Acceptability & Introduction to Change Acceleration Process (CAP)",
+     "level": 0
+    },
+    {
+     "text": "RACI and ARMI",
+     "level": 0
+    },
+    {
+     "text": "Case study",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Measure Phase",
+   "items": [
+    {
+     "text": "Introduction to Six Sigma calculations",
+     "level": 0
+    },
+    {
+     "text": "Process capability indices",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Minitab",
+     "level": 0
+    },
+    {
+     "text": "Types of data and basic statistics",
+     "level": 0
+    },
+    {
+     "text": "Data collection planning",
+     "level": 0
+    },
+    {
+     "text": "Sampling of data",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Xs which affect process Ys",
+     "level": 0
+    },
+    {
+     "text": "Measurement plan",
+     "level": 0
+    },
+    {
+     "text": "Measurement Systems Analysis (MSA)",
+     "level": 0
+    },
+    {
+     "text": "Advanced process capability",
+     "level": 0
+    },
+    {
+     "text": "Normality analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Analyze Phase",
+   "items": [
+    {
+     "text": "The Seven Classic Quality Tools: A review",
+     "level": 0
+    },
+    {
+     "text": "Statistical Process Control (SPC): Control charts",
+     "level": 0
+    },
+    {
+     "text": "Selection of variables",
+     "level": 0
+    },
+    {
+     "text": "Control chart selection and analysis",
+     "level": 0
+    },
+    {
+     "text": "Process mapping",
+     "level": 0
+    },
+    {
+     "text": "Qualitative Analysis (QA)",
+     "level": 0
+    },
+    {
+     "text": "Failure Mode Effect Analysis (FMEA)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Improve and Control Phases",
+   "items": [
+    {
+     "text": "Introduction to graphing",
+     "level": 0
+    },
+    {
+     "text": "Scatter plots",
+     "level": 0
+    },
+    {
+     "text": "Process Modeling Regression",
+     "level": 0
+    },
+    {
+     "text": "Advanced Process Modeling",
+     "level": 0
+    },
+    {
+     "text": "Designing experiments",
+     "level": 0
+    },
+    {
+     "text": "Six Sigma control plans",
+     "level": 0
+    },
+    {
+     "text": "Evaluating and selecting solutions",
+     "level": 0
+    },
+    {
+     "text": "Introduction to hypothesis testing",
+     "level": 0
+    },
+    {
+     "text": "Pilot testing",
+     "level": 0
+    },
+    {
+     "text": "Project closeout and handover",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Lean Thinking and Six Sigma",
+   "items": [
+    {
+     "text": "Defining Lean",
+     "level": 0
+    },
+    {
+     "text": "Lean thinking principles",
+     "level": 0
+    },
+    {
+     "text": "Types of waste (MUDA)",
+     "level": 0
+    },
+    {
+     "text": "Lean versus Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Lean toolbox",
+     "level": 0
+    },
+    {
+     "text": "The visual factory and 5S",
+     "level": 0
+    },
+    {
+     "text": "Mistake proofing - Poka Yoke",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "ROI METHODOLOGY (ASSESSMENT CRITERIA)",
+   "order": "ii",
+   "paras": [],
+   "items": [
+    "Pre-Training Assessment: to identify the current knowledge and skills of the participants before the training.",
+    "Post-Training Assessment: to measure the improvement in the participants’ knowledge and skills after the training."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Quality & Process Management Courses.docx"
+}

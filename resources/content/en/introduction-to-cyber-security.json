@@ -1,0 +1,134 @@
+{
+ "title": "Introduction to Cyber Security",
+ "duration": "3 Days",
+ "overview": [
+  "On this 3-day Cyber Security overview course, participants will be equipped with the knowledge and skills necessary to navigate the fascinating, yet complex, world of cyber security. The primary focus will be on laying a robust foundation of understanding into the cyber security domain and the terminologies, principles, and industry standards within cyber security.",
+  "The course will also delve into a practical understanding of technical, physical, and managerial controls – which are the building blocks of a comprehensive security posture and, when harnessed effectively, create a resilient shield against potential threats.",
+  "With threats in mind, participants will then gain a solid understanding of threat actors, what their motivations are, their capabilities, and some of the common attack vectors that they seek to exploit, looking at some high profile and relevant real-world case studies to help bring the key learning points to life.",
+  "The course will dive into the key technical aspects of cybersecurity such as authorisation and authentication, encryption, and how network security fundamentals can help protect your organization.",
+  "Finally, participants will gain an understanding of the incident response lifecycle and will practically apply this through an immersive incident response tabletop exercise."
+ ],
+ "audience": [
+  "This course is suitable for those who work in, or seek to work with, cyber security functions or within the cyber or IT industries; as well as for anyone who requires an overview of cyber security and its impact on their role or organization."
+ ],
+ "methodology": [
+  "This course utilizes presentations, group discussions, individual research and practical exercises to enhance key learning points"
+ ],
+ "competencies": [
+  "Investigations",
+  "Key technical aspects of cyber security",
+  "Application of cyber security solutions",
+  "Threat Intelligence",
+  "Incident management and response"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Summarize key cyber terminologies, principles, and industry standards",
+  "Apply technical, physical, and managerial controls and describe how they can assist in ensuring a robust and comprehensive security posture",
+  "Recognize cybersecurity threats, including the identification of threat actors, their motivations, examination of common attack vectors, understanding of malware and analysis of current and relevant real world case studies",
+  "Describe key technical aspects in cybersecurity, including authorization and authentication, encryption, network security fundamentals, and an overview of cloud computing",
+  "Analyze business impacts, develop business continuity plans, and create disaster recovery strategies for ensuring organisational resilience and overcoming disruptive incidents"
+ ],
+ "outline": [
+  {
+   "title": "Fundamentals of Cyber Security",
+   "items": [
+    {
+     "text": "Security concepts & definitions",
+     "level": 0
+    },
+    {
+     "text": "Cyber security standards",
+     "level": 0
+    },
+    {
+     "text": "Compliance and regulatory requirements",
+     "level": 0
+    },
+    {
+     "text": "High-profile cyber attacks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Security Controls",
+   "items": [
+    {
+     "text": "Technical controls",
+     "level": 0
+    },
+    {
+     "text": "Physical controls",
+     "level": 0
+    },
+    {
+     "text": "Administrative controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Understanding the threat",
+   "items": [
+    {
+     "text": "Threat actors",
+     "level": 0
+    },
+    {
+     "text": "Common attack vectors",
+     "level": 0
+    },
+    {
+     "text": "Introduction to malware",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Technical Aspects",
+   "items": [
+    {
+     "text": "Authorization and authentication",
+     "level": 0
+    },
+    {
+     "text": "Encryption",
+     "level": 0
+    },
+    {
+     "text": "Network security fundamentals",
+     "level": 0
+    },
+    {
+     "text": "Cloud computing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Incident Management",
+   "items": [
+    {
+     "text": "Overview of Incident Response",
+     "level": 0
+    },
+    {
+     "text": "The Incident Response lifecycle",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Business Continuity Management and Disaster Recovery",
+     "level": 0
+    },
+    {
+     "text": "Incident response exercise",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

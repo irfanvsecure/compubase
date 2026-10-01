@@ -1,0 +1,190 @@
+{
+ "title": "Certified Blockchain Expert (CBE)",
+ "duration": "3 Days",
+ "overview": [
+  "The Certified Blockchain Expert (CBE) course is an advanced training program designed to provide in-depth knowledge of blockchain technology and its practical applications. The course covers advanced blockchain concepts, including development, implementation, and management of blockchain solutions. It is aimed at professionals seeking to deepen their expertise in blockchain and leverage it for complex business and technological solutions."
+ ],
+ "audience": [
+  "Experienced IT professionals and developers with a background in blockchain technology.",
+  "Solutions architects and engineers involved in designing and implementing blockchain systems.",
+  "Blockchain project managers and consultants seeking advanced knowledge.",
+  "Entrepreneurs and business leaders exploring blockchain for innovative solutions.",
+  "Professionals aiming to gain advanced certification in blockchain technology."
+ ],
+ "methodology": [
+  "Advanced Lectures: In-depth presentations on complex blockchain topics.",
+  "Hands-On Labs: Practical sessions for developing and deploying advanced blockchain solutions.",
+  "Case Studies: Analysis of sophisticated blockchain use cases and real-world implementations.",
+  "Group Discussions: Collaborative problem-solving and strategy development.",
+  "Quizzes and Assessments: Tests and evaluations to assess advanced knowledge and skills."
+ ],
+ "competencies": [
+  "Advanced blockchain architecture",
+  "Blockchain development and smart contracts",
+  "Scalability and performance optimization",
+  "Blockchain security and privacy",
+  "Enterprise blockchain solutions",
+  "Advanced consensus mechanisms",
+  "Blockchain project management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide an in-depth understanding of advanced blockchain concepts and technologies.",
+  "To enable participants to design, develop, and deploy complex blockchain solutions.",
+  "To explore and address scalability, performance, and security challenges in blockchain.",
+  "To prepare participants to manage and lead sophisticated blockchain projects.",
+  "To familiarize learners with enterprise-level blockchain applications and solutions."
+ ],
+ "outline": [
+  {
+   "title": "1. Advanced Blockchain Architecture",
+   "items": [
+    {
+     "text": "In-Depth Blockchain Components",
+     "level": 0
+    },
+    {
+     "text": "Blockchain Network Design and Topologies",
+     "level": 0
+    },
+    {
+     "text": "Advanced Consensus Mechanisms (Delegated Proof of Stake, Byzantine Fault Tolerance)",
+     "level": 0
+    },
+    {
+     "text": "Cross-Chain Interoperability",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Blockchain Development and Smart Contracts",
+   "items": [
+    {
+     "text": "Advanced Smart Contract Development (Solidity, Vyper)",
+     "level": 0
+    },
+    {
+     "text": "Smart Contract Testing and Optimization",
+     "level": 0
+    },
+    {
+     "text": "Development Platforms and Frameworks (Ethereum, Hyperledger Fabric, Corda)",
+     "level": 0
+    },
+    {
+     "text": "Decentralized Applications (DApps) and their Development",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Scalability and Performance Optimization",
+   "items": [
+    {
+     "text": "Blockchain Scalability Challenges",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Improving Blockchain Performance",
+     "level": 0
+    },
+    {
+     "text": "Layer 2 Solutions (State Channels, Rollups)",
+     "level": 0
+    },
+    {
+     "text": "Blockchain Sharding and Other Optimization Strategies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Blockchain Security and Privacy",
+   "items": [
+    {
+     "text": "Advanced Cryptographic Techniques",
+     "level": 0
+    },
+    {
+     "text": "Blockchain Security Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Privacy Enhancements (Zero-Knowledge Proofs, zk-SNARKs)",
+     "level": 0
+    },
+    {
+     "text": "Vulnerability Assessment and Mitigation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Enterprise Blockchain Solutions",
+   "items": [
+    {
+     "text": "Designing Enterprise-Level Blockchain Architectures",
+     "level": 0
+    },
+    {
+     "text": "Integration with Legacy Systems",
+     "level": 0
+    },
+    {
+     "text": "Governance and Compliance in Enterprise Blockchain",
+     "level": 0
+    },
+    {
+     "text": "Use Cases and Case Studies in Enterprise Blockchain",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Blockchain Project Management",
+   "items": [
+    {
+     "text": "Managing Blockchain Projects and Teams",
+     "level": 0
+    },
+    {
+     "text": "Risk Management and Mitigation Strategies",
+     "level": 0
+    },
+    {
+     "text": "Blockchain Deployment and Maintenance",
+     "level": 0
+    },
+    {
+     "text": "Measuring and Reporting Blockchain Project Success",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Future Trends and Innovations",
+   "items": [
+    {
+     "text": "Emerging Trends in Blockchain Technology",
+     "level": 0
+    },
+    {
+     "text": "Innovations and Future Directions",
+     "level": 0
+    },
+    {
+     "text": "Impact of Blockchain on Various Industries",
+     "level": 0
+    },
+    {
+     "text": "Preparing for Future Developments in Blockchain",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Blockchain Courses.docx"
+}

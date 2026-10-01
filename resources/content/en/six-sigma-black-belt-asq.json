@@ -1,0 +1,409 @@
+{
+ "title": "Six Sigma Black Belt – ASQ",
+ "duration": "5 DAYS",
+ "overview": [
+  "Six Sigma Black Belt is a known technique for process improvement. Strategies related to six sigma seek to improve the output quality of a process by identifying and eliminating causes of defects and minimising variability in business processes. Six Sigma encompasses various quality management methods (empirical, statistical, etc.).",
+  "Each Six Sigma project undertaken follows a distinct sequence of steps with specific value targets of reducing process time and costs and increasing customer satisfaction and profits.",
+  "What does a Six Sigma black belt do? A Six Sigma black belt possesses a thorough understanding of all aspects of lean six sigma methods, including a high level of subject matter competence with regard to DMAIC (Define, Measure, Analyse, Improve, Control)."
+ ],
+ "audience": [
+  "Senior leaders and managers of organisations who should thoroughly understand the importance of employing lean six sigma processes",
+  "Project managers and other members/professionals handling projects and/or operations within the organisation",
+  "Quality managers who need to ensure quality management at all stages of a project",
+  "Software testers and analysts responsible for testing and ensuring no errors in the entire cycle",
+  "Process improvement experts who check and provide suggestions related to changes in existing processes and systems within the team and/or organisation",
+  "Any other professional who would like to know more about lean six sigma black belt training"
+ ],
+ "methodology": [
+  "Lectures are delivered by experienced professionals, using audio-visual presentations for ease of reference. Two-way participation is ensured through group assignments and activities. Relevant case studies are also discussed to foster relevance to the training content."
+ ],
+ "competencies": [
+  "Leadership Skills",
+  "Analytical Skills",
+  "Problem- Solving skills",
+  "Process Mapping",
+  "Error Proofing",
+  "Process- Improvement"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "complete knowledge and understanding of six sigma black belt training",
+  "the required confidence, experience and skill to undertake the lean six sigma black belt exam and successfully clear it",
+  "the confidence and knowledge to train other professionals for implementing six sigma for their work",
+  "the exposure, experience, capabilities and perspective to identify and resolve quality-related issues being faced by the organisation",
+  "adequate decision-making and problem-solving skills to address a problem",
+  "the ability and skillset to contribute to organisational development through high quality and accuracy",
+  "the confidence and perspective to oversee, audit and manage process practices and improve performance",
+  "satisfaction from supporting organisational growth through increased quality and greater accuracy",
+  "skill to ensure better project outcome and happier end-users/customers because of a high level of quality and accuracy"
+ ],
+ "outline": [
+  {
+   "title": "Core Six Sigma Principles",
+   "items": [
+    {
+     "text": "Always focus on the customer",
+     "level": 0
+    },
+    {
+     "text": "Understand how work really happens",
+     "level": 0
+    },
+    {
+     "text": "Make processes flow smoothly",
+     "level": 0
+    },
+    {
+     "text": "Reduce wastes; concentrate on value",
+     "level": 0
+    },
+    {
+     "text": "Avoid defects by eliminating variation",
+     "level": 0
+    },
+    {
+     "text": "Ensure team buy-in and collaboration",
+     "level": 0
+    },
+    {
+     "text": "Make efforts systematic and scientific",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Lean Six Sigma Tools",
+   "items": [
+    {
+     "text": "The 5 Why’s",
+     "level": 0
+    },
+    {
+     "text": "The 5S system",
+     "level": 0
+    },
+    {
+     "text": "Value stream mapping",
+     "level": 0
+    },
+    {
+     "text": "Regression analysis",
+     "level": 0
+    },
+    {
+     "text": "Pareto chart",
+     "level": 0
+    },
+    {
+     "text": "Failure mode and effects analysis (FMEA)",
+     "level": 0
+    },
+    {
+     "text": "Kaizen",
+     "level": 0
+    },
+    {
+     "text": "Poka-yoke (Mistake proofing)",
+     "level": 0
+    },
+    {
+     "text": "Scatter diagram",
+     "level": 0
+    },
+    {
+     "text": "Root–Cause analysis",
+     "level": 0
+    },
+    {
+     "text": "Chi-squared test",
+     "level": 0
+    },
+    {
+     "text": "Cause-and-effect diagrams",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Benefits of Six Sigma Black Belt Training",
+   "items": [
+    {
+     "text": "Solve quality problems",
+     "level": 0
+    },
+    {
+     "text": "Improve decision making",
+     "level": 0
+    },
+    {
+     "text": "Improve the overall performance of the organisation",
+     "level": 0
+    },
+    {
+     "text": "Manage process practices and enhance performance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Cultivating Innovation and Creativity",
+   "items": [
+    {
+     "text": "Building an Innovation-Friendly Culture",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Fostering Creativity",
+     "level": 0
+    },
+    {
+     "text": "Leading Through Disruption and Change",
+     "level": 0
+    },
+    {
+     "text": "Case Studies on Innovative Leadership",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "DMAIC – Define",
+   "items": [
+    {
+     "text": "Voice of the customer (VOC)",
+     "level": 0
+    },
+    {
+     "text": "CTx (quality, time, cost)",
+     "level": 0
+    },
+    {
+     "text": "Converting VOC to CTQs (critical to quality)",
+     "level": 0
+    },
+    {
+     "text": "Supplier, input, process, output, customer (SIPOC)",
+     "level": 0
+    },
+    {
+     "text": "Pareto analysis",
+     "level": 0
+    },
+    {
+     "text": "Project charter",
+     "level": 0
+    },
+    {
+     "text": "Stakeholder analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "DMAIC – Measure",
+   "items": [
+    {
+     "text": "Process mapping",
+     "level": 0
+    },
+    {
+     "text": "Fishbone diagram",
+     "level": 0
+    },
+    {
+     "text": "Graphical tools",
+     "level": 0
+    },
+    {
+     "text": "Histograms",
+     "level": 1
+    },
+    {
+     "text": "Dot/Box/Scatter plots",
+     "level": 1
+    },
+    {
+     "text": "Time series plot",
+     "level": 1
+    },
+    {
+     "text": "Pareto chart",
+     "level": 1
+    },
+    {
+     "text": "Basic statistics and probabilities",
+     "level": 0
+    },
+    {
+     "text": "Process distributions",
+     "level": 0
+    },
+    {
+     "text": "Lean concepts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "DMAIC – Analyse",
+   "items": [
+    {
+     "text": "FMEA",
+     "level": 0
+    },
+    {
+     "text": "Multi-variate analysis",
+     "level": 0
+    },
+    {
+     "text": "Inferential probability distributions",
+     "level": 0
+    },
+    {
+     "text": "Hypothesis testing",
+     "level": 0
+    },
+    {
+     "text": "General ANOVA",
+     "level": 0
+    },
+    {
+     "text": "Correlation/Regression (multiple, binary logistic)",
+     "level": 0
+    },
+    {
+     "text": "Design of experiments (DOE) strategies",
+     "level": 0
+    },
+    {
+     "text": "DOE centre points, covariates, blocking",
+     "level": 0
+    },
+    {
+     "text": "Central composite design",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "DMAIC – Improve",
+   "items": [
+    {
+     "text": "Innovative solutions",
+     "level": 0
+    },
+    {
+     "text": "Solution selection (Pugh matrix)",
+     "level": 0
+    },
+    {
+     "text": "DOE multiple response optimisation",
+     "level": 0
+    },
+    {
+     "text": "Evolutionary operation",
+     "level": 0
+    },
+    {
+     "text": "Lean tools",
+     "level": 0
+    },
+    {
+     "text": "Queuing theory",
+     "level": 0
+    },
+    {
+     "text": "Improvement techniques",
+     "level": 0
+    },
+    {
+     "text": "Self-inspection",
+     "level": 1
+    },
+    {
+     "text": "Training",
+     "level": 1
+    },
+    {
+     "text": "Checklists",
+     "level": 1
+    },
+    {
+     "text": "Process simplification",
+     "level": 1
+    },
+    {
+     "text": "Mistake proofing",
+     "level": 1
+    },
+    {
+     "text": "Implementation and verification",
+     "level": 0
+    },
+    {
+     "text": "Sampling and data collection",
+     "level": 0
+    },
+    {
+     "text": "Process capability",
+     "level": 0
+    },
+    {
+     "text": "Measurement system analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "DMAIC – Control",
+   "items": [
+    {
+     "text": "Statistical process control",
+     "level": 0
+    },
+    {
+     "text": "I-MR charts",
+     "level": 1
+    },
+    {
+     "text": "Xbar-R/Xbar-S charts",
+     "level": 1
+    },
+    {
+     "text": "P charts",
+     "level": 1
+    },
+    {
+     "text": "C charts",
+     "level": 1
+    },
+    {
+     "text": "U charts",
+     "level": 1
+    },
+    {
+     "text": "Control plans",
+     "level": 0
+    },
+    {
+     "text": "Action plans",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "ROI METHODOLOGY (ASSESSMENT CRITERIA)",
+   "order": "ii",
+   "paras": [],
+   "items": [
+    "Pre-Training Assessment: to identify the current knowledge and skills of the participants before the training.",
+    "Post-Training Assessment: to measure the improvement in the participants’ knowledge and skills after the training."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Quality & Process Management Courses.docx"
+}

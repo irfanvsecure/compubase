@@ -1,0 +1,1873 @@
+{
+ "title": "Microsoft Office Suite (Excel, Word, PowerPoint, Outlook)",
+ "duration": "5 Days",
+ "overview": [],
+ "audience": [],
+ "methodology": [],
+ "competencies": [],
+ "objectivesIntro": [],
+ "objectives": [],
+ "outline": [
+  {
+   "title": "MS Word: The Microsoft Word 2016 Screen",
+   "items": [
+    {
+     "text": "Starting Microsoft Word 2016",
+     "level": 0
+    },
+    {
+     "text": "The Microsoft Word 2016 Opening Screen",
+     "level": 0
+    },
+    {
+     "text": "To Create a New Blank Document",
+     "level": 0
+    },
+    {
+     "text": "The Levels of Command Organisation",
+     "level": 0
+    },
+    {
+     "text": "The File Tab",
+     "level": 0
+    },
+    {
+     "text": "Ribbon Tabs",
+     "level": 0
+    },
+    {
+     "text": "Groups",
+     "level": 0
+    },
+    {
+     "text": "Dialog Box Launcher",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Starting to Use Microsoft Word 2016",
+   "items": [
+    {
+     "text": "Using the Default Microsoft Word Document",
+     "level": 0
+    },
+    {
+     "text": "Saving Microsoft Word Documents",
+     "level": 0
+    },
+    {
+     "text": "Opening and Closing Documents",
+     "level": 0
+    },
+    {
+     "text": "Save As",
+     "level": 0
+    },
+    {
+     "text": "Creating a New, Blank Document Using a Keyboard Shortcut",
+     "level": 0
+    },
+    {
+     "text": "Using Help within Microsoft Word",
+     "level": 0
+    },
+    {
+     "text": "Alt Key Help",
+     "level": 0
+    },
+    {
+     "text": "Closing Microsoft Word",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Using Templates to Create Documents",
+   "items": [
+    {
+     "text": "Creating New Documents Using Different Templates",
+     "level": 0
+    },
+    {
+     "text": "Using Online Templates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Manipulating Text",
+   "items": [
+    {
+     "text": "Select, Then Format",
+     "level": 0
+    },
+    {
+     "text": "Selecting Text",
+     "level": 0
+    },
+    {
+     "text": "Inserting, Deleting, Undo and Redo",
+     "level": 0
+    },
+    {
+     "text": "Insert and Overtype Mode",
+     "level": 0
+    },
+    {
+     "text": "Copying Text within a Document",
+     "level": 0
+    },
+    {
+     "text": "Moving (Cutting) Text within a Document",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Pining Files and Folders and Opening Documents",
+   "items": [
+    {
+     "text": "Pinning",
+     "level": 0
+    },
+    {
+     "text": "Recently Open Documents",
+     "level": 0
+    },
+    {
+     "text": "Viewing a Document Where You Left Off",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Microsoft Word 2016 Text Formatting",
+   "items": [
+    {
+     "text": "What Is Text Formatting?",
+     "level": 0
+    },
+    {
+     "text": "Font Type",
+     "level": 0
+    },
+    {
+     "text": "Font Size",
+     "level": 0
+    },
+    {
+     "text": "Decrease and Increase Font Size Icons",
+     "level": 0
+    },
+    {
+     "text": "Font Size Keyboard Shortcut",
+     "level": 0
+    },
+    {
+     "text": "Bold, Italic and Underline",
+     "level": 0
+    },
+    {
+     "text": "Subscript and Superscript",
+     "level": 0
+    },
+    {
+     "text": "Case Changing",
+     "level": 0
+    },
+    {
+     "text": "Highlighting",
+     "level": 0
+    },
+    {
+     "text": "Font Colour",
+     "level": 0
+    },
+    {
+     "text": "Copying Text Formatting",
+     "level": 0
+    },
+    {
+     "text": "Removing Formatting",
+     "level": 0
+    },
+    {
+     "text": "Using Zoom",
+     "level": 0
+    },
+    {
+     "text": "Inserting Special Characters and Symbols",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Microsoft Word 2016 Paragraph Formatting",
+   "items": [
+    {
+     "text": "Paragraph Marks",
+     "level": 0
+    },
+    {
+     "text": "Soft Paragraph (Line Break) Marks",
+     "level": 0
+    },
+    {
+     "text": "Aligning and Indenting Text",
+     "level": 0
+    },
+    {
+     "text": "Applying Single or Double Line Spacing Applying Spacing Above or Below Paragraphs",
+     "level": 0
+    },
+    {
+     "text": "Using Paragraph Spacing Rather Than Using the Return Key",
+     "level": 0
+    },
+    {
+     "text": "Applying Bullets & Numbering to a List",
+     "level": 0
+    },
+    {
+     "text": "Modifying & Removing Bullet and Numbering Formatting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Borders and Shading within Microsoft Word",
+   "items": [
+    {
+     "text": "Using Borders and Shading",
+     "level": 0
+    },
+    {
+     "text": "Adding a Border",
+     "level": 0
+    },
+    {
+     "text": "Modifying Borders",
+     "level": 0
+    },
+    {
+     "text": "Adding Shading",
+     "level": 0
+    },
+    {
+     "text": "Modifying Your Shading",
+     "level": 0
+    },
+    {
+     "text": "Applying Borders to Selected Text",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Tabs",
+   "items": [
+    {
+     "text": "Tab Stops",
+     "level": 0
+    },
+    {
+     "text": "Displaying the Ruler",
+     "level": 0
+    },
+    {
+     "text": "Setting and Removing Tabs Using the Ruler",
+     "level": 0
+    },
+    {
+     "text": "Viewing Tab Marks Using the Show/Hide Icon",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Microsoft Word 2016 Styles",
+   "items": [
+    {
+     "text": "What Are Styles?",
+     "level": 0
+    },
+    {
+     "text": "Applying Styles",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Using Word 2016 Design Themes",
+   "items": [
+    {
+     "text": "Applying a Theme Colour",
+     "level": 0
+    },
+    {
+     "text": "Apply a Customised Font",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Microsoft Word 2016 Page Formatting",
+   "items": [
+    {
+     "text": "What Is Page Formatting?",
+     "level": 0
+    },
+    {
+     "text": "Page Orientation and Paper Size",
+     "level": 0
+    },
+    {
+     "text": "Page Margins",
+     "level": 0
+    },
+    {
+     "text": "Inserting & Deleting Page Breaks",
+     "level": 0
+    },
+    {
+     "text": "Use Page Breaks Rather Than Repeatedly Pressing the Return Key",
+     "level": 0
+    },
+    {
+     "text": "Headers and Footers",
+     "level": 0
+    },
+    {
+     "text": "Page Numbering",
+     "level": 0
+    },
+    {
+     "text": "Header and Footer Fields",
+     "level": 0
+    },
+    {
+     "text": "Editing Text within a Header or Footer",
+     "level": 0
+    },
+    {
+     "text": "Cover Pages",
+     "level": 0
+    },
+    {
+     "text": "Applying Automatic Hyphenation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Word 2016 Views and Document Navigation",
+   "items": [
+    {
+     "text": "Switching between Word Views",
+     "level": 0
+    },
+    {
+     "text": "Using the Zoom Tool",
+     "level": 0
+    },
+    {
+     "text": "Navigating Through Documents",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Tables",
+   "items": [
+    {
+     "text": "Using Tables",
+     "level": 0
+    },
+    {
+     "text": "Inserting a Table",
+     "level": 0
+    },
+    {
+     "text": "Navigating within a Table",
+     "level": 0
+    },
+    {
+     "text": "Selecting and Editing Text within a Table",
+     "level": 0
+    },
+    {
+     "text": "Selecting Cells, Rows, Columns or the Entire Table",
+     "level": 0
+    },
+    {
+     "text": "Inserting and Deleting Rows and Columns",
+     "level": 0
+    },
+    {
+     "text": "Modifying Column Width or Row Height",
+     "level": 0
+    },
+    {
+     "text": "Modifying the Table Width",
+     "level": 0
+    },
+    {
+     "text": "Modifying Table Styles",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Using Illustrations within Microsoft Word",
+   "items": [
+    {
+     "text": "Types of Illustrations",
+     "level": 0
+    },
+    {
+     "text": "Inserting Pictures",
+     "level": 0
+    },
+    {
+     "text": "Inserting Online Pictures",
+     "level": 0
+    },
+    {
+     "text": "Inserting Shapes & SmartArt",
+     "level": 0
+    },
+    {
+     "text": "Inserting a Chart",
+     "level": 0
+    },
+    {
+     "text": "Modifying the Chart Type",
+     "level": 0
+    },
+    {
+     "text": "Modifying the Chart Style",
+     "level": 0
+    },
+    {
+     "text": "Modifying the Chart Data",
+     "level": 0
+    },
+    {
+     "text": "Inserting a Screenshot",
+     "level": 0
+    },
+    {
+     "text": "Selecting, Resizing and Deleting Illustrations",
+     "level": 0
+    },
+    {
+     "text": "Copying or Moving Graphics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Finding and Replacing Text within a Microsoft 2016 Document",
+   "items": [
+    {
+     "text": "Using Find and Replace",
+     "level": 0
+    },
+    {
+     "text": "Finding Text",
+     "level": 0
+    },
+    {
+     "text": "Replacing Text",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Word: Using Multiple Open Documents",
+   "items": [
+    {
+     "text": "Multitasking With Word 2016",
+     "level": 0
+    },
+    {
+     "text": "Switching between Open Documents",
+     "level": 0
+    },
+    {
+     "text": "Tiling or Cascading Documents on Your Screen",
+     "level": 0
+    },
+    {
+     "text": "Comparing Documents Side By Side",
+     "level": 0
+    },
+    {
+     "text": "Copying or Moving Selected Items between Documents",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 1: Creating a Microsoft Excel Workbook",
+   "items": [
+    {
+     "text": "Starting Microsoft Excel",
+     "level": 0
+    },
+    {
+     "text": "Creating a Workbook",
+     "level": 0
+    },
+    {
+     "text": "Saving a Workbook",
+     "level": 0
+    },
+    {
+     "text": "The Status Bar",
+     "level": 0
+    },
+    {
+     "text": "Adding and Deleting Worksheets",
+     "level": 0
+    },
+    {
+     "text": "Copying and Moving Worksheets",
+     "level": 0
+    },
+    {
+     "text": "Changing the Order of Worksheets",
+     "level": 0
+    },
+    {
+     "text": "Splitting the Worksheet Window",
+     "level": 0
+    },
+    {
+     "text": "Closing a Workbook",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 2: The Ribbon",
+   "items": [
+    {
+     "text": "Tabs",
+     "level": 0
+    },
+    {
+     "text": "Groups",
+     "level": 0
+    },
+    {
+     "text": "Commands",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 3: The Backstage View (The File Menu)",
+   "items": [
+    {
+     "text": "Introduction to the Backstage View",
+     "level": 0
+    },
+    {
+     "text": "Opening a Workbook",
+     "level": 0
+    },
+    {
+     "text": "New Workbooks and Excel Templates",
+     "level": 0
+    },
+    {
+     "text": "Printing Worksheets",
+     "level": 0
+    },
+    {
+     "text": "Adding Your Name to Microsoft Excel",
+     "level": 0
+    },
+    {
+     "text": "Managing Workbook Versions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 4: The Quick Access Toolbar",
+   "items": [
+    {
+     "text": "Adding Common Commands",
+     "level": 0
+    },
+    {
+     "text": "Adding Additional Commands with the Customize Dialog Box",
+     "level": 0
+    },
+    {
+     "text": "Adding Ribbon Commands or Groups",
+     "level": 0
+    },
+    {
+     "text": "Placement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 5: Entering Data in Microsoft Excel Worksheets",
+   "items": [
+    {
+     "text": "Entering Text",
+     "level": 0
+    },
+    {
+     "text": "Expand Data across Columns",
+     "level": 0
+    },
+    {
+     "text": "Adding and Deleting Cells",
+     "level": 0
+    },
+    {
+     "text": "Adding an Outline",
+     "level": 0
+    },
+    {
+     "text": "Adding a Hyperlink",
+     "level": 0
+    },
+    {
+     "text": "Add WordArt to a Worksheet",
+     "level": 0
+    },
+    {
+     "text": "Using AutoComplete",
+     "level": 0
+    },
+    {
+     "text": "Entering Numbers and Dates",
+     "level": 0
+    },
+    {
+     "text": "Using the Fill Handle",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 6: Formatting Microsoft Excel Worksheets",
+   "items": [
+    {
+     "text": "Hiding Worksheets",
+     "level": 0
+    },
+    {
+     "text": "Adding Color to Worksheet Tabs",
+     "level": 0
+    },
+    {
+     "text": "Adding Themes to Workbooks",
+     "level": 0
+    },
+    {
+     "text": "Adding a Watermark",
+     "level": 0
+    },
+    {
+     "text": "The Font Group",
+     "level": 0
+    },
+    {
+     "text": "The Alignment Group",
+     "level": 0
+    },
+    {
+     "text": "The Number Group",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 7: Using Formulas in Microsoft Excel",
+   "items": [
+    {
+     "text": "Math Operators and the Order of Operations",
+     "level": 0
+    },
+    {
+     "text": "Entering Formulas",
+     "level": 0
+    },
+    {
+     "text": "Common Auto-Formulas: Sum and AutoSum, min, max, Average,count,if, Sumif, Countif, Averageif",
+     "level": 0
+    },
+    {
+     "text": "Copying Formulas and Functions",
+     "level": 0
+    },
+    {
+     "text": "Relative, Absolute, and Mixed Cell References",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 8: Working with Rows and Columns",
+   "items": [
+    {
+     "text": "Inserting Rows and Columns",
+     "level": 0
+    },
+    {
+     "text": "Deleting Rows and Columns",
+     "level": 0
+    },
+    {
+     "text": "Transposing Rows and Columns",
+     "level": 0
+    },
+    {
+     "text": "Setting Row Height and Column Width",
+     "level": 0
+    },
+    {
+     "text": "Hiding and Unhiding Rows and Columns",
+     "level": 0
+    },
+    {
+     "text": "Freezing Panes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 9: Editing Worksheets",
+   "items": [
+    {
+     "text": "Find",
+     "level": 0
+    },
+    {
+     "text": "Find and Replace",
+     "level": 0
+    },
+    {
+     "text": "Using the Clipboard",
+     "level": 0
+    },
+    {
+     "text": "Managing Comments",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 10: Finalizing Microsoft Excel Worksheets",
+   "items": [
+    {
+     "text": "Setting Margins",
+     "level": 0
+    },
+    {
+     "text": "Setting Page Orientation",
+     "level": 0
+    },
+    {
+     "text": "Setting the Print Area",
+     "level": 0
+    },
+    {
+     "text": "Print Scaling (Fit Sheet on One Page)",
+     "level": 0
+    },
+    {
+     "text": "Printing Headings on Each Page/Repeating Headers and Footers",
+     "level": 0
+    },
+    {
+     "text": "Headers and Footers",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 11: Advanced Formulas 1",
+   "items": [
+    {
+     "text": "Using Named Ranges in Formulas",
+     "level": 0
+    },
+    {
+     "text": "Naming a Single Cell",
+     "level": 0
+    },
+    {
+     "text": "Naming a Range of Cells",
+     "level": 0
+    },
+    {
+     "text": "Naming Multiple Single Cells Quickly",
+     "level": 0
+    },
+    {
+     "text": "Using Formulas That Span Multiple Worksheets",
+     "level": 0
+    },
+    {
+     "text": "Using the IF, AND/OR Functions",
+     "level": 0
+    },
+    {
+     "text": "Using the SUMIF, AVERAGEIF, and COUNTIF Functions",
+     "level": 0
+    },
+    {
+     "text": "Using the PMT Function",
+     "level": 0
+    },
+    {
+     "text": "Using the LOOKUP, VLOOKUP, and HLOOKUP Function",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 12: Advanced Formulas 2",
+   "items": [
+    {
+     "text": "Using the CONCATENATE Function",
+     "level": 0
+    },
+    {
+     "text": "Using the TRANSPOSE Function",
+     "level": 0
+    },
+    {
+     "text": "Using the PROPER, UPPER, LOWER, and TRIM Functions",
+     "level": 0
+    },
+    {
+     "text": "Using the LEFT, RIGHT, and MID Functions",
+     "level": 0
+    },
+    {
+     "text": "Using Date, NOW and TODAY Functions",
+     "level": 0
+    },
+    {
+     "text": "Creating Scenarios & Utilize Watch Window",
+     "level": 0
+    },
+    {
+     "text": "Consolidate Data",
+     "level": 0
+    },
+    {
+     "text": "Enable Iterative Calculations",
+     "level": 0
+    },
+    {
+     "text": "What-If Analyses",
+     "level": 0
+    },
+    {
+     "text": "Use the Scenario Manager",
+     "level": 0
+    },
+    {
+     "text": "Use Financial Functions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Excel: Module 13: Advanced Formatting",
+   "items": [
+    {
+     "text": "Applying Conditional Formatting",
+     "level": 0
+    },
+    {
+     "text": "Working with Styles",
+     "level": 0
+    },
+    {
+     "text": "Creating and Modifying Templates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Using PowerPoint 2016",
+   "items": [
+    {
+     "text": "Opening PowerPoint 2016",
+     "level": 0
+    },
+    {
+     "text": "Opening a Presentation",
+     "level": 0
+    },
+    {
+     "text": "Navigating between Slides",
+     "level": 0
+    },
+    {
+     "text": "Using the Zoom Tool",
+     "level": 0
+    },
+    {
+     "text": "Changing PowerPoint Views",
+     "level": 0
+    },
+    {
+     "text": "Using Help",
+     "level": 0
+    },
+    {
+     "text": "Searching For Help",
+     "level": 0
+    },
+    {
+     "text": "Using the Help Table of Contents",
+     "level": 0
+    },
+    {
+     "text": "Saving a Presentation",
+     "level": 0
+    },
+    {
+     "text": "Closing a Presentation",
+     "level": 0
+    },
+    {
+     "text": "Closing PowerPoint",
+     "level": 0
+    },
+    {
+     "text": "Opening Multiple Presentations",
+     "level": 0
+    },
+    {
+     "text": "Switching between Multiple Presentations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Creating a PowerPoint 2016 Presentation",
+   "items": [
+    {
+     "text": "Creating a New Presentation",
+     "level": 0
+    },
+    {
+     "text": "Inserting a New Slide",
+     "level": 0
+    },
+    {
+     "text": "Recommended Techniques When Creating Slide Content",
+     "level": 0
+    },
+    {
+     "text": "Undo and Redo",
+     "level": 0
+    },
+    {
+     "text": "Saving a Presentation",
+     "level": 0
+    },
+    {
+     "text": "Saving a Presentation Using a Different Name",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Manipulating Slides within PowerPoint 2016",
+   "items": [
+    {
+     "text": "Inserting Slides with a Particular Slide Layout",
+     "level": 0
+    },
+    {
+     "text": "Modifying the Slide Layout",
+     "level": 0
+    },
+    {
+     "text": "Changing the Background Colour on the Active Slide",
+     "level": 0
+    },
+    {
+     "text": "Changing Background Colour on All the Slides within a Presentation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: PowerPoint 2016 Design Themes",
+   "items": [
+    {
+     "text": "Applying a Theme to a Presentation",
+     "level": 0
+    },
+    {
+     "text": "Modifying the Theme Colours",
+     "level": 0
+    },
+    {
+     "text": "Modifying the Theme Fonts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Text Boxes (Placeholders)",
+   "items": [
+    {
+     "text": "Editing Text Boxes (Placeholders)",
+     "level": 0
+    },
+    {
+     "text": "Resizing a Text Box (Placeholder)",
+     "level": 0
+    },
+    {
+     "text": "Moving a Text Box (Placeholder)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Manipulating Text in PowerPoint 2016",
+   "items": [
+    {
+     "text": "Selecting Text",
+     "level": 0
+    },
+    {
+     "text": "Moving Text within a Slide",
+     "level": 0
+    },
+    {
+     "text": "Moving Text between Slides within a Presentation or between Presentations",
+     "level": 0
+    },
+    {
+     "text": "Copying Text within a Slide",
+     "level": 0
+    },
+    {
+     "text": "Copying Text between Slides within a Presentation or between Presentations",
+     "level": 0
+    },
+    {
+     "text": "Deleting Text",
+     "level": 0
+    },
+    {
+     "text": "Using Find",
+     "level": 0
+    },
+    {
+     "text": "Using Replace",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Font Formatting within PowerPoint",
+   "items": [
+    {
+     "text": "Font Formatting Options",
+     "level": 0
+    },
+    {
+     "text": "Changing the Font Type",
+     "level": 0
+    },
+    {
+     "text": "Changing Font Size",
+     "level": 0
+    },
+    {
+     "text": "Increasing or Decreasing the Font Size",
+     "level": 0
+    },
+    {
+     "text": "Bold, Italic or Underline Formatting",
+     "level": 0
+    },
+    {
+     "text": "Strikethrough Effects",
+     "level": 0
+    },
+    {
+     "text": "Shadow Effects",
+     "level": 0
+    },
+    {
+     "text": "Character Spacing",
+     "level": 0
+    },
+    {
+     "text": "Changing Case",
+     "level": 0
+    },
+    {
+     "text": "Font Colour",
+     "level": 0
+    },
+    {
+     "text": "Clearing All Text Formatting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Paragraph Formatting within PowerPoint",
+   "items": [
+    {
+     "text": "Text Alignment",
+     "level": 0
+    },
+    {
+     "text": "Columns",
+     "level": 0
+    },
+    {
+     "text": "Modifying Bullet Point Formatting",
+     "level": 0
+    },
+    {
+     "text": "Numbering Instead of Bullet Points",
+     "level": 0
+    },
+    {
+     "text": "Changing the List Level",
+     "level": 0
+    },
+    {
+     "text": "Indenting Bulleted Text",
+     "level": 0
+    },
+    {
+     "text": "Line Spacing Vs. Paragraph Spacing",
+     "level": 0
+    },
+    {
+     "text": "Using Outline View",
+     "level": 0
+    },
+    {
+     "text": "PowerPoint Presenter Notes",
+     "level": 0
+    },
+    {
+     "text": "Text Direction & Alignment within a Text Box (Placeholder)",
+     "level": 0
+    },
+    {
+     "text": "Using the Format Painter",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Tables and PowerPoint",
+   "items": [
+    {
+     "text": "Table Selection Techniques",
+     "level": 0
+    },
+    {
+     "text": "Column Selection",
+     "level": 0
+    },
+    {
+     "text": "Row Selection",
+     "level": 0
+    },
+    {
+     "text": "Entire Table Selection",
+     "level": 0
+    },
+    {
+     "text": "Creating a Table",
+     "level": 0
+    },
+    {
+     "text": "Applying a Style to a Table",
+     "level": 0
+    },
+    {
+     "text": "Cell Background Shading",
+     "level": 0
+    },
+    {
+     "text": "Applying Table Effects",
+     "level": 0
+    },
+    {
+     "text": "Adding 'Quick Styles' to Selected Text",
+     "level": 0
+    },
+    {
+     "text": "Applying Borders to Cells",
+     "level": 0
+    },
+    {
+     "text": "Deleting a Column & Row",
+     "level": 0
+    },
+    {
+     "text": "Inserting Rows or Columns",
+     "level": 0
+    },
+    {
+     "text": "Modifying & Distributing Column Width and Row Height",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: PowerPoint 2016 & Illustrations",
+   "items": [
+    {
+     "text": "Selecting an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Selecting Multiple Illustrations",
+     "level": 0
+    },
+    {
+     "text": "Moving an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Copying an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Deleting an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Resizing an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Stretching an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Copying Illustrations between Presentations",
+     "level": 0
+    },
+    {
+     "text": "Moving Illustrations between Presentations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Inserting Illustrations within PowerPoint",
+   "items": [
+    {
+     "text": "Inserting Pictures from Your Hard Disk",
+     "level": 0
+    },
+    {
+     "text": "Inserting Online Pictures or Clip Art",
+     "level": 0
+    },
+    {
+     "text": "Inserting Shapes",
+     "level": 0
+    },
+    {
+     "text": "Inserting Text into a Shape",
+     "level": 0
+    },
+    {
+     "text": "Inserting Perfect Circles or Perfect Squares",
+     "level": 0
+    },
+    {
+     "text": "Inserting a Line",
+     "level": 0
+    },
+    {
+     "text": "Inserting a Free Drawn Line",
+     "level": 0
+    },
+    {
+     "text": "Inserting an Arrow",
+     "level": 0
+    },
+    {
+     "text": "Inserting a Text Box",
+     "level": 0
+    },
+    {
+     "text": "Inserting SmartArt",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Manipulating Illustrations within PowerPoint",
+   "items": [
+    {
+     "text": "Formatting the Shape Background Fill Colour Style",
+     "level": 0
+    },
+    {
+     "text": "Applying a Shadow to an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Modifying Arrow Line Shapes and Size",
+     "level": 0
+    },
+    {
+     "text": "Rotating or Flipping an Illustration",
+     "level": 0
+    },
+    {
+     "text": "Rotating Illustrations by Dragging With the Mouse",
+     "level": 0
+    },
+    {
+     "text": "Layering Illustrations to the Front or Back",
+     "level": 0
+    },
+    {
+     "text": "Aligning Graphics Relative to Each Other or Relative to the Slide",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Charts in PowerPoint",
+   "items": [
+    {
+     "text": "Inserting Charts and Editing the Chart Data",
+     "level": 0
+    },
+    {
+     "text": "Changing the Chart Type",
+     "level": 0
+    },
+    {
+     "text": "Changing the Background Colour in the Chart",
+     "level": 0
+    },
+    {
+     "text": "Changing the Column, Bar, Line or Pie Slice Colours in the Chart",
+     "level": 0
+    },
+    {
+     "text": "Chart Title Manipulation",
+     "level": 0
+    },
+    {
+     "text": "Adding Data Labels to a Chart",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Manipulating Slides within PowerPoint",
+   "items": [
+    {
+     "text": "Moving Slides within a Presentation or between Presentations",
+     "level": 0
+    },
+    {
+     "text": "Copying Slides within a Presentation",
+     "level": 0
+    },
+    {
+     "text": "Deleting a Slide or Slides",
+     "level": 0
+    },
+    {
+     "text": "Copying Slides between Presentations",
+     "level": 0
+    },
+    {
+     "text": "Moving Slides between Presentations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: PowerPoint 2016 Slide Masters",
+   "items": [
+    {
+     "text": "What Is a Slide Master?",
+     "level": 0
+    },
+    {
+     "text": "Inserting a Picture (Clipart) Into a Master Slide",
+     "level": 0
+    },
+    {
+     "text": "Removing a Picture or Shape from a Master Slide",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Headers, Footers and Slide Numbering",
+   "items": [
+    {
+     "text": "Creating a Footer",
+     "level": 0
+    },
+    {
+     "text": "Automatic Slide Numbering",
+     "level": 0
+    },
+    {
+     "text": "Inserting Dates into the Footer",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: PowerPoint 2016 Slide Shows",
+   "items": [
+    {
+     "text": "Running a Slide Show",
+     "level": 0
+    },
+    {
+     "text": "Adding Slide Show Transition Effects",
+     "level": 0
+    },
+    {
+     "text": "Removing Transition Effects",
+     "level": 0
+    },
+    {
+     "text": "Adding Slide Show Animation Effects",
+     "level": 0
+    },
+    {
+     "text": "Modifying Slide Show Animation Effects",
+     "level": 0
+    },
+    {
+     "text": "Removing Animation Effects",
+     "level": 0
+    },
+    {
+     "text": "Hiding Slides",
+     "level": 0
+    },
+    {
+     "text": "Displaying Hidden Slides within a Slide Show",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Powerpoint: Printing and Proofing In PowerPoint",
+   "items": [
+    {
+     "text": "Spell-Checking a Presentation",
+     "level": 0
+    },
+    {
+     "text": "Using Portrait or Landscape Orientation",
+     "level": 0
+    },
+    {
+     "text": "Switching between Standard and Widescreen Formats",
+     "level": 0
+    },
+    {
+     "text": "Selecting Your Output Format",
+     "level": 0
+    },
+    {
+     "text": "Visually Inspect Each Slide before Printing",
+     "level": 0
+    },
+    {
+     "text": "Printing Options",
+     "level": 0
+    },
+    {
+     "text": "Setting the Number of Copies to Print",
+     "level": 0
+    },
+    {
+     "text": "Selecting a Different Printer",
+     "level": 0
+    },
+    {
+     "text": "Printing Selected Slides",
+     "level": 0
+    },
+    {
+     "text": "Setting the Number of Slides per Page to Be Printed",
+     "level": 0
+    },
+    {
+     "text": "Single or Double Sided (Duplex) Printing",
+     "level": 0
+    },
+    {
+     "text": "To Print a Presentation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: A FIRST LOOK AT OUTLOOK",
+   "items": [
+    {
+     "text": "Starting outlook 2016",
+     "level": 0
+    },
+    {
+     "text": "The Microsoft outlook 2016 screen",
+     "level": 0
+    },
+    {
+     "text": "Help in outlook 2016",
+     "level": 0
+    },
+    {
+     "text": "Printing help sheets",
+     "level": 0
+    },
+    {
+     "text": "Microsoft outlook navigation pane",
+     "level": 0
+    },
+    {
+     "text": "Microsoft outlook ribbon",
+     "level": 0
+    },
+    {
+     "text": "Closing outlook",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: TERMINOLOGY & CONCEPTS",
+   "items": [
+    {
+     "text": "What is email?",
+     "level": 0
+    },
+    {
+     "text": "The structure of an email address",
+     "level": 0
+    },
+    {
+     "text": "The advantages of using email",
+     "level": 0
+    },
+    {
+     "text": "SMS (Short Message Service)",
+     "level": 0
+    },
+    {
+     "text": "Voice over internet protocol (VOIP)",
+     "level": 0
+    },
+    {
+     "text": "Instant messaging",
+     "level": 0
+    },
+    {
+     "text": "Online (virtual) communities",
+     "level": 0
+    },
+    {
+     "text": "Social networking websites",
+     "level": 0
+    },
+    {
+     "text": "Internet forums",
+     "level": 0
+    },
+    {
+     "text": "Chat rooms",
+     "level": 0
+    },
+    {
+     "text": "Online computer games",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: SECURITY ISSUES",
+   "items": [
+    {
+     "text": "Spam",
+     "level": 0
+    },
+    {
+     "text": "Viruses",
+     "level": 0
+    },
+    {
+     "text": "Phishing",
+     "level": 0
+    },
+    {
+     "text": "Digital signatures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: SENDING MESSAGES",
+   "items": [
+    {
+     "text": "Creating and sending your first email",
+     "level": 0
+    },
+    {
+     "text": "Checking that your email was sent",
+     "level": 0
+    },
+    {
+     "text": "Sending emails to more than one person",
+     "level": 0
+    },
+    {
+     "text": "Receiving and reading emails",
+     "level": 0
+    },
+    {
+     "text": "Sending a copy to another address",
+     "level": 0
+    },
+    {
+     "text": "What is a blind carbon copy?",
+     "level": 0
+    },
+    {
+     "text": "Sending a copy of a message to another address using blind carbon copy (bcc)",
+     "level": 0
+    },
+    {
+     "text": "Spell checking your messages",
+     "level": 0
+    },
+    {
+     "text": "Attaching a file to a message",
+     "level": 0
+    },
+    {
+     "text": "Issues when sending file attachments",
+     "level": 0
+    },
+    {
+     "text": "Setting message importance & sensitivity",
+     "level": 0
+    },
+    {
+     "text": "Saving a draft copy of an email",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: RECEIVING, READING AND REPLYING TO MESSAGES",
+   "items": [
+    {
+     "text": "The inbox folder",
+     "level": 0
+    },
+    {
+     "text": "The inbox screen",
+     "level": 0
+    },
+    {
+     "text": "Selecting & Reading a message",
+     "level": 0
+    },
+    {
+     "text": "Switching between open message windows",
+     "level": 0
+    },
+    {
+     "text": "Forwarding a message",
+     "level": 0
+    },
+    {
+     "text": "Opening or saving an attached file",
+     "level": 0
+    },
+    {
+     "text": "Replying to the sender of a message",
+     "level": 0
+    },
+    {
+     "text": "Replying to the sender and all recipients of a message",
+     "level": 0
+    },
+    {
+     "text": "Printing a message",
+     "level": 0
+    },
+    {
+     "text": "Printing options",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: MANIPULATING TEXT AND FILES",
+   "items": [
+    {
+     "text": "Selecting a word, line, or paragraph within the message window",
+     "level": 0
+    },
+    {
+     "text": "Selecting all text within the message window",
+     "level": 0
+    },
+    {
+     "text": "Selecting text using the mouse",
+     "level": 0
+    },
+    {
+     "text": "Copying & Pasting text to the clipboard from a message",
+     "level": 0
+    },
+    {
+     "text": "Copying & Cutting text from one message to another",
+     "level": 0
+    },
+    {
+     "text": "Moving text from one message to another",
+     "level": 0
+    },
+    {
+     "text": "Deleting text in a message",
+     "level": 0
+    },
+    {
+     "text": "Deleting text to the left of the insertion point",
+     "level": 0
+    },
+    {
+     "text": "Deleting text to the right of the insertion point",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: PEOPLE AND CONTACTS",
+   "items": [
+    {
+     "text": "What are people contacts?",
+     "level": 0
+    },
+    {
+     "text": "Opening the people folder",
+     "level": 0
+    },
+    {
+     "text": "Creating a contact",
+     "level": 0
+    },
+    {
+     "text": "Adding the sender of a message to your contacts list",
+     "level": 0
+    },
+    {
+     "text": "Addressing an email to a contact",
+     "level": 0
+    },
+    {
+     "text": "Deleting a contact",
+     "level": 0
+    },
+    {
+     "text": "What is a contact group?",
+     "level": 0
+    },
+    {
+     "text": "Creating a new contact group",
+     "level": 0
+    },
+    {
+     "text": "Adding & Removing an email address to a customised contact group",
+     "level": 0
+    },
+    {
+     "text": "Sending an email to an entire contact group list",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "MS Outlook: ORGANISING MAIL",
+   "items": [
+    {
+     "text": "Searching for a particular email message",
+     "level": 0
+    },
+    {
+     "text": "Creating a new mail folder",
+     "level": 0
+    },
+    {
+     "text": "Moving a message to a different folder",
+     "level": 0
+    },
+    {
+     "text": "Deleting a mail folder",
+     "level": 0
+    },
+    {
+     "text": "Sorting the contents of the inbox",
+     "level": 0
+    },
+    {
+     "text": "Opening the ‘deleted items’ folder",
+     "level": 0
+    },
+    {
+     "text": "Restoring a message from the ‘deleted items’ folder",
+     "level": 0
+    },
+    {
+     "text": "Automatically emptying the ‘deleted items’ folder when you exit outlook",
+     "level": 0
+    },
+    {
+     "text": "Flagging a message",
+     "level": 0
+    },
+    {
+     "text": "Removing a flag mark from a message",
+     "level": 0
+    },
+    {
+     "text": "Marking a message as read or unread",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Business Productivity Courses.docx"
+}

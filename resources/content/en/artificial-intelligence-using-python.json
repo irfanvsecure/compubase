@@ -1,0 +1,262 @@
+{
+ "title": "Artificial Intelligence using Python",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Artificial Intelligence (AI) using Python, covering key AI concepts such as machine learning, deep learning, natural language processing (NLP), and computer vision. Participants will learn how to build AI models from scratch, optimize performance, and deploy AI-powered applications. Hands-on programming with Python libraries like TensorFlow, Keras, Scikit-Learn, and OpenCV will be a core part of the training."
+ ],
+ "audience": [
+  "Software Developers looking to integrate AI into applications",
+  "Data Scientists & Analysts exploring machine learning techniques",
+  "AI Enthusiasts & Researchers wanting to understand AI fundamentals",
+  "Engineers & Technologists developing AI-driven solutions",
+  "Students & Professionals aspiring to enter the AI field"
+ ],
+ "methodology": [
+  "Hands-on Coding Labs – Writing AI models in Python",
+  "Live Demonstrations – Implementing AI solutions in real-world scenarios",
+  "Case Studies & Industry Applications – Understanding AI in various sectors",
+  "Collaborative Learning – Group projects and brainstorming sessions",
+  "Capstone Project – Developing an end-to-end AI-powered application"
+ ],
+ "competencies": [
+  "Python Programming for AI Development",
+  "Fundamentals of Machine Learning & Deep Learning",
+  "Building AI Models with TensorFlow, Keras & Scikit-Learn",
+  "Data Preprocessing & Feature Engineering",
+  "Natural Language Processing & Computer Vision",
+  "AI Model Optimization & Hyperparameter Tuning",
+  "Deploying AI Models in Production Environments"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand AI concepts, machine learning, and deep learning fundamentals",
+  "Write Python scripts for AI model development",
+  "Build classification, regression, and clustering models using Scikit-Learn",
+  "Implement neural networks with TensorFlow & Keras",
+  "Apply AI techniques to NLP, image recognition, and reinforcement learning",
+  "Optimize AI models for performance and scalability",
+  "Deploy AI applications in real-world environments"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Artificial Intelligence & Python for AI",
+   "items": [
+    {
+     "text": "What is Artificial Intelligence? – History, Trends, and Applications",
+     "level": 0
+    },
+    {
+     "text": "AI vs. Machine Learning vs. Deep Learning",
+     "level": 0
+    },
+    {
+     "text": "Setting up Python Environment for AI – Jupyter Notebook, Anaconda, Colab",
+     "level": 0
+    },
+    {
+     "text": "Overview of Python Libraries for AI (NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, OpenCV)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Supervised & Unsupervised Learning",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Data Handling & Preprocessing for AI Models",
+   "items": [
+    {
+     "text": "Loading & Cleaning Datasets – Handling Missing & Noisy Data",
+     "level": 0
+    },
+    {
+     "text": "Data Normalization, Standardization & Feature Scaling",
+     "level": 0
+    },
+    {
+     "text": "Exploratory Data Analysis (EDA) using Matplotlib & Seaborn",
+     "level": 0
+    },
+    {
+     "text": "Feature Engineering – Encoding Categorical Data, Feature Selection, PCA",
+     "level": 0
+    },
+    {
+     "text": "Splitting Data for Training & Testing AI Models",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Machine Learning with Python",
+   "items": [
+    {
+     "text": "Linear & Logistic Regression Models",
+     "level": 0
+    },
+    {
+     "text": "Decision Trees & Random Forest Classifiers",
+     "level": 0
+    },
+    {
+     "text": "K-Nearest Neighbors (KNN) & Support Vector Machines (SVM)",
+     "level": 0
+    },
+    {
+     "text": "K-Means Clustering & Hierarchical Clustering",
+     "level": 0
+    },
+    {
+     "text": "Performance Evaluation – Confusion Matrix, Precision, Recall, F1-Score",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Deep Learning & Neural Networks",
+   "items": [
+    {
+     "text": "Introduction to Neural Networks & Backpropagation",
+     "level": 0
+    },
+    {
+     "text": "Building Deep Learning Models using TensorFlow & Keras",
+     "level": 0
+    },
+    {
+     "text": "Activation Functions (ReLU, Sigmoid, Softmax, Tanh)",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Models – Gradient Descent, Dropout, Batch Normalization",
+     "level": 0
+    },
+    {
+     "text": "Hyperparameter Tuning using Grid Search & Random Search",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Natural Language Processing (NLP) with Python",
+   "items": [
+    {
+     "text": "Text Preprocessing – Tokenization, Stopwords, Stemming, Lemmatization",
+     "level": 0
+    },
+    {
+     "text": "Implementing TF-IDF & Word Embeddings (Word2Vec, GloVe, BERT)",
+     "level": 0
+    },
+    {
+     "text": "Sentiment Analysis using NLTK & Scikit-Learn",
+     "level": 0
+    },
+    {
+     "text": "Building a Chatbot with NLP & Deep Learning",
+     "level": 0
+    },
+    {
+     "text": "Text Classification & Named Entity Recognition (NER)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Computer Vision & Image Processing with OpenCV & TensorFlow",
+   "items": [
+    {
+     "text": "Introduction to Computer Vision & Image Processing",
+     "level": 0
+    },
+    {
+     "text": "Image Preprocessing – Resizing, Normalization, Augmentation",
+     "level": 0
+    },
+    {
+     "text": "Convolutional Neural Networks (CNNs) for Image Recognition",
+     "level": 0
+    },
+    {
+     "text": "Object Detection using YOLO & OpenCV",
+     "level": 0
+    },
+    {
+     "text": "Face Recognition with Deep Learning Models",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Reinforcement Learning & AI Optimization",
+   "items": [
+    {
+     "text": "Basics of Reinforcement Learning – Rewards & Actions",
+     "level": 0
+    },
+    {
+     "text": "Implementing Q-Learning & Deep Q-Networks (DQN)",
+     "level": 0
+    },
+    {
+     "text": "Applications of Reinforcement Learning – Robotics, Game AI",
+     "level": 0
+    },
+    {
+     "text": "AI Model Optimization Techniques – Regularization, Transfer Learning",
+     "level": 0
+    },
+    {
+     "text": "Automated Hyperparameter Tuning with Bayesian Optimization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: AI Model Deployment & Cloud Integration",
+   "items": [
+    {
+     "text": "Exporting & Saving AI Models – Pickle, Joblib, ONNX",
+     "level": 0
+    },
+    {
+     "text": "Deploying AI Models using Flask, FastAPI & TensorFlow Serving",
+     "level": 0
+    },
+    {
+     "text": "Hosting AI Models on AWS, Azure, Google Cloud",
+     "level": 0
+    },
+    {
+     "text": "Building AI-Powered Web & Mobile Applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Ethics & Challenges in AI Development",
+   "items": [
+    {
+     "text": "Bias & Fairness in AI Models",
+     "level": 0
+    },
+    {
+     "text": "AI Ethics, Privacy, and Security Concerns",
+     "level": 0
+    },
+    {
+     "text": "Explainable AI (XAI) & Model Interpretability",
+     "level": 0
+    },
+    {
+     "text": "Future Trends & Career Opportunities in AI",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

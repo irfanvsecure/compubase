@@ -1,0 +1,209 @@
+{
+ "title": "Cloud Storage and Collaboration with OneDrive and SharePoint",
+ "duration": "3 Days",
+ "overview": [
+  "This course provides comprehensive training on using Microsoft OneDrive and SharePoint for cloud storage and collaboration. Participants will learn how to effectively manage and share files, collaborate with team members, and utilize advanced features of OneDrive and SharePoint to enhance productivity and streamline workflows."
+ ],
+ "audience": [
+  "IT professionals responsible for managing cloud storage solutions.",
+  "Team leaders and project managers looking to improve team collaboration.",
+  "Employees and administrators who need to use OneDrive and SharePoint for daily tasks.",
+  "Anyone interested in leveraging cloud-based tools for efficient file management and teamwork."
+ ],
+ "methodology": [
+  "Interactive Lectures: Delivered by experienced instructors to provide theoretical knowledge.",
+  "Hands-On Labs: Practical exercises using OneDrive and SharePoint to reinforce learning.",
+  "Case Studies: Real-world scenarios to understand practical applications and solutions.",
+  "Group Discussions: Collaborative activities to discuss and solve common challenges.",
+  "Quizzes and Assessments: To evaluate understanding and retention of the material."
+ ],
+ "competencies": [
+  "Proficiency in using OneDrive and SharePoint for personal and team file management.",
+  "Ability to set up, manage, and share cloud storage solutions.",
+  "Understanding of collaboration features and how to leverage them effectively.",
+  "Knowledge of security and compliance considerations in cloud storage."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To familiarize participants with the features and functionalities of OneDrive and SharePoint.",
+  "To enable users to efficiently manage, store, and share files using cloud storage solutions.",
+  "To enhance collaboration within teams using SharePoint and OneDrive.",
+  "To ensure participants can configure and secure cloud storage environments."
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Cloud Storage",
+   "items": [
+    {
+     "text": "Overview of Cloud Storage",
+     "level": 0
+    },
+    {
+     "text": "Benefits of Cloud Storage",
+     "level": 0
+    },
+    {
+     "text": "Comparing OneDrive and SharePoint",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Getting Started with OneDrive",
+   "items": [
+    {
+     "text": "Introduction to OneDrive",
+     "level": 0
+    },
+    {
+     "text": "Setting Up OneDrive",
+     "level": 0
+    },
+    {
+     "text": "Navigating the OneDrive Interface",
+     "level": 0
+    },
+    {
+     "text": "Uploading and Managing Files",
+     "level": 0
+    },
+    {
+     "text": "Sharing and Collaborating on Files",
+     "level": 0
+    },
+    {
+     "text": "Syncing Files with the Desktop",
+     "level": 0
+    },
+    {
+     "text": "Managing File Versions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Introduction to SharePoint",
+   "items": [
+    {
+     "text": "Overview of SharePoint",
+     "level": 0
+    },
+    {
+     "text": "Types of SharePoint Sites (Team Sites, Communication Sites)",
+     "level": 0
+    },
+    {
+     "text": "Navigating SharePoint Sites",
+     "level": 0
+    },
+    {
+     "text": "Creating and Customizing SharePoint Sites",
+     "level": 0
+    },
+    {
+     "text": "Document Libraries and Lists",
+     "level": 0
+    },
+    {
+     "text": "Managing Permissions and Access",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Collaboration with SharePoint",
+   "items": [
+    {
+     "text": "Sharing Documents and Folders",
+     "level": 0
+    },
+    {
+     "text": "Using SharePoint for Team Collaboration",
+     "level": 0
+    },
+    {
+     "text": "Version History and Document Management",
+     "level": 0
+    },
+    {
+     "text": "Setting Up Alerts and Notifications",
+     "level": 0
+    },
+    {
+     "text": "Integrating with Microsoft Teams",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Advanced Features of OneDrive and SharePoint",
+   "items": [
+    {
+     "text": "Advanced Sharing Options in OneDrive",
+     "level": 0
+    },
+    {
+     "text": "Using SharePoint Workflows",
+     "level": 0
+    },
+    {
+     "text": "Automating Tasks with Power Automate",
+     "level": 0
+    },
+    {
+     "text": "Customizing SharePoint Libraries and Lists",
+     "level": 0
+    },
+    {
+     "text": "Data Governance and Compliance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Security and Compliance",
+   "items": [
+    {
+     "text": "Security Features in OneDrive and SharePoint",
+     "level": 0
+    },
+    {
+     "text": "Managing Compliance Settings",
+     "level": 0
+    },
+    {
+     "text": "Data Loss Prevention (DLP) Policies",
+     "level": 0
+    },
+    {
+     "text": "Access Control and Authentication",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Best Practices and Troubleshooting",
+   "items": [
+    {
+     "text": "Best Practices for File Management",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting Common Issues",
+     "level": 0
+    },
+    {
+     "text": "Performance Optimization Tips",
+     "level": 0
+    },
+    {
+     "text": "Support Resources and Further Learning",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Business Productivity Courses.docx"
+}

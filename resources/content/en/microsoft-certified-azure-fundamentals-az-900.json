@@ -1,0 +1,164 @@
+{
+ "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+ "duration": "3 Days",
+ "overview": [
+  "The Microsoft Certified: Azure Fundamentals (AZ-900) course is designed for individuals who are new to cloud computing and Microsoft Azure. This course provides foundational knowledge of Azure services, cloud concepts, and Azure management tools, preparing participants for the Azure Fundamentals certification exam."
+ ],
+ "audience": [
+  "Individuals new to cloud computing and Microsoft Azure.",
+  "Non-technical professionals such as sales, marketing, and business professionals who interact with Azure.",
+  "IT professionals and students seeking a foundational understanding of Azure services.",
+  "Anyone preparing for the Microsoft Certified: Azure Fundamentals (AZ-900) certification exam."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of Azure services, cloud concepts, and management tools.",
+  "Hands-On Labs: Practical exercises for interacting with Azure services and tools.",
+  "Case Studies: Real-world scenarios to understand Azure solutions and use cases.",
+  "Group Discussions: Interactive sessions to explore Azure concepts and applications.",
+  "Quizzes and Practice Exams: Tools to assess knowledge and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Cloud concepts and principles",
+  "Azure core services and solutions",
+  "Azure pricing, support, and governance",
+  "Azure security and compliance"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of cloud computing and Microsoft Azure.",
+  "To prepare participants for the Microsoft Certified: Azure Fundamentals (AZ-900) exam.",
+  "To familiarize learners with Azure services, pricing, and management tools.",
+  "To introduce basic concepts of Azure security, compliance, and governance."
+ ],
+ "outline": [
+  {
+   "title": "1. Cloud Concepts",
+   "items": [
+    {
+     "text": "Overview of Cloud Computing",
+     "level": 0
+    },
+    {
+     "text": "Cloud Service Models (IaaS, PaaS, SaaS)",
+     "level": 0
+    },
+    {
+     "text": "Cloud Deployment Models (Public, Private, Hybrid)",
+     "level": 0
+    },
+    {
+     "text": "Benefits of Cloud Computing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Core Azure Services",
+   "items": [
+    {
+     "text": "Introduction to Azure and Its Core Services",
+     "level": 0
+    },
+    {
+     "text": "Azure Compute Services (Virtual Machines, App Services, Azure Functions)",
+     "level": 0
+    },
+    {
+     "text": "Azure Storage Services (Blob Storage, Disk Storage, File Storage)",
+     "level": 0
+    },
+    {
+     "text": "Azure Networking Services (Virtual Networks, VPN, Azure CDN)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Azure Pricing, SLA, and Lifecycle",
+   "items": [
+    {
+     "text": "Azure Pricing and Cost Management",
+     "level": 0
+    },
+    {
+     "text": "Understanding Azure Service Level Agreements (SLAs)",
+     "level": 0
+    },
+    {
+     "text": "Azure Pricing Calculator and Cost Management Tools",
+     "level": 0
+    },
+    {
+     "text": "Azure Service Lifecycle and Updates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Azure Governance and Compliance",
+   "items": [
+    {
+     "text": "Azure Governance Tools (Azure Policy, Blueprints)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Azure Compliance Offerings",
+     "level": 0
+    },
+    {
+     "text": "Data Privacy and Security in Azure",
+     "level": 0
+    },
+    {
+     "text": "Regulatory and Compliance Standards (GDPR, HIPAA)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Azure Security",
+   "items": [
+    {
+     "text": "Azure Security Fundamentals and Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Identity and Access Management (IAM) in Azure",
+     "level": 0
+    },
+    {
+     "text": "Azure Security Center and Azure Key Vault",
+     "level": 0
+    },
+    {
+     "text": "Implementing Basic Security Measures (Network Security Groups, Firewall)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Azure Management Tools",
+   "items": [
+    {
+     "text": "Overview of Azure Management Tools (Azure Portal, Azure CLI, Azure PowerShell)",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and Reporting with Azure Monitor",
+     "level": 0
+    },
+    {
+     "text": "Resource Management with Azure Resource Manager (ARM) Templates",
+     "level": 0
+    },
+    {
+     "text": "Managing and Configuring Azure Resources",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cloud Computing Courses.docx"
+}

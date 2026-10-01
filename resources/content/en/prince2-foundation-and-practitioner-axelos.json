@@ -1,0 +1,174 @@
+{
+ "title": "PRINCE2 Foundation and Practitioner – AXELOS",
+ "duration": "5 Days",
+ "overview": [
+  "The PRINCE2 Foundation and Practitioner course provides comprehensive training in the PRINCE2 project management methodology. It covers both the foundational knowledge required for the PRINCE2 Foundation exam and the advanced skills needed for the PRINCE2 Practitioner exam. The course focuses on the principles, themes, and processes of PRINCE2 and how to apply them effectively in various project scenarios."
+ ],
+ "audience": [
+  "Project managers and aspiring project managers.",
+  "Team leaders and project team members.",
+  "Professionals involved in project management or looking to enhance their project management skills.",
+  "Individuals preparing for the PRINCE2 Foundation and Practitioner certification exams."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanation of PRINCE2 principles, themes, and processes.",
+  "Hands-On Labs: Practical exercises to apply PRINCE2 concepts and techniques.",
+  "Case Studies: Analysis of real-world project scenarios using PRINCE2.",
+  "Group Discussions: Interactive sessions to explore PRINCE2 practices and challenges.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for certification exams."
+ ],
+ "competencies": [
+  "PRINCE2 principles, themes, and processes",
+  "Project planning and control",
+  "Risk management and stakeholder engagement",
+  "Application of PRINCE2 in various project scenarios"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of PRINCE2 principles and practices.",
+  "To develop skills for applying PRINCE2 effectively in projects.",
+  "To prepare participants for both the PRINCE2 Foundation and Practitioner certification exams.",
+  "To equip participants with techniques for managing projects using the PRINCE2 methodology."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to PRINCE2",
+   "items": [
+    {
+     "text": "Overview of PRINCE2 Methodology",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Structure of PRINCE2",
+     "level": 0
+    },
+    {
+     "text": "Comparison with Other Project Management Methodologies",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Terminology",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. PRINCE2 Foundation",
+   "items": [
+    {
+     "text": "Principles: Understanding the 7 PRINCE2 Principles",
+     "level": 0
+    },
+    {
+     "text": "Themes: Detailed Study of the 7 PRINCE2 Themes",
+     "level": 0
+    },
+    {
+     "text": "Business Case",
+     "level": 0
+    },
+    {
+     "text": "Organization",
+     "level": 0
+    },
+    {
+     "text": "Quality",
+     "level": 0
+    },
+    {
+     "text": "Plans",
+     "level": 0
+    },
+    {
+     "text": "Risk",
+     "level": 0
+    },
+    {
+     "text": "Change",
+     "level": 0
+    },
+    {
+     "text": "Progress",
+     "level": 0
+    },
+    {
+     "text": "Processes: Overview of the 7 PRINCE2 Processes",
+     "level": 0
+    },
+    {
+     "text": "Starting Up a Project",
+     "level": 0
+    },
+    {
+     "text": "Directing a Project",
+     "level": 0
+    },
+    {
+     "text": "Initiating a Project",
+     "level": 0
+    },
+    {
+     "text": "Controlling a Stage",
+     "level": 0
+    },
+    {
+     "text": "Managing Product Delivery",
+     "level": 0
+    },
+    {
+     "text": "Managing Stage Boundaries",
+     "level": 0
+    },
+    {
+     "text": "Closing a Project",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. PRINCE2 Practitioner",
+   "items": [
+    {
+     "text": "Applying PRINCE2 in Practice: Techniques for Implementing PRINCE2 Processes",
+     "level": 0
+    },
+    {
+     "text": "Customization and Tailoring: Adapting PRINCE2 to Different Project Environments",
+     "level": 0
+    },
+    {
+     "text": "Case Study Analysis: Applying PRINCE2 Principles to Real-World Scenarios",
+     "level": 0
+    },
+    {
+     "text": "Advanced Topics: Managing Complex Projects and Handling Exceptions",
+     "level": 0
+    },
+    {
+     "text": "Exam Preparation: Review of PRINCE2 Practitioner Exam Domains, Sample Questions, and Study Resources",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Integrating PRINCE2 with Other Methodologies",
+   "items": [
+    {
+     "text": "Combining PRINCE2 with Agile, Lean, and Other Approaches",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Hybrid Project Management",
+     "level": 0
+    },
+    {
+     "text": "Enhancing Project Management Skills with PRINCE2",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

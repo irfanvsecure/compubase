@@ -1,0 +1,239 @@
+{
+ "title": "Six Sigma Yellow Belt – ASQ",
+ "duration": "3 DAYS",
+ "overview": [
+  "This thought-provoking course uses the renowned Motorola methodology to identify and solve organizational problems. Targeting the yellow belt level, this course will provide participants with the knowledge and tools to identify improvement opportunities in their organizations, help kick off the Six Sigma methodology with their teams, and assess their organization's readiness to launch Six Sigma projects. Participants will learn the different phases of Define, Measure, Analyze, Improve, and Control (DMAIC) and how to build a project charter. Additionally, they will learn about quality tools and statistics to help them formulate problem statements and translate them into a measurable format."
+ ],
+ "audience": [
+  "Managers, supervisors and professionals who wish to understand Six Sigma, its use and how it relates to work and business improvement."
+ ],
+ "methodology": [
+  "The course will present participants with the chance to practice the skills acquired through exercises and case studies. Group and individual presentations will also be conducted. Additionally, videos will be shown about real-life companies which have implemented the Six Sigma methodology."
+ ],
+ "competencies": [
+  "Deploying Six Sigma",
+  "Problem solving skills",
+  "Critical thinking skills",
+  "Using applied statistics",
+  "Change management techniques"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define and understand quality concepts and their evolution",
+  "Discuss Six Sigma and why it is necessary to sustain business improvement and support customer service",
+  "Apply and implement the Define, Measure, Analyze, Improve and Control problem-solving methodology",
+  "Examine the statistical background supporting Six Sigma projects",
+  "Compare the various tools usually used in a Six Sigma project",
+  "Explain how to deploy Six Sigma and assess organizational readiness to launch a successful Six Sigma project"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Quality",
+   "items": [
+    {
+     "text": "Definition of quality",
+     "level": 0
+    },
+    {
+     "text": "History of quality",
+     "level": 0
+    },
+    {
+     "text": "Benefits of quality systems",
+     "level": 0
+    },
+    {
+     "text": "Meet the ISO 9000 family",
+     "level": 0
+    },
+    {
+     "text": "Cost of poor quality",
+     "level": 0
+    },
+    {
+     "text": "Evolution of quality management",
+     "level": 0
+    },
+    {
+     "text": "Quality management principles and Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Quality maturity ladder",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Definitions of Six Sigma",
+   "items": [
+    {
+     "text": "Definition of Six Sigma and the meaning of sigma",
+     "level": 0
+    },
+    {
+     "text": "History of Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Benefits of Six Sigma for organizations",
+     "level": 0
+    },
+    {
+     "text": "Savings from Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Six Sigma as an improvement strategy",
+     "level": 0
+    },
+    {
+     "text": "Six Sigma in customer service",
+     "level": 0
+    },
+    {
+     "text": "Translating the Voice of Customer (VOC) to Critical to Quality (CTQ)",
+     "level": 0
+    },
+    {
+     "text": "Quality function deployment",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Implementing Six Sigma",
+   "items": [
+    {
+     "text": "The methodology",
+     "level": 0
+    },
+    {
+     "text": "The DMAIC stages (define, measure, analyze, improve and control)",
+     "level": 0
+    },
+    {
+     "text": "Project selection",
+     "level": 0
+    },
+    {
+     "text": "Problem statement write up",
+     "level": 0
+    },
+    {
+     "text": "Roles of green belts and black belts",
+     "level": 0
+    },
+    {
+     "text": "Six Sigma and Lean",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Statistical Analysis in Six Sigma",
+   "items": [
+    {
+     "text": "Sigma as a metric for quality",
+     "level": 0
+    },
+    {
+     "text": "Sources of variation in operations",
+     "level": 0
+    },
+    {
+     "text": "Calculation of process capability and sigma level",
+     "level": 0
+    },
+    {
+     "text": "The commute example",
+     "level": 0
+    },
+    {
+     "text": "Software to support analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Problem-solving Tools in Six Sigma",
+   "items": [
+    {
+     "text": "Six Sigma toolbox",
+     "level": 0
+    },
+    {
+     "text": "Histogram",
+     "level": 0
+    },
+    {
+     "text": "Run charts",
+     "level": 0
+    },
+    {
+     "text": "Control charts",
+     "level": 0
+    },
+    {
+     "text": "Scatter diagrams",
+     "level": 0
+    },
+    {
+     "text": "Pareto charts",
+     "level": 0
+    },
+    {
+     "text": "Cause and effect diagrams",
+     "level": 0
+    },
+    {
+     "text": "Why-why and how-how diagrams",
+     "level": 0
+    },
+    {
+     "text": "Process mapping",
+     "level": 0
+    },
+    {
+     "text": "The turtle diagram",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Deployment of Six Sigma",
+   "items": [
+    {
+     "text": "Guidelines for selecting Six Sigma projects",
+     "level": 0
+    },
+    {
+     "text": "Characteristics of a successful Six Sigma project",
+     "level": 0
+    },
+    {
+     "text": "Leadership and employee Involvement",
+     "level": 0
+    },
+    {
+     "text": "Corporate commitment: 10 questions for leaders",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "ROI METHODOLOGY (ASSESSMENT CRITERIA)",
+   "order": "ii",
+   "paras": [],
+   "items": [
+    "Pre-Training Assessment: to identify the current knowledge and skills of the participants before the training.",
+    "Post-Training Assessment: to measure the improvement in the participants’ knowledge and skills after the training."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Quality & Process Management Courses.docx"
+}

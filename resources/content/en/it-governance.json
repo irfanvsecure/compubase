@@ -1,0 +1,266 @@
+{
+ "title": "IT Governance",
+ "duration": "5 Days",
+ "overview": [
+  "This course explains how good IT Governance can help align IT strategies to business strategies. It does this by discussing IT Governance at two levels: Governance of IT, and Governance within IT. Governance of IT captures what business units need from IT and how can such requirements be formally discussed in non-technical terms. Governance within IT, while internal to the IT department, captures those non-technical requirements and translates them into clear IT management objectives.",
+  "Topics covered in the course include, but are not limited to, the main objectives of IT Governance, potential risks that may prevent organizations from achieving those objectives, and processes and other controls that mitigate these risks. Participants will also learn how to facilitate changes within the organization in order to implement the necessary IT Governance mechanisms to ensure that the correct IT objectives, which are aligned to business objectives, are achieved."
+ ],
+ "audience": [
+  "This course is suitable for anyone who is managing/leading an IT division, or anyone who owns some responsibility for ensuring the success of IT within an organization. This includes, but is not limited to, Directors, Chief Technology Officers, IT Senior Managers and Executives, Auditors, Risk Managers, and Compliance Officers."
+ ],
+ "methodology": [
+  "This course relies on detailed and visual slides, videos, practical examples, group discussions, small individual exercises, larger group exercises, and presentations from the participants."
+ ],
+ "competencies": [
+  "IT Governance",
+  "Aligning IT objectives to business objectives",
+  "IT risk management",
+  "IT value optimization",
+  "IT resource management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain the difference between IT Governance and IT Management",
+  "Align IT strategy to business strategy",
+  "Identify IT Governance objectives and risks",
+  "Implement common IT Governance and IT Management processes",
+  "Facilitate policy changes within the organization",
+  "Implement the necessary mechanisms to ensure IT objectives are achieved"
+ ],
+ "outline": [
+  {
+   "title": "Governance and IT Governance",
+   "items": [
+    {
+     "text": "Conformance and performance",
+     "level": 0
+    },
+    {
+     "text": "Governance and management",
+     "level": 0
+    },
+    {
+     "text": "Business strategy and IT strategy",
+     "level": 0
+    },
+    {
+     "text": "Internal delegation of responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Business drivers for IT Governance",
+     "level": 0
+    },
+    {
+     "text": "Pain points and trigger events",
+     "level": 0
+    },
+    {
+     "text": "Governance of IT and governance within IT",
+     "level": 0
+    },
+    {
+     "text": "Components for good IT Governance",
+     "level": 0
+    },
+    {
+     "text": "Enterprise architecture",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "IT Governance Objectives and Risks",
+   "items": [
+    {
+     "text": "Alignment of IT objectives to business objectives",
+     "level": 0
+    },
+    {
+     "text": "Risks, threats, and vulnerabilities",
+     "level": 0
+    },
+    {
+     "text": "IT risk management",
+     "level": 0
+    },
+    {
+     "text": "IT value optimization risks",
+     "level": 0
+    },
+    {
+     "text": "IT project delivery risks",
+     "level": 0
+    },
+    {
+     "text": "IT operations and service delivery risks",
+     "level": 0
+    },
+    {
+     "text": "Risk appetite and risk tolerance",
+     "level": 0
+    },
+    {
+     "text": "Quantitative and qualitative assessments",
+     "level": 0
+    },
+    {
+     "text": "Risk response strategies",
+     "level": 0
+    },
+    {
+     "text": "Key risk indicators",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "IT Governance and IT Management Processes",
+   "items": [
+    {
+     "text": "IT value optimization",
+     "level": 0
+    },
+    {
+     "text": "IT risk management",
+     "level": 0
+    },
+    {
+     "text": "IT resource management",
+     "level": 0
+    },
+    {
+     "text": "Decision making",
+     "level": 0
+    },
+    {
+     "text": "Portfolio management",
+     "level": 0
+    },
+    {
+     "text": "Budgets and costs",
+     "level": 0
+    },
+    {
+     "text": "Vendor management",
+     "level": 0
+    },
+    {
+     "text": "Cyber security",
+     "level": 0
+    },
+    {
+     "text": "Data governance",
+     "level": 0
+    },
+    {
+     "text": "Business continuity and disaster recovery",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "IT Resources",
+   "items": [
+    {
+     "text": "Demand management",
+     "level": 0
+    },
+    {
+     "text": "Capacity management",
+     "level": 0
+    },
+    {
+     "text": "Human Resources",
+     "level": 0
+    },
+    {
+     "text": "Outsourcing, external delegation of responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Service Level Agreements (SLAs) and Operational Level Agreements (OLAs)",
+     "level": 0
+    },
+    {
+     "text": "Cloud computing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Culture and Change Management",
+   "items": [
+    {
+     "text": "Culture and barriers",
+     "level": 0
+    },
+    {
+     "text": "Organizational behavior",
+     "level": 0
+    },
+    {
+     "text": "Controlled changes",
+     "level": 0
+    },
+    {
+     "text": "Projects and organizational transition from one state to another",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Data and Information Management",
+   "items": [
+    {
+     "text": "Information lifecycle",
+     "level": 0
+    },
+    {
+     "text": "Data retention",
+     "level": 0
+    },
+    {
+     "text": "Data classification",
+     "level": 0
+    },
+    {
+     "text": "Data protection",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Monitoring and Assurance",
+   "items": [
+    {
+     "text": "Metrics and dashboards",
+     "level": 0
+    },
+    {
+     "text": "Key performance indicators (KPIs)",
+     "level": 0
+    },
+    {
+     "text": "3 lines model",
+     "level": 0
+    },
+    {
+     "text": "Oversight and assurance functions",
+     "level": 0
+    },
+    {
+     "text": "Assurance on process outcome",
+     "level": 0
+    },
+    {
+     "text": "Assurance on process execution",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

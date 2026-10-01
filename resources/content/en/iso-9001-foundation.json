@@ -1,0 +1,175 @@
+{
+ "title": "ISO 9001 Foundation",
+ "duration": "3 Days",
+ "overview": [
+  "The ISO 9001 Foundation course provides an introduction to the ISO 9001 standard for Quality Management Systems (QMS). This course covers the fundamental principles and requirements of ISO 9001, including the structure of the standard and its application in establishing and maintaining an effective quality management system. It prepares participants to understand ISO 9001 requirements and supports their preparation for the ISO 9001 Foundation certification exam."
+ ],
+ "audience": [
+  "Quality managers and quality assurance professionals.",
+  "Process owners and team leaders involved in quality management.",
+  "Individuals responsible for implementing and maintaining quality management systems.",
+  "Professionals seeking to gain foundational knowledge in ISO 9001."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanation of ISO 9001 principles, requirements, and processes.",
+  "Hands-On Labs: Practical exercises to apply ISO 9001 concepts.",
+  "Case Studies: Analysis of real-world scenarios and application of ISO 9001 principles.",
+  "Group Discussions: Interactive sessions to explore quality management challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "ISO 9001 principles and requirements",
+  "Quality management system structure and processes",
+  "Implementation and maintenance of ISO 9001",
+  "Continuous improvement and risk management in quality management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of the ISO 9001 standard and its requirements.",
+  "To develop skills for implementing and maintaining a quality management system based on ISO 9001.",
+  "To prepare participants for the ISO 9001 Foundation certification exam.",
+  "To equip participants with techniques for ensuring quality and continuous improvement in their organization."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to ISO 9001",
+   "items": [
+    {
+     "text": "Overview of ISO 9001 Standard",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Importance of Quality Management Systems",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Terminology",
+     "level": 0
+    },
+    {
+     "text": "Structure and Clauses of ISO 9001",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. ISO 9001 Principles",
+   "items": [
+    {
+     "text": "Understanding the 7 Quality Management Principles",
+     "level": 0
+    },
+    {
+     "text": "Customer Focus",
+     "level": 0
+    },
+    {
+     "text": "Leadership",
+     "level": 0
+    },
+    {
+     "text": "Engagement of People",
+     "level": 0
+    },
+    {
+     "text": "Process Approach",
+     "level": 0
+    },
+    {
+     "text": "Improvement",
+     "level": 0
+    },
+    {
+     "text": "Evidence-Based Decision Making",
+     "level": 0
+    },
+    {
+     "text": "Relationship Management",
+     "level": 0
+    },
+    {
+     "text": "Applying Principles to Quality Management Systems",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Requirements of ISO 9001",
+   "items": [
+    {
+     "text": "Context of the Organization: Understanding Organizational Context and Stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Leadership: Leadership and Commitment in Quality Management",
+     "level": 0
+    },
+    {
+     "text": "Planning: Risk and Opportunity Management, Quality Objectives, and Planning",
+     "level": 0
+    },
+    {
+     "text": "Support: Resources, Competence, Awareness, Communication, and Documentation",
+     "level": 0
+    },
+    {
+     "text": "Operation: Planning and Control of Operations",
+     "level": 0
+    },
+    {
+     "text": "Performance Evaluation: Monitoring, Measurement, Analysis, and Evaluation",
+     "level": 0
+    },
+    {
+     "text": "Improvement: Nonconformity and Corrective Action, Continuous Improvement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Implementing ISO 9001",
+   "items": [
+    {
+     "text": "Developing a Quality Management System Based on ISO 9001",
+     "level": 0
+    },
+    {
+     "text": "Implementing ISO 9001 Requirements in Organizational Processes",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Effective Documentation and Record Keeping",
+     "level": 0
+    },
+    {
+     "text": "Conducting Internal Audits and Management Reviews",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Maintaining and Improving ISO 9001",
+   "items": [
+    {
+     "text": "Techniques for Maintaining an Effective Quality Management System",
+     "level": 0
+    },
+    {
+     "text": "Approaches for Continuous Improvement",
+     "level": 0
+    },
+    {
+     "text": "Managing Change and Addressing Nonconformities",
+     "level": 0
+    },
+    {
+     "text": "Preparing for External Audits and Certification",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Quality & Process Management Courses.docx"
+}

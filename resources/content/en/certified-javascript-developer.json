@@ -1,0 +1,185 @@
+{
+ "title": "Certified JavaScript Developer",
+ "duration": "3 Days",
+ "overview": [
+  "The Certified JavaScript Developer course is designed to provide a comprehensive understanding of JavaScript programming, including its core concepts, advanced features, and application in web development. This course prepares participants for the Certified JavaScript Developer exam by covering essential JavaScript skills, best practices, and modern development techniques."
+ ],
+ "audience": [
+  "Web developers and programmers seeking to enhance their JavaScript skills.",
+  "IT professionals preparing for the Certified JavaScript Developer certification exam.",
+  "Individuals looking to specialize in JavaScript for front-end or back-end development.",
+  "Anyone interested in mastering JavaScript programming and best practices."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of JavaScript concepts, syntax, and features.",
+  "Hands-On Labs: Practical coding exercises and projects to apply JavaScript skills.",
+  "Case Studies: Real-world scenarios to understand JavaScript application in various contexts.",
+  "Group Discussions: Interactive sessions to explore JavaScript development challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "JavaScript fundamentals and syntax",
+  "Advanced JavaScript features and patterns",
+  "Web development with JavaScript frameworks and libraries",
+  "Debugging, testing, and performance optimization"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of JavaScript programming and its modern features.",
+  "To prepare participants for the Certified JavaScript Developer exam.",
+  "To equip learners with practical skills for developing, debugging, and optimizing JavaScript applications.",
+  "To familiarize participants with best practices and advanced JavaScript techniques."
+ ],
+ "outline": [
+  {
+   "title": "1. JavaScript Fundamentals",
+   "items": [
+    {
+     "text": "Introduction to JavaScript and Its Role in Web Development",
+     "level": 0
+    },
+    {
+     "text": "Understanding JavaScript Syntax and Data Types",
+     "level": 0
+    },
+    {
+     "text": "Working with Variables, Operators, and Control Structures",
+     "level": 0
+    },
+    {
+     "text": "Functions and Scope (Local, Global, Lexical)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Advanced JavaScript Concepts",
+   "items": [
+    {
+     "text": "Object-Oriented Programming with JavaScript (Objects, Prototypes, Inheritance)",
+     "level": 0
+    },
+    {
+     "text": "Functional Programming Concepts (First-Class Functions, Closures)",
+     "level": 0
+    },
+    {
+     "text": "Asynchronous JavaScript (Callbacks, Promises, Async/Await)",
+     "level": 0
+    },
+    {
+     "text": "Error Handling and Debugging Techniques",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. JavaScript for Web Development",
+   "items": [
+    {
+     "text": "Working with the Document Object Model (DOM)",
+     "level": 0
+    },
+    {
+     "text": "Event Handling and Event Delegation",
+     "level": 0
+    },
+    {
+     "text": "JavaScript and AJAX (Asynchronous Data Fetching)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to JavaScript Frameworks (React, Angular, Vue)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. JavaScript and APIs",
+   "items": [
+    {
+     "text": "Making API Requests with Fetch and XMLHttpRequest",
+     "level": 0
+    },
+    {
+     "text": "Consuming RESTful APIs and Handling JSON Data",
+     "level": 0
+    },
+    {
+     "text": "Using GraphQL APIs",
+     "level": 0
+    },
+    {
+     "text": "Integrating Third-Party Libraries and Services",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Modern JavaScript Tools and Practices",
+   "items": [
+    {
+     "text": "Understanding ES6+ Features (Arrow Functions, Template Literals, Destructuring)",
+     "level": 0
+    },
+    {
+     "text": "Using Build Tools and Task Runners (Webpack, Babel, npm)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Code Quality Tools (Linters, Formatters)",
+     "level": 0
+    },
+    {
+     "text": "Version Control with Git",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Testing and Performance Optimization",
+   "items": [
+    {
+     "text": "Writing Unit Tests with JavaScript Testing Frameworks (Jest, Mocha)",
+     "level": 0
+    },
+    {
+     "text": "Performance Optimization Techniques (Debouncing, Throttling, Minification)",
+     "level": 0
+    },
+    {
+     "text": "Profiling and Analyzing JavaScript Performance",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Writing Efficient and Maintainable Code",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Security and Best Practices",
+   "items": [
+    {
+     "text": "Implementing Security Best Practices in JavaScript (XSS, CSRF Protection)",
+     "level": 0
+    },
+    {
+     "text": "Code Security and Vulnerability Scanning",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Secure and Robust JavaScript Applications",
+     "level": 0
+    },
+    {
+     "text": "Accessibility Considerations and Inclusive Design",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Coding & Programming Courses.docx"
+}

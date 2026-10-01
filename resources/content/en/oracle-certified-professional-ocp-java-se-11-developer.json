@@ -1,0 +1,206 @@
+{
+ "title": "Oracle Certified Professional (OCP) – Java SE 11 Developer",
+ "duration": "5 Days",
+ "overview": [
+  "The Oracle Certified Professional (OCP) – Java SE 11 Developer course is designed to provide in-depth knowledge of Java SE 11 features and best practices. This course prepares participants for the OCP certification exam by covering core Java SE 11 programming concepts, advanced features, and development techniques."
+ ],
+ "audience": [
+  "Java developers looking to advance their skills and certification.",
+  "IT professionals preparing for the OCP Java SE 11 certification exam.",
+  "Software engineers and programmers who want to deepen their Java knowledge.",
+  "Individuals interested in learning advanced Java programming techniques and best practices."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Comprehensive explanations of Java SE 11 features and programming concepts.",
+  "Hands-On Labs: Practical exercises for coding, debugging, and optimizing Java applications.",
+  "Case Studies: Real-world scenarios to apply Java SE 11 concepts and techniques.",
+  "Group Discussions: Interactive sessions to explore Java development challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to gauge understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Java SE 11 programming and syntax",
+  "Advanced Java SE 11 features and APIs",
+  "Object-oriented design and best practices",
+  "Debugging, testing, and performance optimization"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of Java SE 11 features and programming techniques.",
+  "To prepare participants for the Oracle Certified Professional (OCP) – Java SE 11 Developer exam.",
+  "To equip learners with practical skills for developing, debugging, and optimizing Java applications.",
+  "To familiarize participants with best practices and advanced Java programming concepts."
+ ],
+ "outline": [
+  {
+   "title": "1. Java SE 11 Fundamentals",
+   "items": [
+    {
+     "text": "Overview of Java SE 11 and New Features",
+     "level": 0
+    },
+    {
+     "text": "Understanding Java Language Basics and Syntax",
+     "level": 0
+    },
+    {
+     "text": "Working with Java Data Types, Operators, and Control Statements",
+     "level": 0
+    },
+    {
+     "text": "Handling Exceptions and Error Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Advanced Java SE 11 Features",
+   "items": [
+    {
+     "text": "Introduction to Java Modules and Project Jigsaw",
+     "level": 0
+    },
+    {
+     "text": "Working with Local-Variable Type Inference (var)",
+     "level": 0
+    },
+    {
+     "text": "Using Lambda Expressions and Streams",
+     "level": 0
+    },
+    {
+     "text": "Exploring New APIs (e.g., HTTP Client API, Collection API Enhancements)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Object-Oriented Programming in Java",
+   "items": [
+    {
+     "text": "Designing and Implementing Classes and Objects",
+     "level": 0
+    },
+    {
+     "text": "Inheritance, Polymorphism, and Encapsulation",
+     "level": 0
+    },
+    {
+     "text": "Working with Interfaces and Abstract Classes",
+     "level": 0
+    },
+    {
+     "text": "Applying Design Patterns and Principles",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Java I/O and NIO",
+   "items": [
+    {
+     "text": "Understanding Java I/O Streams (File I/O, Object I/O)",
+     "level": 0
+    },
+    {
+     "text": "Working with Java NIO (Buffers, Channels, Files)",
+     "level": 0
+    },
+    {
+     "text": "Using Path, File, and Directory Operations",
+     "level": 0
+    },
+    {
+     "text": "Handling I/O Exceptions and Resources",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Concurrency and Multithreading",
+   "items": [
+    {
+     "text": "Implementing Threads and Runnable Interface",
+     "level": 0
+    },
+    {
+     "text": "Synchronization and Concurrency Utilities",
+     "level": 0
+    },
+    {
+     "text": "Understanding Executors, Callable, and Future",
+     "level": 0
+    },
+    {
+     "text": "Managing Thread Safety and Performance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Java Collections Framework",
+   "items": [
+    {
+     "text": "Working with Collections (List, Set, Map)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Collection Implementations and Interfaces",
+     "level": 0
+    },
+    {
+     "text": "Using Generics and Type Safety in Collections",
+     "level": 0
+    },
+    {
+     "text": "Applying Collection Algorithms and Utilities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Java Database Connectivity (JDBC)",
+   "items": [
+    {
+     "text": "Overview of JDBC and Database Operations",
+     "level": 0
+    },
+    {
+     "text": "Connecting to Databases and Executing SQL Queries",
+     "level": 0
+    },
+    {
+     "text": "Handling Result Sets and Transactions",
+     "level": 0
+    },
+    {
+     "text": "Using Data Source and Connection Pooling",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Java Security and Best Practices",
+   "items": [
+    {
+     "text": "Implementing Java Security Features (Encryption, Authentication)",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Secure Coding and Application Development",
+     "level": 0
+    },
+    {
+     "text": "Performance Optimization and Profiling Techniques",
+     "level": 0
+    },
+    {
+     "text": "Debugging and Testing Java Applications",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Coding & Programming Courses.docx"
+}

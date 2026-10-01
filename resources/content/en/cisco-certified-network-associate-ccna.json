@@ -1,0 +1,164 @@
+{
+ "title": "Cisco Certified Network Associate (CCNA)",
+ "duration": "5 Days",
+ "overview": [
+  "The Cisco Certified Network Associate (CCNA) course provides foundational knowledge and skills required to manage and operate small to medium-sized networks. It covers a wide range of networking topics, including network fundamentals, IP connectivity, network access, security, and automation. This course prepares participants for the CCNA (200-301) certification exam."
+ ],
+ "audience": [
+  "Network engineers and administrators.",
+  "IT professionals and support staff.",
+  "Individuals seeking to start a career in networking.",
+  "Students and learners aiming for foundational networking knowledge and Cisco certification."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanations of Cisco networking concepts and technologies.",
+  "Hands-On Labs: Practical exercises for configuring and troubleshooting Cisco network devices.",
+  "Case Studies: Real-world scenarios to apply networking knowledge and skills.",
+  "Group Discussions: Interactive sessions to explore network challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Network fundamentals and Cisco device configuration",
+  "IP addressing and routing protocols",
+  "Network access and security",
+  "Network automation and programmability"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of Cisco networking technologies and principles.",
+  "To develop practical skills in configuring and troubleshooting Cisco network devices.",
+  "To prepare participants for the Cisco Certified Network Associate (CCNA) certification exam.",
+  "To familiarize participants with real-world networking scenarios and solutions."
+ ],
+ "outline": [
+  {
+   "title": "1. Network Fundamentals",
+   "items": [
+    {
+     "text": "Understanding Network Basics (OSI Model, TCP/IP Model)",
+     "level": 0
+    },
+    {
+     "text": "Identifying Network Devices and Their Functions (Routers, Switches, Hubs)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Network Topologies and Architectures",
+     "level": 0
+    },
+    {
+     "text": "Exploring IP Addressing and Subnetting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. IP Connectivity",
+   "items": [
+    {
+     "text": "Configuring and Verifying IPv4 and IPv6 Addressing",
+     "level": 0
+    },
+    {
+     "text": "Implementing Static and Dynamic Routing Protocols (RIP, OSPF, EIGRP)",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting IP Connectivity Issues",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Configuring NAT (Network Address Translation)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Network Access",
+   "items": [
+    {
+     "text": "Configuring and Managing VLANs (Virtual LANs) and Trunking",
+     "level": 0
+    },
+    {
+     "text": "Implementing Spanning Tree Protocol (STP) and EtherChannel",
+     "level": 0
+    },
+    {
+     "text": "Configuring Access Control Lists (ACLs) and Port Security",
+     "level": 0
+    },
+    {
+     "text": "Implementing Wireless LAN (WLAN) Access and Security",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. IP Services",
+   "items": [
+    {
+     "text": "Configuring DHCP (Dynamic Host Configuration Protocol) and DNS (Domain Name System)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Network Time Protocol (NTP)",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Configuring QoS (Quality of Service)",
+     "level": 0
+    },
+    {
+     "text": "Managing and Troubleshooting IP Services",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Network Security",
+   "items": [
+    {
+     "text": "Implementing Network Security Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Configuring and Managing Security Features (Firewall, VPN)",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Preventing Network Attacks (Denial of Service, Man-in-the-Middle)",
+     "level": 0
+    },
+    {
+     "text": "Securing Network Devices and Access",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Automation and Programmability",
+   "items": [
+    {
+     "text": "Understanding Network Automation Concepts and Benefits",
+     "level": 0
+    },
+    {
+     "text": "Implementing Cisco DNA (Digital Network Architecture)",
+     "level": 0
+    },
+    {
+     "text": "Using Cisco APIs and Network Programmability Tools",
+     "level": 0
+    },
+    {
+     "text": "Exploring Network Automation with Python and Ansible",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}

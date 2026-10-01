@@ -1,0 +1,242 @@
+{
+ "title": "Go and Gin",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides a comprehensive introduction to Go (Golang) and its powerful web framework Gin, enabling participants to build high-performance, scalable, and secure web applications and APIs. Through hands-on projects, participants will learn Go programming fundamentals, how to develop RESTful APIs, implement middleware, authentication, database integration, and deploy production-ready applications using Gin."
+ ],
+ "audience": [
+  "Software Developers looking to learn Go for web development",
+  "Backend Developers interested in high-performance API development",
+  "Full-Stack Developers who want to expand their skill set with Go",
+  "DevOps Engineers working with microservices and cloud applications",
+  "Students & Professionals seeking a career in modern web development"
+ ],
+ "methodology": [
+  "Hands-on Coding Labs – Writing Go applications with Gin from scratch",
+  "Live Demonstrations – Implementing real-world use cases",
+  "Case Studies & Best Practices – Learning from industry scenarios",
+  "Collaborative Learning – Group discussions and peer reviews",
+  "Capstone Project – Developing a fully functional API with Go and Gin"
+ ],
+ "competencies": [
+  "Go Programming Language Fundamentals",
+  "Building Web Applications using the Gin Framework",
+  "Developing RESTful APIs with Go and Gin",
+  "Middleware Implementation and API Security",
+  "Database Integration using GORM (Go ORM)",
+  "Deploying Scalable Go Applications in Production"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the fundamentals of Go and the Gin framework",
+  "Build web applications and RESTful APIs using Gin",
+  "Implement authentication, middleware, and security best practices",
+  "Work with databases using GORM and SQL",
+  "Optimize and deploy high-performance web applications with Gin"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Go & Web Development",
+   "items": [
+    {
+     "text": "What is Go? – Overview, Features, and Benefits",
+     "level": 0
+    },
+    {
+     "text": "Setting up the Go Development Environment",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Go Syntax, Data Types, and Control Structures",
+     "level": 0
+    },
+    {
+     "text": "Functions, Pointers, and Structs in Go",
+     "level": 0
+    },
+    {
+     "text": "Understanding Go’s Concurrency Model (Goroutines, Channels)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Getting Started with the Gin Framework",
+   "items": [
+    {
+     "text": "What is Gin? – Features and Benefits",
+     "level": 0
+    },
+    {
+     "text": "Setting up a Gin Project in Go",
+     "level": 0
+    },
+    {
+     "text": "Understanding Gin’s Router and HTTP Methods",
+     "level": 0
+    },
+    {
+     "text": "Handling Requests, Responses, and Query Parameters",
+     "level": 0
+    },
+    {
+     "text": "Working with JSON Data & Serialization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Middleware & Request Handling in Gin",
+   "items": [
+    {
+     "text": "What is Middleware? Built-in vs. Custom Middleware",
+     "level": 0
+    },
+    {
+     "text": "Logging & Error Handling with Gin",
+     "level": 0
+    },
+    {
+     "text": "Implementing Authentication Middleware (JWT, OAuth2)",
+     "level": 0
+    },
+    {
+     "text": "Managing CORS (Cross-Origin Resource Sharing)",
+     "level": 0
+    },
+    {
+     "text": "Rate Limiting and Performance Optimization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: RESTful API Development with Gin",
+   "items": [
+    {
+     "text": "Designing RESTful APIs using Gin",
+     "level": 0
+    },
+    {
+     "text": "Handling CRUD Operations (Create, Read, Update, Delete)",
+     "level": 0
+    },
+    {
+     "text": "Structuring Large-Scale APIs with Modular Architecture",
+     "level": 0
+    },
+    {
+     "text": "Implementing API Versioning",
+     "level": 0
+    },
+    {
+     "text": "Writing Unit & Integration Tests for APIs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Database Integration with GORM",
+   "items": [
+    {
+     "text": "Introduction to GORM – Go’s ORM Library",
+     "level": 0
+    },
+    {
+     "text": "Connecting Gin to SQLite, PostgreSQL, MySQL",
+     "level": 0
+    },
+    {
+     "text": "Performing CRUD Operations with GORM",
+     "level": 0
+    },
+    {
+     "text": "Handling Database Relationships (One-to-One, One-to-Many, Many-to-Many)",
+     "level": 0
+    },
+    {
+     "text": "Using Migrations & Transactions in GORM",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Authentication & Security in Gin",
+   "items": [
+    {
+     "text": "Implementing JWT Authentication in Gin",
+     "level": 0
+    },
+    {
+     "text": "Using OAuth2 for Social Login (Google, GitHub, Facebook)",
+     "level": 0
+    },
+    {
+     "text": "Protecting APIs with Role-Based Access Control (RBAC)",
+     "level": 0
+    },
+    {
+     "text": "Securing Web Applications from SQL Injection, XSS, and CSRF",
+     "level": 0
+    },
+    {
+     "text": "Handling Error Responses and API Security Best Practices",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Advanced Features in Gin",
+   "items": [
+    {
+     "text": "Working with WebSockets in Gin for Real-Time Communication",
+     "level": 0
+    },
+    {
+     "text": "Implementing File Uploads & Streaming Responses",
+     "level": 0
+    },
+    {
+     "text": "Using Sessions & Cookies in Gin Applications",
+     "level": 0
+    },
+    {
+     "text": "Caching Strategies for High-Performance APIs",
+     "level": 0
+    },
+    {
+     "text": "Debugging & Performance Profiling in Go",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Deploying & Scaling Gin Applications",
+   "items": [
+    {
+     "text": "Preparing a Go Application for Production",
+     "level": 0
+    },
+    {
+     "text": "Deploying Gin Applications on Docker, Kubernetes, AWS, and DigitalOcean",
+     "level": 0
+    },
+    {
+     "text": "Setting up Reverse Proxy with Nginx",
+     "level": 0
+    },
+    {
+     "text": "Using CI/CD Pipelines for Go Applications",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and Logging in Production Environments",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

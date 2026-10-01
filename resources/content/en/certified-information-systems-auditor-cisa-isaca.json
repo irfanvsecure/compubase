@@ -1,0 +1,143 @@
+{
+ "title": "Certified Information Systems Auditor (CISA) – ISACA",
+ "duration": "5 Days",
+ "overview": [
+  "The Certified Information Systems Auditor (CISA) course is designed to provide comprehensive knowledge and skills required for auditing, controlling, and assessing information systems. This course prepares participants for the CISA certification exam by covering key domains related to information systems auditing, control, and governance."
+ ],
+ "audience": [
+  "IT auditors and security professionals.",
+  "System and network administrators involved in auditing and compliance.",
+  "IT managers and consultants interested in information systems auditing.",
+  "Individuals preparing for the CISA certification exam."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of CISA concepts and domains.",
+  "Hands-On Labs: Practical exercises for auditing and assessing information systems.",
+  "Case Studies: Real-world scenarios to apply CISA concepts and solutions.",
+  "Group Discussions: Interactive sessions to explore auditing challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to measure understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Information systems auditing and control",
+  "IT governance and management",
+  "Risk management and assessment",
+  "Compliance and audit methodologies"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of information systems auditing principles and practices.",
+  "To prepare participants for the CISA certification exam.",
+  "To equip learners with practical skills for auditing and assessing information systems.",
+  "To familiarize participants with best practices and advanced concepts in information systems auditing and control."
+ ],
+ "outline": [
+  {
+   "title": "1. The Process of Auditing Information Systems",
+   "items": [
+    {
+     "text": "Understanding the Role and Responsibilities of an IS Auditor",
+     "level": 0
+    },
+    {
+     "text": "Planning and Conducting Audits of Information Systems",
+     "level": 0
+    },
+    {
+     "text": "Designing and Implementing Audit Programs",
+     "level": 0
+    },
+    {
+     "text": "Collecting, Analyzing, and Reporting Audit Evidence",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Governance and Management of IT",
+   "items": [
+    {
+     "text": "Understanding IT Governance Frameworks and Best Practices",
+     "level": 0
+    },
+    {
+     "text": "Evaluating IT Management and Organizational Structures",
+     "level": 0
+    },
+    {
+     "text": "Assessing IT Policies, Procedures, and Compliance",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Role of IT Governance in Risk Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Information Systems Acquisition, Development, and Implementation",
+   "items": [
+    {
+     "text": "Evaluating IT Project Management and Development Practices",
+     "level": 0
+    },
+    {
+     "text": "Assessing System Development Life Cycle (SDLC) Processes",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Role of Auditing in System Implementation",
+     "level": 0
+    },
+    {
+     "text": "Reviewing Controls for Software Development and Acquisition",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Information Systems Operations, Maintenance, and Support",
+   "items": [
+    {
+     "text": "Evaluating IT Operations and Service Management",
+     "level": 0
+    },
+    {
+     "text": "Assessing System Maintenance and Support Practices",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Role of Auditing in IT Operations",
+     "level": 0
+    },
+    {
+     "text": "Reviewing IT Support and Incident Management Processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Protection of Information Assets",
+   "items": [
+    {
+     "text": "Understanding Information Security and Risk Management",
+     "level": 0
+    },
+    {
+     "text": "Evaluating Controls for Information Security and Data Protection",
+     "level": 0
+    },
+    {
+     "text": "Assessing Network and System Security Measures",
+     "level": 0
+    },
+    {
+     "text": "Reviewing Disaster Recovery and Business Continuity Planning",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cyber Security Courses.docx"
+}

@@ -1,0 +1,197 @@
+{
+ "title": "Generative AI for IT Leaders",
+ "duration": "5 Days",
+ "overview": [
+  "This training course is designed to equip IT leaders with a deep understanding of generative AI technologies, their applications, and strategic implementation within organizations. The course will cover AI fundamentals, ethical considerations, use cases, governance, and how to drive AI transformation effectively. IT leaders will gain insights into how generative AI can enhance productivity, decision-making, and innovation while ensuring responsible adoption."
+ ],
+ "audience": [
+  "This course is ideal for:",
+  "Chief Information Officers (CIOs)",
+  "Chief Technology Officers (CTOs)",
+  "IT Directors and IT Managers",
+  "Digital Transformation Leaders",
+  "AI & Data Strategy Leaders",
+  "Enterprise Architects",
+  "IT Consultants and Business Analysts"
+ ],
+ "methodology": [
+  "Instructor-led sessions (Virtual or In-person)",
+  "Hands-on demonstrations using AI tools",
+  "Case studies & real-world applications",
+  "Group discussions & brainstorming",
+  "Interactive workshops & exercises",
+  "Panel discussions with industry experts",
+  "Capstone project: AI strategy roadmap for an enterprise"
+ ],
+ "competencies": [
+  "Upon completing this course, participants will develop competencies in:",
+  "Understanding the fundamentals and impact of generative AI",
+  "Evaluating and selecting AI solutions for business needs",
+  "Strategic planning for AI adoption in IT environments",
+  "Ensuring ethical and responsible AI deployment",
+  "Managing AI risks, security, and governance",
+  "Leading AI-driven transformation initiatives"
+ ],
+ "objectivesIntro": [
+  "By the end of this course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain key generative AI concepts and how they apply to IT leadership.",
+  "Assess AI-driven opportunities for business and IT operations.",
+  "Develop AI strategies aligned with enterprise goals.",
+  "Mitigate risks related to data privacy, security, and bias in AI systems.",
+  "Lead AI initiatives and communicate their value to stakeholders.",
+  "Implement governance frameworks to manage AI projects responsibly.",
+  "Leverage generative AI tools for productivity and innovation."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI",
+   "items": [
+    {
+     "text": "Definition and evolution of generative AI",
+     "level": 0
+    },
+    {
+     "text": "Overview of AI, machine learning, and deep learning",
+     "level": 0
+    },
+    {
+     "text": "Key generative AI models (GPT, DALL·E, BERT, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Business value and impact of generative AI",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Generative AI Use Cases for IT Leaders",
+   "items": [
+    {
+     "text": "AI in software development and DevOps",
+     "level": 0
+    },
+    {
+     "text": "AI for IT service management and automation",
+     "level": 0
+    },
+    {
+     "text": "AI in cybersecurity and threat detection",
+     "level": 0
+    },
+    {
+     "text": "AI-powered decision support systems",
+     "level": 0
+    },
+    {
+     "text": "Case studies of successful AI implementations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Strategic AI Adoption for IT Organizations",
+   "items": [
+    {
+     "text": "Identifying business problems solvable by AI",
+     "level": 0
+    },
+    {
+     "text": "Evaluating AI readiness and infrastructure",
+     "level": 0
+    },
+    {
+     "text": "Aligning AI with business strategy and IT roadmap",
+     "level": 0
+    },
+    {
+     "text": "Building an AI-first organizational culture",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: AI Ethics, Risks, and Governance",
+   "items": [
+    {
+     "text": "Understanding AI bias, fairness, and transparency",
+     "level": 0
+    },
+    {
+     "text": "Legal and regulatory considerations (GDPR, AI Act, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Ethical AI frameworks and responsible AI practices",
+     "level": 0
+    },
+    {
+     "text": "Governance models for AI oversight and accountability",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: AI Tools and Technologies for IT Leaders",
+   "items": [
+    {
+     "text": "Overview of enterprise AI platforms (Open-AI, Google AI, Microsoft AI, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Hands-on with generative AI tools for productivity",
+     "level": 0
+    },
+    {
+     "text": "Integrating AI into IT workflows and automation pipelines",
+     "level": 0
+    },
+    {
+     "text": "AI security best practices and risk mitigation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Driving AI Innovation and Change Management",
+   "items": [
+    {
+     "text": "Managing AI adoption in IT teams",
+     "level": 0
+    },
+    {
+     "text": "Overcoming resistance and fostering AI literacy",
+     "level": 0
+    },
+    {
+     "text": "Measuring AI project success and ROI",
+     "level": 0
+    },
+    {
+     "text": "Future trends in AI and IT leadership",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Capstone Project: AI Strategy Roadmap for an Enterprise",
+   "items": [
+    {
+     "text": "Developing a generative AI strategy for a real or hypothetical company",
+     "level": 1
+    },
+    {
+     "text": "Presenting an AI roadmap to stakeholders",
+     "level": 1
+    },
+    {
+     "text": "Peer feedback and instructor evaluation",
+     "level": 1
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

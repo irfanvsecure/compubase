@@ -1,0 +1,164 @@
+{
+ "title": "PRINCE2 Agile – AXELOS",
+ "duration": "5 Days",
+ "overview": [
+  "The PRINCE2 Agile certification course combines the PRINCE2 project management methodology with Agile practices to create a flexible and adaptive approach to project management. This course covers the principles of PRINCE2 and Agile, their integration, and practical application for managing Agile projects effectively. It is designed for professionals who want to manage projects with both structured project management and Agile practices."
+ ],
+ "audience": [
+  "Project managers and team leaders using PRINCE2 and Agile methodologies.",
+  "Agile practitioners looking to integrate Agile practices with PRINCE2.",
+  "Professionals involved in project management who want to enhance their skills with a hybrid approach.",
+  "Individuals preparing for the PRINCE2 Agile certification exam."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanations of PRINCE2 and Agile principles.",
+  "Hands-On Labs: Practical exercises to apply PRINCE2 Agile concepts.",
+  "Case Studies: Analysis of projects that integrate PRINCE2 and Agile practices.",
+  "Group Discussions: Interactive sessions to explore integration techniques and challenges.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "PRINCE2 methodology and principles",
+  "Agile practices and frameworks",
+  "Integration of PRINCE2 with Agile approaches",
+  "Project management and delivery using a hybrid approach"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of PRINCE2 and Agile methodologies.",
+  "To develop skills in integrating PRINCE2 with Agile practices for flexible project management.",
+  "To prepare participants for the PRINCE2 Agile certification exam.",
+  "To equip participants with techniques for managing Agile projects within the PRINCE2 framework."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to PRINCE2 and Agile",
+   "items": [
+    {
+     "text": "Overview of PRINCE2 Methodology and Principles",
+     "level": 0
+    },
+    {
+     "text": "Overview of Agile Principles and Practices",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Challenges of Combining PRINCE2 with Agile",
+     "level": 0
+    },
+    {
+     "text": "Understanding PRINCE2 Agile Concept and Approach",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. PRINCE2 Agile Integration",
+   "items": [
+    {
+     "text": "Integrating Agile Practices with PRINCE2 Processes",
+     "level": 0
+    },
+    {
+     "text": "Customizing PRINCE2 Themes for Agile Environments",
+     "level": 0
+    },
+    {
+     "text": "Adapting PRINCE2 Roles and Responsibilities for Agile Teams",
+     "level": 0
+    },
+    {
+     "text": "Using Agile Techniques for PRINCE2 Project Controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Agile Techniques and Frameworks",
+   "items": [
+    {
+     "text": "Overview of Agile Frameworks (Scrum, Kanban, Lean)",
+     "level": 0
+    },
+    {
+     "text": "Agile Planning and Estimation Techniques",
+     "level": 0
+    },
+    {
+     "text": "Implementing Agile Ceremonies (Daily Standups, Sprint Planning, Reviews)",
+     "level": 0
+    },
+    {
+     "text": "Agile Tools and Techniques for PRINCE2 Projects",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Managing Projects with PRINCE2 Agile",
+   "items": [
+    {
+     "text": "Developing Agile Project Plans and Roadmaps within PRINCE2",
+     "level": 0
+    },
+    {
+     "text": "Managing Agile Backlogs and Iterations",
+     "level": 0
+    },
+    {
+     "text": "Handling Change Requests and Managing Scope",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Continuous Improvement and Delivery in Agile Projects",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. PRINCE2 Agile Roles and Responsibilities",
+   "items": [
+    {
+     "text": "Understanding the Role of the Agile Project Manager",
+     "level": 0
+    },
+    {
+     "text": "Defining Responsibilities of Agile Team Members within PRINCE2",
+     "level": 0
+    },
+    {
+     "text": "Engaging with Stakeholders and Managing Expectations",
+     "level": 0
+    },
+    {
+     "text": "Facilitating Effective Communication and Collaboration",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. PRINCE2 Agile Case Studies and Best Practices",
+   "items": [
+    {
+     "text": "Analyzing Real-World Case Studies of PRINCE2 Agile Projects",
+     "level": 0
+    },
+    {
+     "text": "Identifying Best Practices for Integrating PRINCE2 and Agile",
+     "level": 0
+    },
+    {
+     "text": "Addressing Common Challenges and Solutions",
+     "level": 0
+    },
+    {
+     "text": "Lessons Learned and Continuous Improvement in PRINCE2 Agile Projects",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Agile Management Courses.docx"
+}

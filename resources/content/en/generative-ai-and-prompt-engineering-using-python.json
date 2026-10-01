@@ -1,0 +1,270 @@
+{
+ "title": "Generative AI and Prompt Engineering using Python",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides an in-depth understanding of Generative AI and Prompt Engineering, focusing on Large Language Models (LLMs) like GPT (Chat-GPT), Claude, LLa-MA, and Gemini and image-generation models like Stable Diffusion and DALL·E. Participants will learn how to leverage Python and AI frameworks to fine-tune AI models, craft effective prompts, and integrate AI-driven solutions into real-world applications.",
+  "The course combines theory, hands-on exercises, and practical case studies to help learners master generative AI techniques, including text generation, image creation, and AI-powered chatbots."
+ ],
+ "audience": [
+  "This course is designed for:",
+  "Software Developers & Engineers looking to integrate AI-powered automation.",
+  "Data Scientists & ML Engineers seeking hands-on experience in generative AI.",
+  "AI Enthusiasts & Researchers exploring AI model fine-tuning and deployment.",
+  "Product Managers & Business Leaders leveraging AI for content and process automation.",
+  "Marketers, Content Creators & Designers using AI for text and image generation."
+ ],
+ "methodology": [
+  "The training follows a practical and interactive approach, including:",
+  "Instructor-led lectures & demonstrations – Conceptual understanding with examples.",
+  "Live coding sessions – Real-time implementation of generative AI techniques.",
+  "Hands-on exercises & mini-projects – Practical applications using Python.",
+  "Case studies & industry use cases – AI in business, marketing, and automation.",
+  "Group discussions & Q&A sessions – Collaborative learning and peer interactions.",
+  "Capstone project – Real-world AI application deployment."
+ ],
+ "competencies": [
+  "By completing this course, participants will develop skills in:",
+  "Understanding Generative AI & Large Language Models (LLMs).",
+  "Building & Fine-Tuning AI Models using Python frameworks (Hugging Face, OpenAI API).",
+  "Mastering Prompt Engineering for effective AI interaction.",
+  "Generating AI-driven Content (text, images, and audio).",
+  "Deploying AI-powered Applications (chatbots, automation tools).",
+  "Addressing Ethical Challenges in generative AI (bias, misinformation)."
+ ],
+ "objectivesIntro": [
+  "Upon completing the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the fundamentals of Generative AI and Prompt Engineering.",
+  "Utilize Python-based AI frameworks (Hugging Face, Open AI, Lang Chain) for AI development.",
+  "Design effective prompts for text and image generation.",
+  "Build custom AI chatbots and automation tools.",
+  "Implement AI-generated content solutions for text, images, and code generation.",
+  "Deploy AI models in real-world applications."
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Generative AI",
+   "items": [
+    {
+     "text": "What is Generative AI?",
+     "level": 0
+    },
+    {
+     "text": "Evolution of AI: From rule-based systems to LLMs.",
+     "level": 0
+    },
+    {
+     "text": "Applications of Generative AI (text, images, audio, video).",
+     "level": 0
+    },
+    {
+     "text": "Ethical considerations and risks in Generative AI.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Fundamentals of Large Language Models (LLMs)",
+   "items": [
+    {
+     "text": "Understanding LLMs (GPT, Claude, Gemini, LLaMA).",
+     "level": 0
+    },
+    {
+     "text": "How Transformers Work (Self-Attention & Tokenization).",
+     "level": 0
+    },
+    {
+     "text": "Fine-tuning vs. Prompt Engineering: Which one to use?",
+     "level": 0
+    },
+    {
+     "text": "APIs vs. Open-Source AI Models (OpenAI, Meta, Hugging Face).",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Introduction to Prompt Engineering",
+   "items": [
+    {
+     "text": "What is Prompt Engineering?",
+     "level": 0
+    },
+    {
+     "text": "Principles of crafting effective prompts.",
+     "level": 0
+    },
+    {
+     "text": "Types of prompts: Instruction-based, Chain-of-Thought, Zero-Shot, Few-Shot.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Writing basic prompts for text generation.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Advanced Prompt Engineering Techniques",
+   "items": [
+    {
+     "text": "Techniques for better AI responses (Context, Examples, Role-based prompting).",
+     "level": 0
+    },
+    {
+     "text": "Optimizing AI-generated content (reducing hallucinations).",
+     "level": 0
+    },
+    {
+     "text": "AI-powered reasoning & task execution (multi-step prompting).",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Creating prompts for summarization, translation, and storytelling.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Text Generation and NLP with Generative AI",
+   "items": [
+    {
+     "text": "AI-based text generation for blogs, scripts, and reports.",
+     "level": 0
+    },
+    {
+     "text": "Automating customer support with AI-driven responses.",
+     "level": 0
+    },
+    {
+     "text": "AI-powered content rewriting & paraphrasing.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building an AI-powered email generator.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: AI Image Generation and Stable Diffusion",
+   "items": [
+    {
+     "text": "Understanding AI Image Models (DALL·E, Stable Diffusion).",
+     "level": 0
+    },
+    {
+     "text": "Text-to-Image generation using Python APIs.",
+     "level": 0
+    },
+    {
+     "text": "Enhancing AI-generated images (Inpainting & Out-painting).",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Generating AI-powered marketing visuals.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: AI-Powered Chatbots using Python & LangChain",
+   "items": [
+    {
+     "text": "Introduction to AI chatbots and Lang-Chain.",
+     "level": 0
+    },
+    {
+     "text": "Integrating LLMs with APIs for chatbot development.",
+     "level": 0
+    },
+    {
+     "text": "Memory and conversation tracking in AI models.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Building a chatbot using Open-AI’s API & Python.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Automating Workflows with AI",
+   "items": [
+    {
+     "text": "Automating tasks using AI (emails, reports, document analysis).",
+     "level": 0
+    },
+    {
+     "text": "AI-powered code generation & debugging.",
+     "level": 0
+    },
+    {
+     "text": "Voice-to-Text & Text-to-Speech with AI models.",
+     "level": 0
+    },
+    {
+     "text": "Hands-on: Automating a business workflow with AI.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Ethics, Bias, and Responsible AI Use",
+   "items": [
+    {
+     "text": "Identifying AI bias and hallucinations.",
+     "level": 0
+    },
+    {
+     "text": "AI misuse and misinformation risks.",
+     "level": 0
+    },
+    {
+     "text": "Ensuring fairness and accountability in AI.",
+     "level": 0
+    },
+    {
+     "text": "Best practices for deploying responsible AI models.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Deploying AI Models & Final Capstone Project",
+   "items": [
+    {
+     "text": "Deploying AI models in real-world applications.",
+     "level": 0
+    },
+    {
+     "text": "Using Flask & Fast-API for AI model deployment.",
+     "level": 0
+    },
+    {
+     "text": "Hosting AI solutions on cloud platforms (AWS, Azure, GCP).",
+     "level": 0
+    },
+    {
+     "text": "Capstone Project: Building and deploying a generative AI application",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Prerequisites",
+   "order": "iii",
+   "paras": [],
+   "items": [
+    "Basic Python programming knowledge.",
+    "Familiarity with Machine Learning & Deep Learning (optional but beneficial).",
+    "Understanding of APIs & cloud-based AI tools (recommended)."
+   ]
+  }
+ ],
+ "file": "IT COURSES - Generative AI Courses.docx"
+}

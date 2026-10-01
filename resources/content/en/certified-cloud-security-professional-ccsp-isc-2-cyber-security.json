@@ -1,0 +1,164 @@
+{
+ "title": "Certified Cloud Security Professional (CCSP) – (ISC)²",
+ "duration": "5 Days",
+ "overview": [
+  "The Certified Cloud Security Professional (CCSP) course is designed to provide advanced knowledge and skills in cloud security practices and principles. This course prepares participants for the CCSP certification exam by covering critical areas such as cloud architecture, governance, risk management, and compliance."
+ ],
+ "audience": [
+  "IT and security professionals specializing in cloud computing and security.",
+  "Cloud architects, engineers, and administrators.",
+  "Individuals preparing for the CCSP certification exam.",
+  "Professionals seeking to deepen their understanding of cloud security practices."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of CCSP concepts and cloud security practices.",
+  "Hands-On Labs: Practical exercises for implementing and managing cloud security measures.",
+  "Case Studies: Real-world scenarios to apply CCSP concepts and solutions.",
+  "Group Discussions: Interactive sessions to explore cloud security challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Cloud architecture and design",
+  "Cloud security governance and compliance",
+  "Risk management and security operations",
+  "Cloud data protection and privacy"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of cloud security principles and practices.",
+  "To prepare participants for the CCSP certification exam.",
+  "To equip learners with practical skills for managing and securing cloud environments.",
+  "To familiarize participants with best practices and advanced concepts in cloud security."
+ ],
+ "outline": [
+  {
+   "title": "1. Cloud Concepts, Architecture, and Design",
+   "items": [
+    {
+     "text": "Understanding Cloud Computing Models (IaaS, PaaS, SaaS)",
+     "level": 0
+    },
+    {
+     "text": "Evaluating Cloud Deployment Models (Public, Private, Hybrid)",
+     "level": 0
+    },
+    {
+     "text": "Designing Secure Cloud Architectures and Solutions",
+     "level": 0
+    },
+    {
+     "text": "Implementing Cloud Service and Delivery Models",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Cloud Data Security",
+   "items": [
+    {
+     "text": "Implementing Data Classification and Handling Controls",
+     "level": 0
+    },
+    {
+     "text": "Understanding Data Encryption and Key Management",
+     "level": 0
+    },
+    {
+     "text": "Managing Cloud Data Privacy and Compliance",
+     "level": 0
+    },
+    {
+     "text": "Securing Data at Rest, in Transit, and in Use",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Cloud Platform and Infrastructure Security",
+   "items": [
+    {
+     "text": "Securing Cloud Infrastructure Components (Compute, Network, Storage)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Controls for Virtualization and Containers",
+     "level": 0
+    },
+    {
+     "text": "Managing Cloud Platform Security and Configuration",
+     "level": 0
+    },
+    {
+     "text": "Understanding Cloud Security Operations and Incident Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Cloud Application Security",
+   "items": [
+    {
+     "text": "Securing Cloud-Based Applications and Services",
+     "level": 0
+    },
+    {
+     "text": "Implementing Secure Software Development Lifecycle (SDLC) Practices",
+     "level": 0
+    },
+    {
+     "text": "Evaluating Application Security Risks and Vulnerabilities",
+     "level": 0
+    },
+    {
+     "text": "Managing Cloud Application Identity and Access Controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Cloud Security Governance, Risk, and Compliance",
+   "items": [
+    {
+     "text": "Understanding Cloud Security Governance Frameworks",
+     "level": 0
+    },
+    {
+     "text": "Conducting Cloud Risk Assessments and Management",
+     "level": 0
+    },
+    {
+     "text": "Implementing Compliance and Regulatory Requirements (GDPR, HIPAA, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Developing and Managing Cloud Security Policies and Procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Cloud Security Operations",
+   "items": [
+    {
+     "text": "Managing Cloud Security Operations and Incident Response",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Monitoring and Logging in Cloud Environments",
+     "level": 0
+    },
+    {
+     "text": "Conducting Security Audits and Assessments in Cloud Platforms",
+     "level": 0
+    },
+    {
+     "text": "Understanding Cloud Service Provider Security Responsibilities and SLAs",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cyber Security Courses.docx"
+}

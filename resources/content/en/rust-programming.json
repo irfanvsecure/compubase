@@ -1,0 +1,285 @@
+{
+ "title": "Rust Programming",
+ "duration": "5 Days",
+ "overview": [
+  "This course introduces Rust, a systems programming language designed for speed, memory safety, and concurrency without sacrificing performance. Participants will learn the core features of Rust, including ownership, borrowing, lifetime, concurrency, and error handling. By the end of the course, learners will be able to develop efficient and safe applications using Rust, addressing the needs of both low-level systems programming and high-performance applications."
+ ],
+ "audience": [
+  "Aspiring Systems Programmers",
+  "Developers transitioning from languages like C, C++, or Python",
+  "Software Engineers focusing on performance and memory safety",
+  "Engineers building performance-critical or concurrent applications",
+  "Developers looking to learn modern, safe systems programming"
+ ],
+ "methodology": [
+  "Hands-on Coding Exercises – Practical labs with real-world projects",
+  "Live Demonstrations – Step-by-step development and debugging",
+  "Collaborative Learning – Pair programming and peer reviews",
+  "Case Studies & Best Practices – Solutions to common systems programming challenges",
+  "Capstone Project – Building a performance-critical application using Rust"
+ ],
+ "competencies": [
+  "Core Rust concepts: ownership, borrowing, and lifetimes",
+  "Concurrency and multi-threading in Rust",
+  "Efficient memory management using Rust's borrowing system",
+  "Writing safe and performant code with Rust",
+  "Error handling and working with Result and Option types",
+  "Building command-line tools and applications"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Write safe, efficient, and concurrent code using Rust",
+  "Understand and apply Rust’s ownership, borrowing, and lifetime rules",
+  "Develop applications with concurrency and multi-threading",
+  "Work with Rust's memory management model",
+  "Build and debug Rust applications using the Rust toolchain",
+  "Implement error handling, testing, and debugging techniques in Rust"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Rust",
+   "items": [
+    {
+     "text": "Overview of Rust’s features and comparison with other programming languages",
+     "level": 0
+    },
+    {
+     "text": "Installing Rust and setting up the development environment (Rustup, Cargo, and VS Code)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Cargo: Rust’s package manager and build system",
+     "level": 0
+    },
+    {
+     "text": "Creating your first Rust application (Hello, World!)",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Rust community and resources",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Variables, Data Types, and Functions",
+   "items": [
+    {
+     "text": "Rust’s variable binding, mutability, and constants",
+     "level": 0
+    },
+    {
+     "text": "Core data types: integers, floating point, booleans, strings, tuples, and arrays",
+     "level": 0
+    },
+    {
+     "text": "Working with functions, parameters, and return types",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Rust’s ownership system and its impact on variable management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Control Flow and Patterns",
+   "items": [
+    {
+     "text": "Rust's conditional statements (if, match, loops)",
+     "level": 0
+    },
+    {
+     "text": "Using match expressions for pattern matching",
+     "level": 0
+    },
+    {
+     "text": "Rust’s powerful pattern matching with enums and struct patterns",
+     "level": 0
+    },
+    {
+     "text": "The importance of Rust’s match arms exhaustiveness checking",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Ownership, Borrowing, and Lifetimes",
+   "items": [
+    {
+     "text": "Detailed understanding of ownership and borrowing in Rust",
+     "level": 0
+    },
+    {
+     "text": "The concept of references: immutable and mutable",
+     "level": 0
+    },
+    {
+     "text": "Managing lifetimes to avoid dangling references",
+     "level": 0
+    },
+    {
+     "text": "Working with the Rust borrow checker",
+     "level": 0
+    },
+    {
+     "text": "Ownership rules and how they ensure memory safety without garbage collection",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Structs, Enums, and Error Handling",
+   "items": [
+    {
+     "text": "Creating and using structs in Rust",
+     "level": 0
+    },
+    {
+     "text": "Defining and pattern matching with enums",
+     "level": 0
+    },
+    {
+     "text": "Handling Option and Result types for safe error management",
+     "level": 0
+    },
+    {
+     "text": "Rust’s error handling best practices using match statements",
+     "level": 0
+    },
+    {
+     "text": "Writing custom error types using the Error trait",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Concurrency in Rust",
+   "items": [
+    {
+     "text": "Introduction to concurrency concepts in Rust",
+     "level": 0
+    },
+    {
+     "text": "Rust’s concurrency model: ownership, borrowing, and threads",
+     "level": 0
+    },
+    {
+     "text": "Using threads for multi-threading in Rust",
+     "level": 0
+    },
+    {
+     "text": "Channels for message passing between threads",
+     "level": 0
+    },
+    {
+     "text": "Rust’s async/await model for asynchronous programming",
+     "level": 0
+    },
+    {
+     "text": "Synchronization with mutexes and atomic operations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Collections and Iterators",
+   "items": [
+    {
+     "text": "Working with Rust’s standard collections: vectors, hash maps, and strings",
+     "level": 0
+    },
+    {
+     "text": "The power of iterators in Rust for efficient data manipulation",
+     "level": 0
+    },
+    {
+     "text": "Using lazily evaluated iterators for performance",
+     "level": 0
+    },
+    {
+     "text": "Exploring Rust’s iterator patterns for complex data processing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Advanced Rust Topics",
+   "items": [
+    {
+     "text": "Traits and generics for creating flexible and reusable code",
+     "level": 0
+    },
+    {
+     "text": "Smart pointers in Rust: Box, Rc, and Arc",
+     "level": 0
+    },
+    {
+     "text": "Understanding unsafe Rust for performance-critical sections",
+     "level": 0
+    },
+    {
+     "text": "Memory management and manual allocations in Rust",
+     "level": 0
+    },
+    {
+     "text": "Writing efficient low-level system programming code",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Testing and Debugging in Rust",
+   "items": [
+    {
+     "text": "Writing and running unit tests using the #[test] attribute",
+     "level": 0
+    },
+    {
+     "text": "Using Rust’s testing framework to ensure code quality",
+     "level": 0
+    },
+    {
+     "text": "Debugging Rust applications using gdb and Rust’s built-in debugger",
+     "level": 0
+    },
+    {
+     "text": "Benchmarking and profiling Rust code for performance optimization",
+     "level": 0
+    },
+    {
+     "text": "Structuring and organizing tests for larger applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 10: Building and Deploying Rust Applications",
+   "items": [
+    {
+     "text": "Using Cargo to manage dependencies and build your project",
+     "level": 0
+    },
+    {
+     "text": "Writing and deploying command-line tools and applications in Rust",
+     "level": 0
+    },
+    {
+     "text": "Cross-compiling Rust applications for different architectures",
+     "level": 0
+    },
+    {
+     "text": "Deploying Rust applications on cloud services and servers",
+     "level": 0
+    },
+    {
+     "text": "Preparing a Rust app for production deployment",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

@@ -1,0 +1,263 @@
+{
+ "title": "Apache Spark using Databricks",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides an in-depth understanding of Apache Spark and its implementation within Databricks, a cloud-based platform for big data analytics and AI workloads. Participants will learn Spark's architecture, DataFrames, SQL, structured streaming, machine learning with MLlib, and performance optimizations while leveraging Databricks' collaborative and scalable environment. Hands-on labs will enable participants to efficiently build data processing pipelines, optimize Spark jobs, and deploy scalable applications."
+ ],
+ "audience": [
+  "Data Engineers looking to build scalable data pipelines",
+  "Data Scientists using Spark for large-scale ML workloads",
+  "Big Data Analysts working with large datasets",
+  "Cloud Engineers handling distributed computing and data processing",
+  "Software Developers integrating Spark into enterprise applications",
+  "Business Intelligence Professionals leveraging Spark for analytics"
+ ],
+ "methodology": [
+  "Hands-on Labs – Running Apache Spark on Databricks Notebooks",
+  "Live Demonstrations – Implementing real-world big data workflows",
+  "Use Case Studies – Applying Spark & Databricks in business scenarios",
+  "Collaborative Learning – Group discussions and problem-solving sessions",
+  "Capstone Project – Developing an end-to-end data pipeline in Databricks"
+ ],
+ "competencies": [
+  "Apache Spark Architecture & Databricks Environment",
+  "Data Processing with Spark RDDs, DataFrames & SQL",
+  "Distributed Computing and Cluster Optimization in Databricks",
+  "Building Machine Learning Models with Spark MLlib",
+  "Performance Optimization & Debugging in Databricks",
+  "Real-Time Data Processing using Spark Streaming"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Apache Spark’s core architecture and execution model",
+  "Work with Databricks Notebooks for interactive data analysis",
+  "Implement PySpark & Scala-based transformations and aggregations",
+  "Use Spark SQL for large-scale structured data processing",
+  "Optimize Spark Jobs for performance & scalability in Databricks",
+  "Deploy machine learning models using Spark MLlib",
+  "Handle real-time streaming data with Structured Streaming",
+  "Develop production-grade Spark applications in Databricks"
+ ],
+ "outline": [
+  {
+   "title": "Module 1: Introduction to Apache Spark & Databricks",
+   "items": [
+    {
+     "text": "Overview of Big Data, Apache Spark & Distributed Computing",
+     "level": 0
+    },
+    {
+     "text": "What is Databricks? – Features, Architecture, and Use Cases",
+     "level": 0
+    },
+    {
+     "text": "Setting up a Databricks Workspace & Cluster",
+     "level": 0
+    },
+    {
+     "text": "Navigating Databricks Notebooks and Collaborative Workflows",
+     "level": 0
+    },
+    {
+     "text": "PySpark vs Scala – Choosing the Right Language for Spark",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Apache Spark Core Concepts",
+   "items": [
+    {
+     "text": "Understanding Spark Architecture & Execution Model",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Spark RDDs (Resilient Distributed Datasets)",
+     "level": 0
+    },
+    {
+     "text": "Transformations & Actions – How Spark Processes Data",
+     "level": 0
+    },
+    {
+     "text": "Data Partitioning & Parallel Processing in Spark",
+     "level": 0
+    },
+    {
+     "text": "Fault Tolerance & Lazy Evaluation in Spark",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Working with DataFrames and Spark SQL",
+   "items": [
+    {
+     "text": "Introduction to DataFrames – Schema & Data Loading",
+     "level": 0
+    },
+    {
+     "text": "Performing Data Manipulation & Transformation",
+     "level": 0
+    },
+    {
+     "text": "Querying DataFrames with Spark SQL",
+     "level": 0
+    },
+    {
+     "text": "Optimizing SQL Queries using Catalyst Optimizer",
+     "level": 0
+    },
+    {
+     "text": "Using Joins, Aggregations & Window Functions in Spark",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Advanced Data Engineering with Apache Spark",
+   "items": [
+    {
+     "text": "ETL Pipelines in Databricks – Data Extraction, Transformation, and Loading",
+     "level": 0
+    },
+    {
+     "text": "Partitioning, Bucketing & Caching Strategies for Performance",
+     "level": 0
+    },
+    {
+     "text": "Handling JSON, Parquet, CSV, and Avro File Formats",
+     "level": 0
+    },
+    {
+     "text": "Integration with Cloud Storage (AWS S3, Azure Blob, Google Cloud Storage)",
+     "level": 0
+    },
+    {
+     "text": "Managing Data Lake Architectures with Delta Lake",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 5: Machine Learning with Spark MLlib",
+   "items": [
+    {
+     "text": "Overview of MLlib and Distributed Machine Learning",
+     "level": 0
+    },
+    {
+     "text": "Feature Engineering & Data Preprocessing in Spark",
+     "level": 0
+    },
+    {
+     "text": "Training & Evaluating ML Models in Databricks",
+     "level": 0
+    },
+    {
+     "text": "Building ML Pipelines using Spark MLlib",
+     "level": 0
+    },
+    {
+     "text": "Hyperparameter Tuning & Model Optimization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 6: Real-Time Data Processing with Spark Streaming",
+   "items": [
+    {
+     "text": "Introduction to Structured Streaming in Spark",
+     "level": 0
+    },
+    {
+     "text": "Event-Driven Architecture – Processing Data in Real-Time",
+     "level": 0
+    },
+    {
+     "text": "Streaming Data Sources – Kafka, AWS Kinesis, Azure Event Hubs",
+     "level": 0
+    },
+    {
+     "text": "Handling Late Arriving & Out-of-Order Data in Streaming Pipelines",
+     "level": 0
+    },
+    {
+     "text": "Real-World Use Cases – Log Analytics, IoT Data Processing, Fraud Detection",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 7: Performance Optimization & Debugging in Spark",
+   "items": [
+    {
+     "text": "Understanding the Spark UI & Execution Plan",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Spark Jobs with Adaptive Query Execution (AQE)",
+     "level": 0
+    },
+    {
+     "text": "Best Practices for Memory Management & Shuffle Optimization",
+     "level": 0
+    },
+    {
+     "text": "Debugging Spark Applications & Handling Failures",
+     "level": 0
+    },
+    {
+     "text": "Performance Tuning in Databricks – Cluster Autoscaling & Caching Strategies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 8: Integrating Databricks with Cloud & Enterprise Applications",
+   "items": [
+    {
+     "text": "Connecting Spark to Relational Databases (PostgreSQL, MySQL, SQL Server)",
+     "level": 0
+    },
+    {
+     "text": "Reading/Writing Data to MongoDB, Cassandra, Elasticsearch",
+     "level": 0
+    },
+    {
+     "text": "Integrating Databricks with Apache Airflow for Workflow Automation",
+     "level": 0
+    },
+    {
+     "text": "Deploying Spark Workloads on AWS EMR, Azure Databricks, GCP Dataproc",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Module 9: Real-World Use Cases & Case Studies",
+   "items": [
+    {
+     "text": "ETL Workflows for Data Warehousing with Apache Spark",
+     "level": 0
+    },
+    {
+     "text": "Customer Segmentation using Spark MLlib",
+     "level": 0
+    },
+    {
+     "text": "Real-Time Analytics for Financial Data Processing",
+     "level": 0
+    },
+    {
+     "text": "Scaling Data Science Workflows in Databricks",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - AI & Data Science Courses.docx"
+}

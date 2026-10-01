@@ -1,0 +1,162 @@
+{
+ "duration": "5 أيام",
+ "overview": [
+  "صُمّمت دورة Microsoft Certified: Azure Developer Associate ‏(AZ-204) لتزويد المطوّرين بالمهارات اللازمة لتصميم التطبيقات والخدمات السحابية وبنائها واختبارها وصيانتها على Microsoft Azure. وتغطي هذه الدورة مجموعة من الموضوعات تشمل خدمات Azure، وأدوات التطوير، وأفضل الممارسات، لإعداد المشاركين لامتحان شهادة AZ-204."
+ ],
+ "audience": [
+  "مطوّرو البرمجيات والمهندسون العاملون مع Azure.",
+  "المطوّرون الساعون إلى إثبات مهاراتهم في تطوير تطبيقات Azure وصيانتها.",
+  "متخصصو تقنية المعلومات الراغبون في التخصص في التطوير على Azure.",
+  "الأفراد الذين يستعدون لامتحان شهادة Microsoft Certified: Azure Developer Associate ‏(AZ-204)."
+ ],
+ "methodology": [
+  "المحاضرات والعروض التقديمية: شروحات معمّقة لخدمات Azure وأدوات التطوير.",
+  "المختبرات العملية: تمارين تطبيقية لبناء التطبيقات ونشرها على Azure.",
+  "دراسات الحالة: سيناريوهات واقعية لتطبيق ممارسات التطوير على Azure.",
+  "النقاشات الجماعية: جلسات تفاعلية لاستكشاف تحديات التطوير على Azure وحلولها.",
+  "الاختبارات القصيرة والامتحانات التجريبية: تقييمات لقياس مستوى الفهم والجاهزية لامتحان الشهادة."
+ ],
+ "competencies": [
+  "التطوير والنشر على Azure",
+  "خدمات Azure وواجهات APIs",
+  "أمن التطبيقات ومراقبتها",
+  "Azure DevOps والتكامل المستمر"
+ ],
+ "objectivesIntro": [
+  "بنهاية الدورة، سيكون المشاركون قادرين على:"
+ ],
+ "objectives": [
+  "تقديم فهم شامل لتطوير التطبيقات على Microsoft Azure.",
+  "إعداد المشاركين لامتحان Microsoft Certified: Azure Developer Associate ‏(AZ-204).",
+  "تزويد المتعلمين بالمهارات العملية اللازمة لتصميم تطبيقات Azure وبنائها وإدارتها.",
+  "تعريف المشاركين بأدوات التطوير على Azure وأفضل الممارسات والاعتبارات الأمنية."
+ ],
+ "outline": [
+  {
+   "title": "1. التطوير لخدمات الحوسبة في Azure",
+   "items": [
+    {
+     "text": "نظرة عامة على خيارات الحوسبة في Azure ‏(Virtual Machines وApp Services وAzure Functions)",
+     "level": 0
+    },
+    {
+     "text": "تنفيذ Azure App Service وAzure Functions",
+     "level": 0
+    },
+    {
+     "text": "إدارة Azure App Services وAzure Functions ‏(التوسع والتهيئة)",
+     "level": 0
+    },
+    {
+     "text": "تطوير الحلول باستخدام Azure Kubernetes Service ‏(AKS)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. التطوير لخدمات التخزين في Azure",
+   "items": [
+    {
+     "text": "العمل مع Azure Blob Storage وQueue Storage وTable Storage",
+     "level": 0
+    },
+    {
+     "text": "تنفيذ الوصول إلى البيانات وإدارتها (عمليات CRUD)",
+     "level": 0
+    },
+    {
+     "text": "استخدام Azure Cosmos DB وAzure SQL Database",
+     "level": 0
+    },
+    {
+     "text": "التكامل مع Azure Cache for Redis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. تنفيذ الأمن في Azure",
+   "items": [
+    {
+     "text": "تنفيذ المصادقة والتفويض (Azure AD وOAuth)",
+     "level": 0
+    },
+    {
+     "text": "إدارة Key Vault للأسرار والشهادات",
+     "level": 0
+    },
+    {
+     "text": "تأمين بيانات التطبيقات والاتصالات",
+     "level": 0
+    },
+    {
+     "text": "تطبيق أفضل الممارسات الأمنية (أمن الشبكات وApplication Gateway)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. مراقبة حلول Azure واستكشاف أعطالها وتحسينها",
+   "items": [
+    {
+     "text": "تنفيذ المراقبة والتسجيل (Azure Monitor وApplication Insights)",
+     "level": 0
+    },
+    {
+     "text": "استكشاف أعطال تطبيقات Azure وخدماتها وإصلاحها",
+     "level": 0
+    },
+    {
+     "text": "أساليب ضبط الأداء وتحسينه",
+     "level": 0
+    },
+    {
+     "text": "تهيئة التنبيهات والإشعارات",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. ربط خدمات Azure ودمجها",
+   "items": [
+    {
+     "text": "تنفيذ البنية القائمة على الأحداث (Event Grid وService Bus)",
+     "level": 0
+    },
+    {
+     "text": "العمل مع Azure Logic Apps وAPI Management",
+     "level": 0
+    },
+    {
+     "text": "التكامل مع الخدمات وواجهات APIs الخارجية",
+     "level": 0
+    },
+    {
+     "text": "استخدام Azure Functions في سيناريوهات التكامل",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. تطوير حلول Azure باستخدام DevOps",
+   "items": [
+    {
+     "text": "تنفيذ مسارات التكامل المستمر والنشر المستمر (CI/CD)",
+     "level": 0
+    },
+    {
+     "text": "استخدام Azure DevOps لإدارة البناء والإصدارات",
+     "level": 0
+    },
+    {
+     "text": "إدارة التحكم في الشيفرة المصدرية باستخدام Git وAzure Repos",
+     "level": 0
+    },
+    {
+     "text": "أتمتة النشر باستخدام قوالب Azure Resource Manager ‏(ARM)",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

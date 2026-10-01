@@ -1,0 +1,164 @@
+{
+ "title": "Palo Alto Networks Certified Network Security Administrator (PCNSA)",
+ "duration": "5 Days",
+ "overview": [
+  "The Palo Alto Networks Certified Network Security Administrator (PCNSA) course provides foundational knowledge and skills necessary for the management of Palo Alto Networks next-generation firewalls. It covers the configuration, administration, and monitoring of Palo Alto Networks firewalls, as well as understanding key network security concepts and best practices."
+ ],
+ "audience": [
+  "Network and security administrators.",
+  "IT professionals responsible for managing firewall environments.",
+  "Individuals seeking to enhance their skills in network security with Palo Alto Networks technologies.",
+  "Students and learners aiming for certification in Palo Alto Networks network security."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanations of Palo Alto Networks firewall technologies and security concepts.",
+  "Hands-On Labs: Practical exercises for configuring and managing Palo Alto Networks firewalls.",
+  "Case Studies: Real-world scenarios to apply network security concepts and solutions.",
+  "Group Discussions: Interactive sessions to explore security challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Palo Alto Networks firewall configuration and management",
+  "Network security concepts and best practices",
+  "Security policy creation and management",
+  "Monitoring and troubleshooting Palo Alto Networks firewalls"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of Palo Alto Networks firewall technologies and administration.",
+  "To develop practical skills in configuring and managing Palo Alto Networks firewalls.",
+  "To prepare participants for the Palo Alto Networks Certified Network Security Administrator (PCNSA) certification exam.",
+  "To familiarize participants with real-world network security scenarios and best practices."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Palo Alto Networks Firewalls",
+   "items": [
+    {
+     "text": "Overview of Palo Alto Networks and Next-Generation Firewalls",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Architecture and Components of Palo Alto Networks Firewalls",
+     "level": 0
+    },
+    {
+     "text": "Introduction to the PAN-OS Operating System",
+     "level": 0
+    },
+    {
+     "text": "Key Features and Benefits of Palo Alto Networks Firewalls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Initial Firewall Configuration",
+   "items": [
+    {
+     "text": "Performing Initial Device Setup and Configuration",
+     "level": 0
+    },
+    {
+     "text": "Configuring Interfaces, Zones, and Virtual Routers",
+     "level": 0
+    },
+    {
+     "text": "Setting Up Basic Security Policies and NAT (Network Address Translation)",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Managing User Authentication and Identity Awareness",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Security Policies and Rule Configuration",
+   "items": [
+    {
+     "text": "Creating and Managing Security Policies",
+     "level": 0
+    },
+    {
+     "text": "Configuring Application and Content-Based Filtering",
+     "level": 0
+    },
+    {
+     "text": "Implementing Threat Prevention Features (Anti-Spyware, Anti-Virus, URL Filtering)",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Configuring Decryption and SSL/TLS Inspection",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Network and Security Services",
+   "items": [
+    {
+     "text": "Configuring Virtual Private Network (VPN) Connections (IPSec, SSL VPN)",
+     "level": 0
+    },
+    {
+     "text": "Implementing and Managing High Availability and Redundancy",
+     "level": 0
+    },
+    {
+     "text": "Setting Up and Configuring Logging and Reporting",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Implementing Quality of Service (QoS) and Traffic Shaping",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Monitoring and Troubleshooting",
+   "items": [
+    {
+     "text": "Using the Web Interface and CLI for Monitoring and Management",
+     "level": 0
+    },
+    {
+     "text": "Analyzing and Interpreting Logs and Reports",
+     "level": 0
+    },
+    {
+     "text": "Troubleshooting Common Issues and Error Scenarios",
+     "level": 0
+    },
+    {
+     "text": "Implementing Diagnostic Tools and Techniques",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Security Best Practices and Management",
+   "items": [
+    {
+     "text": "Implementing Security Best Practices and Hardening Techniques",
+     "level": 0
+    },
+    {
+     "text": "Managing Software Updates and Patches",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Configuring Security Profiles and Custom Signatures",
+     "level": 0
+    },
+    {
+     "text": "Preparing for Compliance and Security Audits",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}

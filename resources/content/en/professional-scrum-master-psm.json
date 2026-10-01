@@ -1,0 +1,164 @@
+{
+ "title": "Professional Scrum Master (PSM)",
+ "duration": "3 Days",
+ "overview": [
+  "The Professional Scrum Master (PSM) course is designed to provide participants with a deep understanding of Scrum and the role of a Scrum Master. It covers Scrum principles, roles, and practices, and emphasizes the development of skills necessary for facilitating Scrum teams and guiding Agile transformations. The course prepares participants for the PSM certification exam and provides practical insights for effective Scrum Mastery."
+ ],
+ "audience": [
+  "Scrum Masters and aspiring Scrum Masters.",
+  "Agile Coaches and Scrum Team members.",
+  "Project Managers and team leads involved in Scrum projects.",
+  "Professionals seeking advanced knowledge and certification in Scrum."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of Scrum concepts and practices.",
+  "Hands-On Labs: Practical exercises to apply Scrum principles in various scenarios.",
+  "Case Studies: Real-world examples and challenges of Scrum implementation.",
+  "Group Discussions: Interactive sessions to explore Scrum roles and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate readiness for the PSM certification exam"
+ ],
+ "competencies": [
+  "Scrum principles and framework",
+  "Role of the Scrum Master",
+  "Facilitation and coaching techniques",
+  "Scrum events, artifacts, and practices"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a thorough understanding of the Scrum framework and the role of the Scrum Master.",
+  "To develop skills for facilitating Scrum processes and coaching Scrum teams.",
+  "To prepare participants for the Professional Scrum Master (PSM) certification exam.",
+  "To equip participants with techniques for leading Agile transformations and managing Scrum projects."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Scrum",
+   "items": [
+    {
+     "text": "Overview of Agile and Scrum Principles",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Benefits of Scrum",
+     "level": 0
+    },
+    {
+     "text": "Comparison of Scrum with Other Agile Methodologies",
+     "level": 0
+    },
+    {
+     "text": "Scrum Framework and its Components",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Scrum Roles",
+   "items": [
+    {
+     "text": "Detailed Understanding of the Scrum Master Role",
+     "level": 0
+    },
+    {
+     "text": "Responsibilities and Skills of the Scrum Master",
+     "level": 0
+    },
+    {
+     "text": "Roles of the Product Owner and Scrum Team",
+     "level": 0
+    },
+    {
+     "text": "Interactions and Collaboration among Scrum Roles",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Scrum Events",
+   "items": [
+    {
+     "text": "Overview of Scrum Events: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective",
+     "level": 0
+    },
+    {
+     "text": "Purpose, Structure, and Best Practices for Each Event",
+     "level": 0
+    },
+    {
+     "text": "Facilitating Scrum Events Effectively",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Managing and Resolving Issues During Events",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Scrum Artifacts",
+   "items": [
+    {
+     "text": "Detailed Study of Scrum Artifacts: Product Backlog, Sprint Backlog, Increment",
+     "level": 0
+    },
+    {
+     "text": "Creating and Managing Backlogs",
+     "level": 0
+    },
+    {
+     "text": "Definition of Done and Its Role in Scrum",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Prioritizing and Estimating Work",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Scrum Mastery and Coaching",
+   "items": [
+    {
+     "text": "Techniques for Coaching and Mentoring Scrum Teams",
+     "level": 0
+    },
+    {
+     "text": "Building High-Performing Teams and Managing Team Dynamics",
+     "level": 0
+    },
+    {
+     "text": "Facilitating Team Collaboration and Conflict Resolution",
+     "level": 0
+    },
+    {
+     "text": "Engaging with Stakeholders and Promoting Scrum Values",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Advanced Scrum Topics",
+   "items": [
+    {
+     "text": "Scaling Scrum for Larger Projects and Organizations",
+     "level": 0
+    },
+    {
+     "text": "Implementing Scrum in Complex and Distributed Environments",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement and Adaptation in Scrum Practices",
+     "level": 0
+    },
+    {
+     "text": "Leading Agile Transformations and Managing Organizational Change",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Agile Management Courses.docx"
+}

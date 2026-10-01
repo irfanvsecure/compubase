@@ -1,0 +1,126 @@
+{
+ "title": "Certificate in Open-Source Intelligence (OSINT) Fundamentals",
+ "duration": "3 Days",
+ "overview": [
+  "Open-Source Intelligence (OSINT) can provide organizations with an insight into their digital footprint by utilizing the Internet to determine if any part of their organization or staff members are exposed; and thereby expedite decision making as part of their risk management process.",
+  "On this three-day National Cyber Security Center (NCSC) certified training course, participants will gain an understanding of what OSINT is and how to utilize it. Moreover, participants will learn how to efficiently collect, monitor, and analyze OSINT findings and present these to stakeholders."
+ ],
+ "audience": [
+  "This course is suitable for OSINT Investigators, Cyber Threat Intelligence Analysts, Financial Crimes Investigators, Human Resources Personnel, Insurance Investigators, Intelligence Personnel, Law Enforcement, Private Investigators and all Security Awareness Staff. It is also suitable for those in the IT field looking for an introduction to OSINT."
+ ],
+ "methodology": [
+  "This course uses a combination of presentations, group discussions, case studies and exercises based on real life situations."
+ ],
+ "competencies": [
+  "Legal Research",
+  "Privacy Laws",
+  "Data Protection",
+  "Intelligence and Analysis",
+  "Secure Operations and Incident Management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify definitions, meanings and the use of concepts and terms that are used in the OSINT field",
+  "Analyze their organization’s intelligence requirements",
+  "Develop an understanding of the intelligence lifecycle and the individual components contained within it",
+  "Apply advanced search engine techniques to optimize search results",
+  "Develop an awareness of some of the more common geolocation services available and how to exploit data from imagery for OSINT purposes",
+  "Explain the digital footprint that is left when using the Internet, the dangers associated, and how proper tradecraft can protect against counter surveillance",
+  "Comply with legal requirements and counter OSINT bias"
+ ],
+ "outline": [
+  {
+   "title": "Overview of Open-Source (OSINT) Intelligence",
+   "items": [
+    {
+     "text": "Identify definitions, meanings, and use of concepts and terms, that are used in the OSINT world",
+     "level": 0
+    },
+    {
+     "text": "The need for, and the benefits of, OSINT",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Intelligence Requirements",
+   "items": [
+    {
+     "text": "The organization’s intelligence requirements",
+     "level": 0
+    },
+    {
+     "text": "Where to find intelligence requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "The Intelligence Lifecycle",
+   "items": [
+    {
+     "text": "The intelligence lifecycle and the individual components contained within it",
+     "level": 0
+    },
+    {
+     "text": "The intelligence lifecycle requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Leveraging the Internet",
+   "items": [
+    {
+     "text": "How search engines work",
+     "level": 0
+    },
+    {
+     "text": "The value of data online",
+     "level": 0
+    },
+    {
+     "text": "Analysis of high-profile data breaches",
+     "level": 0
+    },
+    {
+     "text": "Using advanced search engine techniques and features to optimize search results",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Imagery Exploitation",
+   "items": [
+    {
+     "text": "Introduction to how geolocation works",
+     "level": 0
+    },
+    {
+     "text": "Common geolocation services available, and how to exploit data from imagery for OSINT purposes",
+     "level": 0
+    },
+    {
+     "text": "Protecting organization assets from imagery or geolocation services",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "OSINT Tradecraft",
+   "items": [
+    {
+     "text": "The digital footprint, the dangers associated, and protection against counter surveillance",
+     "level": 0
+    },
+    {
+     "text": "Legal compliance and counter OSINT bias",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Management & Cyber Security Courses.docx"
+}

@@ -1,0 +1,139 @@
+{
+ "title": "COBIT 2019 Foundation – ISACA",
+ "duration": "3 Days",
+ "overview": [
+  "The COBIT 2019 Foundation course provides a comprehensive introduction to the COBIT 2019 framework for managing and governing enterprise IT. This course covers the core principles, concepts, and practices of COBIT 2019, offering participants foundational knowledge in IT governance and management. It prepares individuals for the COBIT 2019 Foundation exam and equips them with the skills necessary to apply COBIT principles in their organizations."
+ ],
+ "audience": [
+  "IT professionals involved in IT governance and management.",
+  "IT auditors and consultants.",
+  "Risk management professionals and business leaders.",
+  "Individuals seeking the COBIT 2019 Foundation certification."
+ ],
+ "methodology": [
+  "Lectures and Presentations: In-depth explanation of COBIT 2019 principles and practices.",
+  "Hands-On Labs: Practical exercises to apply COBIT concepts.",
+  "Case Studies: Analysis of real-world scenarios using COBIT 2019.",
+  "Group Discussions: Interactive sessions to explore governance challenges and solutions.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "COBIT 2019 framework and components",
+  "IT governance and management principles",
+  "Risk management and compliance",
+  "Application of COBIT in various IT environments"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of the COBIT 2019 framework and its components.",
+  "To develop skills for applying COBIT principles in IT governance and management.",
+  "To prepare participants for the COBIT 2019 Foundation certification exam.",
+  "To equip participants with techniques for improving IT governance and management practices."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to COBIT 2019",
+   "items": [
+    {
+     "text": "Overview of COBIT 2019 Framework",
+     "level": 0
+    },
+    {
+     "text": "Benefits and Importance of IT Governance",
+     "level": 0
+    },
+    {
+     "text": "Key Concepts and Terminology",
+     "level": 0
+    },
+    {
+     "text": "Comparison with Previous COBIT Versions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. COBIT 2019 Framework Components",
+   "items": [
+    {
+     "text": "Governance System: Understanding the Governance System and Components",
+     "level": 0
+    },
+    {
+     "text": "Governance and Management Objectives: Detailed Study of Governance and Management Objectives",
+     "level": 0
+    },
+    {
+     "text": "Performance Management: Key Performance Indicators and Metrics",
+     "level": 0
+    },
+    {
+     "text": "Process Model: Overview of the COBIT 2019 Process Model",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. COBIT 2019 Principles",
+   "items": [
+    {
+     "text": "Principles for Governance and Management",
+     "level": 0
+    },
+    {
+     "text": "Aligning IT with Business Goals",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Effective Risk Management and Compliance",
+     "level": 0
+    },
+    {
+     "text": "Techniques for Performance Measurement and Improvement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Implementing COBIT 2019",
+   "items": [
+    {
+     "text": "Governance System Design: Designing and Implementing an Effective Governance System",
+     "level": 0
+    },
+    {
+     "text": "Governance System Components: Understanding the Components and Their Interactions",
+     "level": 0
+    },
+    {
+     "text": "Tailoring COBIT: Adapting COBIT 2019 to Specific Organizational Needs",
+     "level": 0
+    },
+    {
+     "text": "Continuous Improvement: Techniques for Ongoing Improvement and Adaptation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. COBIT 2019 Assessment and Evaluation",
+   "items": [
+    {
+     "text": "Assessment Methods: Techniques for Assessing IT Governance and Management",
+     "level": 0
+    },
+    {
+     "text": "Gap Analysis: Identifying and Addressing Gaps in Governance Practices",
+     "level": 0
+    },
+    {
+     "text": "Reporting and Communication: Effective Communication of Assessment Results",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Service Management Courses.docx"
+}

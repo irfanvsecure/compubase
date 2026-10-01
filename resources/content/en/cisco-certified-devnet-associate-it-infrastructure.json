@@ -1,0 +1,164 @@
+{
+ "title": "Cisco Certified DevNet Associate",
+ "duration": "5 Days",
+ "overview": [
+  "The Cisco Certified DevNet Associate (DevNet Associate) course is designed to provide foundational knowledge and skills in software development and automation using Cisco technologies. It covers network programmability, APIs, and automation concepts, focusing on how to integrate and automate network functions using Cisco's development tools and platforms."
+ ],
+ "audience": [
+  "Network engineers and developers interested in network automation.",
+  "IT professionals involved in network programmability and API integrations.",
+  "Individuals seeking to enhance their skills in Cisco's development and automation technologies.",
+  "Students and learners aiming for certification in network automation and programmability."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of Cisco DevNet concepts and technologies.",
+  "Hands-On Labs: Practical exercises for developing and automating network solutions using Cisco tools.",
+  "Case Studies: Real-world scenarios to apply development and automation skills.",
+  "Group Discussions: Interactive sessions to explore network programmability challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Network programmability and automation",
+  "API integration and usage",
+  "Cisco development tools and platforms",
+  "Software development fundamentals and practices"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a foundational understanding of network programmability and automation with Cisco technologies.",
+  "To develop practical skills in using Cisco's APIs, SDKs, and development tools.",
+  "To prepare participants for the Cisco Certified DevNet Associate (DevNet Associate) certification exam.",
+  "To equip participants with knowledge to design, develop, and implement network automation solutions."
+ ],
+ "outline": [
+  {
+   "title": "1. Software Development and Design",
+   "items": [
+    {
+     "text": "Understanding Software Development Lifecycle and Methodologies",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Programming Concepts and Languages (Python, REST APIs)",
+     "level": 0
+    },
+    {
+     "text": "Using Development Tools and Environments (IDEs, Version Control)",
+     "level": 0
+    },
+    {
+     "text": "Designing and Implementing Software Solutions for Network Automation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Understanding and Using APIs",
+   "items": [
+    {
+     "text": "Introduction to Application Programming Interfaces (APIs) and Web Services",
+     "level": 0
+    },
+    {
+     "text": "Working with RESTful APIs and JSON",
+     "level": 0
+    },
+    {
+     "text": "Using Cisco APIs and SDKs for Network Integration",
+     "level": 0
+    },
+    {
+     "text": "Implementing API Authentication and Security",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Network Programmability and Automation",
+   "items": [
+    {
+     "text": "Overview of Network Programmability Concepts and Benefits",
+     "level": 0
+    },
+    {
+     "text": "Using Cisco Network Automation Tools and Platforms (Cisco DNA, Cisco Meraki)",
+     "level": 0
+    },
+    {
+     "text": "Implementing Network Automation with Python and Ansible",
+     "level": 0
+    },
+    {
+     "text": "Integrating Network Devices and Services with Automation Scripts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Cisco Platforms and Tools",
+   "items": [
+    {
+     "text": "Introduction to Cisco DNA (Digital Network Architecture) and its Components",
+     "level": 0
+    },
+    {
+     "text": "Using Cisco DevNet Sandbox for Development and Testing",
+     "level": 0
+    },
+    {
+     "text": "Working with Cisco Meraki Dashboard and API",
+     "level": 0
+    },
+    {
+     "text": "Understanding Cisco UCS and Data Center Automation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Security and Compliance",
+   "items": [
+    {
+     "text": "Implementing Security Best Practices for Automation and API Integration",
+     "level": 0
+    },
+    {
+     "text": "Understanding and Managing Network Security Policies",
+     "level": 0
+    },
+    {
+     "text": "Ensuring Compliance with Regulatory and Organizational Requirements",
+     "level": 0
+    },
+    {
+     "text": "Implementing Data Protection and Privacy Measures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Troubleshooting and Optimization",
+   "items": [
+    {
+     "text": "Diagnosing and Resolving Issues in Network Automation Solutions",
+     "level": 0
+    },
+    {
+     "text": "Using Diagnostic Tools and Techniques for API and Script Debugging",
+     "level": 0
+    },
+    {
+     "text": "Optimizing Performance and Scalability of Automated Solutions",
+     "level": 0
+    },
+    {
+     "text": "Implementing Monitoring and Reporting for Automation Solutions",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}

@@ -1,0 +1,220 @@
+{
+ "title": "Certified Ethical Hacker (CEH) – EC-Council",
+ "duration": "5 Days",
+ "overview": [
+  "This course meets the standards of highly skilled security professionals by providing a comprehensive set of ethical hacking and network security skills, tools and methodologies. Participants will begin by understanding how perimeter defenses work and will be guided into scanning and attacking their own networks (no real network is harmed). They will then learn how intruders escalate privileges and what steps can be taken to secure their organization’s system. Participants will also gain in-depth knowledge on intrusion detection, policy creation, social engineering, Distributed Denial-of-Service (DDoS) attacks, buffer overflows and virus creation. This course will prepare all participants wishing to take the EC-Council ANSI accredited Certified Ethical Hacker exam 312-50."
+ ],
+ "audience": [
+  "IT professionals, security professionals, auditors, site administrators, general management and anyone tasked with managing and protecting the integrity of the network infrastructure. This also includes anyone already familiar and involved with IT/Cyber/Digital Security and seeking to build on their fundamental principles of security"
+ ],
+ "methodology": [
+  "Participants will be provided laptops and immersed into an interactive environment where they will be shown how to scan, test, hack and secure their own systems. This lab intensive environment gives each participant the opportunity to gain in-depth knowledge and practical experience with the current essential security systems."
+ ],
+ "competencies": [
+  "Ethical Hacking",
+  "Information security systems auditing",
+  "Cyber security",
+  "Cyber attack detection",
+  "Vulnerability assessment",
+  "Penetration testing"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Describe how perimeter defenses function by ethically scanning and attacking networks",
+  "Conduct information systems security audits by understanding the latest security threats, advanced attack vectors, hacking techniques, methodologies and security measures",
+  "Identify intruders, understand how they escalate privileges, and take the necessary steps to secure a system",
+  "Conduct vulnerability assessments, risk assessments, penetration testing, and system protection measures",
+  "Create policies and apply countermeasures against social engineering, Distributed Denial-ofService (DDoS) attacks, buffer overflows, and virus creation",
+  "Apply countermeasures to secure mobile infrastructure against the attacks to mobile platforms and tablet computers"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Ethical Hacking",
+   "items": [
+    {
+     "text": "Short History of hacking",
+     "level": 0
+    },
+    {
+     "text": "Current developments",
+     "level": 0
+    },
+    {
+     "text": "Evolution and growth",
+     "level": 0
+    },
+    {
+     "text": "What is an “Ethical” Hacker",
+     "level": 0
+    },
+    {
+     "text": "Types of hackers",
+     "level": 0
+    },
+    {
+     "text": "Hacking methodologies",
+     "level": 0
+    },
+    {
+     "text": "Key issues plaguing the information security world",
+     "level": 0
+    },
+    {
+     "text": "Penetration testing",
+     "level": 0
+    },
+    {
+     "text": "System fundamentals",
+     "level": 0
+    },
+    {
+     "text": "Incident management processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Identifying the systems at risk",
+   "items": [
+    {
+     "text": "Wireless networking",
+     "level": 0
+    },
+    {
+     "text": "Mobile platform security guidelines",
+     "level": 0
+    },
+    {
+     "text": "Mobile platform security tools",
+     "level": 0
+    },
+    {
+     "text": "Web servers",
+     "level": 0
+    },
+    {
+     "text": "Web applications",
+     "level": 0
+    },
+    {
+     "text": "Footprinting tools",
+     "level": 0
+    },
+    {
+     "text": "Footprinting reconnaissance",
+     "level": 0
+    },
+    {
+     "text": "Scanning networks",
+     "level": 0
+    },
+    {
+     "text": "Enumeration of services",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "System hacking techniques and countermeasures",
+   "items": [
+    {
+     "text": "Types of Trojans",
+     "level": 0
+    },
+    {
+     "text": "Working of viruses",
+     "level": 0
+    },
+    {
+     "text": "Computer worms",
+     "level": 0
+    },
+    {
+     "text": "Covert channels",
+     "level": 0
+    },
+    {
+     "text": "Sniffers",
+     "level": 0
+    },
+    {
+     "text": "Social engineering",
+     "level": 0
+    },
+    {
+     "text": "Denial of Service (DoS)",
+     "level": 0
+    },
+    {
+     "text": "Cryptography",
+     "level": 0
+    },
+    {
+     "text": "Public Key Infrastructure (PKI)",
+     "level": 0
+    },
+    {
+     "text": "Cryptanalysis tools",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Hacking your own system",
+   "items": [
+    {
+     "text": "Gaining access to a system",
+     "level": 0
+    },
+    {
+     "text": "Session hijacking",
+     "level": 0
+    },
+    {
+     "text": "Wireless hacking tools",
+     "level": 0
+    },
+    {
+     "text": "Hacking mobile platforms",
+     "level": 0
+    },
+    {
+     "text": "Structured Query Language (SQL) injection",
+     "level": 0
+    },
+    {
+     "text": "Evading an Intrusion Detection System (IDS)",
+     "level": 0
+    },
+    {
+     "text": "Firewalls",
+     "level": 0
+    },
+    {
+     "text": "Honeypots",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Penetration testing",
+   "items": [
+    {
+     "text": "Types of penetration testing",
+     "level": 0
+    },
+    {
+     "text": "Vulnerability assessment",
+     "level": 0
+    },
+    {
+     "text": "Penetration testing roadmap",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - Cyber Security Courses.docx"
+}

@@ -1,0 +1,185 @@
+{
+ "title": "CompTIA Network+",
+ "duration": "3 Days",
+ "overview": [
+  "The CompTIA Network+ certification course provides a thorough understanding of networking concepts and technologies. It is designed for individuals aiming to validate their knowledge and skills in network management, installation, and troubleshooting. The course covers essential networking topics and prepares participants for the Network+ (N10-008) certification exam."
+ ],
+ "audience": [
+  "IT professionals and network administrators.",
+  "Individuals seeking to start a career in network management.",
+  "Entry-level network engineers and support staff.",
+  "Students and learners aiming for foundational network knowledge."
+ ],
+ "methodology": [
+  "Lectures and Presentations: Detailed explanations of networking concepts and technologies.",
+  "Hands-On Labs: Practical exercises for configuring and troubleshooting network devices.",
+  "Case Studies: Real-world scenarios to apply networking knowledge and skills.",
+  "Group Discussions: Interactive sessions to explore network challenges and best practices.",
+  "Quizzes and Practice Exams: Assessments to evaluate understanding and readiness for the certification exam."
+ ],
+ "competencies": [
+  "Networking fundamentals and protocols",
+  "Network hardware and configuration",
+  "Network troubleshooting and management",
+  "Network security and best practices"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "To provide a comprehensive understanding of networking principles and technologies.",
+  "To develop practical skills in network installation, configuration, and troubleshooting.",
+  "To prepare participants for the CompTIA Network+ certification exam.",
+  "To familiarize participants with real-world network scenarios and solutions."
+ ],
+ "outline": [
+  {
+   "title": "1. Networking Concepts",
+   "items": [
+    {
+     "text": "Understanding Network Basics (OSI Model, TCP/IP Model)",
+     "level": 0
+    },
+    {
+     "text": "Exploring Network Types (LAN, WAN, MAN)",
+     "level": 0
+    },
+    {
+     "text": "Identifying Network Topologies and Architectures",
+     "level": 0
+    },
+    {
+     "text": "Understanding IP Addressing and Subnetting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Network Hardware",
+   "items": [
+    {
+     "text": "Identifying Network Devices and Their Functions (Routers, Switches, Hubs)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Cabling and Connectors (Ethernet, Fiber Optic)",
+     "level": 0
+    },
+    {
+     "text": "Configuring and Managing Network Hardware",
+     "level": 0
+    },
+    {
+     "text": "Implementing Network Ports and Protocols",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Network Configuration",
+   "items": [
+    {
+     "text": "Configuring IP Addresses and Subnet Masks",
+     "level": 0
+    },
+    {
+     "text": "Implementing DHCP and DNS Services",
+     "level": 0
+    },
+    {
+     "text": "Setting Up and Managing VLANs",
+     "level": 0
+    },
+    {
+     "text": "Configuring Wireless Networks and Security",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Network Troubleshooting",
+   "items": [
+    {
+     "text": "Troubleshooting Network Connectivity Issues",
+     "level": 0
+    },
+    {
+     "text": "Using Diagnostic Tools (Ping, Tracert, Netstat)",
+     "level": 0
+    },
+    {
+     "text": "Resolving Common Network Problems",
+     "level": 0
+    },
+    {
+     "text": "Implementing Troubleshooting Methodologies and Strategies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Network Security",
+   "items": [
+    {
+     "text": "Understanding Network Security Concepts and Threats",
+     "level": 0
+    },
+    {
+     "text": "Implementing Security Measures (Firewalls, VPNs, ACLs)",
+     "level": 0
+    },
+    {
+     "text": "Configuring Network Security Devices",
+     "level": 0
+    },
+    {
+     "text": "Identifying and Mitigating Security Vulnerabilities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Network Management",
+   "items": [
+    {
+     "text": "Managing Network Performance and Monitoring Tools",
+     "level": 0
+    },
+    {
+     "text": "Implementing Network Documentation and Diagrams",
+     "level": 0
+    },
+    {
+     "text": "Performing Network Backups and Restorations",
+     "level": 0
+    },
+    {
+     "text": "Managing Network Access and User Accounts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Emerging Technologies",
+   "items": [
+    {
+     "text": "Exploring Trends in Networking Technology (SDN, Cloud Networking)",
+     "level": 0
+    },
+    {
+     "text": "Understanding Internet of Things (IoT) and Its Impact on Networks",
+     "level": 0
+    },
+    {
+     "text": "Implementing Network Virtualization and Automation",
+     "level": 0
+    },
+    {
+     "text": "Evaluating the Impact of Emerging Technologies on Network Design",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "file": "IT COURSES - IT Infrastructure Courses.docx"
+}
