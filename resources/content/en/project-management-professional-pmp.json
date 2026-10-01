@@ -1,0 +1,298 @@
+{
+ "file": "01- Preparation for Project Management Professional (PMP) Certification.docx",
+ "title": "Preparation for Project Management Professional (PMP) Certification",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to prepare participants for the Project Management Professional (PMP) certification exam. It covers exam requirements, question formats, and offers extensive practice with exam-style questions. Participants will gain a deep understanding of the project life cycle through an in-depth exploration of the five process groups and ten knowledge areas essential to project management."
+ ],
+ "audience": [
+  "Project managers, project office members, project sponsors, functional managers, senior management, and individuals pursuing PMP certification."
+ ],
+ "methodology": [
+  "The course utilizes interactive methods, including group exercises, brief presentations, practice exam questions, and simulations"
+ ],
+ "competencies": [
+  "Project Management",
+  "Project Initiation",
+  "Project Planning",
+  "Project Execution",
+  "Project Control",
+  "Project Closure"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Review the PMP exam requirements and application process",
+  "Define key terms and understand the relationships between portfolio, program, and project management",
+  "Explain how organizational influences affect project management",
+  "Integrate various processes and project management activities",
+  "Breakdown project scope to encompass all required work",
+  "Calculate activity durations and project timelines",
+  "Estimate costs and develop project budgets",
+  "Establish quality policies and objectives for the project",
+  "Assemble and manage the project team effectively",
+  "Develop a risk management plan and assess project risks",
+  "Plan procurement for external products and services",
+  "Analyze stakeholder expectations and their impact on the project"
+ ],
+ "outline": [
+  {
+   "title": "PMP Credential Overview",
+   "items": [
+    {
+     "text": "The Project Management Institute (PMI)",
+     "level": 0
+    },
+    {
+     "text": "Overview of the PMP Credential",
+     "level": 0
+    },
+    {
+     "text": "Exam Overview and Application Process",
+     "level": 0
+    },
+    {
+     "text": "Understanding Question Formats",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "PMP Introduction",
+   "items": [
+    {
+     "text": "The PMBOK Guide",
+     "level": 0
+    },
+    {
+     "text": "Key Definitions",
+     "level": 0
+    },
+    {
+     "text": "Understanding Portfolios, Programs, and Projects",
+     "level": 0
+    },
+    {
+     "text": "Components of the PMBOK Guide",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Environment",
+   "items": [
+    {
+     "text": "Influences on Projects",
+     "level": 0
+    },
+    {
+     "text": "Organizational Systems and Types",
+     "level": 0
+    },
+    {
+     "text": "The Role of the Project Manager",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Integration Management",
+   "items": [
+    {
+     "text": "Developing the Project Charter",
+     "level": 0
+    },
+    {
+     "text": "Crafting the Project Management Plan",
+     "level": 0
+    },
+    {
+     "text": "Directing and Managing Project Work",
+     "level": 0
+    },
+    {
+     "text": "Managing Project Knowledge",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and Controlling Project Work",
+     "level": 0
+    },
+    {
+     "text": "Performing Integrated Change Control",
+     "level": 0
+    },
+    {
+     "text": "Closing the Project or Phase",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Scope Management",
+   "items": [
+    {
+     "text": "Planning Scope Management",
+     "level": 0
+    },
+    {
+     "text": "Collecting Requirements",
+     "level": 0
+    },
+    {
+     "text": "Defining the Scope",
+     "level": 0
+    },
+    {
+     "text": "Creating the Work Breakdown Structure (WBS)",
+     "level": 0
+    },
+    {
+     "text": "Validating and Controlling Scope",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Schedule Management",
+   "items": [
+    {
+     "text": "Planning Schedule Management",
+     "level": 0
+    },
+    {
+     "text": "Defining and Sequencing Activities",
+     "level": 0
+    },
+    {
+     "text": "Estimating Activity Durations",
+     "level": 0
+    },
+    {
+     "text": "Developing and Controlling the Schedule",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Cost Management",
+   "items": [
+    {
+     "text": "Planning Cost Management",
+     "level": 0
+    },
+    {
+     "text": "Estimating Costs",
+     "level": 0
+    },
+    {
+     "text": "Determining the Budget",
+     "level": 0
+    },
+    {
+     "text": "Controlling Costs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Quality Management",
+   "items": [
+    {
+     "text": "Planning Quality Management",
+     "level": 0
+    },
+    {
+     "text": "Managing and Controlling Quality",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Resource Management",
+   "items": [
+    {
+     "text": "Planning Resource Management",
+     "level": 0
+    },
+    {
+     "text": "Estimating and Acquiring Resources",
+     "level": 0
+    },
+    {
+     "text": "Developing and Managing the Team",
+     "level": 0
+    },
+    {
+     "text": "Controlling Resources",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Communication Management",
+   "items": [
+    {
+     "text": "Planning and Managing Communications",
+     "level": 0
+    },
+    {
+     "text": "Monitoring Communications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk Management",
+   "items": [
+    {
+     "text": "Planning Risk Management",
+     "level": 0
+    },
+    {
+     "text": "Identifying and Analyzing Risks (Qualitative and Quantitative)",
+     "level": 0
+    },
+    {
+     "text": "Planning and Implementing Risk Responses",
+     "level": 0
+    },
+    {
+     "text": "Monitoring Risks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Procurement Management",
+   "items": [
+    {
+     "text": "Planning Procurement Management",
+     "level": 0
+    },
+    {
+     "text": "Conducting and Controlling Procurements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Stakeholder Management",
+   "items": [
+    {
+     "text": "Identifying Stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Planning and Managing Stakeholder Engagement",
+     "level": 0
+    },
+    {
+     "text": "Monitoring Stakeholder Engagement",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

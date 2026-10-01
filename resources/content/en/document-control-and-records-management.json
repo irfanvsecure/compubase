@@ -1,0 +1,182 @@
+{
+ "file": "03- Document Control and Records Management.docx",
+ "title": "Document Control and Records Management",
+ "duration": "3 Days",
+ "overview": [
+  "This course offers a comprehensive grasp of Document Control and Records Management concepts, aiming to enhance the capabilities of Document Controllers, Records Managers, and other personnel in effectively managing crucial documents throughout the organization. Through the application of best practices and established methodologies, the course equips participants with the knowledge to implement essential document control methods and improvement strategies. Additionally, it delves into the broader landscape of information management challenges and their impact"
+ ],
+ "audience": [
+  "This course caters to individuals ranging from administration to management roles, encompassing those with complete or partial responsibilities at both corporate and operational levels. It is suitable for those involved in document and records management, document control, compliance, and information governance"
+ ],
+ "methodology": [
+  "This course employs a blend of instructional presentations, group discussions, case studies, and exercises rooted in real-life scenarios"
+ ],
+ "competencies": [
+  "Risk analysis",
+  "Analysis of document processes",
+  "Understanding relevant standards",
+  "Identification of documents",
+  "Management of document registers"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain the alignment of Document Control and Records Management with the business objectives and environment of their organizations.",
+  "Apply fundamental Document Control and Records Management concepts and techniques for organizing and managing documents and records.",
+  "Identify common reasons for poor document control and strategies for improvement.",
+  "Describe the planning and implementation process of a Document Control Records Management (DCRM) solution.",
+  "Apply best practices and key standards to Document Control and Records Management"
+ ],
+ "outline": [
+  {
+   "title": "Essentials of Document Control",
+   "items": [
+    {
+     "text": "Comprehending the fundamentals of document control",
+     "level": 0
+    },
+    {
+     "text": "Examining standards associated with document control",
+     "level": 0
+    },
+    {
+     "text": "Recognizing crucial elements of document control",
+     "level": 0
+    },
+    {
+     "text": "Supervising project deliverables",
+     "level": 0
+    },
+    {
+     "text": "Document identification",
+     "level": 0
+    },
+    {
+     "text": "Various document types",
+     "level": 0
+    },
+    {
+     "text": "Utilization of templates",
+     "level": 0
+    },
+    {
+     "text": "Handling transmittals",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Executing Document Control",
+   "items": [
+    {
+     "text": "Ensuring quality",
+     "level": 0
+    },
+    {
+     "text": "Quality standards",
+     "level": 0
+    },
+    {
+     "text": "Procedures and specifications",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Distribution of documents",
+     "level": 0
+    },
+    {
+     "text": "Document control systems",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Records Management Strategies",
+   "items": [
+    {
+     "text": "Records management lifecycle",
+     "level": 0
+    },
+    {
+     "text": "Capture",
+     "level": 0
+    },
+    {
+     "text": "Classification",
+     "level": 0
+    },
+    {
+     "text": "Metadata",
+     "level": 0
+    },
+    {
+     "text": "Collaboration",
+     "level": 0
+    },
+    {
+     "text": "Searching",
+     "level": 0
+    },
+    {
+     "text": "Retention, Archiving, and Disposal",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Planning for Document Control and Records Management",
+   "items": [
+    {
+     "text": "Drivers for document control and records management",
+     "level": 0
+    },
+    {
+     "text": "Standards and guidance",
+     "level": 0
+    },
+    {
+     "text": "Regulations",
+     "level": 0
+    },
+    {
+     "text": "The business case",
+     "level": 0
+    },
+    {
+     "text": "Risk analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Implementing Document Control and Records Management",
+   "items": [
+    {
+     "text": "Designing a DCRM solution",
+     "level": 0
+    },
+    {
+     "text": "Requirements for a solution",
+     "level": 0
+    },
+    {
+     "text": "Selecting and implementing a DCRM system",
+     "level": 0
+    },
+    {
+     "text": "Migration",
+     "level": 0
+    },
+    {
+     "text": "Business as Usual",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

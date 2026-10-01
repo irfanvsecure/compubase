@@ -1,0 +1,185 @@
+{
+ "file": "2- Essential Skills for Contract Professionals.docx",
+ "title": "Essential Skills for Contract Professionals",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip participants with the essential skills required to effectively manage contracts, including communication, negotiation, and conflict management. Participants will gain hands-on experience in key techniques necessary for excelling as contract managers or administrators. These include project management principles for contractor-executed projects and methods for evaluating contractor performance."
+ ],
+ "audience": [
+  "This course is tailored for professionals seeking to enhance the essential skills required for successful contract management. It is designed to enable contract professionals to collaborate efficiently with contractors and optimize contract outcomes."
+ ],
+ "methodology": [
+  "The course employs a combination of individual and group exercises to reinforce learning, along with case studies and participant-led presentations followed by discussions. Pre- and post-course assessments are conducted to evaluate participants’ progress."
+ ],
+ "competencies": [
+  "Contract management",
+  "Project planning and execution",
+  "Risk identification and mitigation",
+  "Performance measurement and evaluation",
+  "Communication and writing skills",
+  "Negotiation techniques"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify critical skills essential for contract professionals.",
+  "Develop project plans to manage contracts and address deviations effectively.",
+  "Assess key risks that may impact contracts and devise appropriate mitigation strategies.",
+  "Establish criteria for monitoring contractor performance and define effective Key Performance Indicators (KPIs).",
+  "Enhance communication skills, including written, verbal, and non-verbal methods, for contract management.",
+  "Prepare for and conduct structured negotiations related to contracts."
+ ],
+ "outline": [
+  {
+   "title": "Contract Fundamentals",
+   "items": [
+    {
+     "text": "Definition and purpose of contracts",
+     "level": 0
+    },
+    {
+     "text": "Understanding contract terms and scope of work",
+     "level": 0
+    },
+    {
+     "text": "Key stages of contracting",
+     "level": 0
+    },
+    {
+     "text": "Traits of an effective contract professional",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Project Management Skills",
+   "items": [
+    {
+     "text": "Work breakdown structure and resource estimation",
+     "level": 0
+    },
+    {
+     "text": "Activity relationships and network diagrams",
+     "level": 0
+    },
+    {
+     "text": "Critical path analysis and milestone charts",
+     "level": 0
+    },
+    {
+     "text": "Gantt chart development and resource allocation",
+     "level": 0
+    },
+    {
+     "text": "Project budgeting and status reporting",
+     "level": 0
+    },
+    {
+     "text": "Managing deviations in projects",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Risk Management",
+   "items": [
+    {
+     "text": "Identifying and evaluating contract-related risks",
+     "level": 0
+    },
+    {
+     "text": "Creating and maintaining a risk log",
+     "level": 0
+    },
+    {
+     "text": "Risk response planning",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Performance Reporting",
+   "items": [
+    {
+     "text": "Monitoring and evaluating contractor performance",
+     "level": 0
+    },
+    {
+     "text": "Setting and using Key Performance Indicators (KPIs)",
+     "level": 0
+    },
+    {
+     "text": "Benchmarking and target-setting strategies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Communication and Writing Skills",
+   "items": [
+    {
+     "text": "Communication models and overcoming barriers",
+     "level": 0
+    },
+    {
+     "text": "Active listening and effective verbal/non-verbal communication",
+     "level": 0
+    },
+    {
+     "text": "Fundamentals of written communication and conflict management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Negotiation Skills",
+   "items": [
+    {
+     "text": "Introduction to negotiation concepts and strategies",
+     "level": 0
+    },
+    {
+     "text": "Principles of negotiation:",
+     "level": 0
+    },
+    {
+     "text": "Separating people from problems",
+     "level": 1
+    },
+    {
+     "text": "Focusing on interests over positions",
+     "level": 1
+    },
+    {
+     "text": "Exploring options for mutual gain",
+     "level": 1
+    },
+    {
+     "text": "Applying objective criteria",
+     "level": 1
+    },
+    {
+     "text": "Structured negotiation approach:",
+     "level": 0
+    },
+    {
+     "text": "Planning negotiations",
+     "level": 1
+    },
+    {
+     "text": "Understanding Zone of Possible Agreement (ZOPA)",
+     "level": 1
+    },
+    {
+     "text": "Establishing Best Alternative to a Negotiated Agreement (BATNA)",
+     "level": 1
+    },
+    {
+     "text": "Executing effective negotiations",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

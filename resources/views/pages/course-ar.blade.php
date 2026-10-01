@@ -88,7 +88,6 @@
         <a href="#objectives" data-tab="objectives" role="tab">الأهداف</a>
         <a href="#outline" data-tab="outline" role="tab">محاور الدورة</a>
         <a href="#" data-scroll="attend-side">لمن هذه الدورة</a>
-        <a href="#" data-scroll="trainer-side">مدرّبك</a>
       </div>
 
       <div class="tab-panel active" id="overview" role="tabpanel">
@@ -96,8 +95,31 @@
         @if ($content)
         <h2>نبذة عن الدورة</h2>
         @foreach ($content['overview'] as $para)<p>{{ $para }}</p>@endforeach
+        @if ($content['methodology'])
         <h2>منهجية التدريب</h2>
         @foreach ($content['methodology'] as $para)<p>{{ $para }}</p>@endforeach
+        @endif
+        @foreach ($content['extra'] ?? [] as $section)
+        <h2>{{ $section['title'] }}</h2>
+        @php
+            // Paragraphs and list items in document order: 'p' = next paragraph, 'i' = next list item.
+            $blocks = [];
+            $paras = $section['paras'];
+            $items = $section['items'];
+            foreach (str_split($section['order']) as $kind) {
+                if ($kind === 'p') {
+                    $blocks[] = ['p', array_shift($paras)];
+                } elseif ($blocks && end($blocks)[0] === 'ul') {
+                    $blocks[array_key_last($blocks)][1][] = array_shift($items);
+                } else {
+                    $blocks[] = ['ul', [array_shift($items)]];
+                }
+            }
+        @endphp
+        @foreach ($blocks as [$kind, $value])
+          @if ($kind === 'p')<p>{{ $value }}</p>@else<ul class="outcomes">@foreach ($value as $item)<li>{{ $item }}</li>@endforeach</ul>@endif
+        @endforeach
+        @endforeach
         @else
         <h2>ماذا تغطي هذه الدورة</h2>
         <div class="placeholder-note">[وصف الدورة من مخطط دورات كمبيوبيس.]</div>
@@ -106,10 +128,12 @@
 
       <div class="tab-panel" id="objectives" role="tabpanel">
         @if ($content)
+        @if ($content['competencies'])
         <h2>الكفاءات المستهدفة</h2>
         <ul class="outcomes">
           @foreach ($content['competencies'] as $item)<li>{{ $item }}</li>@endforeach
         </ul>
+        @endif
         <h2>أهداف الدورة</h2>
         @foreach ($content['objectivesIntro'] as $para)<p>{{ $para }}</p>@endforeach
         <ul class="outcomes">
@@ -157,13 +181,6 @@
         <div class="placeholder-note" style="margin-top:0">[الفئة المستهدفة من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
-      <div class="side-box" id="trainer-side">
-        <h4>مدرّبك</h4>
-        <div class="trainer-photo">👤 &nbsp;صورة المدرّب</div>
-        <b style="color:var(--navy)">[اسم المدرّب]</b><br>
-        <small style="color:var(--gold-ink)">[المؤهلات] · كادر كمبيوبيس</small>
-        <p style="font-size:15px;margin-top:10px">[جملتان عن خبرة المدرّب والقطاعات التي عمل فيها.]</p>
-      </div>
     </aside>
   </div>
 </section>
@@ -191,7 +208,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
-        <p style="font-size:15px">تدريب صفّي في الشهادات المهنية وتقنية المعلومات والأمن السيبراني واللغات. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
+        <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وغيرها. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>

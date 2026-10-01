@@ -1,0 +1,180 @@
+{
+ "file": "07- Certified Lean Six Sigma Green Belt.docx",
+ "title": "Certified Lean Six Sigma Green Belt",
+ "duration": "5 Days",
+ "overview": [
+  "Become a certified Six Sigma practitioner and join the ranks of thousands of successful professionals we’ve trained over the past two decades. Six Sigma is a globally recognized methodology for process improvement and business transformation. Our IASSC-accredited Green Belt course, aligned with the international Body of Knowledge (BOK) set by ASQ and IASSC, is renowned for its comprehensive content.",
+  "This course empowers participants to improve organizational operations by adopting a data-driven approach. It covers the DMAIC methodology (Define, Measure, Analyze, Improve, Control) and provides the tools and skills needed to enhance processes across various industries. Participants will also learn how to craft project charters, apply quality tools, and use statistical methods to solve problems effectively. Additionally, the course equips participants to assess their organization’s readiness to implement Six Sigma projects."
+ ],
+ "audience": [
+  "This course is ideal for managers, supervisors, and professionals aiming to leverage the Six Sigma methodology to drive business improvements, achieve certification, and enhance organizational performance."
+ ],
+ "methodology": [
+  "The course combines theory with practical application through exercises, case studies, and group activities. Participants will engage in individual and team presentations and explore real-life examples of companies that successfully implemented Six Sigma. A detailed case study will guide the learning experience. Upon completion, participants will receive a Six Sigma Green Belt attendance certificate. Certification is awarded after passing an exam assessing their knowledge of the Six Sigma Body of Knowledge (BOK)."
+ ],
+ "competencies": [
+  "Six Sigma deployment",
+  "Problem-solving",
+  "Critical thinking",
+  "Applied statistics",
+  "Lean principles"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Improve processes using Six Sigma’s DMAIC (variation removal) and Lean (waste removal) approaches.",
+  "Explain the necessity of Six Sigma for sustaining business improvement.",
+  "Apply and implement the Define, Measure, Analyze, Improve, and Control problem-solving methodology.",
+  "Collect and analyze data effectively using tools in Minitab.",
+  "Utilize various tools commonly employed in Six Sigma projects.",
+  "Scope projects and build a business case to gain management support for Six Sigma deployment."
+ ],
+ "outline": [
+  {
+   "title": "Define Phase",
+   "items": [
+    {
+     "text": "Overview of Six Sigma and its fundamentals",
+     "level": 0
+    },
+    {
+     "text": "Selecting appropriate projects",
+     "level": 0
+    },
+    {
+     "text": "Crafting project charters and problem statements",
+     "level": 0
+    },
+    {
+     "text": "SIPOC methodology and team creation (RACI and communication planning)",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Voice of the Customer (VOC) and Critical to Quality (CTQ) requirements",
+     "level": 0
+    },
+    {
+     "text": "Project planning, risk assessment, and launch",
+     "level": 0
+    },
+    {
+     "text": "Identifying and addressing elements of waste",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Measure Phase",
+   "items": [
+    {
+     "text": "Process discovery and Six Sigma statistics",
+     "level": 0
+    },
+    {
+     "text": "Measurement System Analysis (MSA) and Process Capability",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Minitab for data analysis",
+     "level": 0
+    },
+    {
+     "text": "Exploring types of data, central tendency, variation, and tampering",
+     "level": 0
+    },
+    {
+     "text": "Graphical displays: Histograms, dot plots, and box plots",
+     "level": 0
+    },
+    {
+     "text": "Process mapping and data collection planning",
+     "level": 0
+    },
+    {
+     "text": "Conducting Gauge R&R and sampling techniques",
+     "level": 0
+    },
+    {
+     "text": "Statistical Process Control (SPC) and control charts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Analyze Phase",
+   "items": [
+    {
+     "text": "Inferential statistics and hypothesis testing (normal and non-normal data)",
+     "level": 0
+    },
+    {
+     "text": "Cause-and-effect analysis and brainstorming techniques",
+     "level": 0
+    },
+    {
+     "text": "Utilizing Pareto charts, run charts, and frequency charts for data insights",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Improve Phase",
+   "items": [
+    {
+     "text": "Process modeling and regression analysis",
+     "level": 0
+    },
+    {
+     "text": "Designing and conducting experiments",
+     "level": 0
+    },
+    {
+     "text": "Lean toolbox essentials: Takt time, Kanban, flow (Push vs. Pull), TPM, and SMED",
+     "level": 0
+    },
+    {
+     "text": "Error-proofing with Poka Yoke",
+     "level": 0
+    },
+    {
+     "text": "Evaluating solutions and reducing complexity through standardization",
+     "level": 0
+    },
+    {
+     "text": "Pilot testing for process improvement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Control Phase",
+   "items": [
+    {
+     "text": "Advanced experimental methods and capability analysis",
+     "level": 0
+    },
+    {
+     "text": "Lean controls and defect prevention",
+     "level": 0
+    },
+    {
+     "text": "Developing Six Sigma control plans",
+     "level": 0
+    },
+    {
+     "text": "Calculating cost savings from non-quality",
+     "level": 0
+    },
+    {
+     "text": "Finalizing projects with effective closeout and handovers",
+     "level": 0
+    },
+    {
+     "text": "Summarizing the DMAIC methodology",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

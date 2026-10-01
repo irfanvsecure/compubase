@@ -4,32 +4,52 @@ namespace App\Support;
 
 /**
  * Reads the course catalogue in config/courses.php and shapes it for the views.
+ *
+ * Each course carries its slug, its main category (the first one that lists it)
+ * and every category it belongs to. Inside a category listing, a course is
+ * shown under that category instead.
  */
 class Catalog
 {
-    /** Every category, each with its courses, in catalogue order. */
+    /** Every category in catalogue order, each with its courses keyed by slug. */
     public static function categories(): array
     {
-        return config('courses', []);
-    }
-
-    /** Every course as a flat list, each carrying its category. */
-    public static function courses(): array
-    {
-        $all = [];
-        foreach (self::categories() as $cat => $category) {
-            foreach ($category['courses'] as $slug => $course) {
-                $all[] = $course + ['slug' => $slug, 'cat' => $cat, 'catEn' => $category['en'], 'catAr' => $category['ar']];
+        static $categories = null;
+        if ($categories === null) {
+            $categories = [];
+            foreach (config('courses.categories', []) as $cat => $category) {
+                $courses = [];
+                foreach ($category['courses'] as $slug) {
+                    $courses[$slug] = self::shape($slug, $cat);
+                }
+                $categories[$cat] = ['courses' => $courses] + $category;
             }
         }
 
-        return $all;
+        return $categories;
     }
 
-    public static function find(string $cat, string $slug): ?array
+    /** Every course once, in catalogue order, under its main category. */
+    public static function courses(): array
+    {
+        static $courses = null;
+        if ($courses === null) {
+            $courses = [];
+            foreach (self::categories() as $category) {
+                foreach ($category['courses'] as $slug => $course) {
+                    $courses[$slug] ??= $course;
+                }
+            }
+            $courses = array_values($courses);
+        }
+
+        return $courses;
+    }
+
+    public static function find(string $slug): ?array
     {
         foreach (self::courses() as $course) {
-            if ($course['cat'] === $cat && $course['slug'] === $slug) {
+            if ($course['slug'] === $slug) {
                 return $course;
             }
         }
@@ -37,21 +57,36 @@ class Catalog
         return null;
     }
 
+    /** One course as the views use it, listed under category $cat. */
+    private static function shape(string $slug, string $cat): array
+    {
+        $course = config("courses.courses.{$slug}");
+        $category = config("courses.categories.{$cat}");
+        $cats = [];
+        foreach (config('courses.categories') as $key => $c) {
+            if (in_array($slug, $c['courses'], true)) {
+                $cats[] = $key;
+            }
+        }
+
+        return $course + ['slug' => $slug, 'cat' => $cat, 'cats' => $cats, 'catEn' => $category['en'], 'catAr' => $category['ar']];
+    }
+
     /**
      * The course outline taken from CompuBase's course document, or null when
-     * no document has been supplied yet. Stored per category in resources/content,
-     * with the Arabic translation in {category}.ar.json.
+     * no document has been supplied yet. Stored in resources/content/{en,ar}/{slug}.json.
      */
     public static function content(array $course, bool $ar = false): ?array
     {
-        static $loaded = [];
-        $file = $course['cat'].($ar ? '.ar' : '');
-        if (! array_key_exists($file, $loaded)) {
-            $path = resource_path("content/{$file}.json");
-            $loaded[$file] = is_file($path) ? json_decode(file_get_contents($path), true) : [];
-        }
+        $path = resource_path('content/'.($ar ? 'ar' : 'en')."/{$course['slug']}.json");
 
-        return $loaded[$file][$course['slug']] ?? null;
+        return is_file($path) ? json_decode(file_get_contents($path), true) : null;
+    }
+
+    /** First sentence of the course overview, or null when there is no document yet. */
+    public static function summary(array $course, bool $ar = false): ?string
+    {
+        return $course['summary'][$ar ? 'ar' : 'en'] ?? null;
     }
 
     /** URL of the course photo, or null when there is none. */
@@ -63,7 +98,7 @@ class Catalog
     /** Up to $count other courses from the same category, following this one. */
     public static function related(array $course, int $count = 3): array
     {
-        $siblings = array_values(array_filter(self::courses(), fn ($c) => $c['cat'] === $course['cat']));
+        $siblings = array_values(self::categories()[$course['cat']]['courses']);
         $at = array_search($course['slug'], array_column($siblings, 'slug'));
         $others = array_merge(array_slice($siblings, $at + 1), array_slice($siblings, 0, $at));
 
@@ -72,7 +107,7 @@ class Catalog
 
     public static function url(array $course, bool $ar = false): string
     {
-        return url(($ar ? 'ar/' : '').$course['cat'].'/'.$course['slug']);
+        return url(($ar ? 'ar/' : '').'course/'.$course['slug']);
     }
 
     public static function title(array $course, bool $ar = false): string
@@ -103,10 +138,11 @@ class Catalog
     public static function forScript(bool $ar = false): array
     {
         return array_map(fn ($c) => [
-            'cat' => $c['cat'],
+            'cats' => $c['cats'],
             'catName' => self::category($c, $ar),
             'title' => self::title($c, $ar),
             'dur' => self::duration($c['days'], $ar),
+            'summary' => self::summary($c, $ar),
             'url' => self::url($c, $ar),
         ], self::courses());
     }

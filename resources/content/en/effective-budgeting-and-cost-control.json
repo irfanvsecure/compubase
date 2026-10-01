@@ -1,0 +1,237 @@
+{
+ "file": "12- Effective Budgeting and Cost Control.docx",
+ "title": "Effective Budgeting and Cost Control",
+ "duration": "5 Days",
+ "overview": [
+  "Budgeting and cost control are essential skills for professionals across all functions and managerial levels. This course explores budgeting as a strategic planning tool, a financial framework, and a mechanism for organizational control. It also equips participants with practical tools to make informed short-term and long-term planning decisions."
+ ],
+ "audience": [
+  "This course is designed for managers, supervisors, and analysts involved in preparing or utilizing management budgets."
+ ],
+ "methodology": [
+  "The course employs a dynamic approach with a combination of exercises, case studies, and individual and group presentations to ensure practical learning and engagement."
+ ],
+ "competencies": [
+  "Interpreting financial statements",
+  "Strategic planning and budgeting",
+  "Cost control and variance analysis",
+  "Capital budgeting and decision-making",
+  "Cost-volume-profit analysis",
+  "Breakeven analysis"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Emphasize the importance of aligning an organization’s budget with its strategic objectives.",
+  "Illustrate the relationship between budgets and key financial statements, including the balance sheet, income statement, and cash flow statement.",
+  "Prepare operating and capital budgets while evaluating various budgeting methods.",
+  "Utilize cost control tools, interpret variance reports, and implement corrective measures.",
+  "Apply capital budgeting techniques in evaluating expenditure proposals.",
+  "Leverage cost-volume-profit analysis to support sound budgeting decisions."
+ ],
+ "outline": [
+  {
+   "title": "1. Planning and the Functions of Management",
+   "items": [
+    {
+     "text": "Key functions of management and their role in budgeting.",
+     "level": 0
+    },
+    {
+     "text": "Linking budgets to organizational strategy.",
+     "level": 0
+    },
+    {
+     "text": "Utilizing budgets as strategic planning tools.",
+     "level": 0
+    },
+    {
+     "text": "Understanding the role of control in effective planning.",
+     "level": 0
+    },
+    {
+     "text": "Identifying common planning pitfalls.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Key Financial Statements",
+   "items": [
+    {
+     "text": "Overview of the accounting system.",
+     "level": 0
+    },
+    {
+     "text": "Understanding the income statement, balance sheet, and cash flow statement.",
+     "level": 0
+    },
+    {
+     "text": "How budgets integrate with financial statements.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Budgeting: Processes and Approaches",
+   "items": [
+    {
+     "text": "Benefits and advantages of budgeting.",
+     "level": 0
+    },
+    {
+     "text": "The budgeting process and its components.",
+     "level": 0
+    },
+    {
+     "text": "Rolling budgets and master budgets.",
+     "level": 0
+    },
+    {
+     "text": "Operating vs. capital budgets.",
+     "level": 0
+    },
+    {
+     "text": "Budgeted financial statements.",
+     "level": 0
+    },
+    {
+     "text": "Budgeting approaches:",
+     "level": 0
+    },
+    {
+     "text": "Incremental budgeting",
+     "level": 1
+    },
+    {
+     "text": "Zero-based budgeting",
+     "level": 1
+    },
+    {
+     "text": "Flexible budgeting",
+     "level": 1
+    },
+    {
+     "text": "Kaizen budgeting for continuous improvement",
+     "level": 1
+    },
+    {
+     "text": "Activity-based budgeting",
+     "level": 1
+    },
+    {
+     "text": "Forecasting tools and techniques.",
+     "level": 0
+    },
+    {
+     "text": "Direct and indirect costs.",
+     "level": 0
+    },
+    {
+     "text": "Characteristics of effective budgets.",
+     "level": 0
+    },
+    {
+     "text": "Addressing challenges in the budgeting process.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Cost Control",
+   "items": [
+    {
+     "text": "Budgets as tools for organizational control.",
+     "level": 0
+    },
+    {
+     "text": "The control process and its stages.",
+     "level": 0
+    },
+    {
+     "text": "Features of an effective control system.",
+     "level": 0
+    },
+    {
+     "text": "Responsibility reporting for accountability.",
+     "level": 0
+    },
+    {
+     "text": "Conducting variance analysis to identify and resolve discrepancies.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Capital Expenditure Budgeting and Analysis",
+   "items": [
+    {
+     "text": "Time value of money: simple vs. compound interest.",
+     "level": 0
+    },
+    {
+     "text": "Cash flow identification and analysis.",
+     "level": 0
+    },
+    {
+     "text": "Determining discount rates and cost of capital.",
+     "level": 0
+    },
+    {
+     "text": "Applying capital budgeting techniques:",
+     "level": 0
+    },
+    {
+     "text": "Net Present Value (NPV)",
+     "level": 1
+    },
+    {
+     "text": "Internal Rate of Return (IRR)",
+     "level": 1
+    },
+    {
+     "text": "Profitability Index (PI)",
+     "level": 1
+    },
+    {
+     "text": "Payback Period (PBP)",
+     "level": 1
+    },
+    {
+     "text": "Accounting Rate of Return (ARR)",
+     "level": 1
+    },
+    {
+     "text": "Preparing Approval for Expenditure (AFE) documents.",
+     "level": 0
+    },
+    {
+     "text": "Conducting sensitivity and risk analyses.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Cost-Volume-Profit (CVP) Analysis",
+   "items": [
+    {
+     "text": "Differentiating between fixed and variable costs.",
+     "level": 0
+    },
+    {
+     "text": "Calculating breakeven points in units and sales.",
+     "level": 0
+    },
+    {
+     "text": "Exploring assumptions in CVP analysis.",
+     "level": 0
+    },
+    {
+     "text": "Utilizing CVP for effective budgeting decisions.",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -43,15 +43,17 @@
   <h1>Every CompuBase course, by category.</h1><p class="lead">Every course runs Monday to Friday in Abu Dhabi, with morning and evening groups.</p></div>
 </div></section>
 @use('App\Support\Catalog')
+<section class="section" style="padding-bottom:0"><div class="container">
+  <div class="eyebrow">Categories</div>
+  <nav class="filter-tabs cat-nav">@foreach (Catalog::categories() as $cat => $category)<a href="#{{ $cat }}" data-scroll="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</a>@endforeach</nav>
+</div></section>
 @foreach (Catalog::categories() as $cat => $category)
 <section class="section featured" id="{{ $cat }}"><div class="container">
   <div class="eyebrow">{{ count($category['courses']) }} courses</div>
   <h2>{{ $category['en'] }}</h2>
   <div class="course-grid">
-  @foreach (Catalog::courses() as $course)
-    @if ($course['cat'] === $cat)
-      @include('partials.course-card')
-    @endif
+  @foreach ($category['courses'] as $course)
+    @include('partials.course-card')
   @endforeach
   </div>
   @if ($loop->last)<p class="foot">Not sure which fits? Call an advisor on <a href="tel:0506399915">050 6399915</a></p>@endif
@@ -65,7 +67,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
-        <p style="font-size:15px">Classroom training in professional certification, IT, cyber security and languages. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
+        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, and more. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>

@@ -1,0 +1,214 @@
+{
+ "file": "25- Instructional Design of Training Programs.docx",
+ "title": "Instructional Design of Training Programs",
+ "duration": "3 Days",
+ "overview": [
+  "Effective learning programs are those carefully crafted to address performance gaps and drive business outcomes. This course provides a practical, hands-on approach to instructional design, applying key principles in a business context. Participants will learn how to translate learning theories into tailored, action-oriented development initiatives. The course equips learners with the skills to improve performance, guides instructors in delivering focused learning, and helps training professionals recommend optimal learning solutions. It is highly practical, aiming to develop proficiency in every phase of instructional design."
+ ],
+ "audience": [
+  "This course is ideal for trainers, instructional designers, training and development professionals, talent management specialists, organizational development professionals, and HR practitioners who want to excel in instructional design."
+ ],
+ "methodology": [
+  "This interactive workshop uses a range of teaching methods, including presentations, roundtable discussions, practical exercises, and case study analysis. The course is structured around four key pillars: conceptual learning, experience sharing, hands-on practice, and scenario analysis."
+ ],
+ "competencies": [
+  "Instructional design",
+  "Project management",
+  "Data analysis",
+  "Learning management",
+  "Setting learning objectives",
+  "Process design",
+  "Organizational communication"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define a learner-centered environment and explain key instructional design principles",
+  "Develop a comprehensive project management plan for learning initiatives",
+  "Map out a detailed learning journey, including task inventories, testing strategies, and ROI measurement tools",
+  "Create learning materials and tools for both learners and instructors",
+  "Guide successful learning implementations through effective planning and communication",
+  "Design an evaluation plan to assess learning outcomes and ensure continuous improvement"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Instructional Design",
+   "items": [
+    {
+     "text": "The 8 components of an intentional learning environment",
+     "level": 0
+    },
+    {
+     "text": "The teacher-learner continuum",
+     "level": 0
+    },
+    {
+     "text": "Characteristics of a learner-centered environment",
+     "level": 0
+    },
+    {
+     "text": "Action learning theory",
+     "level": 0
+    },
+    {
+     "text": "What is instructional design?",
+     "level": 0
+    },
+    {
+     "text": "Core principles of instructional design",
+     "level": 0
+    },
+    {
+     "text": "Overview of the ADDIE model: A step-by-step instructional design framework",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Analyzing Learning Interventions (Phase 1)",
+   "items": [
+    {
+     "text": "Key objectives of the analysis phase",
+     "level": 0
+    },
+    {
+     "text": "Common challenges in instructional design analysis",
+     "level": 0
+    },
+    {
+     "text": "Validating performance gaps",
+     "level": 0
+    },
+    {
+     "text": "Defining instructional goals",
+     "level": 0
+    },
+    {
+     "text": "Analyzing the learner profile",
+     "level": 0
+    },
+    {
+     "text": "Identifying resources and delivery systems",
+     "level": 0
+    },
+    {
+     "text": "Nine-step cost estimation process",
+     "level": 0
+    },
+    {
+     "text": "Creating a project management plan",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Designing the Learning Roadmap (Phase 2)",
+   "items": [
+    {
+     "text": "Key objectives of the design phase",
+     "level": 0
+    },
+    {
+     "text": "Building a \"line of sight\" for learning",
+     "level": 0
+    },
+    {
+     "text": "Developing a performance task inventory",
+     "level": 0
+    },
+    {
+     "text": "Writing clear performance objectives",
+     "level": 0
+    },
+    {
+     "text": "Creating test items and strategies",
+     "level": 0
+    },
+    {
+     "text": "Establishing ROI calculation criteria",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Developing Learning Content (Phase 3)",
+   "items": [
+    {
+     "text": "Key objectives of the development phase",
+     "level": 0
+    },
+    {
+     "text": "Creating and organizing learning content",
+     "level": 0
+    },
+    {
+     "text": "Understanding instructional strategies",
+     "level": 0
+    },
+    {
+     "text": "Developing activities for different stages of learning",
+     "level": 0
+    },
+    {
+     "text": "Creating learning media for diverse learners",
+     "level": 0
+    },
+    {
+     "text": "Developing study materials for learners and instructors",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Implementing Learning Solutions (Phase 4)",
+   "items": [
+    {
+     "text": "Key objectives of the implementation phase",
+     "level": 0
+    },
+    {
+     "text": "Selecting and preparing instructors",
+     "level": 0
+    },
+    {
+     "text": "Train-the-trainer as an implementation strategy",
+     "level": 0
+    },
+    {
+     "text": "Preparing learners for the learning experience",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Designing Evaluation Metrics and Tools (Phase 5)",
+   "items": [
+    {
+     "text": "Key objectives of the evaluation phase",
+     "level": 0
+    },
+    {
+     "text": "Setting evaluation criteria",
+     "level": 0
+    },
+    {
+     "text": "Applying Kirkpatrick’s four levels of learning evaluation",
+     "level": 0
+    },
+    {
+     "text": "Exploring 15 evaluation tools and selecting the right ones",
+     "level": 0
+    },
+    {
+     "text": "Developing and conducting an evaluation plan",
+     "level": 0
+    },
+    {
+     "text": "Analyzing data to drive continuous learning improvement",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

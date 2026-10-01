@@ -1,0 +1,224 @@
+{
+ "file": "09- Logistics Management.docx",
+ "title": "Logistics Management",
+ "duration": "3 Days",
+ "overview": [
+  "Logistics management is a critical function that oversees the flow of goods within a supply chain. This course, offered in collaboration with the UK-based Chartered Institute of Logistics and Transport (CILT), provides an up-to-date understanding of the latest logistics models and practices. The primary focus is on optimizing transportation, warehousing, and inventory management activities. Additionally, the course covers the Supply Chain Operations Reference (SCOR) framework to effectively manage key logistics performance indicators."
+ ],
+ "audience": [
+  "This course is suitable for logistics professionals at all organizational levels. It is particularly beneficial for individuals looking to enhance their supply chain and logistics expertise with the latest theoretical knowledge in preparation for advancing to higher positions within their organization."
+ ],
+ "methodology": [
+  "The course utilizes various exercises and case studies from both regional and international contexts. Participants will often collaborate in pairs and larger groups throughout the training."
+ ],
+ "competencies": [
+  "Supply chain management",
+  "Enhancing customer value",
+  "Warehouse design",
+  "Warehouse operations",
+  "Inventory management",
+  "Transportation management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Recognize contemporary supply chain and logistics trends that support sustainable performance",
+  "Utilize qualitative and quantitative material forecasting techniques to streamline logistics operations",
+  "Develop go-to-market strategies for various product categories, considering associated supply risks and financial impacts",
+  "Explain the role of transportation in logistics and identify opportunities for operational enhancements",
+  "Understand the importance of warehousing, with an emphasis on operational throughput and performance optimization",
+  "Apply the SCOR framework to manage the strategic, operational, and tactical aspects of logistics"
+ ],
+ "outline": [
+  {
+   "title": "Logistics Trends and Practices",
+   "items": [
+    {
+     "text": "Overview of logistics",
+     "level": 0
+    },
+    {
+     "text": "Logistics, supply chain, and organizational integration",
+     "level": 0
+    },
+    {
+     "text": "Strategic, tactical, and operational components of logistics",
+     "level": 0
+    },
+    {
+     "text": "Principles of sustainable logistics",
+     "level": 0
+    },
+    {
+     "text": "Key concepts in logistics",
+     "level": 0
+    },
+    {
+     "text": "Third-Party Logistics (3PL)",
+     "level": 0
+    },
+    {
+     "text": "Fourth-Party Logistics (4PL)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Transport Management",
+   "items": [
+    {
+     "text": "Objectives of transport management",
+     "level": 0
+    },
+    {
+     "text": "Costs involved in transport management",
+     "level": 0
+    },
+    {
+     "text": "Types and modes of transportation",
+     "level": 0
+    },
+    {
+     "text": "Achieving efficient and effective transportation",
+     "level": 0
+    },
+    {
+     "text": "Aligning with strategic service levels",
+     "level": 0
+    },
+    {
+     "text": "Planning transportation routes",
+     "level": 0
+    },
+    {
+     "text": "Managing cargo cubing",
+     "level": 0
+    },
+    {
+     "text": "Considerations for international transportation",
+     "level": 0
+    },
+    {
+     "text": "Working with Incoterms 2010",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Warehousing Operations",
+   "items": [
+    {
+     "text": "Designing a warehousing network",
+     "level": 0
+    },
+    {
+     "text": "Configuring warehousing space",
+     "level": 0
+    },
+    {
+     "text": "Value-adding activities in warehousing",
+     "level": 0
+    },
+    {
+     "text": "Stockpiling, spot stocking, and assortments",
+     "level": 0
+    },
+    {
+     "text": "Cross-docking, break-bulking, and consolidation",
+     "level": 0
+    },
+    {
+     "text": "Mixing, postponement, and assemble-to-order strategies",
+     "level": 0
+    },
+    {
+     "text": "Profiling warehouse activities",
+     "level": 0
+    },
+    {
+     "text": "Calculating warehousing costs",
+     "level": 0
+    },
+    {
+     "text": "Sustainable warehousing practices",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Inventory Management",
+   "items": [
+    {
+     "text": "Scope of materials management",
+     "level": 0
+    },
+    {
+     "text": "Objectives of materials management",
+     "level": 0
+    },
+    {
+     "text": "Types and classification of inventory",
+     "level": 0
+    },
+    {
+     "text": "Challenges in materials management",
+     "level": 0
+    },
+    {
+     "text": "Strategies for material replenishment",
+     "level": 0
+    },
+    {
+     "text": "Make-to-stock processes",
+     "level": 0
+    },
+    {
+     "text": "Make-to-order processes",
+     "level": 0
+    },
+    {
+     "text": "Assemble-to-order processes",
+     "level": 0
+    },
+    {
+     "text": "Design-to-order processes",
+     "level": 0
+    },
+    {
+     "text": "Designing for the supply chain",
+     "level": 0
+    },
+    {
+     "text": "Designing for environmental sustainability",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Logistics and Performance Management",
+   "items": [
+    {
+     "text": "Overview of the SCOR framework",
+     "level": 0
+    },
+    {
+     "text": "Identifying high-level SCOR metrics",
+     "level": 0
+    },
+    {
+     "text": "Customizing low-level SCOR metrics",
+     "level": 0
+    },
+    {
+     "text": "Managing performance targets",
+     "level": 0
+    },
+    {
+     "text": "Initiatives for performance improvement",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "file": "06- Mastering Project Metrics, KPIs and Dashboards.docx",
+ "title": "Mastering Project Metrics, KPIs and Dashboards",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip participants with the essential skills to design, implement, and manage project metrics and Key Performance Indicators (KPIs). The program focuses on identifying the key drivers behind value-based project metrics and provides the knowledge to design effective project dashboards. Participants will also master the use of Microsoft Project for reporting project performance, enabling them to take timely corrective and preventive actions."
+ ],
+ "audience": [
+  "This course is ideal for project managers, members of project offices, project sponsors, functional managers, senior management, and anyone involved in the development and management of project metrics and KPIs. It offers 30 Professional Development Units (PDUs)."
+ ],
+ "methodology": [
+  "The course employs a combination of interactive techniques, including presentations by both the consultant and participants, group exercises, and case studies. It also features hands-on training using Microsoft Project software."
+ ],
+ "competencies": [
+  "Scheduling",
+  "Managing Execution",
+  "Monitoring and Controlling",
+  "Proactive Thinking",
+  "Data Analysis",
+  "Stakeholder Communication"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify the key drivers for improving project metrics.",
+  "Define and choose the most relevant project metrics.",
+  "Develop and apply effective project KPIs.",
+  "Use Microsoft Project to create project KPIs and generate reports.",
+  "Design comprehensive project dashboards and traffic light reports.",
+  "Construct value-based project metrics."
+ ],
+ "outline": [
+  {
+   "title": "The Driving Forces for Better Project Metrics",
+   "items": [
+    {
+     "text": "Executive perspective on project management",
+     "level": 0
+    },
+    {
+     "text": "Traditional vs. Non-Traditional Project Management",
+     "level": 0
+    },
+    {
+     "text": "Evolving from \"Triple\" to \"Competing\" Project Constraints",
+     "level": 0
+    },
+    {
+     "text": "Managing stakeholder relationships",
+     "level": 0
+    },
+    {
+     "text": "Controlling project scope creep",
+     "level": 0
+    },
+    {
+     "text": "Redefining project success",
+     "level": 0
+    },
+    {
+     "text": "Conducting project health checks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Metrics",
+   "items": [
+    {
+     "text": "Understanding and defining metrics",
+     "level": 0
+    },
+    {
+     "text": "Benefits of utilizing metrics",
+     "level": 0
+    },
+    {
+     "text": "Exploring project metrics requirements",
+     "level": 0
+    },
+    {
+     "text": "Categories and types of project metrics",
+     "level": 0
+    },
+    {
+     "text": "Selecting the right project metrics",
+     "level": 0
+    },
+    {
+     "text": "The role of metrics in the Project Management Office (PMO)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Key Performance Indicators (KPIs)",
+   "items": [
+    {
+     "text": "Defining and understanding KPIs",
+     "level": 0
+    },
+    {
+     "text": "The necessity and application of project KPIs",
+     "level": 0
+    },
+    {
+     "text": "Characteristics and categories of KPIs",
+     "level": 0
+    },
+    {
+     "text": "Selecting and measuring KPIs",
+     "level": 0
+    },
+    {
+     "text": "Interdependencies among KPIs",
+     "level": 0
+    },
+    {
+     "text": "Setting targets and managing failures",
+     "level": 0
+    },
+    {
+     "text": "Overview of common project KPIs and the Earned Value Management System (EVMS)",
+     "level": 0
+    },
+    {
+     "text": "Top 25 project management KPIs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Managing Project Metrics and KPIs Using Microsoft Project",
+   "items": [
+    {
+     "text": "Developing earned value metrics and KPIs",
+     "level": 0
+    },
+    {
+     "text": "Advanced report formatting techniques",
+     "level": 0
+    },
+    {
+     "text": "Customizing tables and charts in reports",
+     "level": 0
+    },
+    {
+     "text": "Creating custom reports",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Dashboards",
+   "items": [
+    {
+     "text": "Defining and understanding dashboards",
+     "level": 0
+    },
+    {
+     "text": "Benefits of using dashboards",
+     "level": 0
+    },
+    {
+     "text": "Gathering KPI and metric requirements for dashboard design",
+     "level": 0
+    },
+    {
+     "text": "The KPI wheel concept",
+     "level": 0
+    },
+    {
+     "text": "Core attributes of effective dashboards",
+     "level": 0
+    },
+    {
+     "text": "Traffic light reporting in dashboards",
+     "level": 0
+    },
+    {
+     "text": "Rules for designing dashboards",
+     "level": 0
+    },
+    {
+     "text": "Selecting the appropriate KPI visualization components",
+     "level": 0
+    },
+    {
+     "text": "Creating and designing dashboards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Value-Based Project Management Metrics",
+   "items": [
+    {
+     "text": "Integrating success with value",
+     "level": 0
+    },
+    {
+     "text": "The need for value-oriented project metrics",
+     "level": 0
+    },
+    {
+     "text": "Creating and implementing project value metrics",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

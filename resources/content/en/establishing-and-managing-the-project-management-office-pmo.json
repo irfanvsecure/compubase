@@ -1,0 +1,219 @@
+{
+ "file": "09- Establishing and Managing the Project Management Office (PMO).docx",
+ "title": "Establishing and Managing the Project Management Office (PMO)",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip participants with the essential knowledge to establish and manage a Project Management Office (PMO). Participants will learn how to assess their organization's project management maturity level and implement strategies for improvement. Additionally, the course focuses on tailoring a project management methodology that aligns with the specific needs and environment of the organization."
+ ],
+ "audience": [
+  "This course is ideal for PMO directors and managers, members of project offices, project sponsors, functional managers, senior management, and anyone involved in the creation and management of a PMO."
+ ],
+ "methodology": [
+  "The course employs a blend of interactive techniques, including concise presentations by both the consultant and participants, as well as psychometric assessments. Group exercises and case studies are integral to the course, followed by in-depth plenary discussions."
+ ],
+ "competencies": [
+  "Strategy execution",
+  "Leading",
+  "Communicating",
+  "Planning",
+  "Coaching",
+  "Teamwork"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Connect organizational strategy with the project management framework.",
+  "Develop a compelling business case that highlights PMO challenges and opportunities.",
+  "Assess and enhance the project management maturity level within their organization.",
+  "Draft a PMO charter and execute strategic implementation phases.",
+  "Establish a project management methodology and governance structure.",
+  "Assemble and lead a PMO team while setting and monitoring performance metrics.",
+  "Understand the PMO's role as a consultant in knowledge management."
+ ],
+ "outline": [
+  {
+   "title": "The Strategic PMO",
+   "items": [
+    {
+     "text": "Core roles of the PMO",
+     "level": 0
+    },
+    {
+     "text": "Benefits of establishing a PMO",
+     "level": 0
+    },
+    {
+     "text": "Linking strategy with projects",
+     "level": 0
+    },
+    {
+     "text": "Aligning strategic goals with project outcomes",
+     "level": 0
+    },
+    {
+     "text": "The framework connecting strategy and projects",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "PMO Business Case, Organization, Structure & Functions",
+   "items": [
+    {
+     "text": "Overview of portfolios, programs, and projects",
+     "level": 0
+    },
+    {
+     "text": "Developing a robust PMO business case",
+     "level": 0
+    },
+    {
+     "text": "Organizational structures for project management",
+     "level": 0
+    },
+    {
+     "text": "Types and functions of PMOs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Maturity and the PMO",
+   "items": [
+    {
+     "text": "Understanding maturity and capability in project management",
+     "level": 0
+    },
+    {
+     "text": "Steps to elevate the maturity level",
+     "level": 0
+    },
+    {
+     "text": "Conducting a baseline maturity assessment",
+     "level": 0
+    },
+    {
+     "text": "Project management health checks",
+     "level": 0
+    },
+    {
+     "text": "Steps for maturity gap analysis",
+     "level": 0
+    },
+    {
+     "text": "Overview of the Organizational Project Management Maturity Model (PMI-OPM3)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "PMO Planning, Preparation, and Strategy",
+   "items": [
+    {
+     "text": "Crafting the PMO charter",
+     "level": 0
+    },
+    {
+     "text": "Setting objectives and milestones",
+     "level": 0
+    },
+    {
+     "text": "Using gap analysis for milestone setting",
+     "level": 0
+    },
+    {
+     "text": "Strategic phases for implementation",
+     "level": 0
+    },
+    {
+     "text": "Measuring and tracking success metrics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Establishing a Project Management Methodology and PMO Governance",
+   "items": [
+    {
+     "text": "Defining and establishing a project management methodology",
+     "level": 0
+    },
+    {
+     "text": "Steps to create and implement a methodology",
+     "level": 0
+    },
+    {
+     "text": "Key elements and quality dimensions of the methodology",
+     "level": 0
+    },
+    {
+     "text": "Understanding and defining governance",
+     "level": 0
+    },
+    {
+     "text": "Creating a governance framework",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Human Capital and the PMO",
+   "items": [
+    {
+     "text": "Addressing key people management challenges",
+     "level": 0
+    },
+    {
+     "text": "Staffing the PMO with the right talent",
+     "level": 0
+    },
+    {
+     "text": "Identifying competencies and measuring performance",
+     "level": 0
+    },
+    {
+     "text": "Implementing rewards systems and career development paths",
+     "level": 0
+    },
+    {
+     "text": "Leadership development within the PMO",
+     "level": 0
+    },
+    {
+     "text": "Best practices for managing people in a PMO setting",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Knowledge Management and the PMO",
+   "items": [
+    {
+     "text": "Critical success factors in knowledge management",
+     "level": 0
+    },
+    {
+     "text": "The knowledge management process",
+     "level": 0
+    },
+    {
+     "text": "Capturing lessons learned during project closeout",
+     "level": 0
+    },
+    {
+     "text": "Addressing knowledge gaps in project management",
+     "level": 0
+    },
+    {
+     "text": "Positioning the PMO as a community of practice",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and measuring project performance",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

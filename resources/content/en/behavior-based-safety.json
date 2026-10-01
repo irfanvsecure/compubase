@@ -1,0 +1,222 @@
+{
+ "file": "11- Behavior-Based Safety.docx",
+ "title": "Behavior-Based Safety",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to provide managers and safety professionals with an in-depth understanding of their role in implementing and assessing the effectiveness of safety programs. \"How to be a Leader in Safety and Health\" emphasizes the importance of top management’s involvement in guiding the implementation of new health and safety initiatives. It explores the change management process, which can often present challenges for organizations aiming to improve their safety performance. When traditional risk reduction methods fail to achieve the desired outcomes, a new strategy must be introduced. Through real-life examples and interactive exercises, participants will be guided through a step-by-step process that enables them to influence safety policies and procedures within their organizations. Additionally, participants will be equipped to take on leadership roles in promoting and implementing effective health and safety practices."
+ ],
+ "audience": [
+  "This course is aimed at safety officers and other safety professionals involved in the development and implementation of safety practices, as well as those working to integrate safety into the broader organizational culture."
+ ],
+ "methodology": [
+  "This course is highly interactive and participatory, incorporating a variety of pedagogical methods to ensure participants can operate effectively in multi-functional environments. It is built on four key learning pillars: concept learning (lectures and presentations), role playing (group exercises), experience sharing (roundtable discussions), and exposure to real-world challenges and policy decisions."
+ ],
+ "competencies": [
+  "Health and safety management",
+  "Planning and organizing",
+  "Investigating and assessing",
+  "Providing and receiving feedback",
+  "Building rapport",
+  "Analyzing and evaluating",
+  "Leadership"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the roles of management, employees, and communication in improving organizational safety and health.",
+  "Design hazard analysis and control strategies, along with Emergency Action Plans (EAP).",
+  "Develop skills in safety supervision, leadership, and evaluation.",
+  "Conduct effective accident investigations.",
+  "Establish and lead a safety culture program.",
+  "Evaluate and assess the effectiveness of safety and health culture programs post-implementation"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Safety Management",
+   "items": [
+    {
+     "text": "Importance of top management commitment",
+     "level": 0
+    },
+    {
+     "text": "Employee engagement in safety practices",
+     "level": 0
+    },
+    {
+     "text": "The business cost impact of safety",
+     "level": 0
+    },
+    {
+     "text": "Total quality safety management",
+     "level": 0
+    },
+    {
+     "text": "Health and safety management systems",
+     "level": 0
+    },
+    {
+     "text": "Effective communication strategies",
+     "level": 0
+    },
+    {
+     "text": "Analyzing incidents and accidents",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Hazard Analysis, Control, and Emergency Action Plans (EAP)",
+   "items": [
+    {
+     "text": "Defining hazards",
+     "level": 0
+    },
+    {
+     "text": "Strategies for controlling exposure",
+     "level": 0
+    },
+    {
+     "text": "Categorizing hazards",
+     "level": 0
+    },
+    {
+     "text": "Components of an effective EAP",
+     "level": 0
+    },
+    {
+     "text": "Workplace hazard evaluation",
+     "level": 0
+    },
+    {
+     "text": "Steps to developing an EAP",
+     "level": 0
+    },
+    {
+     "text": "Establishing policies and procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Safety Supervision and Leadership",
+   "items": [
+    {
+     "text": "Assigning safety responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Identifying and correcting hazards",
+     "level": 0
+    },
+    {
+     "text": "Ensuring safety accountability",
+     "level": 0
+    },
+    {
+     "text": "Fostering a culture of consequences",
+     "level": 0
+    },
+    {
+     "text": "Understanding the four categories of consequences",
+     "level": 0
+    },
+    {
+     "text": "Implementing tough-caring leadership",
+     "level": 0
+    },
+    {
+     "text": "Leadership styles and their impact on safety",
+     "level": 0
+    },
+    {
+     "text": "The five levels of leadership",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Effective Accident Investigation",
+   "items": [
+    {
+     "text": "Initiating an accident investigation",
+     "level": 0
+    },
+    {
+     "text": "Characteristics of an effective investigation",
+     "level": 0
+    },
+    {
+     "text": "The six-step process for conducting an investigation",
+     "level": 0
+    },
+    {
+     "text": "Interview process and the seven rights of the interviewee",
+     "level": 0
+    },
+    {
+     "text": "Conducting event analysis and identifying causes",
+     "level": 0
+    },
+    {
+     "text": "Writing an investigation report",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Management Aspects of an Effective Safety Culture",
+   "items": [
+    {
+     "text": "Management’s role in safety",
+     "level": 0
+    },
+    {
+     "text": "Demonstrating commitment to safety",
+     "level": 0
+    },
+    {
+     "text": "Elements of a health and safety management system",
+     "level": 0
+    },
+    {
+     "text": "Developing accountability within the team",
+     "level": 0
+    },
+    {
+     "text": "Creating programs that support a safety culture",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Measuring the Safety Culture",
+   "items": [
+    {
+     "text": "Understanding the nature of safety systems",
+     "level": 0
+    },
+    {
+     "text": "Techniques for assessing safety culture",
+     "level": 0
+    },
+    {
+     "text": "The Deming cycle for continuous improvement",
+     "level": 0
+    },
+    {
+     "text": "What to evaluate in safety culture programs",
+     "level": 0
+    },
+    {
+     "text": "Evaluation tools and methods",
+     "level": 0
+    },
+    {
+     "text": "Developing and implementing an action plan",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

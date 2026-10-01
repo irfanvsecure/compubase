@@ -1,0 +1,250 @@
+{
+ "file": "04- International Financial Reporting Standards.docx",
+ "title": "Certificate in International Financial Reporting Standards (CertIFR): Preparation Course",
+ "duration": "5 Days",
+ "overview": [
+  "The Certificate in International Financial Reporting Standards (CertIFR), awarded by the Association of Certified Chartered Accountants (ACCA) in the UK, is a globally recognized certification. This intensive preparation course equips participants with the tools, resources, and expert guidance needed to successfully attain the CertIFR qualification.",
+  "The program provides a comprehensive introduction to International Financial Reporting Standards (IFRS), exploring the evolution of the International Accounting Standards Board (IASB), recent updates, and future developments. Participants will delve into individual IFRS topics with the aid of real-world case studies, exercises, and sample multiple-choice questions. Designed to prepare participants for the certification exam, this course can serve as a springboard to sit for the assessment at the end of the course or at a later date, depending on personal study preferences.",
+  "No prior accounting or auditing experience is required to pursue this certificate. The course includes hard-copy materials and six months of access to online content and assessments. The certification exam is a one-hour, multiple-choice test requiring a minimum passing score of 50%."
+ ],
+ "audience": [
+  "This course is ideal for professional accountants, auditors, or any individuals seeking to enhance their knowledge of international accounting standards. No prior qualifications or experience in accounting or auditing are necessary to enroll."
+ ],
+ "methodology": [
+  "This preparation course adopts an interactive approach, featuring presentations by experienced consultants, practical exercises, group activities, and case studies. Participants will also complete sample multiple-choice questions to familiarize themselves with the exam format."
+ ],
+ "competencies": [
+  "Understanding financial statement accounts",
+  "Financial reporting for account balances and transactions",
+  "Applying IFRS standards",
+  "Keeping up-to-date with IFRS amendments and updates"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the global application of IFRS.",
+  "Explain the structure and operations of the IASB and how standards are developed.",
+  "Analyze the fundamental requirements of IFRS on a standard-by-standard basis.",
+  "Account for various transactions involving assets, liabilities, revenues, and expenses in compliance with IFRS.",
+  "Apply professional judgment when addressing complex business transactions under IFRS.",
+  "Guide their teams on implementing IFRS effectively in practice."
+ ],
+ "outline": [
+  {
+   "title": "1. The IASB: Structure and Function",
+   "items": [
+    {
+     "text": "Overview of the IFRSF/IASB structure",
+     "level": 0
+    },
+    {
+     "text": "Existing IASB standards and framework",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Global Application of IFRS",
+   "items": [
+    {
+     "text": "IFRS adoption worldwide",
+     "level": 0
+    },
+    {
+     "text": "The IASB roadmap and its significance",
+     "level": 0
+    },
+    {
+     "text": "Using the annual IASB bound volume",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Financial Statement Presentation and Revenue",
+   "items": [
+    {
+     "text": "IAS 1: Presentation of financial statements",
+     "level": 0
+    },
+    {
+     "text": "IFRS 15: Revenue from contracts with customers",
+     "level": 0
+    },
+    {
+     "text": "IAS 8: Accounting policies, changes in estimates, and errors",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Accounting for Assets and Liabilities – Part 1",
+   "items": [
+    {
+     "text": "IAS 16: Property, plant, and equipment",
+     "level": 0
+    },
+    {
+     "text": "IAS 38: Intangible assets",
+     "level": 0
+    },
+    {
+     "text": "IAS 40: Investment property",
+     "level": 0
+    },
+    {
+     "text": "IAS 36: Impairment of assets",
+     "level": 0
+    },
+    {
+     "text": "IAS 23: Borrowing costs",
+     "level": 0
+    },
+    {
+     "text": "IAS 20: Government grants and assistance",
+     "level": 0
+    },
+    {
+     "text": "IAS 2: Inventories",
+     "level": 0
+    },
+    {
+     "text": "IAS 17: Leases",
+     "level": 0
+    },
+    {
+     "text": "IFRS 5: Non-current assets held for sale and discontinued operations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Accounting for Assets and Liabilities – Part 2",
+   "items": [
+    {
+     "text": "IFRS 13: Fair value measurement",
+     "level": 0
+    },
+    {
+     "text": "IFRS 32: Financial instruments - presentation",
+     "level": 0
+    },
+    {
+     "text": "IFRS 9: Financial instruments",
+     "level": 0
+    },
+    {
+     "text": "IFRS 7: Financial instrument disclosures",
+     "level": 0
+    },
+    {
+     "text": "IFRS 2: Share-based payment",
+     "level": 0
+    },
+    {
+     "text": "IAS 37: Provisions, contingent liabilities, and contingent assets",
+     "level": 0
+    },
+    {
+     "text": "IAS 10: Events after the reporting period",
+     "level": 0
+    },
+    {
+     "text": "IAS 19: Employee benefits",
+     "level": 0
+    },
+    {
+     "text": "IAS 12: Income taxes",
+     "level": 0
+    },
+    {
+     "text": "IAS 41: Agriculture",
+     "level": 0
+    },
+    {
+     "text": "IFRS 6: Exploration and evaluation of mineral resources",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Group Accounting",
+   "items": [
+    {
+     "text": "IFRS 10: Consolidated financial statements",
+     "level": 0
+    },
+    {
+     "text": "IAS 27 (Revised 2011): Separate financial statements",
+     "level": 0
+    },
+    {
+     "text": "IFRS 3: Business combinations",
+     "level": 0
+    },
+    {
+     "text": "IAS 28 (Revised 2011): Investments in associates and joint ventures",
+     "level": 0
+    },
+    {
+     "text": "IFRS 11: Joint arrangements",
+     "level": 0
+    },
+    {
+     "text": "IFRS 12: Disclosures of interests in other entities",
+     "level": 0
+    },
+    {
+     "text": "IAS 21: Effects of changes in foreign exchange rates",
+     "level": 0
+    },
+    {
+     "text": "IAS 29: Financial reporting in hyperinflationary economies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Disclosure Standards",
+   "items": [
+    {
+     "text": "IAS 7: Statement of cash flows",
+     "level": 0
+    },
+    {
+     "text": "IAS 24: Related party disclosures",
+     "level": 0
+    },
+    {
+     "text": "IAS 33: Earnings per share",
+     "level": 0
+    },
+    {
+     "text": "IAS 34: Interim financial reporting",
+     "level": 0
+    },
+    {
+     "text": "IFRS 4: Insurance contracts",
+     "level": 0
+    },
+    {
+     "text": "IFRS 1: First-time adoption of IFRS",
+     "level": 0
+    },
+    {
+     "text": "IFRS 8: Operating segments",
+     "level": 0
+    },
+    {
+     "text": "Differences between UK/US GAAP and IFRS",
+     "level": 0
+    },
+    {
+     "text": "Proposed changes to IFRS",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

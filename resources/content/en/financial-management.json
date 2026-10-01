@@ -1,0 +1,218 @@
+{
+ "file": "14- Financial Management.docx",
+ "title": "Financial Management",
+ "duration": "5 Days",
+ "overview": [
+  "A solid understanding of financial management is essential for making strategic and operational business decisions. Leaders and managers across all organizational levels must speak the language of finance to build credibility and effectively communicate with finance managers and executives. This knowledge is equally critical for finance and accounting professionals to advance their careers and make sound decisions.",
+  "This comprehensive Financial Management course equips participants with the financial terminology, concepts, and tools required to analyze financial statements, evaluate business performance, and present persuasive business proposals. Through a blend of theoretical and practical approaches, participants will gain the confidence to navigate the complexities of financial management."
+ ],
+ "audience": [
+  "This course is designed for finance professionals, finance managers, corporate controllers, financial controllers, treasury professionals, chief accountants, accounting managers, senior accountants, banking professionals, and corporate business leaders."
+ ],
+ "methodology": [
+  "The course employs an interactive mix of methodologies, including expert-led presentations, group exercises, Excel-based case studies, and hands-on projects. Participants will present their findings to demonstrate their grasp of the subject matter."
+ ],
+ "competencies": [
+  "Financial statement analysis",
+  "Strategic financial management",
+  "Financial modeling and forecasting",
+  "Investment and equity valuation",
+  "Fixed income valuation",
+  "Mergers and acquisitions (M&As)"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Apply core principles of corporate financial management.",
+  "Integrate strategic and operational perspectives into macro financial roles.",
+  "Develop a practical understanding of corporate finance, capital budgeting, and the cost of capital.",
+  "Compare pricing mechanisms for equities and fixed-income securities.",
+  "Build strategic financial planning models for dynamic decision-making.",
+  "Explain the fundamentals of mergers, acquisitions, takeovers, and corporate control."
+ ],
+ "outline": [
+  {
+   "title": "1. The Scope of Corporate Financial Management",
+   "items": [
+    {
+     "text": "The three pillars of financial management",
+     "level": 0
+    },
+    {
+     "text": "Key financial statements: income, balance sheet, and cash flow",
+     "level": 0
+    },
+    {
+     "text": "The significance of cash flow in decision-making",
+     "level": 0
+    },
+    {
+     "text": "Core financial analysis techniques:",
+     "level": 0
+    },
+    {
+     "text": "Vertical analysis and common size statements",
+     "level": 1
+    },
+    {
+     "text": "Horizontal and trend analysis",
+     "level": 1
+    },
+    {
+     "text": "Liquidity, solvency, efficiency, and profitability analysis",
+     "level": 1
+    },
+    {
+     "text": "Time value of money: practical applications using Excel",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Strategic and Operational Financial Planning",
+   "items": [
+    {
+     "text": "Overview of the financial planning process",
+     "level": 0
+    },
+    {
+     "text": "Understanding and calculating the sustainable growth rate",
+     "level": 0
+    },
+    {
+     "text": "Developing pro forma financial statements:",
+     "level": 0
+    },
+    {
+     "text": "Projecting income statements",
+     "level": 1
+    },
+    {
+     "text": "Projecting balance sheets",
+     "level": 1
+    },
+    {
+     "text": "Conducting \"what-if\" scenario analysis",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Corporate Finance, Capital Budgeting, and Cost of Capital",
+   "items": [
+    {
+     "text": "Capital budgeting essentials:",
+     "level": 0
+    },
+    {
+     "text": "Net present value (NPV) as a decision-making tool",
+     "level": 1
+    },
+    {
+     "text": "Internal rate of return (IRR)",
+     "level": 1
+    },
+    {
+     "text": "Discounted payback period",
+     "level": 1
+    },
+    {
+     "text": "Profitability index",
+     "level": 1
+    },
+    {
+     "text": "Calculating the weighted average cost of capital (WACC)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Mergers, Acquisitions, and Corporate Control",
+   "items": [
+    {
+     "text": "Methods of acquisitions and types of mergers",
+     "level": 0
+    },
+    {
+     "text": "Motives driving M&As",
+     "level": 0
+    },
+    {
+     "text": "The five phases of the M&A process",
+     "level": 0
+    },
+    {
+     "text": "Conducting due diligence",
+     "level": 0
+    },
+    {
+     "text": "Common reasons for M&A failures",
+     "level": 0
+    },
+    {
+     "text": "Anti-takeover strategies and measures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Stock and Bond Valuation",
+   "items": [
+    {
+     "text": "Principles of financial instrument valuation",
+     "level": 0
+    },
+    {
+     "text": "Key characteristics of common and preferred stocks",
+     "level": 0
+    },
+    {
+     "text": "Stock valuation techniques:",
+     "level": 0
+    },
+    {
+     "text": "Valuing stocks held for a specific period",
+     "level": 1
+    },
+    {
+     "text": "Valuing stocks held indefinitely",
+     "level": 1
+    },
+    {
+     "text": "Free cash flow valuation approach",
+     "level": 1
+    },
+    {
+     "text": "Fixed income securities and bond valuation:",
+     "level": 0
+    },
+    {
+     "text": "Premiums and discounts",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "6. Working Capital and Financing Decisions",
+   "items": [
+    {
+     "text": "Components of working capital management",
+     "level": 0
+    },
+    {
+     "text": "Conservative vs. aggressive approaches to working capital",
+     "level": 0
+    },
+    {
+     "text": "Strategies for financing current assets",
+     "level": 0
+    },
+    {
+     "text": "Cash conversion cycle and effective cash management",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

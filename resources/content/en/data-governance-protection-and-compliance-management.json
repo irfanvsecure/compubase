@@ -1,0 +1,156 @@
+{
+ "file": "03- Data Governance, Protection and Compliance.docx",
+ "title": "Data Governance, Protection and Compliance Management",
+ "duration": "5 Days",
+ "overview": [
+  "Data Governance and Compliance provide a framework of decision rights and accountability to guide the management of information throughout its lifecycle. This includes defining processes, roles, standards, and metrics that ensure information is used effectively and efficiently to achieve organizational goals. The introduction of the General Data Protection Regulation (GDPR) in 2018 marked a significant shift in global privacy and data protection practices.",
+  "This course offers participants a comprehensive understanding of Data Governance, Privacy, and Data Protection, equipping them with practical skills to manage, plan, and deliver the growing volume of organizational data. It explores international best practices, regulatory requirements, and cybersecurity standards. Topics covered include ISACA standards, ISO 8000, data analysis, big data, master data management (MDM), metadata management, GDPR compliance, and high-profile case studies such as the Facebook-Cambridge Analytica data breach.",
+  "Through group and individual exercises, participants will learn how to apply best practices to enhance data management processes within their organizations."
+ ],
+ "audience": [
+  "This course is designed for IT professionals, document controllers, auditors, site administrators, general managers, and anyone involved in data management and protection. It is also ideal for those familiar with data management principles who wish to deepen their expertise in managing information and records."
+ ],
+ "methodology": [
+  "The course employs a mix of regional and international case studies, interactive exercises, and collaborative teamwork to ensure practical learning and application of concepts."
+ ],
+ "competencies": [
+  "Data Governance",
+  "Information Security Management",
+  "Data Compliance",
+  "Managing Data",
+  "Data Management Policies and Procedures"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Efficiently manage organizational data and information to address privacy, data protection, and cybersecurity risks.",
+  "Identify and implement Data Governance controls, policies, and strategies for secure data lifecycle management.",
+  "Develop action plans to address compliance, audits, legislation, and regulations.",
+  "Initiate and manage Data Governance projects, including defining roles, responsibilities, and risk management strategies.",
+  "Align data management practices with international standards such as ISACA, ISO 8000, and global cybersecurity guidelines."
+ ],
+ "outline": [
+  {
+   "title": "International Data Management Standards",
+   "items": [
+    {
+     "text": "Overview of Data Governance and Management",
+     "level": 0
+    },
+    {
+     "text": "Managing Structured and Unstructured Data",
+     "level": 0
+    },
+    {
+     "text": "Data Lifecycle Management (DLM)",
+     "level": 0
+    },
+    {
+     "text": "Master Data Management (MDM)",
+     "level": 0
+    },
+    {
+     "text": "ISO 8000 - Information and Data Quality",
+     "level": 0
+    },
+    {
+     "text": "Data Management Roles and Responsibilities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Compliance, Regulations, Data Security, and ISO 27001",
+   "items": [
+    {
+     "text": "Data Governance Management Standards and Compliance Frameworks",
+     "level": 0
+    },
+    {
+     "text": "ISACA Auditing Standards",
+     "level": 0
+    },
+    {
+     "text": "General Data Protection Regulation (GDPR) and Privacy",
+     "level": 0
+    },
+    {
+     "text": "Document and Records Management Compliance",
+     "level": 0
+    },
+    {
+     "text": "ISO 27001 Information Security and Cybersecurity",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Analysis, Analytics, Mining, and Reporting",
+   "items": [
+    {
+     "text": "Data Analysis and Modelling",
+     "level": 0
+    },
+    {
+     "text": "Data Analytics and Business Intelligence (BI) Reporting",
+     "level": 0
+    },
+    {
+     "text": "Data Mining Techniques",
+     "level": 0
+    },
+    {
+     "text": "Management Reporting and Business Process Modelling",
+     "level": 0
+    },
+    {
+     "text": "Data Flow Diagrams (DFDs)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Data Governance IT Solutions",
+   "items": [
+    {
+     "text": "Enterprise Content Management Systems",
+     "level": 0
+    },
+    {
+     "text": "Document and Records Management Tools",
+     "level": 0
+    },
+    {
+     "text": "Data Dictionaries, Analysis, and Mining",
+     "level": 0
+    },
+    {
+     "text": "Relational Databases and Indexing",
+     "level": 0
+    },
+    {
+     "text": "Archiving and Data Preservation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Developing Policies, Procedures, and Action Plans",
+   "items": [
+    {
+     "text": "Creating Data Governance Policies",
+     "level": 0
+    },
+    {
+     "text": "Developing Data Lifecycle Management Procedures",
+     "level": 0
+    },
+    {
+     "text": "Formulating Data Governance Action Plans",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

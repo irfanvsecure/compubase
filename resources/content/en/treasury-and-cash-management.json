@@ -1,0 +1,310 @@
+{
+ "file": "07- Treasury and Cash Management.docx",
+ "title": "Treasury and Cash Management",
+ "duration": "5 Days",
+ "overview": [
+  "Effective treasury and cash management is critical for organizations to optimize their use of funds while managing exposure to risks, such as fluctuations in interest rates and foreign exchange rates. This course delves into the key responsibilities of corporate treasury, including cash flow and liquidity management, working capital optimization, accessing debt financing, and managing capital.",
+  "Participants will gain a comprehensive understanding of the tools and techniques necessary for managing treasury risks effectively. This program is designed to provide a strong foundation for professionals seeking to master the principles of treasury and cash management."
+ ],
+ "audience": [
+  "This course is tailored for treasury professionals, financial managers, finance controllers, accountants, bankers, traders, dealers, finance regulators, and corporate professionals involved in treasury and cash management functions."
+ ],
+ "methodology": [
+  "The course employs a blend of interactive techniques, including concise presentations by subject matter experts, practical application of theoretical concepts, and group exercises to foster knowledge sharing and hands-on learning."
+ ],
+ "competencies": [
+  "Treasury and cash management",
+  "Risk analysis and management",
+  "Valuation of equity and fixed income securities",
+  "Hedging strategies",
+  "Accounting for financial instruments"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand and articulate the roles and responsibilities of corporate treasury and its functions.",
+  "Apply modern practices in asset-liability and cash management.",
+  "Develop a practical understanding of financial markets and instruments.",
+  "Measure financial instruments in compliance with IFRS and GAAP.",
+  "Explain the concept of fair value and its impact on financial instruments.",
+  "Differentiate between hedging and speculation and implement treasury-specific hedging strategies."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to the Treasury Function",
+   "items": [
+    {
+     "text": "Definition and responsibilities of the treasury function.",
+     "level": 0
+    },
+    {
+     "text": "The role of treasury professionals.",
+     "level": 0
+    },
+    {
+     "text": "Key risks in treasury management:",
+     "level": 0
+    },
+    {
+     "text": "Credit risk",
+     "level": 1
+    },
+    {
+     "text": "Interest rate risk",
+     "level": 1
+    },
+    {
+     "text": "Liquidity risk",
+     "level": 1
+    },
+    {
+     "text": "Exchange rate risk",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "2. Cash and Liquidity Management",
+   "items": [
+    {
+     "text": "Asset and liability management vs. treasury management.",
+     "level": 0
+    },
+    {
+     "text": "Understanding the cash cycle.",
+     "level": 0
+    },
+    {
+     "text": "Reasons for holding cash: transactional, precautionary, and speculative.",
+     "level": 0
+    },
+    {
+     "text": "Determining the optimal cash balance:",
+     "level": 0
+    },
+    {
+     "text": "Baumol’s Model",
+     "level": 1
+    },
+    {
+     "text": "Miller-Orr Model",
+     "level": 1
+    },
+    {
+     "text": "Techniques for managing collections and disbursements.",
+     "level": 0
+    },
+    {
+     "text": "Ratio analysis for decision-making:",
+     "level": 0
+    },
+    {
+     "text": "Days Sales Outstanding vs. Credit Terms",
+     "level": 1
+    },
+    {
+     "text": "Days Inventory on Hand vs. Lead Time",
+     "level": 1
+    },
+    {
+     "text": "Days of Payables",
+     "level": 1
+    },
+    {
+     "text": "Cash Conversion Cycle",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Corporate Finance Theory",
+   "items": [
+    {
+     "text": "Time value of money and its applications.",
+     "level": 0
+    },
+    {
+     "text": "Steps in the investment management process.",
+     "level": 0
+    },
+    {
+     "text": "Calculating holding period returns.",
+     "level": 0
+    },
+    {
+     "text": "Risk and return concepts:",
+     "level": 0
+    },
+    {
+     "text": "Mean of returns",
+     "level": 1
+    },
+    {
+     "text": "Variance and standard deviation as risk measures",
+     "level": 1
+    },
+    {
+     "text": "Covariance and correlation of returns",
+     "level": 1
+    },
+    {
+     "text": "Interpreting correlation of returns",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "4. Fixed Income Securities and Bonds Valuation",
+   "items": [
+    {
+     "text": "Overview of money markets and instruments.",
+     "level": 0
+    },
+    {
+     "text": "The debt market: Bonds and Sukuk.",
+     "level": 0
+    },
+    {
+     "text": "Risks associated with debt markets:",
+     "level": 0
+    },
+    {
+     "text": "Credit risk",
+     "level": 1
+    },
+    {
+     "text": "Prepayment risk",
+     "level": 1
+    },
+    {
+     "text": "Interest rate risk",
+     "level": 1
+    },
+    {
+     "text": "Techniques for bond valuation.",
+     "level": 0
+    },
+    {
+     "text": "Relationship between price and maturity.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Stock Market and Equity Valuation",
+   "items": [
+    {
+     "text": "Overview of equity instruments: IPOs, seasoned offerings, and private equity.",
+     "level": 0
+    },
+    {
+     "text": "Calculating holding period returns for equity securities.",
+     "level": 0
+    },
+    {
+     "text": "Equity valuation techniques:",
+     "level": 0
+    },
+    {
+     "text": "Discounted Cash Flow (DCF) Model",
+     "level": 1
+    },
+    {
+     "text": "Multiplier Model",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "6. Accounting for Investments: Recognition, Impairment, and Hedge Accounting",
+   "items": [
+    {
+     "text": "Types of investment securities.",
+     "level": 0
+    },
+    {
+     "text": "Classification under IFRS 9:",
+     "level": 0
+    },
+    {
+     "text": "Fair Value Through Profit or Loss (FVTPL)",
+     "level": 1
+    },
+    {
+     "text": "Fair Value Through Other Comprehensive Income (FVTOCI)",
+     "level": 1
+    },
+    {
+     "text": "Amortized Cost",
+     "level": 1
+    },
+    {
+     "text": "Initial recognition and subsequent measurement.",
+     "level": 0
+    },
+    {
+     "text": "Transfers between categories.",
+     "level": 0
+    },
+    {
+     "text": "Impairment of financial assets under IFRS 9:",
+     "level": 0
+    },
+    {
+     "text": "Expected Credit Loss Model",
+     "level": 1
+    },
+    {
+     "text": "Stages 1, 2, and 3 evaluations.",
+     "level": 1
+    },
+    {
+     "text": "Hedge accounting overview:",
+     "level": 0
+    },
+    {
+     "text": "Conditions for hedge accounting.",
+     "level": 1
+    },
+    {
+     "text": "Fair value hedges vs. cash flow hedges.",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "7. Derivatives, Hedging, and Speculation",
+   "items": [
+    {
+     "text": "Introduction to derivatives: forwards, futures, options, and swaps.",
+     "level": 0
+    },
+    {
+     "text": "Differentiating between hedging and speculation.",
+     "level": 0
+    },
+    {
+     "text": "Internal hedging strategies:",
+     "level": 0
+    },
+    {
+     "text": "Investing in home currency",
+     "level": 1
+    },
+    {
+     "text": "Creating natural hedges",
+     "level": 1
+    },
+    {
+     "text": "Currency diversification",
+     "level": 1
+    },
+    {
+     "text": "Mark-ups, counter trades, and currency offsets",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

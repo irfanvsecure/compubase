@@ -1,0 +1,217 @@
+{
+ "file": "08- Managing Supply and Demand.docx",
+ "title": "Managing Supply and Demand",
+ "duration": "3 Days",
+ "overview": [
+  "This course leverages Cesim’s ‘SimFirm’ simulation tool to replicate real-world competitive and operational decision-making scenarios faced by managers. SimFirm is a comprehensive business management simulation that integrates core functional areas such as production, marketing, and logistics, providing participants with a hands-on experience of managing a company from a general management perspective. The simulation covers a range of concepts, linking various management disciplines—marketing, production, logistics, and financial decision-making—while situating the organization within the broader business environment and its stakeholders."
+ ],
+ "audience": [
+  "This course is ideal for managers and business professionals involved in strategic planning and departmental decision-making, as well as those overseeing core business operations or holding management and supervisory roles in support functions."
+ ],
+ "methodology": [
+  "The course uses a web-based simulation with an intuitive graphical interface where participants make strategic decisions. Teams will be tasked with managing the sales and operations of an international pharmaceutical company."
+ ],
+ "competencies": [
+  "Strategic decision-making",
+  "Financial analysis",
+  "Business forecasting",
+  "Sales and marketing acumen",
+  "Critical thinking",
+  "Production and logistics management",
+  "Team collaboration",
+  "Quality management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Gain a comprehensive understanding of running a business from a general management perspective",
+  "Recognize how different companies and external factors interact within a complex, interconnected environment",
+  "Analyze and forecast market trends, using insights to make informed, goal-oriented decisions",
+  "Apply data-driven decision-making techniques, linking decisions to financial outcomes and overall performance",
+  "Work effectively in teams, utilizing collaborative problem-solving methods in a rapidly changing market"
+ ],
+ "outline": [
+  {
+   "title": "The Power of Business Management Simulation",
+   "items": [
+    {
+     "text": "Overview of the simulation platform structure and operations",
+     "level": 0
+    },
+    {
+     "text": "Understanding the flow of business activities",
+     "level": 0
+    },
+    {
+     "text": "Key objectives and success criteria",
+     "level": 0
+    },
+    {
+     "text": "Fundamentals of decision-making",
+     "level": 0
+    },
+    {
+     "text": "Familiarizing teams with case studies",
+     "level": 0
+    },
+    {
+     "text": "Market demand structures and influencing factors",
+     "level": 0
+    },
+    {
+     "text": "Product offerings and market segments",
+     "level": 0
+    },
+    {
+     "text": "Sales and marketing strategies",
+     "level": 0
+    },
+    {
+     "text": "Distribution priorities and production decisions",
+     "level": 0
+    },
+    {
+     "text": "Financial planning and decision-making processes",
+     "level": 0
+    },
+    {
+     "text": "Projections and performance forecasting",
+     "level": 0
+    },
+    {
+     "text": "Decision checklists and report analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Achieving Vision Through Strategy",
+   "items": [
+    {
+     "text": "Gaining a competitive edge with the strategy pyramid",
+     "level": 0
+    },
+    {
+     "text": "Planning for success: determining where to compete and how to win",
+     "level": 0
+    },
+    {
+     "text": "Implementing Porter’s grand strategies",
+     "level": 0
+    },
+    {
+     "text": "Turning strategic plans into actionable results",
+     "level": 0
+    },
+    {
+     "text": "Harnessing teamwork as a key driver of strategy execution",
+     "level": 0
+    },
+    {
+     "text": "Leading teams through challenges and opportunities",
+     "level": 0
+    },
+    {
+     "text": "Resolving conflict and aligning teams toward a common goal",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Product Quality",
+   "items": [
+    {
+     "text": "Investing in production and logistics to maximize quality",
+     "level": 0
+    },
+    {
+     "text": "Enhancing customer satisfaction through high product quality",
+     "level": 0
+    },
+    {
+     "text": "Applying the PDCA (Plan, Do, Check, Act) cycle",
+     "level": 0
+    },
+    {
+     "text": "Managing supply and demand from the customer’s viewpoint",
+     "level": 0
+    },
+    {
+     "text": "Understanding price elasticity and its impact on performance",
+     "level": 0
+    },
+    {
+     "text": "Identifying and managing forces that influence price elasticity",
+     "level": 0
+    },
+    {
+     "text": "Streamlining production and delivery for lean operations",
+     "level": 0
+    },
+    {
+     "text": "Developing a profitable product portfolio",
+     "level": 0
+    },
+    {
+     "text": "Conducting product line profitability analysis",
+     "level": 0
+    },
+    {
+     "text": "Addressing underperforming product lines",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Marketing and Customer Care",
+   "items": [
+    {
+     "text": "Building brand advocates through effective customer care",
+     "level": 0
+    },
+    {
+     "text": "Mastering the 4 Ps of marketing: Product, Price, Place, Promotion",
+     "level": 0
+    },
+    {
+     "text": "Crafting targeted promotion strategies to reach your audience",
+     "level": 0
+    },
+    {
+     "text": "Exploring the role of promotion in enhancing marketing efforts",
+     "level": 0
+    },
+    {
+     "text": "Revealing key customer care strategies for long-term success",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Financial Management and Driving Profitability",
+   "items": [
+    {
+     "text": "Fundamentals of financial management",
+     "level": 0
+    },
+    {
+     "text": "Key differences between accounting and finance",
+     "level": 0
+    },
+    {
+     "text": "Making sound financial decisions to drive growth",
+     "level": 0
+    },
+    {
+     "text": "Analyzing key financial statements for business insight",
+     "level": 0
+    },
+    {
+     "text": "Understanding five critical financial ratios that determine business success",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

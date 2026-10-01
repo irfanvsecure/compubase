@@ -1,0 +1,266 @@
+{
+ "file": "11- Basel III, Risk Assessment and Stress Testin.docx",
+ "title": "Basel III, Risk Assessment and Stress Testing",
+ "duration": "5 Days",
+ "overview": [
+  "This intermediate-level course delves into the key provisions of the Basel III regulatory framework, emphasizing risk assessment practices within banks and the critical role of stress testing. Participants will gain an in-depth understanding of internal risk assessments under Basel III, with a particular focus on the ICAAP process.",
+  "The course provides a detailed analysis of the importance of stress testing for financial institutions, including its methodologies and significance to regulators, especially in the post-2008 financial landscape. Participants will examine scenarios that could lead to significant credit losses, operational challenges, liquidity stress, and even jeopardize the survival of financial institutions."
+ ],
+ "audience": [
+  "This course is ideal for professionals in the banking industry, including wealth managers, auditors, treasury professionals, and product control specialists."
+ ],
+ "methodology": [
+  "The course employs a variety of learning methods, including detailed presentations, case studies, and hands-on examination of Excel models, delivered in an interactive workshop-style environment."
+ ],
+ "competencies": [
+  "Regulatory compliance",
+  "Scenario creation and analysis",
+  "Stress testing techniques",
+  "Best practice implementation for stress modeling",
+  "Strategic thought leadership in risk management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Comprehend the critical components of the Basel III regulatory framework.",
+  "Assess credit, market, and operational risks using key metrics and procedures.",
+  "Recognize the central role of stress testing in risk management.",
+  "Analyze concentrations of credit risk, funding risk, and systemic liquidity risk.",
+  "Develop and implement best practices for stress modeling and risk management protocols."
+ ],
+ "outline": [
+  {
+   "title": "1. Understanding the Role of Regulatory Bank Capital",
+   "items": [
+    {
+     "text": "Overview of bank financial statements and accounting principles.",
+     "level": 0
+    },
+    {
+     "text": "Analysis of assets and liabilities on the balance sheet.",
+     "level": 0
+    },
+    {
+     "text": "Key components of the profit and loss (P&L) statement.",
+     "level": 0
+    },
+    {
+     "text": "Differences between banking and trading books.",
+     "level": 0
+    },
+    {
+     "text": "Equity capital and its impact on liquidity and solvency.",
+     "level": 0
+    },
+    {
+     "text": "Distinction between going concern and gone concern capital.",
+     "level": 0
+    },
+    {
+     "text": "Explanation of bail-in capital and prudential filters.",
+     "level": 0
+    },
+    {
+     "text": "Treatment of goodwill, intangibles, deferred tax assets, and securitizations.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Basel III Capital Requirements",
+   "items": [
+    {
+     "text": "Definitions of regulatory capital: Core Tier 1 and Tier 2.",
+     "level": 0
+    },
+    {
+     "text": "Core Tier 1: equity capital and disclosed reserves.",
+     "level": 0
+    },
+    {
+     "text": "Tier 2 capital: supplementary capital and supervisory discretion.",
+     "level": 0
+    },
+    {
+     "text": "Loss absorbency requirements and deductions from capital.",
+     "level": 0
+    },
+    {
+     "text": "Treatment of cross-holdings and hybrid capital instruments.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Basel Treatment of Market Risk",
+   "items": [
+    {
+     "text": "Value at Risk (VaR): rationale, methods, and limitations.",
+     "level": 0
+    },
+    {
+     "text": "Tail risk and its implications for financial stability.",
+     "level": 0
+    },
+    {
+     "text": "Risk weightings and standardized approaches.",
+     "level": 0
+    },
+    {
+     "text": "Interest rate risk in the trading and banking books.",
+     "level": 0
+    },
+    {
+     "text": "Incremental Risk Charge and volatility during market stress.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Operational Risk Under Basel",
+   "items": [
+    {
+     "text": "Definition and lifecycle of operational risk.",
+     "level": 0
+    },
+    {
+     "text": "Basel measurement approaches: Basic Indicator, Standard, and Advanced Measurement.",
+     "level": 0
+    },
+    {
+     "text": "Quantifying and managing tail risks using techniques like Op VaR and Scenario-Based Analysis.",
+     "level": 0
+    },
+    {
+     "text": "Integrating operational risk into organizational risk frameworks.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Credit Risk Alternatives",
+   "items": [
+    {
+     "text": "Internal scoring models for corporate loan exposures.",
+     "level": 0
+    },
+    {
+     "text": "Credit risk assessment approaches in developed and emerging economies.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Credit Concentration Risk and Large Exposures",
+   "items": [
+    {
+     "text": "Identifying and quantifying concentration risk.",
+     "level": 0
+    },
+    {
+     "text": "Sectoral risk assessment and the ICAAP framework.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Stress Testing and Risk Modeling",
+   "items": [
+    {
+     "text": "Techniques for conducting stress tests and generating scenarios.",
+     "level": 0
+    },
+    {
+     "text": "Back-testing using historical data and hypothetical returns.",
+     "level": 0
+    },
+    {
+     "text": "Challenges of over-fitting and limitations of normal distribution models.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Counterparty Risk (CCR)",
+   "items": [
+    {
+     "text": "Estimating Probability of Default (PD) and Exposure at Default (EAD).",
+     "level": 0
+    },
+    {
+     "text": "Understanding Expected Positive Exposure (EPE) and Loss Given Default (LGD).",
+     "level": 0
+    },
+    {
+     "text": "Counterparty risk in swaps and credit derivatives.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "9. Credit Value Adjustment (CVA) and Collateral Management",
+   "items": [
+    {
+     "text": "Definition and calculation of CVA.",
+     "level": 0
+    },
+    {
+     "text": "Role of collateralization and netting in mitigating risk.",
+     "level": 0
+    },
+    {
+     "text": "Impact of collateral on risk exposure and credit adjustments.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "10. Liquidity Coverage Ratio (LCR)",
+   "items": [
+    {
+     "text": "Explanation of LCR and High-Quality Liquid Assets (HQLA).",
+     "level": 0
+    },
+    {
+     "text": "Net Stable Funding Ratio (NSFR) and associated weighting factors.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "11. Impact of Basel III on Banking Models",
+   "items": [
+    {
+     "text": "Effects of LCR on balance sheet exposures and macro liquidity.",
+     "level": 0
+    },
+    {
+     "text": "Role of contingent capital instruments (CoCo’s) in capital adequacy.",
+     "level": 0
+    },
+    {
+     "text": "Implications of Basel III on return on equity and collateral shortages.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "12. Basel Compliance and Reporting Systems",
+   "items": [
+    {
+     "text": "Monitoring and reporting mechanisms for risk management.",
+     "level": 0
+    },
+    {
+     "text": "Role of the Chief Risk Officer and Internal Auditor.",
+     "level": 0
+    },
+    {
+     "text": "Development of dashboards for Key Risk Indicators (KRIs).",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

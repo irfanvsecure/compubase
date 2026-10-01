@@ -1,0 +1,221 @@
+{
+ "file": "11- Warehouse Operations and Managemen.docx",
+ "title": "Warehouse Operations and Management",
+ "duration": "3 Days",
+ "overview": [
+  "Managing inventories that can total millions of dollars requires an efficient warehouse to store, maintain, and protect these valuable assets. In this course, we will explore the best and most current methods for storing and safeguarding high-value inventories, as well as the essential characteristics of a modern warehouse. Understanding what inventory you have and how much is crucial for effective warehousing management. We will delve into various techniques for achieving record accuracy and conducting successful cycle counts, utilizing a scientific approach to auditing the warehouse."
+ ],
+ "audience": [
+  "This course is intended for individuals involved in warehousing operations, both at operational and supervisory levels. It is also suitable for anyone interested in learning more about the relationship between warehousing and other materials management functions."
+ ],
+ "methodology": [
+  "The course employs a variety of interactive learning methods, including videos, questionnaires, case studies, team and individual exercises, as well as group discussions."
+ ],
+ "competencies": [
+  "Warehouse operations",
+  "Customer service",
+  "Record accuracy",
+  "Staff relations",
+  "Safety management",
+  "Warehouse auditing"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Articulate the challenges, objectives, and functions of warehousing",
+  "Conduct ABC inventory classification and cycle counting, calculating record accuracy and discrepancies",
+  "Identify different types of storage and material handling systems",
+  "Enhance supervisory skills and effectively address warehouse staff issues",
+  "Foster better housekeeping and safety practices within the warehouse",
+  "Measure warehouse productivity using appropriate Key Performance Indicators (KPIs) and conduct a scientific audit of the warehouse"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Warehousing Management",
+   "items": [
+    {
+     "text": "Objectives of warehousing",
+     "level": 0
+    },
+    {
+     "text": "Characteristics of the modern warehouse",
+     "level": 0
+    },
+    {
+     "text": "The warehousing cycle",
+     "level": 0
+    },
+    {
+     "text": "Challenges and problems in warehousing",
+     "level": 0
+    },
+    {
+     "text": "Warehousing and inventory costs",
+     "level": 0
+    },
+    {
+     "text": "Customer service aspects of warehousing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Inventory Classification and Record Accuracy",
+   "items": [
+    {
+     "text": "Types of inventory",
+     "level": 0
+    },
+    {
+     "text": "ABC classification method",
+     "level": 0
+    },
+    {
+     "text": "Applications of ABC classification",
+     "level": 0
+    },
+    {
+     "text": "Achieving inventory record accuracy",
+     "level": 0
+    },
+    {
+     "text": "Common reasons for poor accuracy",
+     "level": 0
+    },
+    {
+     "text": "Periodic and cycle counting",
+     "level": 0
+    },
+    {
+     "text": "Counting systems and methodologies",
+     "level": 0
+    },
+    {
+     "text": "Understanding warehouse contents",
+     "level": 0
+    },
+    {
+     "text": "Monitoring inventory levels",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Storage and Material Handling Systems",
+   "items": [
+    {
+     "text": "Warehouse layout considerations",
+     "level": 0
+    },
+    {
+     "text": "Size and shape of the warehouse",
+     "level": 0
+    },
+    {
+     "text": "Optimizing storage utilization and organization",
+     "level": 0
+    },
+    {
+     "text": "Types of storage systems",
+     "level": 0
+    },
+    {
+     "text": "Fixed vs. random storage locations",
+     "level": 0
+    },
+    {
+     "text": "Material handling equipment",
+     "level": 0
+    },
+    {
+     "text": "Equipment checklist for material handling",
+     "level": 0
+    },
+    {
+     "text": "Enhancing receiving and issuing material operations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Dealing with Staff-Related Warehousing Issues",
+   "items": [
+    {
+     "text": "Key responsibilities of the warehouse manager",
+     "level": 0
+    },
+    {
+     "text": "Common staff management challenges",
+     "level": 0
+    },
+    {
+     "text": "Techniques for corrective guidance",
+     "level": 0
+    },
+    {
+     "text": "Attributes of an effective warehouse employee",
+     "level": 0
+    },
+    {
+     "text": "Motivating warehouse personnel",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Safety in the Warehouse",
+   "items": [
+    {
+     "text": "Maintaining good housekeeping practices",
+     "level": 0
+    },
+    {
+     "text": "Identifying safety hazards",
+     "level": 0
+    },
+    {
+     "text": "Recognizing unsafe acts and conditions",
+     "level": 0
+    },
+    {
+     "text": "Causes of damage in the warehouse",
+     "level": 0
+    },
+    {
+     "text": "Developing safety plans",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Productivity and Audit of a Warehouse",
+   "items": [
+    {
+     "text": "Defining productivity in warehousing",
+     "level": 0
+    },
+    {
+     "text": "Identifying causes of lost time",
+     "level": 0
+    },
+    {
+     "text": "Key performance indicators for warehousing",
+     "level": 0
+    },
+    {
+     "text": "Objectives of warehouse audits",
+     "level": 0
+    },
+    {
+     "text": "Components of an effective audit",
+     "level": 0
+    },
+    {
+     "text": "Steps to take before, during, and after conducting an audit",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

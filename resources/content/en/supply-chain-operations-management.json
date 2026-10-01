@@ -1,0 +1,247 @@
+{
+ "file": "12- Supply Chain Operations Management.docx",
+ "title": "Supply Chain Operations Management",
+ "duration": "3 Days",
+ "overview": [
+  "Weak supply chains can disrupt the flow of goods and services, leading to increased costs and decreased customer satisfaction. Additionally, ineffective operations can have detrimental effects on society and the environment. This course focuses on practices that strengthen and sustain supply chains in the face of change.",
+  "We begin by examining the characteristics of robust and sustainable supply chains, followed by an overview of product and logistics design principles to optimize performance. We also delve into continuity planning strategies for managing supply chain risks and disruptions. Finally, we will discuss how to enhance supply chain resilience through effective stakeholder engagement and progressive sustainability principles."
+ ],
+ "audience": [
+  "This course is designed for supply chain professionals across various functions, including planning, procurement, warehousing, transportation, logistics, and inventory management."
+ ],
+ "methodology": [
+  "The course incorporates a mix of individual and team exercises, assessments, case studies, games, videos, and discussion forums."
+ ],
+ "competencies": [
+  "Supply chain management",
+  "Logistics",
+  "Procurement",
+  "Supply chain design",
+  "Continuity planning",
+  "Sustainability",
+  "Stakeholder engagement",
+  "Vendor relations",
+  "Work ethics"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify the key elements of strong supply chains that support continuity and sustainability",
+  "Outline best practices for supply chain design to achieve optimal performance",
+  "Participate in continuity planning to effectively manage supply chain interruptions",
+  "Develop strategies for stakeholder engagement to enhance supply stream resilience",
+  "Recognize the importance of ethical, sustainable, and responsible practices as foundational to strong supply chains"
+ ],
+ "outline": [
+  {
+   "title": "Features of Strong Supply Chains",
+   "items": [
+    {
+     "text": "Overview and objectives of supply chains",
+     "level": 0
+    },
+    {
+     "text": "Strategic, tactical, and operational elements",
+     "level": 0
+    },
+    {
+     "text": "Impact of supply chains on society and the environment",
+     "level": 0
+    },
+    {
+     "text": "Defining “strength” and “resilience” in supply chains",
+     "level": 0
+    },
+    {
+     "text": "Supply and operations planning",
+     "level": 0
+    },
+    {
+     "text": "Fit-for-purpose design",
+     "level": 0
+    },
+    {
+     "text": "Resilience in the face of change",
+     "level": 0
+    },
+    {
+     "text": "Aligning supply chains with corporate strategy",
+     "level": 0
+    },
+    {
+     "text": "Building stakeholder relations",
+     "level": 0
+    },
+    {
+     "text": "Using strong principles as a guide for decision-making",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Design Principles for Resilient Supply Chains",
+   "items": [
+    {
+     "text": "Competencies required for supply chain personnel",
+     "level": 0
+    },
+    {
+     "text": "Attracting and acquiring talent",
+     "level": 0
+    },
+    {
+     "text": "Developing and retaining competencies",
+     "level": 0
+    },
+    {
+     "text": "Process design to enhance productivity",
+     "level": 0
+    },
+    {
+     "text": "Supporting technologies and systems",
+     "level": 0
+    },
+    {
+     "text": "Fundamental data analytics",
+     "level": 0
+    },
+    {
+     "text": "Performance measurement and improvement",
+     "level": 0
+    },
+    {
+     "text": "Product and service design principles for operational efficiency",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Supply Continuity Planning",
+   "items": [
+    {
+     "text": "Introduction to risk and continuity planning",
+     "level": 0
+    },
+    {
+     "text": "Overview of the risk and continuity planning process",
+     "level": 0
+    },
+    {
+     "text": "Key terms and concepts in risk management",
+     "level": 0
+    },
+    {
+     "text": "Identifying supply chain risks",
+     "level": 0
+    },
+    {
+     "text": "Creating risk charters and documentation",
+     "level": 0
+    },
+    {
+     "text": "Conducting risk analysis",
+     "level": 0
+    },
+    {
+     "text": "Measuring the impact and likelihood of risks",
+     "level": 0
+    },
+    {
+     "text": "Quantifying risks",
+     "level": 0
+    },
+    {
+     "text": "Mapping risks using heat maps",
+     "level": 0
+    },
+    {
+     "text": "Developing risk response strategies",
+     "level": 0
+    },
+    {
+     "text": "Managing the risk charter",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and controlling supply chain risks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Stakeholder Engagement",
+   "items": [
+    {
+     "text": "Identifying key stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Segregating suppliers",
+     "level": 0
+    },
+    {
+     "text": "Engaging demand-side partners",
+     "level": 0
+    },
+    {
+     "text": "Understanding internal influencers",
+     "level": 0
+    },
+    {
+     "text": "Developing a comprehensive communications plan",
+     "level": 0
+    },
+    {
+     "text": "Ensuring message clarity and scope",
+     "level": 0
+    },
+    {
+     "text": "Mapping stakeholders and tailoring messaging",
+     "level": 0
+    },
+    {
+     "text": "Distributing roles effectively",
+     "level": 0
+    },
+    {
+     "text": "Managing change",
+     "level": 0
+    },
+    {
+     "text": "Addressing the technical, political, and emotional aspects of change",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Ethical Principles as a Core Strength",
+   "items": [
+    {
+     "text": "Establishing a code of ethical conduct",
+     "level": 0
+    },
+    {
+     "text": "Understanding corporate culture and risk appetite",
+     "level": 0
+    },
+    {
+     "text": "Considering cultural, ethical, and legal factors",
+     "level": 0
+    },
+    {
+     "text": "Integrating sustainability into supply chains",
+     "level": 0
+    },
+    {
+     "text": "Promoting financial, environmental, and social sustainability",
+     "level": 0
+    },
+    {
+     "text": "Implementing responsibility programs across supply chain tiers",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

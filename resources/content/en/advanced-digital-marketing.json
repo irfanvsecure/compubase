@@ -1,0 +1,222 @@
+{
+ "file": "25- Advanced Digital Marketing.docx",
+ "title": "Advanced Digital Marketing",
+ "duration": "3 Days",
+ "overview": [
+  "The Advanced Digital Marketing course equips participants with in-depth knowledge and advanced strategies across key areas of digital marketing. Building on existing experience, this course covers sophisticated techniques for social media, influencer marketing, search engine marketing, video, and email marketing. Participants will have the opportunity to apply what they learn to their own campaigns throughout the course, enhancing their skills in real-time."
+ ],
+ "audience": [
+  "This course is designed for professionals in digital marketing, sales, media, web development, and management, as well as anyone with prior digital marketing experience who is looking to expand their expertise and elevate their digital marketing skills to an advanced level."
+ ],
+ "methodology": [
+  "Highly interactive and hands-on, the course encourages participants to work on their own campaigns, applying advanced concepts and strategies as they progress."
+ ],
+ "competencies": [
+  "Advanced social media advertising techniques",
+  "Advanced search and display advertising strategies",
+  "Video marketing execution",
+  "Email marketing campaign management",
+  "Website critique and Conversion Rate Optimization (CRO)"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Leverage advanced advertising techniques on social media platforms",
+  "Utilize advanced features for Google Paid Search and Display Ads",
+  "Design and manage impactful video marketing campaigns",
+  "Develop and optimize engaging email marketing campaigns",
+  "Understand and implement Conversion Rate Optimization (CRO) to enhance website performance",
+  "Analyze and optimize key digital marketing metrics along the marketing funnel",
+  "Harness the power of influencer and affiliate marketing for broader reach and impact"
+ ],
+ "outline": [
+  {
+   "title": "Digital Marketing Fundamentals Refresher",
+   "items": [
+    {
+     "text": "Crafting an effective digital marketing strategy",
+     "level": 0
+    },
+    {
+     "text": "The online buyer’s journey",
+     "level": 0
+    },
+    {
+     "text": "Key digital marketing metrics:",
+     "level": 0
+    },
+    {
+     "text": "Click-Through Rate (CTR)",
+     "level": 1
+    },
+    {
+     "text": "Cost Per Click (CPC)",
+     "level": 1
+    },
+    {
+     "text": "Cost Per Mille (CPM)",
+     "level": 1
+    },
+    {
+     "text": "Conversion Rate (CR)",
+     "level": 1
+    },
+    {
+     "text": "Engagement Rate (ER)",
+     "level": 1
+    },
+    {
+     "text": "Return on Investment (ROI)",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Advanced Social Media Advertising Techniques",
+   "items": [
+    {
+     "text": "Advanced ad campaigns for Facebook and Instagram",
+     "level": 0
+    },
+    {
+     "text": "Setting up native landing pages on Facebook to generate leads",
+     "level": 0
+    },
+    {
+     "text": "Creating custom and lookalike audiences",
+     "level": 0
+    },
+    {
+     "text": "Tracking conversions using pixels",
+     "level": 0
+    },
+    {
+     "text": "Advertising strategies for Twitter",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Advanced Paid Search and Display Advertising",
+   "items": [
+    {
+     "text": "Advanced keyword optimization",
+     "level": 0
+    },
+    {
+     "text": "Utilizing the opportunities tab",
+     "level": 0
+    },
+    {
+     "text": "Call extensions and ad targeting criteria",
+     "level": 0
+    },
+    {
+     "text": "Bid optimization strategies",
+     "level": 0
+    },
+    {
+     "text": "Programmatic advertising overview",
+     "level": 0
+    },
+    {
+     "text": "Creating responsive display ads and remarketing lists",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Video Marketing",
+   "items": [
+    {
+     "text": "Introduction to video marketing",
+     "level": 0
+    },
+    {
+     "text": "Advertising on YouTube",
+     "level": 0
+    },
+    {
+     "text": "TrueView in-stream ads, Bumper ads, and Discovery ads",
+     "level": 0
+    },
+    {
+     "text": "Optimizing video marketing results",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Email Marketing Techniques",
+   "items": [
+    {
+     "text": "Best practices in email marketing",
+     "level": 0
+    },
+    {
+     "text": "Introduction to MailChimp",
+     "level": 0
+    },
+    {
+     "text": "Building and optimizing newsletters with MailChimp",
+     "level": 0
+    },
+    {
+     "text": "Analyzing and interpreting email marketing reports",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Pillars of Conversion Rate Optimization (CRO)",
+   "items": [
+    {
+     "text": "Strategic thinking for advanced digital marketers",
+     "level": 0
+    },
+    {
+     "text": "Fundamentals of A/B testing",
+     "level": 0
+    },
+    {
+     "text": "Case studies and tools for A/B testing",
+     "level": 0
+    },
+    {
+     "text": "Live website critique and analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Influencers and Affiliate Marketing",
+   "items": [
+    {
+     "text": "Overview of influencer marketing",
+     "level": 0
+    },
+    {
+     "text": "Effective techniques for influencer marketing success",
+     "level": 0
+    },
+    {
+     "text": "Case studies in influencer marketing",
+     "level": 0
+    },
+    {
+     "text": "Introduction to affiliate marketing",
+     "level": 0
+    },
+    {
+     "text": "Best practices and strategies for successful affiliate marketing",
+     "level": 0
+    },
+    {
+     "text": "Case studies in affiliate marketing",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

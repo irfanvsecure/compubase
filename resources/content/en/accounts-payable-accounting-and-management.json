@@ -1,0 +1,205 @@
+{
+ "file": "02- Accounts Payable Accounting and Management.docx",
+ "title": "Accounts Payable: Accounting and Management",
+ "duration": "5 Days",
+ "overview": [
+  "Accounts Payable (AP) is more than just processing checks and maintaining records—it plays a critical role in the financial health of an organization. Effective AP management requires a solid understanding of its foundational components, such as customer service, vendor management, check requests, and Purchase Orders (POs).",
+  "This course provides a comprehensive exploration of AP processes, including invoice handling, error prevention, audit preparation, and the integration of technology. Participants will also learn best practices to transform their AP department into a valuable business partner within their organization."
+ ],
+ "audience": [
+  "This course is ideal for accounts payable managers, staff, clerks, and specialists seeking career advancement. It is also beneficial for professionals in accounting, finance, purchasing, and procurement who interact closely with accounts payable functions."
+ ],
+ "methodology": [
+  "The course combines theoretical insights with practical applications, including the use of Microsoft Excel for managing accounts payable. Participants will engage in role-playing exercises and deliver presentations to reinforce their understanding of key concepts."
+ ],
+ "competencies": [
+  "Understanding the role and impact of accounts payable",
+  "Performing month-end accruals",
+  "Implementing three-way matching for accuracy",
+  "Preparing and analyzing accounts payable aging reports",
+  "Preventing fraud in accounts payable",
+  "Applying best practices in AP management",
+  "Utilizing early payment discount strategies",
+  "Using Excel for data analysis and reporting"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the role of accounts payable within an organization.",
+  "Apply accounting principles to manage accounts payable effectively.",
+  "Take a leadership role in optimizing AP operations.",
+  "Assess and improve AP processes using best practices.",
+  "Enhance staff efficiency and productivity by addressing key challenges.",
+  "Leverage Excel tools and techniques to manage and monitor AP performance."
+ ],
+ "outline": [
+  {
+   "title": "1. The Strategic Role of Accounts Payable (AP)",
+   "items": [
+    {
+     "text": "Definition and importance of AP management",
+     "level": 0
+    },
+    {
+     "text": "AP’s influence on working capital and cash flow management",
+     "level": 0
+    },
+    {
+     "text": "Functions and responsibilities of the AP department and its staff",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Accounting Fundamentals for Accounts Payable",
+   "items": [
+    {
+     "text": "Key AP terminologies",
+     "level": 0
+    },
+    {
+     "text": "Understanding the general ledger and sub-ledger",
+     "level": 0
+    },
+    {
+     "text": "Month-end close processes and accruals",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. AP Processes and Best Practices",
+   "items": [
+    {
+     "text": "Efficient invoice handling and routing",
+     "level": 0
+    },
+    {
+     "text": "The three-way matching process for validation",
+     "level": 0
+    },
+    {
+     "text": "Payment processing methods",
+     "level": 0
+    },
+    {
+     "text": "Managing the vendor master file",
+     "level": 0
+    },
+    {
+     "text": "Travel & Entertainment (T&E) and procurement card (P-Card) management",
+     "level": 0
+    },
+    {
+     "text": "Exploring electronic payment options",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Key Topics in AP Management",
+   "items": [
+    {
+     "text": "Operational analysis and benchmarking",
+     "level": 0
+    },
+    {
+     "text": "Continuous improvement and performance metrics",
+     "level": 0
+    },
+    {
+     "text": "Establishing robust internal controls",
+     "level": 0
+    },
+    {
+     "text": "Adding value through annual audits",
+     "level": 0
+    },
+    {
+     "text": "Detecting and preventing fraud in AP processes",
+     "level": 0
+    },
+    {
+     "text": "Disaster recovery planning",
+     "level": 0
+    },
+    {
+     "text": "Evaluating the impact of AP outsourcing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Enhancing AP Department Operations",
+   "items": [
+    {
+     "text": "Improving AP’s image within the organization",
+     "level": 0
+    },
+    {
+     "text": "Motivating and organizing AP staff",
+     "level": 0
+    },
+    {
+     "text": "Bridging communication gaps",
+     "level": 0
+    },
+    {
+     "text": "Resolving internal and external disputes",
+     "level": 0
+    },
+    {
+     "text": "Delivering exceptional internal customer service",
+     "level": 0
+    },
+    {
+     "text": "Building strong vendor relationships",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Transforming AP into a Business Partner",
+   "items": [
+    {
+     "text": "Optimizing payment schedules",
+     "level": 0
+    },
+    {
+     "text": "Understanding cost of funds and early payment discounts",
+     "level": 0
+    },
+    {
+     "text": "Evaluating the pros and cons of payment timing strategies",
+     "level": 0
+    },
+    {
+     "text": "Strengthening collaboration with the treasury department",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Leveraging Microsoft Excel for AP Management",
+   "items": [
+    {
+     "text": "Integrating AP systems with Excel",
+     "level": 0
+    },
+    {
+     "text": "Using pivot tables for data analysis and insights",
+     "level": 0
+    },
+    {
+     "text": "Preparing and interpreting AP aging reports",
+     "level": 0
+    },
+    {
+     "text": "Enhancing supplier terms through AP data analysis",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

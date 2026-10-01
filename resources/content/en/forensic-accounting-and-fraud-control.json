@@ -1,0 +1,137 @@
+{
+ "file": "01- Forensic Accounting and Fraud Control.docx",
+ "title": "Forensic Accounting and Fraud Control",
+ "duration": "5 Days",
+ "overview": [
+  "Forensic accounting and fraud auditing are critical fields gaining prominence as fraud and accounting scandals become more widespread. This course bridges the gap between theoretical knowledge and practical application, equipping participants with tools to detect and mitigate fraud. It empowers professionals to enhance organizational value through effective fraud controls and forensic analysis of data."
+ ],
+ "audience": [
+  "This course is ideal for finance and accounting professionals, including controllers, accounting managers, senior accountants, analysts, and internal or external auditors, seeking to sharpen their forensic accounting and fraud detection skills."
+ ],
+ "methodology": [
+  "The course employs a dynamic mix of instructor-led presentations, hands-on group and individual exercises, and real-life case studies. Participants will also learn to apply analytical tools in MS Excel to detect and manage fraud."
+ ],
+ "competencies": [
+  "Mastering forensic accounting concepts.",
+  "Conducting forensic audits.",
+  "Analyzing financial data to detect irregularities.",
+  "Preventing and identifying fraud.",
+  "Utilizing Excel for comprehensive data analysis and fraud control."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define fraud and forensic accounting principles.",
+  "Implement fraud prevention measures to reduce organizational risks.",
+  "Utilize Microsoft Office tools to identify and report fraudulent activities.",
+  "Apply statistical and forensic tools for data analysis.",
+  "Support internal audit and senior management in identifying data irregularities.",
+  "Leverage Excel to uncover suspicious patterns for further investigation.",
+  "Detect fraud and anomalies efficiently using Excel."
+ ],
+ "outline": [
+  {
+   "title": "Fraud and Forensic Accounting",
+   "items": [
+    {
+     "text": "Introduction to fraud and the fraud triangle",
+     "level": 0
+    },
+    {
+     "text": "Profile of fraudsters",
+     "level": 0
+    },
+    {
+     "text": "Basics of forensic accounting and fraud examination",
+     "level": 0
+    },
+    {
+     "text": "Corporate governance, ethics, and code of conduct",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fraud Schemes and Controls",
+   "items": [
+    {
+     "text": "Financial statement manipulation",
+     "level": 0
+    },
+    {
+     "text": "Corruption and asset misappropriation schemes",
+     "level": 0
+    },
+    {
+     "text": "Recognizing red flags",
+     "level": 0
+    },
+    {
+     "text": "Fraud detection, response, and prevention strategies",
+     "level": 0
+    },
+    {
+     "text": "Strengthening internal controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Forensic Analysis with MS Office",
+   "items": [
+    {
+     "text": "Importing and analyzing data in Excel",
+     "level": 0
+    },
+    {
+     "text": "Data protection in Excel",
+     "level": 0
+    },
+    {
+     "text": "Creating reports in Word and PowerPoint",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "High-Level Data Tests",
+   "items": [
+    {
+     "text": "Profiling data using periodic graphs and histograms",
+     "level": 0
+    },
+    {
+     "text": "Applying Excel for data profiling",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Utilizing Benford’s Law",
+   "items": [
+    {
+     "text": "Identifying anomalies through digit tests, Chi-Square, and other statistical methods",
+     "level": 0
+    },
+    {
+     "text": "Advanced tests like second-order and summation tests",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Identifying Fraud and Anomalies Using Excel",
+   "items": [
+    {
+     "text": "Applying tests such as largest growth, relative size factor, and correlation analysis",
+     "level": 0
+    },
+    {
+     "text": "Performing time-series analysis and subset duplication detection",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

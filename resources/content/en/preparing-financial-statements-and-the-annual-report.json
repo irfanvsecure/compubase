@@ -1,0 +1,189 @@
+{
+ "file": "20- Preparing Financial Statements and the Annua.docx",
+ "title": "Preparing Financial Statements and the Annual Report",
+ "duration": "5 Days",
+ "overview": [
+  "Financial statements and the annual report are essential tools for communicating a company’s financial health and performance to stakeholders. This course is designed to equip participants with the skills to prepare financial statements in compliance with International Financial Reporting Standards (IFRS), ensuring transparency, accuracy, and credibility in financial reporting."
+ ],
+ "audience": [
+  "This course is ideal for senior and junior accountants, accounting and finance professionals, chief accountants, accounting managers and supervisors, financial controllers, and anyone looking to enhance or update their skills in preparing financial statements and related notes."
+ ],
+ "methodology": [
+  "The course combines theoretical concepts with practical applications, introducing participants to Excel for financial statement preparation. Participants will also engage with real-world case studies and deliver presentations to reinforce their learning."
+ ],
+ "competencies": [
+  "Mastering the accounting cycle",
+  "Designing and managing chart of accounts",
+  "Performing and reviewing accounting adjustments",
+  "Preparing and analyzing financial statements (income, balance sheet, cash flow)",
+  "Developing comprehensive financial statement notes",
+  "Utilizing Excel for financial reporting"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain the components and process of the accounting cycle.",
+  "Design and maintain an effective chart of accounts.",
+  "Perform accounting adjustments, including deferrals and accruals.",
+  "Create trial balances and adjusted trial balances.",
+  "Map charts of accounts to financial statements accurately.",
+  "Prepare and present income statements, balance sheets, and cash flow statements.",
+  "Formulate detailed notes to accompany financial statements."
+ ],
+ "outline": [
+  {
+   "title": "1. The Accounting Cycle",
+   "items": [
+    {
+     "text": "Overview of the accounting cycle",
+     "level": 0
+    },
+    {
+     "text": "Supporting documents and transaction analysis",
+     "level": 0
+    },
+    {
+     "text": "Recording transactions in ledgers and General Ledgers (GL)",
+     "level": 0
+    },
+    {
+     "text": "Preparing trial balances (TB) and adjusted trial balances (ATB)",
+     "level": 0
+    },
+    {
+     "text": "Types and processing of adjusting entries",
+     "level": 0
+    },
+    {
+     "text": "Mapping ATB to financial statements",
+     "level": 0
+    },
+    {
+     "text": "Preparing financial statements and closing the books",
+     "level": 0
+    },
+    {
+     "text": "Post-closing trial balance (PCTB)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Chart of Accounts Design",
+   "items": [
+    {
+     "text": "Designing and structuring a chart of accounts",
+     "level": 0
+    },
+    {
+     "text": "Maintenance and reconciliation of the chart of accounts",
+     "level": 0
+    },
+    {
+     "text": "Trial balance creation and analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Accounting Adjusting Entries",
+   "items": [
+    {
+     "text": "Deferrals:",
+     "level": 0
+    },
+    {
+     "text": "Deferred revenues and associated entries",
+     "level": 1
+    },
+    {
+     "text": "Deferred expenses and adjustments",
+     "level": 1
+    },
+    {
+     "text": "Accruals:",
+     "level": 0
+    },
+    {
+     "text": "Adjusting entries for accrued revenues and expenses",
+     "level": 1
+    },
+    {
+     "text": "Other adjustments and corrections",
+     "level": 1
+    },
+    {
+     "text": "Preparing the adjusted trial balance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Preparing Financial Statements and Notes",
+   "items": [
+    {
+     "text": "Mapping the ATB to financial statements",
+     "level": 0
+    },
+    {
+     "text": "Preparing:",
+     "level": 0
+    },
+    {
+     "text": "Income statements",
+     "level": 1
+    },
+    {
+     "text": "Balance sheets",
+     "level": 1
+    },
+    {
+     "text": "Cash flow statements",
+     "level": 1
+    },
+    {
+     "text": "Owners’ equity statements",
+     "level": 1
+    },
+    {
+     "text": "External audit essentials:",
+     "level": 0
+    },
+    {
+     "text": "Objectives, process, and interpreting audit opinions",
+     "level": 1
+    },
+    {
+     "text": "Differences between internal and external audits",
+     "level": 1
+    },
+    {
+     "text": "Management Discussion and Analysis (MD&A)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Notes to the Financial Statements",
+   "items": [
+    {
+     "text": "Requirements and structure of financial statement notes",
+     "level": 0
+    },
+    {
+     "text": "Documenting the organization’s activities and financial policies",
+     "level": 0
+    },
+    {
+     "text": "Basis for preparation and accounting conventions",
+     "level": 0
+    },
+    {
+     "text": "Use of estimates and completing comprehensive notes",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

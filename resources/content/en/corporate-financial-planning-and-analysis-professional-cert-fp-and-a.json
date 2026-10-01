@@ -1,0 +1,258 @@
+{
+ "file": "15- Corporate Financial Planning & Analysis Prof.docx",
+ "title": "Corporate Financial Planning & Analysis Professional (Cert FP&A): Preparation Course - Part 1",
+ "duration": "5 Days",
+ "overview": [
+  "In today’s competitive landscape, financial planning and analysis have become vital for organizational success. Financial professionals are increasingly expected to deliver accurate information and insightful analysis to support strategic decision-making. Top management relies on these professionals to provide confidence in budgets, forecasts, and projections.",
+  "This course offers an excellent opportunity to prepare for the Certified Corporate Financial Planning & Analysis Professional (FP&A) designation by the Association of Financial Professionals (AFP). The certification validates expertise in budgeting, forecasting, and financial analysis. This preparation course covers the key concepts from Part 1 of the exam and practical applications of building financial models in Excel, which are central to Part 2. Enhance your skills, ace the exam, and set yourself apart in the field."
+ ],
+ "audience": [
+  "This course is ideal for accounting and finance professionals currently working or aspiring to work in financial planning, analysis, budgeting, and forecasting roles."
+ ],
+ "methodology": [
+  "The course focuses on key exam topics and addresses challenging areas through hands-on exercises, workshops, and real-world scenarios to strengthen understanding and retention."
+ ],
+ "competencies": [
+  "Financial planning and budgeting",
+  "Analytical and communication skills",
+  "Application of accounting principles",
+  "Building and managing financial models"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify and leverage sources of company and industry information, applying macroeconomic and strategic planning concepts.",
+  "Understand financial and microeconomic principles and recognize various budget types.",
+  "Perform financial and variance analysis, drawing meaningful insights.",
+  "Build financial projections, evaluate capital expenditures, and conduct \"what-if\" analyses.",
+  "Utilize advanced spreadsheet tools such as pivot tables, value lookups, and macros for financial modeling."
+ ],
+ "outline": [
+  {
+   "title": "1. Gathering and Interpreting Information",
+   "items": [
+    {
+     "text": "Sources of historical financial data and corporate structure",
+     "level": 0
+    },
+    {
+     "text": "Understanding the company’s business environment: business models, financial ratios, and industry metrics",
+     "level": 0
+    },
+    {
+     "text": "Reading and analyzing corporate annual reports",
+     "level": 0
+    },
+    {
+     "text": "Identifying peer groups and competitors",
+     "level": 0
+    },
+    {
+     "text": "Key macroeconomic concepts: consumer price index, GDP, exchange rates, interest rates, inflation, and more",
+     "level": 0
+    },
+    {
+     "text": "Evaluating tax policy implications on projections",
+     "level": 0
+    },
+    {
+     "text": "Risk management fundamentals:",
+     "level": 0
+    },
+    {
+     "text": "Value at risk",
+     "level": 1
+    },
+    {
+     "text": "Hedging and insurance",
+     "level": 1
+    },
+    {
+     "text": "Interest rate risk",
+     "level": 1
+    },
+    {
+     "text": "Diversification",
+     "level": 1
+    },
+    {
+     "text": "Identifying and analyzing financial and non-financial KPIs",
+     "level": 0
+    },
+    {
+     "text": "Strategic planning tools:",
+     "level": 0
+    },
+    {
+     "text": "SWOT Analysis",
+     "level": 1
+    },
+    {
+     "text": "Porter’s Five Forces",
+     "level": 1
+    },
+    {
+     "text": "Growth Share Matrix",
+     "level": 1
+    },
+    {
+     "text": "Information gathering techniques: templates, surveys, and stakeholder communication",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Financial Concepts and Cross-functional Communication",
+   "items": [
+    {
+     "text": "Finance principles and corporate finance activities",
+     "level": 0
+    },
+    {
+     "text": "Core financial concepts and formulas: time value, opportunity costs, debt structures, and cost of capital",
+     "level": 0
+    },
+    {
+     "text": "Financial accounting principles and their interrelationship across financial statements",
+     "level": 0
+    },
+    {
+     "text": "Microeconomic concepts: marginal costs, pricing, and elasticity",
+     "level": 0
+    },
+    {
+     "text": "Managerial and cost accounting fundamentals:",
+     "level": 0
+    },
+    {
+     "text": "Cost allocation",
+     "level": 1
+    },
+    {
+     "text": "Contribution margins",
+     "level": 1
+    },
+    {
+     "text": "Fixed vs. variable costs",
+     "level": 1
+    },
+    {
+     "text": "Budgeting and forecasting methodologies: zero-based budgeting, rolling forecasts, and more",
+     "level": 0
+    },
+    {
+     "text": "Financial close processes and FP&A’s role in reporting",
+     "level": 0
+    },
+    {
+     "text": "Effective communication and presentation techniques: building alliances, preparing reports, and visualizing data with charts/graphs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Analyzing Financial Information",
+   "items": [
+    {
+     "text": "Validating financial models through consistency checks and reasonableness assessments",
+     "level": 0
+    },
+    {
+     "text": "Identifying and interpreting data outliers",
+     "level": 0
+    },
+    {
+     "text": "Conducting variance analysis: actuals vs. plan, forecast, and prior periods",
+     "level": 0
+    },
+    {
+     "text": "Applying financial ratio analysis: liquidity, debt/equity, and efficiency ratios",
+     "level": 0
+    },
+    {
+     "text": "Competitive analysis through benchmarking and peer group evaluations",
+     "level": 0
+    },
+    {
+     "text": "Identifying industry or business seasonality",
+     "level": 0
+    },
+    {
+     "text": "Incorporating common statistical concepts in analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Building Financial Projections",
+   "items": [
+    {
+     "text": "Developing income statements, balance sheets, and cash flow projections",
+     "level": 0
+    },
+    {
+     "text": "Evaluating capital expenditures and investments:",
+     "level": 0
+    },
+    {
+     "text": "Net present value (NPV) and internal rate of return (IRR)",
+     "level": 1
+    },
+    {
+     "text": "Discounted cash flow analysis",
+     "level": 1
+    },
+    {
+     "text": "Forecasting revenue, expenses, and staffing needs",
+     "level": 0
+    },
+    {
+     "text": "Creating \"what-if\" scenarios and sensitivity analyses to assess risk",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Leveraging Technology and Software",
+   "items": [
+    {
+     "text": "Advanced spreadsheet functions for financial modeling:",
+     "level": 0
+    },
+    {
+     "text": "Pivot tables, value lookups, and macros",
+     "level": 1
+    },
+    {
+     "text": "Financial and statistical calculations: standard deviation, regression, and correlation",
+     "level": 1
+    },
+    {
+     "text": "Documenting and maintaining models:",
+     "level": 0
+    },
+    {
+     "text": "Assumptions, protocols, and version control",
+     "level": 1
+    },
+    {
+     "text": "Overview of financial software and systems:",
+     "level": 0
+    },
+    {
+     "text": "Business intelligence tools",
+     "level": 1
+    },
+    {
+     "text": "Enterprise resource planning (ERP) systems",
+     "level": 1
+    },
+    {
+     "text": "General ledger systems",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "file": "9- Contract Management for Non-Contract Professi.docx",
+ "title": "Contract Management for Non-Contract Professionals",
+ "duration": "3 Days",
+ "overview": [
+  "The primary objective of this course is to equip participants with the knowledge, skills, and tools needed to manage and administer contracts effectively after they are awarded. Through this interactive program, participants will gain insight into the processes and activities essential for fulfilling contractual obligations. The course also focuses on best practices for contract administration to ensure smooth implementation."
+ ],
+ "audience": [
+  "This course is ideal for professionals involved in implementing, managing, or administering contracts. It is also beneficial for those involved in contract preparation and award phases who want to understand the importance of comprehensive contract management."
+ ],
+ "methodology": [
+  "This course uses individual and group exercises to familiarize participants with practical tools and techniques for contract implementation. Case studies and role-playing activities are incorporated to enhance understanding, followed by group discussions to reinforce learning."
+ ],
+ "competencies": [
+  "Contract preparation",
+  "Contract administration",
+  "Change management",
+  "Contractor management",
+  "Claims handling and dispute resolution"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify the critical steps in contract preparation, including creating an effective scope of work.",
+  "Outline key activities and stages in contract administration.",
+  "Utilize tools and techniques for effective contract implementation and understand the role of a contract administrator.",
+  "Develop systems to evaluate contractors and assess their performance.",
+  "Explain various types of variation orders, claims, and damages, and their implications."
+ ],
+ "outline": [
+  {
+   "title": "1. Principles of Contract",
+   "items": [
+    {
+     "text": "Objectives of contract management",
+     "level": 0
+    },
+    {
+     "text": "Fundamental elements of a contract",
+     "level": 0
+    },
+    {
+     "text": "Classical contract frameworks",
+     "level": 0
+    },
+    {
+     "text": "Common challenges in contract preparation and management",
+     "level": 0
+    },
+    {
+     "text": "Key competencies of contract administrators",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Contract Preparation",
+   "items": [
+    {
+     "text": "Overview of contracting methods: bidding and negotiation",
+     "level": 0
+    },
+    {
+     "text": "Drafting an effective scope of work",
+     "level": 0
+    },
+    {
+     "text": "Utilizing decision analysis worksheets",
+     "level": 0
+    },
+    {
+     "text": "Consequences of poorly defined scopes of work",
+     "level": 0
+    },
+    {
+     "text": "Terms and conditions essentials",
+     "level": 0
+    },
+    {
+     "text": "Developing a sourcing strategy",
+     "level": 0
+    },
+    {
+     "text": "Types of contracts:",
+     "level": 0
+    },
+    {
+     "text": "Fixed price contracts",
+     "level": 1
+    },
+    {
+     "text": "Cost reimbursable contracts",
+     "level": 1
+    },
+    {
+     "text": "Time and material contracts",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Contract Administration Tools",
+   "items": [
+    {
+     "text": "Core principles of contract administration",
+     "level": 0
+    },
+    {
+     "text": "Provisions impacting contract implementation",
+     "level": 0
+    },
+    {
+     "text": "Tools and techniques:",
+     "level": 0
+    },
+    {
+     "text": "Dissection technique",
+     "level": 1
+    },
+    {
+     "text": "Issues and risks logs",
+     "level": 1
+    },
+    {
+     "text": "Records management systems",
+     "level": 1
+    },
+    {
+     "text": "Change control systems for contracts",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities in contract administration",
+     "level": 0
+    },
+    {
+     "text": "Performance reporting and monitoring",
+     "level": 0
+    },
+    {
+     "text": "Developing schedule and risk management plans",
+     "level": 0
+    },
+    {
+     "text": "Documenting lessons learned",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Contractor Evaluation",
+   "items": [
+    {
+     "text": "Assessing contractor performance",
+     "level": 0
+    },
+    {
+     "text": "Contractor ratings and evaluations",
+     "level": 0
+    },
+    {
+     "text": "Key performance indicators (KPIs)",
+     "level": 0
+    },
+    {
+     "text": "Setting targets and benchmarks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Claims and Disputes",
+   "items": [
+    {
+     "text": "Managing changes and variation orders",
+     "level": 0
+    },
+    {
+     "text": "Handling claims and resolving disputes",
+     "level": 0
+    },
+    {
+     "text": "Identifying breaches of contract",
+     "level": 0
+    },
+    {
+     "text": "Addressing money damages and equitable remedies",
+     "level": 0
+    },
+    {
+     "text": "Exploring alternative dispute resolution methods: mediation and arbitration",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

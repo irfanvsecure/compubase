@@ -1,0 +1,156 @@
+{
+ "file": "07- Anti Money Laundering.docx",
+ "title": "Anti Money Laundering",
+ "duration": "3 Days",
+ "overview": [
+  "This course delivers a detailed and practical examination of money laundering schemes, anti-money laundering (AML) legislation, and effective countermeasures. Participants will explore the complexities of preventing money laundering and safeguarding their organizations. The course addresses various laundering schemes, methods for tracing illicit funds, necessary records for analysis, and techniques for identifying financial leads.",
+  "With real-world examples and recent AML regulation breaches, this program emphasizes the financial and reputational risks associated with non-compliance. It provides participants with insights into both Gulf Cooperation Council (GCC) and international AML regulations, equipping them to protect their organizations effectively"
+ ],
+ "audience": [
+  "This course is ideal for senior managers responsible for developing or implementing AML policies and procedures. It is also highly relevant for financial officers, controllers, accountants, AML reporting officers, compliance professionals, managers, auditors, and others with roles requiring AML compliance."
+ ],
+ "methodology": [
+  "This highly interactive course encourages active participation for optimal learning. Attendees can present their own cases for discussion, engage in team activities, and analyze case studies and practical examples to reinforce key concepts."
+ ],
+ "competencies": [
+  "Understanding the AML process and cycle",
+  "Identifying money laundering schemes and methods",
+  "Applying AML laws and regulations",
+  "Fraud detection and prevention skills",
+  "Analyzing financial records and tracing illicit funds"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Detect and prevent money laundering activities.",
+  "Understand the money laundering process and its stages.",
+  "Identify common methods used to commit money laundering.",
+  "Apply GCC and international AML laws and regulations.",
+  "Analyze financial records to uncover potential laundering schemes.",
+  "Utilize proven methods to trace income or funds from unknown sources."
+ ],
+ "outline": [
+  {
+   "title": "Principles of Money Laundering",
+   "items": [
+    {
+     "text": "Definition and importance of money laundering",
+     "level": 0
+    },
+    {
+     "text": "Stages and cycles of the money laundering process",
+     "level": 0
+    },
+    {
+     "text": "Sources and identification of 'dirty money'",
+     "level": 0
+    },
+    {
+     "text": "Customer due diligence and hidden asset detection",
+     "level": 0
+    },
+    {
+     "text": "Common vehicles for concealing assets",
+     "level": 0
+    },
+    {
+     "text": "Distinctions between asset hiding and money laundering",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "International Law and Regulation Development",
+   "items": [
+    {
+     "text": "Role and impact of the Financial Action Task Force (FATF)",
+     "level": 0
+    },
+    {
+     "text": "Overview of European directives and the U.S. Patriot Act",
+     "level": 0
+    },
+    {
+     "text": "United Nations Resolutions and the Wolfsberg Principles",
+     "level": 0
+    },
+    {
+     "text": "GCC's membership in FATF and its implications",
+     "level": 0
+    },
+    {
+     "text": "Overview of FATCA and AML regulations in the GCC",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Money Laundering Schemes",
+   "items": [
+    {
+     "text": "Nominee and business front schemes",
+     "level": 0
+    },
+    {
+     "text": "Banking and banking-business combination schemes",
+     "level": 0
+    },
+    {
+     "text": "Smurfing and structured transactions",
+     "level": 0
+    },
+    {
+     "text": "Use of shell companies and loan-back schemes",
+     "level": 0
+    },
+    {
+     "text": "Invoice scams, buy-backs, and real-world examples",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Identifying Indicators of Illicit Activities",
+   "items": [
+    {
+     "text": "Development and application of financial indicators",
+     "level": 0
+    },
+    {
+     "text": "Examples of abnormal account activity and red flags",
+     "level": 0
+    },
+    {
+     "text": "Tips and common pitfalls in identifying suspicious patterns",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Methods for Proving Illicit Income",
+   "items": [
+    {
+     "text": "Techniques for analyzing financial records",
+     "level": 0
+    },
+    {
+     "text": "Using books and records in investigations",
+     "level": 0
+    },
+    {
+     "text": "Balance sheet and income statement analysis",
+     "level": 0
+    },
+    {
+     "text": "Indirect methods such as net worth and bank deposit analysis",
+     "level": 0
+    },
+    {
+     "text": "Direct proof methods and historical cases like the Capone investigation",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

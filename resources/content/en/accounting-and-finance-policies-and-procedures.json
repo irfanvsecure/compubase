@@ -1,0 +1,226 @@
+{
+ "file": "06- Accounting and Finance Policies and Procedur.docx",
+ "title": "Accounting and Finance Policies and Procedures",
+ "duration": "5Days",
+ "overview": [
+  "Accounting and finance policies and procedures are crucial for implementing effective internal control systems across an organization. They play a significant role in every business cycle, including purchasing and payments, inventory and production, HR and payroll, fixed assets and capitalization, and the sales and collection processes.",
+  "These policies and procedures are indispensable tools for boards of directors and senior management to define and communicate the limitations and authorities assigned to various managers and employees. Additionally, they are essential for organizing financial reporting and ensuring compliance with external regulatory requirements.",
+  "This course encourages participants to adopt risk-based approaches for creating and implementing operational policies and procedures. Participants will learn to allocate tasks efficiently using proper segregation of duties and to leverage software for effective control implementation. The course also includes an overview of sample financial statements aligned with International Financial Reporting Standards (IFRS)."
+ ],
+ "audience": [
+  "This course is designed for accounting and finance professionals seeking to enhance their skills in designing and implementing robust financial policies and procedures."
+ ],
+ "methodology": [
+  "The course employs a mix of expert-led discussions, practical exercises, and group work. Participants will learn how to write and structure policies and procedures for different business cycles and align financial reporting with IFRS requirements."
+ ],
+ "competencies": [
+  "Designing accounting and finance policies.",
+  "Understanding and managing business cycles.",
+  "Applying and enforcing financial policies.",
+  "Preparing and documenting accounting procedures.",
+  "Allocating and segregating tasks among employees.",
+  "Implementing effective internal controls.",
+  "Developing accounting systems.",
+  "Ensuring compliance with IFRS."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop and design a comprehensive accounting and finance manual.",
+  "Plan the necessary resources for the accounting and finance department.",
+  "Apply accounting principles and International Financial Reporting Standards (IFRS).",
+  "Create a detailed chart of accounts tailored to the organization’s business model.",
+  "Establish clear policies and procedures for managing fixed assets.",
+  "Formulate policies for handling current assets and liabilities effectively.",
+  "Design reporting frameworks that comply with IFRS standards."
+ ],
+ "outline": [
+  {
+   "title": "1. Designing the Accounting and Finance Manual",
+   "items": [
+    {
+     "text": "Purpose and structure of the manual.",
+     "level": 0
+    },
+    {
+     "text": "Defining financial authorities and responsibilities.",
+     "level": 0
+    },
+    {
+     "text": "Creating process mapping charts using basic icons.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Setting Up the Accounting Department",
+   "items": [
+    {
+     "text": "Planning for accurate and timely reporting.",
+     "level": 0
+    },
+    {
+     "text": "Balancing Human Resources vs. Software Systems (HRVSS).",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Applying Accounting Concepts",
+   "items": [
+    {
+     "text": "Core accounting assumptions:",
+     "level": 0
+    },
+    {
+     "text": "Accrual vs. cash basis.",
+     "level": 1
+    },
+    {
+     "text": "Going concern assumption.",
+     "level": 1
+    },
+    {
+     "text": "Measurement reliability.",
+     "level": 1
+    },
+    {
+     "text": "Concepts of assets, liabilities, income, and expenses.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Chart of Accounts",
+   "items": [
+    {
+     "text": "Designing a chart of accounts.",
+     "level": 0
+    },
+    {
+     "text": "Integrating accounts and cost centers.",
+     "level": 0
+    },
+    {
+     "text": "Structuring accounting systems.",
+     "level": 0
+    },
+    {
+     "text": "Handling exchange rate differences.",
+     "level": 0
+    },
+    {
+     "text": "Understanding prepaid and accrual treatments.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Managing Long-Term Assets",
+   "items": [
+    {
+     "text": "Capitalizing asset costs.",
+     "level": 0
+    },
+    {
+     "text": "Accounting for depreciation, amortization, and depletion.",
+     "level": 0
+    },
+    {
+     "text": "Asset impairment and disposal.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Managing Liabilities",
+   "items": [
+    {
+     "text": "Supplier approval processes.",
+     "level": 0
+    },
+    {
+     "text": "Handling invoices and inventory.",
+     "level": 0
+    },
+    {
+     "text": "Recording accruals and dividends payable.",
+     "level": 0
+    },
+    {
+     "text": "Processing payment orders.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Production and Inventory Management",
+   "items": [
+    {
+     "text": "Recording production costs.",
+     "level": 0
+    },
+    {
+     "text": "Managing inter-department material transfers.",
+     "level": 0
+    },
+    {
+     "text": "Issuing finished goods.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Accounts Receivables Policies",
+   "items": [
+    {
+     "text": "Client approval processes.",
+     "level": 0
+    },
+    {
+     "text": "Handling bank or other guarantees.",
+     "level": 0
+    },
+    {
+     "text": "Recording invoices and managing collections.",
+     "level": 0
+    },
+    {
+     "text": "Creating allowances for doubtful debts.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "9. Other Accounting Policies",
+   "items": [
+    {
+     "text": "Managing debit and credit notes.",
+     "level": 0
+    },
+    {
+     "text": "Recording and reporting payroll transactions.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "10. Reporting and Financial Analysis",
+   "items": [
+    {
+     "text": "Establishing budgeting policies.",
+     "level": 0
+    },
+    {
+     "text": "Financial statement preparation and analysis.",
+     "level": 0
+    },
+    {
+     "text": "Conducting financial performance reviews.",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

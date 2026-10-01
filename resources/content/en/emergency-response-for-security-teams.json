@@ -1,0 +1,178 @@
+{
+ "file": "07- Emergency Response for Security Teams.docx",
+ "title": "Emergency Response for Security Teams",
+ "duration": "5 Days",
+ "overview": [
+  "This 5-day course equips security managers and teams with the essential knowledge and skills needed for effective incident and emergency management. The course covers a broad range of topics, including emergency response planning, incident investigation, and risk assessment strategies, enabling participants to adopt and apply best practices in emergency management. Practical, up-to-date techniques will be shared that can be directly implemented within participants' respective organizations and security teams."
+ ],
+ "audience": [
+  "This course is designed for personnel involved in the strategy, development, implementation, and management of security operations. Security managers, security specialists, risk management professionals, business continuity professionals, and emergency response teams will benefit greatly from this course."
+ ],
+ "methodology": [
+  "The course is highly interactive, using group discussions, case studies, and collaborative work. Practical exercises provide participants with the opportunity to apply the advanced knowledge and skills they gain throughout the course, particularly in emergency response situations."
+ ],
+ "competencies": [
+  "Incident Management",
+  "Emergency Response Planning",
+  "Incident Investigation",
+  "Risk Assessment",
+  "Security Management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the role and responsibilities of security personnel in emergency response scenarios.",
+  "Manage incidents effectively and collaborate with emergency services during large-scale crisis situations.",
+  "Conduct investigations that lead to actionable risk mitigation strategies.",
+  "Demonstrate leadership and implement command and control techniques in emergencies.",
+  "Communicate effectively under pressure to ensure clear and concise information exchange."
+ ],
+ "outline": [
+  {
+   "title": "Understanding the Threat for Security Personnel in Emergency Response",
+   "items": [
+    {
+     "text": "Identifying internal and external risk factors",
+     "level": 0
+    },
+    {
+     "text": "Defining what constitutes an emergency",
+     "level": 0
+    },
+    {
+     "text": "Understanding the role and duties of security personnel during emergencies",
+     "level": 0
+    },
+    {
+     "text": "Knowing when to hand over to external agencies",
+     "level": 0
+    },
+    {
+     "text": "Providing effective situation reports",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Situational Awareness",
+   "items": [
+    {
+     "text": "Defining situational awareness in emergency response",
+     "level": 0
+    },
+    {
+     "text": "Preparing crisis management plans",
+     "level": 0
+    },
+    {
+     "text": "Recognizing early warning signs",
+     "level": 0
+    },
+    {
+     "text": "Reacting appropriately to incidents",
+     "level": 0
+    },
+    {
+     "text": "Maintaining emotional self-control in high-pressure situations",
+     "level": 0
+    },
+    {
+     "text": "Managing others effectively in stressful situations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Command and Control of Incidents",
+   "items": [
+    {
+     "text": "The 5 Cs of Incident Management",
+     "level": 0
+    },
+    {
+     "text": "Setting up an Incident Control Point and determining equipment requirements",
+     "level": 0
+    },
+    {
+     "text": "Managing crowd control and interacting with the public",
+     "level": 0
+    },
+    {
+     "text": "Securing access to the Incident Control Point",
+     "level": 0
+    },
+    {
+     "text": "Effective communication techniques, including radio communications",
+     "level": 0
+    },
+    {
+     "text": "Sending and receiving incident reports",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Collaboration and Partnership with External Agencies",
+   "items": [
+    {
+     "text": "Managing an Incident Control Centre",
+     "level": 0
+    },
+    {
+     "text": "Coordinating with emergency services and specialist bodies (e.g., search and rescue, bomb disposal)",
+     "level": 0
+    },
+    {
+     "text": "Handling various types of emergencies, including:",
+     "level": 0
+    },
+    {
+     "text": "Fire emergencies",
+     "level": 1
+    },
+    {
+     "text": "Medical emergencies",
+     "level": 1
+    },
+    {
+     "text": "Terrorism-related situations",
+     "level": 1
+    },
+    {
+     "text": "Natural disasters (earthquakes, floods, etc.)",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Incident Investigation",
+   "items": [
+    {
+     "text": "Deciding when to launch an investigation",
+     "level": 0
+    },
+    {
+     "text": "Collecting both quantitative and qualitative data",
+     "level": 0
+    },
+    {
+     "text": "Interviewing skills and procedures",
+     "level": 0
+    },
+    {
+     "text": "Analyzing information and drawing conclusions",
+     "level": 0
+    },
+    {
+     "text": "Writing investigation reports and making recommendations",
+     "level": 0
+    },
+    {
+     "text": "Developing and implementing risk assessment strategies",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "file": "12- Feasibility Studies Preparation, Analysis and Evaluation.docx",
+ "title": "Feasibility Studies Preparation, Analysis and Evaluation",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip participants with the essential skills needed to prepare, analyze, and evaluate feasibility studies. Through hands-on training using Microsoft Excel, participants will learn how to construct a comprehensive financial model for feasibility studies. The course also focuses on appraising service and industrial investments using various capital budgeting techniques and analyzing key financial metrics."
+ ],
+ "audience": [
+  "This course is ideal for project sponsors, senior management, functional managers, project managers, and anyone involved in the preparation, writing, and analysis of feasibility studies. Participants will earn 30 Professional Development Units (PDUs) upon completion."
+ ],
+ "methodology": [
+  "The course combines interactive techniques, including brief presentations by the consultant and participants, group exercises, and case studies. A significant portion of the course involves building a feasibility study model using Microsoft Excel."
+ ],
+ "competencies": [
+  "Strategic Planning",
+  "Data Analysis",
+  "Option Evaluation",
+  "Proactive Thinking",
+  "Scenario Management",
+  "Cognitive Ability"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define the concept of a feasibility study and differentiate it from a business plan",
+  "Identify the critical components of a feasibility study",
+  "Develop a financial model for a feasibility study using Microsoft Excel",
+  "Apply various investment appraisal techniques and interpret financial metrics",
+  "Assess the strengths and weaknesses of a feasibility study"
+ ],
+ "outline": [
+  {
+   "title": "Introduction and Definitions",
+   "items": [
+    {
+     "text": "Understanding what a feasibility study entails",
+     "level": 0
+    },
+    {
+     "text": "Objectives of a feasibility study",
+     "level": 0
+    },
+    {
+     "text": "Differences between a feasibility study and a business plan",
+     "level": 0
+    },
+    {
+     "text": "The feasibility study cycle",
+     "level": 0
+    },
+    {
+     "text": "Key steps in preparing a feasibility study",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Elements of a Feasibility Study",
+   "items": [
+    {
+     "text": "Essential report components of a feasibility study",
+     "level": 0
+    },
+    {
+     "text": "Crafting an executive summary",
+     "level": 0
+    },
+    {
+     "text": "Structuring the feasibility study outline",
+     "level": 0
+    },
+    {
+     "text": "Exploring marketing, technical, and financial feasibility",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Building the Feasibility Study Financial Model Using Microsoft Excel",
+   "items": [
+    {
+     "text": "Developing the financial model for the feasibility study",
+     "level": 0
+    },
+    {
+     "text": "Calculating the Weighted Average Cost of Capital (WACC)",
+     "level": 0
+    },
+    {
+     "text": "Determining the cost of equity using the Capital Asset Pricing Model (CAPM)",
+     "level": 0
+    },
+    {
+     "text": "Estimating Unlevered Free Cash Flow (UFCF)",
+     "level": 0
+    },
+    {
+     "text": "Calculating the terminal value of a project",
+     "level": 0
+    },
+    {
+     "text": "Preparing sensitivity tables and conducting scenario analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Appraisal and Analysis of the Feasibility Study",
+   "items": [
+    {
+     "text": "Analyzing financial metrics",
+     "level": 0
+    },
+    {
+     "text": "Evaluating liquidity, operating, and financial leverage ratios",
+     "level": 0
+    },
+    {
+     "text": "Assessing security and profitability ratios",
+     "level": 0
+    },
+    {
+     "text": "Performing investment appraisal analysis",
+     "level": 0
+    },
+    {
+     "text": "Calculating Breakeven Points (BEP), Payback Period (PP), Net Present Value (NPV), Internal Rate of Return (IRR), and Profitability Index (PI)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Evaluation and Implementation of the Feasibility Study",
+   "items": [
+    {
+     "text": "Drawing internal recommendations and conclusions",
+     "level": 0
+    },
+    {
+     "text": "Evaluating the effectiveness of feasibility studies",
+     "level": 0
+    },
+    {
+     "text": "Identifying common mistakes in interpreting feasibility study results",
+     "level": 0
+    },
+    {
+     "text": "Implementing proposals based on the feasibility study",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

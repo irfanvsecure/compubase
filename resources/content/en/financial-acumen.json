@@ -1,0 +1,259 @@
+{
+ "file": "18- Financial Acumen.docx",
+ "title": "Financial Acumen",
+ "duration": "5 Days",
+ "overview": [
+  "In today’s fast-paced business world, professionals are constantly faced with decisions that demand sound judgment and strategic thinking. Financial acumen—the ability to make informed and effective decisions backed by quantitative data—enhances your credibility, supports your strategic choices, and increases the likelihood of achieving business success.",
+  "This course bridges the gap between strategic, commercial, and financial aspects of decision-making. Participants will learn how operating decisions in procurement, production, and sales impact their organization’s profitability and financial standing. By combining real-world examples with hands-on financial tools, this course equips you with the insights and skills needed to evaluate past decisions and make well-informed future ones."
+ ],
+ "audience": [
+  "This course is ideal for managers, supervisors, and staff from any function, including finance, who seek to enhance their understanding and use of financial information in decision-making."
+ ],
+ "methodology": [
+  "This course uses a blend of interactive techniques, including consultant-led presentations, practical case studies, hands-on Excel applications, and group exercises. These methods ensure participants actively engage with the material and apply their newfound knowledge effectively."
+ ],
+ "competencies": [
+  "Strategic identification and value creation",
+  "Economic and industry analysis",
+  "Financial statement interpretation and analysis",
+  "Working capital management",
+  "Financial and managerial decision-making"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define how their organization competes and identify competitive advantages that drive shareholder value.",
+  "Analyze how macroeconomic and industry-specific factors influence profitability and performance.",
+  "Understand and interpret the components of basic financial statements.",
+  "Evaluate their organization’s short-term and long-term financial viability and make informed commercial decisions.",
+  "Apply cost concepts to make strategic and financially sound decisions"
+ ],
+ "outline": [
+  {
+   "title": "1. Strategy: Value Creation and Competitive Edge",
+   "items": [
+    {
+     "text": "Identifying stakeholders and defining shareholder value",
+     "level": 0
+    },
+    {
+     "text": "Corporate strategy: determining where and how to compete",
+     "level": 0
+    },
+    {
+     "text": "Understanding and leveraging competitive advantages",
+     "level": 0
+    },
+    {
+     "text": "Types of competitive advantage",
+     "level": 1
+    },
+    {
+     "text": "How advantages drive profitability",
+     "level": 1
+    },
+    {
+     "text": "Differentiating strengths from true advantages",
+     "level": 1
+    },
+    {
+     "text": "Case Study: Ryanair’s strategy in the low-fare airline market",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Economic and Industry Analysis Basics",
+   "items": [
+    {
+     "text": "Using a top-down approach for analysis",
+     "level": 0
+    },
+    {
+     "text": "Macroeconomic factors: evaluating operational sustainability",
+     "level": 0
+    },
+    {
+     "text": "GDP, unemployment, inflation, exchange rates, and interest rates",
+     "level": 1
+    },
+    {
+     "text": "Key ratios: deficit-to-GDP, debt-to-GDP, and GDP growth",
+     "level": 1
+    },
+    {
+     "text": "Industry analysis: assessing long-term profitability",
+     "level": 0
+    },
+    {
+     "text": "Michael Porter’s Five Forces framework",
+     "level": 1
+    },
+    {
+     "text": "Case Studies: Starbucks, Apple, Nike, and McDonald’s",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Mastering Financial Statements for Decision-Making",
+   "items": [
+    {
+     "text": "Accounting vs. finance: past vs. future focus",
+     "level": 0
+    },
+    {
+     "text": "Income statements: performance indicators",
+     "level": 0
+    },
+    {
+     "text": "Revenue and expense recognition",
+     "level": 1
+    },
+    {
+     "text": "Fixed vs. variable costs, direct vs. indirect costs",
+     "level": 1
+    },
+    {
+     "text": "Balance sheets: understanding financial position",
+     "level": 0
+    },
+    {
+     "text": "Measurement and classification of components",
+     "level": 1
+    },
+    {
+     "text": "Limitations of balance sheets",
+     "level": 1
+    },
+    {
+     "text": "Statement of changes in owners’ equity",
+     "level": 0
+    },
+    {
+     "text": "Cash flow statements:",
+     "level": 0
+    },
+    {
+     "text": "Operating, investing, and financing activities",
+     "level": 1
+    },
+    {
+     "text": "Reading and interpreting cash flow models across business stages",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "4. Financial Analysis: A Practical Approach",
+   "items": [
+    {
+     "text": "Hands-on analysis of publicly listed companies using Excel",
+     "level": 0
+    },
+    {
+     "text": "Common size analysis for comparability",
+     "level": 1
+    },
+    {
+     "text": "Calculating trends and growth patterns",
+     "level": 1
+    },
+    {
+     "text": "Liquidity analysis: determining appropriate levels",
+     "level": 0
+    },
+    {
+     "text": "Current, quick, and cash ratios",
+     "level": 1
+    },
+    {
+     "text": "Asset management and activity ratios",
+     "level": 0
+    },
+    {
+     "text": "KPIs for sales, credit, supply chain, and procurement departments",
+     "level": 1
+    },
+    {
+     "text": "Financing structure and risk management",
+     "level": 0
+    },
+    {
+     "text": "Understanding the benefits of leveraging loans",
+     "level": 1
+    },
+    {
+     "text": "Measuring shareholders’ required return and economic value added",
+     "level": 1
+    },
+    {
+     "text": "Profitability analysis:",
+     "level": 0
+    },
+    {
+     "text": "Key metrics: net profit margin, operating margin, and return on equity",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "5. Making Financially Informed Decisions",
+   "items": [
+    {
+     "text": "Analyzing cost structures: redesigning business models",
+     "level": 0
+    },
+    {
+     "text": "Fixed and variable cost behaviors",
+     "level": 1
+    },
+    {
+     "text": "Operating leverage and risk assessment",
+     "level": 1
+    },
+    {
+     "text": "Margin of safety calculations",
+     "level": 1
+    },
+    {
+     "text": "Product-line analysis:",
+     "level": 0
+    },
+    {
+     "text": "Contribution margin, breakeven points, and target income",
+     "level": 1
+    },
+    {
+     "text": "Decision-making with relevant costs:",
+     "level": 0
+    },
+    {
+     "text": "Adding or dropping business segments",
+     "level": 1
+    },
+    {
+     "text": "Allocating costs and managing scarce resources",
+     "level": 1
+    },
+    {
+     "text": "Outsourcing decisions: evaluating make-or-buy scenarios",
+     "level": 0
+    },
+    {
+     "text": "Special pricing and pricing strategies:",
+     "level": 0
+    },
+    {
+     "text": "Target costing, cost-plus pricing, and value pricing",
+     "level": 1
+    },
+    {
+     "text": "Navigating price wars or coopetition",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "file": "06- Foreign Exchange, Money Markets and Derivatives.docx",
+ "title": "Foreign Exchange, Money Markets and Derivatives",
+ "duration": "5 Days",
+ "overview": [
+  "The global foreign exchange (FX) and money markets represent the largest and most dynamic financial markets worldwide, with daily FX transactions exceeding $5 trillion. These markets play a critical role in funding, trading, and investment activities, serving as the bridge between various components of global capital markets.",
+  "This course provides participants with a comprehensive understanding of the instruments and activities within the international FX and money markets. It emphasizes the integrated nature of FX, money markets, and derivatives, offering participants insights into their mechanics, risks, and opportunities. The course also draws on lessons from the 2007-09 financial crisis and the latest developments, equipping attendees with knowledge on liquidity management, arbitrage, hedging, and risk management"
+ ],
+ "audience": [
+  "The course is designed for professionals in banking, asset management, and corporate finance, including wealth managers, auditors, accountants, finance specialists, risk managers, and treasury professionals."
+ ],
+ "methodology": [
+  "The program employs diverse learning techniques, including interactive presentations, case studies, hands-on Excel model analysis, and workshops, ensuring practical application of concepts."
+ ],
+ "competencies": [
+  "Mastery of exchange rate and interest rate risk management",
+  "Understanding global FX and money market dynamics",
+  "Analytical skills for financial instruments",
+  "Leadership in financial risk management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the FX market's structure, key players, and mechanics.",
+  "Analyze the impact of central banks on FX and money markets.",
+  "Explore money supply mechanisms, open market operations, and quantitative easing.",
+  "Evaluate liquidity, capital adequacy, and solvency issues.",
+  "Gain proficiency in global money market instruments and derivatives, including forwards, swaps, and options.",
+  "Develop strategies for financial risk management using FX, money market instruments, and derivatives."
+ ],
+ "outline": [
+  {
+   "title": "Interface of Money Markets and FX",
+   "items": [
+    {
+     "text": "Overview of market size, participants, and instruments",
+     "level": 0
+    },
+    {
+     "text": "Treasury instruments, repos, commercial paper, and Euromarkets",
+     "level": 0
+    },
+    {
+     "text": "Key concepts: LIBOR, forward rates, arbitrage, and interest rate parity",
+     "level": 0
+    },
+    {
+     "text": "Current market conditions and risk premia",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Role of Central Banks in Financial Systems",
+   "items": [
+    {
+     "text": "Overview of major central banks (e.g., Federal Reserve, ECB, Bank of Japan)",
+     "level": 0
+    },
+    {
+     "text": "Central bank balance sheets, assets, and liabilities",
+     "level": 0
+    },
+    {
+     "text": "Open market operations and quantitative easing",
+     "level": 0
+    },
+    {
+     "text": "FX reserve management and exchange rate policies",
+     "level": 0
+    },
+    {
+     "text": "Real-time gross settlement systems (RTGS) and net settlement",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Monetary Policy and Money Supply",
+   "items": [
+    {
+     "text": "Policy committees (FOMC, ECB Governing Council, etc.)",
+     "level": 0
+    },
+    {
+     "text": "Tools of monetary policy and their effects on money supply",
+     "level": 0
+    },
+    {
+     "text": "Inflation targeting and central bank reserves",
+     "level": 0
+    },
+    {
+     "text": "Taylor rule and term structure of interest rates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "FX Market Characteristics",
+   "items": [
+    {
+     "text": "Market size, participants, and major currency pairs",
+     "level": 0
+    },
+    {
+     "text": "Role of IMF, SDRs, and global FX reserves",
+     "level": 0
+    },
+    {
+     "text": "Historical trends in FX rates and their implications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Derivatives: Swaps, Forwards, and Options",
+   "items": [
+    {
+     "text": "Basics of interest rate swaps and their business applications",
+     "level": 0
+    },
+    {
+     "text": "Pricing mechanisms and counterparty risks in derivatives",
+     "level": 0
+    },
+    {
+     "text": "Over-the-counter (OTC) vs. centralized clearing platforms",
+     "level": 0
+    },
+    {
+     "text": "Credit default swaps (CDS) terminology, modeling, and applications",
+     "level": 0
+    },
+    {
+     "text": "Using derivatives for hedging FX, credit, and volatility risks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Asset/Liability Management and Treasury Functions",
+   "items": [
+    {
+     "text": "Managing interest rate risks and liquidity buffers",
+     "level": 0
+    },
+    {
+     "text": "Duration gap analysis and term liquidity premiums",
+     "level": 0
+    },
+    {
+     "text": "Funds Transfer Pricing (FTP) and its strategic applications",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Regulatory Framework",
+   "items": [
+    {
+     "text": "Overview of Basel III requirements and risk management pillars",
+     "level": 0
+    },
+    {
+     "text": "Key financial regulations (e.g., Dodd-Frank Act, Volcker Rule, Sarbanes-Oxley)",
+     "level": 0
+    },
+    {
+     "text": "Roles of global regulatory bodies (e.g., BIS, ECB, SEC, FCA)",
+     "level": 0
+    },
+    {
+     "text": "Pro-cyclical and counter-cyclical risk management practices",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

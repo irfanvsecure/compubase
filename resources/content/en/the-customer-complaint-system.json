@@ -1,0 +1,184 @@
+{
+ "file": "04- The Customer Complaint System.docx",
+ "title": "The Customer Complaint System",
+ "duration": "3 Days",
+ "overview": [
+  "This specialized course addresses the complexities of managing customer complaints by focusing on two key components: the behavioral aspect, which pertains to how individual employees interact face-to-face with complainants, and the procedural aspect, which concerns the organization’s systematic approach to processing complaints from initiation to resolution. Drawing on ISO 10002 guidelines and other international best practices, the course also explores the cultural and organizational shifts necessary for effectively leveraging complaints, recovering dissatisfied customers, improving internal processes, and achieving greater customer satisfaction."
+ ],
+ "audience": [
+  "This course is ideal for managers and staff responsible for customer complaint systems, customer service managers and teams, as well as managers and staff from support departments like HR and IT, who provide services to internal customers within the organization."
+ ],
+ "methodology": [
+  "The course combines brief presentations by the consultant with group discussions, case studies, exercises, and hands-on activities such as designing procedures and forms in team settings, along with role-playing scenarios."
+ ],
+ "competencies": [
+  "Customer orientation",
+  "Empathy",
+  "Emotional control",
+  "Adherence to standards",
+  "Systematic thinking",
+  "Organizational skills",
+  "Quality focus"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Advocate for the critical role of a customer complaints management system in driving organizational performance",
+  "Demonstrate how a well-trained employee can effectively handle customer complaints, build trust, and ensure customer satisfaction step by step",
+  "Implement a customer feedback system designed to maximize satisfaction and retention",
+  "Manage the entire complaint handling process, including preparation, receipt, analysis, escalation, tracking, and communication",
+  "Develop key performance indicators (KPIs) to evaluate and audit complaint management systems"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Understanding Your Customers",
+   "items": [
+    {
+     "text": "Key facts and statistics on customer retention",
+     "level": 0
+    },
+    {
+     "text": "The core principles of maintaining and growing your customer base",
+     "level": 0
+    },
+    {
+     "text": "The 'PRIDE' model for identifying customer needs",
+     "level": 0
+    },
+    {
+     "text": "Elements of the service mix",
+     "level": 0
+    },
+    {
+     "text": "The service quality model and addressing service gaps",
+     "level": 0
+    },
+    {
+     "text": "Techniques for managing customer expectations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Introduction to Complaints Management",
+   "items": [
+    {
+     "text": "The significance of customer complaints",
+     "level": 0
+    },
+    {
+     "text": "Defining 'customer complaint'",
+     "level": 0
+    },
+    {
+     "text": "The relationship between customer satisfaction and loyalty",
+     "level": 0
+    },
+    {
+     "text": "The 'Kano' model",
+     "level": 0
+    },
+    {
+     "text": "Risks associated with ignoring complaints",
+     "level": 0
+    },
+    {
+     "text": "Levels and sources of complaints",
+     "level": 0
+    },
+    {
+     "text": "Types of customer complaints",
+     "level": 0
+    },
+    {
+     "text": "Processes and behaviors for effective complaint handling",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Complaints Management Standards and the Complaints Handling Process (CHP)",
+   "items": [
+    {
+     "text": "Background on complaints management standards",
+     "level": 0
+    },
+    {
+     "text": "Connection to the ISO 9001 process model",
+     "level": 0
+    },
+    {
+     "text": "ISO 9001 requirements for complaints management",
+     "level": 0
+    },
+    {
+     "text": "Core elements of an effective complaints management system",
+     "level": 0
+    },
+    {
+     "text": "Structure and scope of ISO 10002",
+     "level": 0
+    },
+    {
+     "text": "Guiding principles and the complaints handling policy",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Complaints Management Standards and the Complaints Handling Process (CHP) - Part 2",
+   "items": [
+    {
+     "text": "Roles and responsibilities in complaints management",
+     "level": 0
+    },
+    {
+     "text": "Planning and design of the complaints handling process",
+     "level": 0
+    },
+    {
+     "text": "Operation and communication strategies",
+     "level": 0
+    },
+    {
+     "text": "Maintenance and continuous improvement of the system",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Assessing and Monitoring a Complaints Management System",
+   "items": [
+    {
+     "text": "Insights on measurement and KPIs",
+     "level": 0
+    },
+    {
+     "text": "Origin and purpose of KPIs",
+     "level": 0
+    },
+    {
+     "text": "Understanding metrics, measures, and Key Performance Indicators (KPIs)",
+     "level": 0
+    },
+    {
+     "text": "Key Result Areas (KRAs) for organizations",
+     "level": 0
+    },
+    {
+     "text": "Criteria for developing effective KPIs",
+     "level": 0
+    },
+    {
+     "text": "Root cause analysis of complaints",
+     "level": 0
+    },
+    {
+     "text": "Prioritizing issues and finding effective solutions",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

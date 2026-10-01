@@ -1,0 +1,223 @@
+{
+ "file": "03- Accounts Receivable and Credit Policies.docx",
+ "title": "Accounts Receivable and Credit Policies Management",
+ "duration": "5 Days",
+ "overview": [
+  "A significant portion of a company’s working capital is tied to Accounts Receivable (AR), creating potential liquidity risks. This course provides in-depth knowledge and practical skills to effectively manage AR processes, enabling organizations to optimize cash flow without compromising credit sales."
+ ],
+ "audience": [
+  "This course is designed for AR department managers, credit managers, AR staff, revenue accountants, credit officers, billing and collection clerks, and AR specialists. It is also beneficial for professionals in accounting, finance, operations, and sales who work closely with AR and credit functions."
+ ],
+ "methodology": [
+  "This program combines theoretical insights with hands-on practices, including role-playing exercises and participant presentations. Additionally, Microsoft Excel is introduced as a key tool for managing and analyzing accounts receivable."
+ ],
+ "competencies": [
+  "Efficient AR management",
+  "Strategic credit policy development",
+  "Advanced AR analysis techniques",
+  "Optimizing collection strategies",
+  "Streamlined billing processes",
+  "Preparing AR aging reports",
+  "Monetizing accounts receivable",
+  "Using Excel for AR analysis"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop and implement credit policies aligned with organizational goals.",
+  "Apply best practices in billing to improve accuracy and efficiency.",
+  "Establish effective collection strategies to minimize outstanding receivables.",
+  "Collaborate with sales teams to balance credit risk and sales growth.",
+  "Evaluate and optimize AR processes using industry best practices.",
+  "Use advanced tools and techniques to monitor and enhance AR performance."
+ ],
+ "outline": [
+  {
+   "title": "1. Managing Credit Policies",
+   "items": [
+    {
+     "text": "Responsibilities of the credit department",
+     "level": 0
+    },
+    {
+     "text": "Key factors influencing credit policies",
+     "level": 0
+    },
+    {
+     "text": "The five Cs of credit and non-financial considerations",
+     "level": 0
+    },
+    {
+     "text": "Components of an effective credit policy:",
+     "level": 0
+    },
+    {
+     "text": "Mission and objectives of the credit department",
+     "level": 1
+    },
+    {
+     "text": "Roles, responsibilities, and procedures",
+     "level": 1
+    },
+    {
+     "text": "Measuring performance and results",
+     "level": 1
+    },
+    {
+     "text": "Reviewing and re-evaluating accounts",
+     "level": 0
+    },
+    {
+     "text": "Financial statement analysis and ratio interpretation",
+     "level": 0
+    },
+    {
+     "text": "Establishing credit limits and fostering profitable customer relationships",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Optimizing Billing Processes",
+   "items": [
+    {
+     "text": "Streamlining billing for faster collections",
+     "level": 0
+    },
+    {
+     "text": "Preventing errors in billing processes",
+     "level": 0
+    },
+    {
+     "text": "Leveraging technology for efficiency",
+     "level": 0
+    },
+    {
+     "text": "The impact of operational accuracy on billing outcomes",
+     "level": 0
+    },
+    {
+     "text": "Best practices for effective billing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. From Sale to Collection",
+   "items": [
+    {
+     "text": "The importance of cash collections",
+     "level": 0
+    },
+    {
+     "text": "Tips and techniques for faster collections",
+     "level": 0
+    },
+    {
+     "text": "Creating and implementing a collection policy",
+     "level": 0
+    },
+    {
+     "text": "Managing disputes and resolving conflicts",
+     "level": 0
+    },
+    {
+     "text": "Collection strategies and best practices",
+     "level": 0
+    },
+    {
+     "text": "Exploring AR factoring, pledging, and assignment",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Sales and Credit Collaboration",
+   "items": [
+    {
+     "text": "Building strong relationships between sales and credit teams",
+     "level": 0
+    },
+    {
+     "text": "Maintaining credit sales while minimizing risk",
+     "level": 0
+    },
+    {
+     "text": "Sales team involvement in credit issuance and collection processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Analyzing the Accounts Receivable Process",
+   "items": [
+    {
+     "text": "Enhancing the quality of AR",
+     "level": 0
+    },
+    {
+     "text": "AR aging and bad-debt reserves management",
+     "level": 0
+    },
+    {
+     "text": "Calculating:",
+     "level": 0
+    },
+    {
+     "text": "Bad-debt reserves",
+     "level": 1
+    },
+    {
+     "text": "Accounts receivable turnover",
+     "level": 1
+    },
+    {
+     "text": "Days Sales Outstanding (DSO)",
+     "level": 1
+    },
+    {
+     "text": "Best Possible Days Sales Outstanding (BPDSO)",
+     "level": 1
+    },
+    {
+     "text": "Collection Effectiveness Index (CEI)",
+     "level": 1
+    },
+    {
+     "text": "Operating and cash cycle analysis",
+     "level": 0
+    },
+    {
+     "text": "Managing AR using a portfolio strategy:",
+     "level": 0
+    },
+    {
+     "text": "Segmenting AR portfolios",
+     "level": 1
+    },
+    {
+     "text": "Developing targeted approaches for specific segments",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "6. Ensuring Control and Efficiency",
+   "items": [
+    {
+     "text": "Implementing internal controls for AR processes",
+     "level": 0
+    },
+    {
+     "text": "AR’s role in monthly account closings",
+     "level": 0
+    },
+    {
+     "text": "Pros and cons of outsourcing AR functions",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

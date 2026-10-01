@@ -84,7 +84,6 @@
         @if ($content)<a href="#objectives" data-tab="objectives" role="tab">Objectives</a>@endif
         <a href="#outline" data-tab="outline" role="tab">Course outline</a>
         <a href="#" data-scroll="attend-side">Who should attend</a>
-        <a href="#" data-scroll="trainer-side">Your trainer</a>
       </div>
 
       <div class="tab-panel active" id="overview" role="tabpanel">
@@ -92,8 +91,31 @@
         @if ($content)
         <h2>Course overview</h2>
         @foreach ($content['overview'] as $para)<p>{{ $para }}</p>@endforeach
+        @if ($content['methodology'])
         <h2>Training methodology</h2>
         @foreach ($content['methodology'] as $para)<p>{{ $para }}</p>@endforeach
+        @endif
+        @foreach ($content['extra'] ?? [] as $section)
+        <h2>{{ ucfirst(strtolower($section['title'])) }}</h2>
+        @php
+            // Paragraphs and list items in document order: 'p' = next paragraph, 'i' = next list item.
+            $blocks = [];
+            $paras = $section['paras'];
+            $items = $section['items'];
+            foreach (str_split($section['order']) as $kind) {
+                if ($kind === 'p') {
+                    $blocks[] = ['p', array_shift($paras)];
+                } elseif ($blocks && end($blocks)[0] === 'ul') {
+                    $blocks[array_key_last($blocks)][1][] = array_shift($items);
+                } else {
+                    $blocks[] = ['ul', [array_shift($items)]];
+                }
+            }
+        @endphp
+        @foreach ($blocks as [$kind, $value])
+          @if ($kind === 'p')<p>{{ $value }}</p>@else<ul class="outcomes">@foreach ($value as $item)<li>{{ $item }}</li>@endforeach</ul>@endif
+        @endforeach
+        @endforeach
         @else
         <h2>What this course covers</h2>
         <div class="placeholder-note">[Course description from the CompuBase course outline.]</div>
@@ -102,10 +124,12 @@
 
       @if ($content)
       <div class="tab-panel" id="objectives" role="tabpanel">
+        @if ($content['competencies'])
         <h2>Target competencies</h2>
         <ul class="outcomes">
           @foreach ($content['competencies'] as $item)<li>{{ $item }}</li>@endforeach
         </ul>
+        @endif
         <h2>Course objectives</h2>
         @foreach ($content['objectivesIntro'] as $para)<p>{{ $para }}</p>@endforeach
         <ul class="outcomes">
@@ -151,13 +175,6 @@
         <div class="placeholder-note" style="margin-top:0">[Target audience from the CompuBase course outline.]</div>
         @endif
       </div>
-      <div class="side-box" id="trainer-side">
-        <h4>Your trainer</h4>
-        <div class="trainer-photo">👤 &nbsp;Trainer portrait</div>
-        <b style="color:var(--navy)">[Trainer name]</b><br>
-        <small style="color:var(--gold-ink)">[Credentials] · CompuBase faculty</small>
-        <p style="font-size:15px;margin-top:10px">[Two sentences on the trainer's delivery background and the sectors they have worked in.]</p>
-      </div>
     </aside>
   </div>
 </section>
@@ -193,7 +210,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></div>
-        <p style="font-size:15px">Classroom training in professional certification, IT, cyber security and languages. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
+        <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, and more. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>

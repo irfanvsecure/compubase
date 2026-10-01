@@ -1,0 +1,196 @@
+{
+ "file": "08- Data Analysis and Reporting Techniques Using.docx",
+ "title": "Data Analysis and Reporting Techniques Using Excel",
+ "duration": "3 Days",
+ "overview": [
+  "Excel is an indispensable tool for accountants, finance professionals, and business specialists. In today’s data-driven world, professionals face an overwhelming amount of unstructured information. This hands-on course is designed to elevate your skills in data preparation, modeling, integration, and automation using Excel.",
+  "From managing noisy and unstructured data to producing professional reports and performing in-depth analysis, this course will enhance your expertise and enable you to create impactful dashboards, scorecards, and reports. By mastering advanced Excel techniques, you will add immediate value to your role and organization."
+ ],
+ "audience": [
+  "This course is ideal for professionals in business, finance, and accounting, including:",
+  "Senior and junior accountants",
+  "Business analysts",
+  "Research professionals",
+  "Marketing and sales staff",
+  "Administrative personnel",
+  "Supervisors",
+  "General business professionals",
+  "Anyone seeking to enhance their business reporting, reconciliation, and analysis skills using Excel."
+ ],
+ "methodology": [
+  "This course is highly interactive, with 80% of the content focused on hands-on practice using MS Excel. Participants will complete group and individual exercises, case studies, and projects daily, while the remaining 20% emphasizes design and structure."
+ ],
+ "competencies": [
+  "Transforming and organizing unstructured data",
+  "Advanced reporting, analysis, and reconciliation",
+  "Data modeling techniques",
+  "Integrating Excel with external data sources"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop advanced Excel Business Intelligence (BI) skills for business and management reporting.",
+  "Dynamically link Excel with PowerPoint for seamless data updates.",
+  "Create dynamic BI dashboards, scorecards, and flash reports to support performance measurement and decision-making.",
+  "Apply data analysis techniques to produce accurate, timely reports."
+ ],
+ "outline": [
+  {
+   "title": "1. Tools and Techniques",
+   "items": [
+    {
+     "text": "Consolidating data from multiple files and sheets",
+     "level": 0
+    },
+    {
+     "text": "Advanced data validation with lists, dates, and custom validation",
+     "level": 0
+    },
+    {
+     "text": "Utilizing array functions",
+     "level": 0
+    },
+    {
+     "text": "Cell management tools: LEFT, RIGHT, MID, CONCATENATE, VALUE",
+     "level": 0
+    },
+    {
+     "text": "Naming cells and ranges for easy reference",
+     "level": 0
+    },
+    {
+     "text": "Advanced formulas: SUBTOTAL, SUMIF, SUMIFS, SUMPRODUCT",
+     "level": 0
+    },
+    {
+     "text": "Efficient data lookup using VLOOKUP",
+     "level": 0
+    },
+    {
+     "text": "Mastering table tools for data analysis",
+     "level": 0
+    },
+    {
+     "text": "Working with dates: extracting day, month, year, and quarter values",
+     "level": 0
+    },
+    {
+     "text": "Text manipulation: TEXT TO COLUMNS, TRIM, LEN, FIND, SUBSTITUTE",
+     "level": 0
+    },
+    {
+     "text": "Text transformation functions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Pivot Table Mastery",
+   "items": [
+    {
+     "text": "Creating and customizing pivot tables",
+     "level": 0
+    },
+    {
+     "text": "Advanced number formatting techniques",
+     "level": 0
+    },
+    {
+     "text": "Designing professional report layouts",
+     "level": 0
+    },
+    {
+     "text": "Sorting and filtering data in pivot tables",
+     "level": 0
+    },
+    {
+     "text": "Summarizing data using SUM, AVERAGE, MIN, MAX, COUNT",
+     "level": 0
+    },
+    {
+     "text": "Displaying values as percentages of totals or subcategories",
+     "level": 0
+    },
+    {
+     "text": "Adding and using formulas within pivot tables",
+     "level": 0
+    },
+    {
+     "text": "Date analysis in pivot tables",
+     "level": 0
+    },
+    {
+     "text": "Copying and reusing pivot tables",
+     "level": 0
+    },
+    {
+     "text": "Creating dynamic pivot charts",
+     "level": 0
+    },
+    {
+     "text": "Mastering slicers for interactive reporting",
+     "level": 0
+    },
+    {
+     "text": "Linking pivot tables and graphs with PowerPoint",
+     "level": 0
+    },
+    {
+     "text": "Applying conditional formatting to pivot tables",
+     "level": 0
+    },
+    {
+     "text": "Designing advanced reports using GETPIVOTDATA",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Report Design and Modeling Techniques",
+   "items": [
+    {
+     "text": "Using spinners for dynamic inputs",
+     "level": 0
+    },
+    {
+     "text": "Modeling data with checkboxes and the IF function",
+     "level": 0
+    },
+    {
+     "text": "Option box modeling with the IF function",
+     "level": 0
+    },
+    {
+     "text": "List box modeling with the CHOOSE function",
+     "level": 0
+    },
+    {
+     "text": "Using the scenario manager for what-if analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Tips and Tricks in Excel",
+   "items": [
+    {
+     "text": "Streamlining data entry with forms",
+     "level": 0
+    },
+    {
+     "text": "Creating and using custom lists",
+     "level": 0
+    },
+    {
+     "text": "Enabling text-to-speech functionality in Excel",
+     "level": 0
+    },
+    {
+     "text": "Protecting worksheets and workbooks for data security",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

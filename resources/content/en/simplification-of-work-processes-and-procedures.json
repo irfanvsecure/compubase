@@ -1,0 +1,241 @@
+{
+ "file": "22- Simplification of Work Processes and Procedures.docx",
+ "title": "Simplification of Work Processes and Procedures",
+ "duration": "3 Days",
+ "overview": [
+  "This dynamic course is centered around the theme of \"Going back to basics,\" helping participants recognize the importance of simplifying organizational processes and procedures. The course introduces international best practices to understand the root causes of complexity, focusing on eliminating waste, streamlining procedures, and exploring opportunities for standardization and automation. Participants will gain practical experience using tools to map and diagram processes, identifying issues and areas for improvement. By the end of the course, attendees will be equipped with hands-on tools to implement these strategies in their organizations, yielding immediate results."
+ ],
+ "audience": [
+  "This course is designed for managers, supervisors, employees involved in the design or simplification of procedures, and end users seeking to optimize organizational efficiency."
+ ],
+ "methodology": [
+  "The course is highly interactive, featuring hands-on exercises, case study analysis, presentations, group discussions, and plenary debriefs to enhance learning and practical application."
+ ],
+ "competencies": [
+  "Applying simplification techniques",
+  "Process mapping",
+  "Understanding lean principles and waste reduction",
+  "Organizational design",
+  "Enhancing productivity",
+  "Simplifying layout design"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the principles of organizational design and their impact on complexity",
+  "Identify the effects of complex policies and procedures on organizations",
+  "Utilize flow charts and workflow techniques effectively",
+  "Compare various tools for process simplification and mapping",
+  "Analyze and optimize work distribution within organizational units",
+  "Evaluate the significance of office layout and processes in enhancing efficiency"
+ ],
+ "outline": [
+  {
+   "title": "The Management Process in Perspective",
+   "items": [
+    {
+     "text": "The link between planning and controlling",
+     "level": 0
+    },
+    {
+     "text": "Types of organizational plans",
+     "level": 0
+    },
+    {
+     "text": "Resource allocation and management",
+     "level": 0
+    },
+    {
+     "text": "Directing and controlling individual and organizational performance",
+     "level": 0
+    },
+    {
+     "text": "The control process and its types",
+     "level": 0
+    },
+    {
+     "text": "Principles of organization design",
+     "level": 0
+    },
+    {
+     "text": "Creating organizational charts",
+     "level": 0
+    },
+    {
+     "text": "Common pitfalls in organization design",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Policies and Procedures",
+   "items": [
+    {
+     "text": "Definitions and key concepts",
+     "level": 0
+    },
+    {
+     "text": "Developing a policy and procedures manual",
+     "level": 0
+    },
+    {
+     "text": "Importance and objectives of procedures",
+     "level": 0
+    },
+    {
+     "text": "Indicators of complicated procedures",
+     "level": 0
+    },
+    {
+     "text": "Goals of work simplification",
+     "level": 0
+    },
+    {
+     "text": "Steps for developing effective procedures",
+     "level": 0
+    },
+    {
+     "text": "Defining productivity and addressing its challenges",
+     "level": 0
+    },
+    {
+     "text": "Strategies for improving productivity",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Methodologies and Tools for Process Simplification",
+   "items": [
+    {
+     "text": "Improvement methodologies",
+     "level": 0
+    },
+    {
+     "text": "Selecting procedures for improvement",
+     "level": 0
+    },
+    {
+     "text": "Data analysis and evaluation",
+     "level": 0
+    },
+    {
+     "text": "Proposing and implementing improvements",
+     "level": 0
+    },
+    {
+     "text": "Follow-up and evaluation processes",
+     "level": 0
+    },
+    {
+     "text": "Types and benefits of process maps",
+     "level": 0
+    },
+    {
+     "text": "Preparing and analyzing flow charts",
+     "level": 0
+    },
+    {
+     "text": "Simple process flow procedure charts",
+     "level": 0
+    },
+    {
+     "text": "Using parallel and sequential techniques",
+     "level": 0
+    },
+    {
+     "text": "Applying lean principles to simplify processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Advanced Tools for Process and Procedure Simplification",
+   "items": [
+    {
+     "text": "Understanding the eight types of waste",
+     "level": 0
+    },
+    {
+     "text": "Utilizing lean tools",
+     "level": 0
+    },
+    {
+     "text": "Implementing the 5S program",
+     "level": 0
+    },
+    {
+     "text": "Creating swim lane charts",
+     "level": 0
+    },
+    {
+     "text": "Value stream mapping techniques",
+     "level": 0
+    },
+    {
+     "text": "Conducting SIPOC (Supplier Input, Process, Output, Customer) analysis",
+     "level": 0
+    },
+    {
+     "text": "The turtle diagram for process improvement",
+     "level": 0
+    },
+    {
+     "text": "Shell's 'ESSA' model for simplification",
+     "level": 0
+    },
+    {
+     "text": "Developing procedures process flow charts",
+     "level": 0
+    },
+    {
+     "text": "Multi-column process charts",
+     "level": 0
+    },
+    {
+     "text": "Key success factors for procedure simplification",
+     "level": 0
+    },
+    {
+     "text": "The impact of Industry 4.0 and innovation on processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Work Distribution and Reallocation",
+   "items": [
+    {
+     "text": "Concept and importance of work distribution charts",
+     "level": 0
+    },
+    {
+     "text": "Preparing and analyzing work distribution charts",
+     "level": 0
+    },
+    {
+     "text": "Reallocating workload and redistributing tasks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Simplifying Space Design and Layout",
+   "items": [
+    {
+     "text": "Analyzing distance and department layout using spaghetti diagrams",
+     "level": 0
+    },
+    {
+     "text": "Office and department layout analysis",
+     "level": 0
+    },
+    {
+     "text": "Redesigning office spaces with layout charts",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

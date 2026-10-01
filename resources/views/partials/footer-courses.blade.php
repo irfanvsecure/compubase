@@ -1,15 +1,12 @@
-{{-- The three course columns of the footer: one per category, with site links filling any spare column. --}}
-@use('App\Support\Catalog')
+{{-- The three course columns of the footer: the first course categories, then the site links. --}}
 @php
     $ar = $ar ?? false;
-    $columns = [];
-    foreach (Catalog::categories() as $cat => $category) {
-        $links = [];
-        foreach (array_slice($category['courses'], 0, 4, true) as $slug => $course) {
-            $links[Catalog::url($course + ['cat' => $cat, 'slug' => $slug], $ar)] = $ar ? $course['ar'] : $course['en'];
-        }
-        $columns[] = [$ar ? $category['ar'] : $category['en'], $links];
+    $links = [];
+    foreach (array_slice(config('courses.categories'), 0, 5, true) as $cat => $category) {
+        $links[route($ar ? 'courses-ar' : 'courses', ['go' => $cat])] = $ar ? $category['ar'] : $category['en'];
     }
+    $links[route($ar ? 'courses-ar' : 'courses')] = $ar ? 'جميع الفئات ←' : 'All categories →';
+    $columns = [[$ar ? 'فئات الدورات' : 'Course categories', $links]];
     $columns[] = $ar
         ? ['استكشف', [route('courses-ar') => 'جميع الدورات', route('schedule-ar') => 'جدول الدورات', route('corporate-ar') => 'التدريب المؤسسي']]
         : ['Explore', [route('courses') => 'All courses', route('schedule') => 'Schedule', route('corporate') => 'Corporate training']];

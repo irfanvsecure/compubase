@@ -1,0 +1,194 @@
+{
+ "file": "11- Process Management Mapping and Improvement.docx",
+ "title": "Process Management Mapping and Improvement",
+ "duration": "3 Days",
+ "overview": [
+  "The power of a well-crafted diagram cannot be overstated, especially when it comes to understanding and improving organizational processes. This course focuses on developing participants' skills in process mapping, from basic flowcharts to advanced value stream mapping. Participants will explore various process assessment methodologies and gain insights into Toyota’s renowned Lean principles, applying them to enhance processes in both service and manufacturing environments."
+ ],
+ "audience": [
+  "This course is designed for professionals involved in process improvement projects, process identification, work design, productivity enhancement, or quality auditing."
+ ],
+ "methodology": [
+  "Participants will engage in a range of process mapping exercises, from simple to complex, using real-world case studies and scenarios. The course employs lectures, group discussions, and presentations to achieve the learning objectives."
+ ],
+ "competencies": [
+  "Process Mapping",
+  "Understanding Process Improvement",
+  "Applying Lean Principles",
+  "Process Measurement",
+  "Benchmarking"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define processes and understand their significance in organizational success.",
+  "Identify international standards and approaches to process management.",
+  "Examine and apply various process assessment methodologies.",
+  "Create and analyze process maps to drive improvement.",
+  "Recognize the importance of measuring processes as a tool for continuous improvement."
+ ],
+ "outline": [
+  {
+   "title": "Process Definitions and Elements",
+   "items": [
+    {
+     "text": "Understanding process definitions",
+     "level": 0
+    },
+    {
+     "text": "The process approach to improvement",
+     "level": 0
+    },
+    {
+     "text": "Benefits and advantages of process mapping",
+     "level": 0
+    },
+    {
+     "text": "Key elements of a process",
+     "level": 0
+    },
+    {
+     "text": "Attributes of effective process maps",
+     "level": 0
+    },
+    {
+     "text": "Identifying customer needs and satisfaction metrics",
+     "level": 0
+    },
+    {
+     "text": "Analyzing the business value chain",
+     "level": 0
+    },
+    {
+     "text": "Defining process efficiency and effectiveness",
+     "level": 0
+    },
+    {
+     "text": "Stakeholder analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Understanding the Process Approach According to International Standards",
+   "items": [
+    {
+     "text": "Overview of the process approach",
+     "level": 0
+    },
+    {
+     "text": "Characteristics of effective processes",
+     "level": 0
+    },
+    {
+     "text": "The Plan, Do, Check, Act (PDCA) cycle",
+     "level": 0
+    },
+    {
+     "text": "Opportunities for reducing cycle time and defects",
+     "level": 0
+    },
+    {
+     "text": "Understanding and eliminating non-value-added activities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Process Assessment Approaches",
+   "items": [
+    {
+     "text": "Key terms in process assessment",
+     "level": 0
+    },
+    {
+     "text": "The process of mapping",
+     "level": 0
+    },
+    {
+     "text": "Various mapping tools and their uses",
+     "level": 0
+    },
+    {
+     "text": "Understanding process hierarchy and map symbols",
+     "level": 0
+    },
+    {
+     "text": "Introduction to 'IDEF0' process mapping",
+     "level": 0
+    },
+    {
+     "text": "Applying Lean thinking to minimize waste",
+     "level": 0
+    },
+    {
+     "text": "Exploring the eight types of process waste",
+     "level": 0
+    },
+    {
+     "text": "Implementing the 5S framework for workplace organization",
+     "level": 0
+    },
+    {
+     "text": "Utilizing Failure Mode and Effects Analysis (FMEA)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Process Analysis and Improvement",
+   "items": [
+    {
+     "text": "Differentiating customer-oriented, support-oriented, and management processes",
+     "level": 0
+    },
+    {
+     "text": "Diagnosing and improving processes",
+     "level": 0
+    },
+    {
+     "text": "Using the turtle diagram for process analysis",
+     "level": 0
+    },
+    {
+     "text": "Identifying root causes with process maps",
+     "level": 0
+    },
+    {
+     "text": "Implementing twelve cornerstone tools for process streamlining",
+     "level": 0
+    },
+    {
+     "text": "Problem-solving techniques for process improvement",
+     "level": 0
+    },
+    {
+     "text": "Conducting process audits as a continuous improvement tool",
+     "level": 0
+    },
+    {
+     "text": "Applying process mapping in Six Sigma projects",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Process Measurement and Benchmarking",
+   "items": [
+    {
+     "text": "The importance of measuring processes",
+     "level": 0
+    },
+    {
+     "text": "Developing Process Key Performance Indicators (KPIs)",
+     "level": 0
+    },
+    {
+     "text": "Implementing benchmarking and the balanced scorecard for process improvement",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

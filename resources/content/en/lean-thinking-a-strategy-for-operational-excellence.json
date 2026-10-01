@@ -1,0 +1,191 @@
+{
+ "file": "05- Lean Thinking A Strategy for Operational Excel.docx",
+ "title": "Lean Thinking: A Strategy for Operational Excellence",
+ "duration": "5 Days",
+ "overview": [
+  "Lean Thinking is a transformative approach aimed at achieving operational excellence within organizations. If your organization’s strategy includes operational and organizational excellence, this course will provide valuable insights and practical tools. Participants will learn how to develop a Lean strategy, define objectives, and explore a wide range of Lean tools. The course also provides guidance on initiating and sustaining a Lean journey within their organizations."
+ ],
+ "audience": [
+  "This course is ideal for professionals involved in operational excellence initiatives, process improvement, and performance optimization. It is especially beneficial for those responsible for measuring, linking, and improving organizational performance."
+ ],
+ "methodology": [
+  "The course incorporates a mix of interactive exercises, ranging from simple to complex Lean applications. Participants will engage with tools such as Value Stream Mapping (VSM) and the 5S methodology, as well as analyze real-world case studies. Lectures, group discussions, and presentations will support the learning process and help participants achieve the course objectives."
+ ],
+ "competencies": [
+  "Lean mindset development",
+  "Value Stream Mapping expertise",
+  "Integration of Lean and Six Sigma",
+  "Results-oriented decision-making",
+  "Change management skills"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand Lean concepts and their importance to organizations.",
+  "Identify common process waste and recognize its impact on profitability, competitive advantage, and customer satisfaction.",
+  "Learn how Lean principles can help reduce operating costs, cycle times, and non-value-added activities.",
+  "Apply Lean implementation methodologies effectively.",
+  "Develop a strategic and actionable Lean implementation plan."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Lean Principles",
+   "items": [
+    {
+     "text": "Aligning strategy with Lean principles",
+     "level": 0
+    },
+    {
+     "text": "Core concepts and the benefits of Lean",
+     "level": 0
+    },
+    {
+     "text": "Historical development of Lean",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Quality Function Deployment (QFD)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Components of Lean (Part 1)",
+   "items": [
+    {
+     "text": "The five Lean principles",
+     "level": 0
+    },
+    {
+     "text": "Building blocks of Lean systems",
+     "level": 0
+    },
+    {
+     "text": "Identifying and eliminating the 8 types of waste",
+     "level": 0
+    },
+    {
+     "text": "Value Stream Mapping (VSM)",
+     "level": 0
+    },
+    {
+     "text": "Implementing the 5S program (Sort, Straighten, Sweep, Systematize, Sustain)",
+     "level": 0
+    },
+    {
+     "text": "Quick Changeover techniques and SMED (Single Minute Exchange of Dies)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Components of Lean (Part 2)",
+   "items": [
+    {
+     "text": "Standardized work practices",
+     "level": 0
+    },
+    {
+     "text": "Single-piece flow systems",
+     "level": 0
+    },
+    {
+     "text": "Optimizing cell layouts for efficiency",
+     "level": 0
+    },
+    {
+     "text": "Total Productive Maintenance (TPM)",
+     "level": 0
+    },
+    {
+     "text": "Point of Use Storage (POUS)",
+     "level": 0
+    },
+    {
+     "text": "Visual organization systems",
+     "level": 0
+    },
+    {
+     "text": "Creating Spaghetti Diagrams for process visualization",
+     "level": 0
+    },
+    {
+     "text": "Error-proofing processes with Poka Yoke",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Lean and Six Sigma: A Powerful Combination",
+   "items": [
+    {
+     "text": "Overview of Six Sigma principles",
+     "level": 0
+    },
+    {
+     "text": "Key definitions and process capability analysis",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Voice of the Customer (VOC)",
+     "level": 0
+    },
+    {
+     "text": "The DMAIC (Define, Measure, Analyze, Improve, Control) process",
+     "level": 0
+    },
+    {
+     "text": "Comparing Lean and Six Sigma approaches",
+     "level": 0
+    },
+    {
+     "text": "Integrating Lean and Six Sigma for optimal results",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Measurement and Metrics",
+   "items": [
+    {
+     "text": "Understanding Key Performance Indicators (KPIs) in Lean",
+     "level": 0
+    },
+    {
+     "text": "Developing Lean-specific KPIs",
+     "level": 0
+    },
+    {
+     "text": "Identifying and overcoming obstacles to effective measurement",
+     "level": 0
+    },
+    {
+     "text": "Maintaining business focus through data-driven insights",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Lean Implementation Roadmap",
+   "items": [
+    {
+     "text": "Designing a Lean implementation roadmap",
+     "level": 0
+    },
+    {
+     "text": "Selecting and prioritizing Lean projects",
+     "level": 0
+    },
+    {
+     "text": "Addressing barriers to success and fostering employee involvement",
+     "level": 0
+    },
+    {
+     "text": "Leading improvement teams and managing change effectively",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

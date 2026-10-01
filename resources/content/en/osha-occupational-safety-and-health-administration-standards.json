@@ -1,0 +1,203 @@
+{
+ "file": "01- OSHA Occupational Safety and Health Admi.docx",
+ "title": "OSHA: Occupational Safety and Health Administration Standards",
+ "duration": "5 Days",
+ "overview": [
+  "This course offers an in-depth understanding of the structure, content, and applicability of the Occupational Safety and Health Administration (OSHA) standards. It covers the identification, avoidance, mitigation, and prevention of safety and health hazards in general industries. The course also emphasizes employers' responsibilities under OSHA and focuses on the effective implementation of safety programs and record-keeping practices."
+ ],
+ "audience": [
+  "This course is designed for health and safety directors, field supervisors, engineers, safety professionals, site managers, and anyone looking to deepen their understanding of workplace safety regulations."
+ ],
+ "methodology": [
+  "The course will be highly interactive, utilizing group discussions, case studies, and syndicate work. Depending on the participants' roles and industry background, the course content may be tailored to address specific industry needs. Each participant will receive a copy of the OSHA General Industry Regulations handbook for future reference."
+ ],
+ "competencies": [
+  "Understanding OSHA standards",
+  "Complying with health and safety regulations",
+  "Implementing safety measures",
+  "Meeting OSHA training requirements",
+  "Managing record-keeping practices"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand and apply the contents of the OSHA 29CFR1910 standards.",
+  "Develop an effective safety program that enhances employee morale, boosts productivity, and reduces overall costs.",
+  "Identify the training requirements outlined by OSHA standards and determine relevant topics for their organization’s workforce.",
+  "Apply OSHA's record-keeping requirements to maintain an accurate workplace injury log.",
+  "Differentiate between the rights of workers and the responsibilities of employers as defined by OSHA."
+ ],
+ "outline": [
+  {
+   "title": "Introduction to OSHA",
+   "items": [
+    {
+     "text": "Importance of OSHA standards",
+     "level": 0
+    },
+    {
+     "text": "Employees' rights and employers' responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Overview of OSHA standards",
+     "level": 0
+    },
+    {
+     "text": "Workplace inspection procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fundamentals of a Safe Workplace",
+   "items": [
+    {
+     "text": "Walking and working surfaces",
+     "level": 0
+    },
+    {
+     "text": "Hazard communication and Safety Data Sheets (SDS)",
+     "level": 0
+    },
+    {
+     "text": "Emergency plans, exit routes, and fire prevention/protection",
+     "level": 0
+    },
+    {
+     "text": "Personal Protective Equipment (PPE)",
+     "level": 0
+    },
+    {
+     "text": "Fall protection requirements",
+     "level": 0
+    },
+    {
+     "text": "Lockout/tagout procedures, inspections, and requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Introduction to Industrial Hygiene",
+   "items": [
+    {
+     "text": "History and role of industrial hygiene",
+     "level": 0
+    },
+    {
+     "text": "Key industrial hygiene concepts and terminology",
+     "level": 0
+    },
+    {
+     "text": "Employee exposure and medical records",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Industry-Specific Standards",
+   "items": [
+    {
+     "text": "Hazardous, flammable, and combustible materials",
+     "level": 0
+    },
+    {
+     "text": "Confined spaces: hazards, permits, and rescue procedures",
+     "level": 0
+    },
+    {
+     "text": "Machine guarding: hazards, requirements, and methods",
+     "level": 0
+    },
+    {
+     "text": "Welding, cutting, and brazing safety",
+     "level": 0
+    },
+    {
+     "text": "Power industrial trucks safety standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Bloodborne Pathogens",
+   "items": [
+    {
+     "text": "Exposure control plans",
+     "level": 0
+    },
+    {
+     "text": "Engineering controls and work practices",
+     "level": 0
+    },
+    {
+     "text": "Hepatitis B vaccination requirements",
+     "level": 0
+    },
+    {
+     "text": "Response to exposure incidents",
+     "level": 0
+    },
+    {
+     "text": "Training and medical record-keeping requirements",
+     "level": 0
+    },
+    {
+     "text": "Sharps injury log",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Safety and Health Programs",
+   "items": [
+    {
+     "text": "Benefits of implementing safety and health programs",
+     "level": 0
+    },
+    {
+     "text": "Key elements of an effective program:",
+     "level": 0
+    },
+    {
+     "text": "Management commitment",
+     "level": 1
+    },
+    {
+     "text": "Policy and goal setting",
+     "level": 1
+    },
+    {
+     "text": "Employee involvement",
+     "level": 1
+    },
+    {
+     "text": "Responsibility and accountability",
+     "level": 1
+    },
+    {
+     "text": "Worksite analysis and inspections",
+     "level": 1
+    },
+    {
+     "text": "Hazard prevention and control planning",
+     "level": 1
+    },
+    {
+     "text": "Safety and health training",
+     "level": 1
+    },
+    {
+     "text": "Supervisor responsibilities",
+     "level": 1
+    },
+    {
+     "text": "Specific training needs",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

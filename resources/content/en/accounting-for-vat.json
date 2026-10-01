@@ -1,0 +1,236 @@
+{
+ "file": "05- Accounting for VAT.docx",
+ "title": "Accounting for VAT",
+ "duration": "3 Days",
+ "overview": [
+  "With the anticipated implementation of a unified Value Added Tax (VAT) framework across GCC states starting January 1, 2018, this course provides the essential guidance needed to ensure a smooth transition for your organization. Participants will learn how to direct accounting, finance, IT, business development, and other relevant departments toward successful VAT adoption.",
+  "This program introduces the fundamental terms, principles, and mechanics of VAT as expected to be applied in the GCC. It also prepares your accounting staff to fully understand and correctly manage VAT processes, from invoicing and recording entries to preparing VAT return forms. Participants will gain practical insights into the accounting treatment of VAT for various goods and services."
+ ],
+ "audience": [
+  "This course is designed for professionals such as staff accountants, senior accountants, chief accountants, accounting managers, controllers, internal auditors, tax consultants, tax preparers, IT professionals, business development managers, and others involved in company operations across various departments."
+ ],
+ "methodology": [
+  "This course incorporates a blend of interactive methods, including concise presentations, practical applications of theoretical concepts, and group exercises to foster knowledge exchange and hands-on learning."
+ ],
+ "competencies": [
+  "Understanding VAT principles.",
+  "Applying VAT in practice.",
+  "Accounting for VAT transactions."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define key VAT terms such as taxable persons, input VAT, output VAT, and exempt supplies.",
+  "Assess the impact of VAT adoption on their organization’s financial statements.",
+  "Account for VAT on the purchase and sale of goods and services, whether VAT-registered or not.",
+  "Utilize the company’s trial balance to complete VAT return forms.",
+  "Conduct a preliminary assessment of VAT’s impact on operations and accounts.",
+  "Evaluate the effects of VAT implementation across specific industries."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction and Basic Mechanics of VAT",
+   "items": [
+    {
+     "text": "Understanding VAT fundamentals:",
+     "level": 0
+    },
+    {
+     "text": "Definition of VAT",
+     "level": 1
+    },
+    {
+     "text": "Input and output VAT calculations",
+     "level": 1
+    },
+    {
+     "text": "Identifying persons and entities subject to VAT.",
+     "level": 0
+    },
+    {
+     "text": "Types of supply:",
+     "level": 0
+    },
+    {
+     "text": "Taxable supplies: goods and services",
+     "level": 1
+    },
+    {
+     "text": "Exempt supplies",
+     "level": 1
+    },
+    {
+     "text": "Zero-rated supplies",
+     "level": 1
+    },
+    {
+     "text": "Deemed supplies",
+     "level": 1
+    },
+    {
+     "text": "Place of supply: Local vs. export transactions.",
+     "level": 0
+    },
+    {
+     "text": "VAT on sales: Timing based on delivery, invoicing, or payment.",
+     "level": 0
+    },
+    {
+     "text": "Recording and recovering VAT on received goods and services:",
+     "level": 0
+    },
+    {
+     "text": "Local deliveries",
+     "level": 1
+    },
+    {
+     "text": "Imported goods and services",
+     "level": 1
+    },
+    {
+     "text": "Taxable amounts and VAT calculations:",
+     "level": 0
+    },
+    {
+     "text": "Treatment of discounts and free goods",
+     "level": 1
+    },
+    {
+     "text": "Responsibility for VAT payment.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Accounting for VAT",
+   "items": [
+    {
+     "text": "Issuing and understanding VAT invoices:",
+     "level": 0
+    },
+    {
+     "text": "Required contents of a VAT invoice.",
+     "level": 1
+    },
+    {
+     "text": "Differentiating cash sales and credit sales.",
+     "level": 1
+    },
+    {
+     "text": "Maintaining VAT records and documentation.",
+     "level": 0
+    },
+    {
+     "text": "Accounting entries for VAT:",
+     "level": 0
+    },
+    {
+     "text": "Local purchases of goods and services.",
+     "level": 1
+    },
+    {
+     "text": "Imported goods and services.",
+     "level": 1
+    },
+    {
+     "text": "VAT on expenses.",
+     "level": 1
+    },
+    {
+     "text": "Self-supply of goods and services.",
+     "level": 1
+    },
+    {
+     "text": "VAT on sales:",
+     "level": 0
+    },
+    {
+     "text": "Discounts to customers.",
+     "level": 1
+    },
+    {
+     "text": "Interest on late customer payments.",
+     "level": 1
+    },
+    {
+     "text": "VAT entries for:",
+     "level": 0
+    },
+    {
+     "text": "Bad debt write-offs.",
+     "level": 1
+    },
+    {
+     "text": "Down payments.",
+     "level": 1
+    },
+    {
+     "text": "Damaged goods.",
+     "level": 1
+    },
+    {
+     "text": "VAT treatment of leases:",
+     "level": 0
+    },
+    {
+     "text": "Operating and finance leases.",
+     "level": 1
+    },
+    {
+     "text": "Fixed asset purchases and sales.",
+     "level": 0
+    },
+    {
+     "text": "Accounting for non-vatable activities.",
+     "level": 0
+    },
+    {
+     "text": "Trial balance requirements for VAT returns.",
+     "level": 0
+    },
+    {
+     "text": "Preparing and understanding the VAT return format.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Industry-Specific VAT Considerations",
+   "items": [
+    {
+     "text": "Addressing VAT issues in key sectors:",
+     "level": 0
+    },
+    {
+     "text": "Retail",
+     "level": 1
+    },
+    {
+     "text": "Automotive",
+     "level": 1
+    },
+    {
+     "text": "Meetings, incentives, conferences, and events (MICE)",
+     "level": 1
+    },
+    {
+     "text": "Financial services and insurance",
+     "level": 1
+    },
+    {
+     "text": "Real estate and construction",
+     "level": 1
+    },
+    {
+     "text": "Tourism",
+     "level": 1
+    },
+    {
+     "text": "Oil and gas",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

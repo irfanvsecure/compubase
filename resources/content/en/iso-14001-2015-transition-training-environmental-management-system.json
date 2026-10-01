@@ -1,0 +1,129 @@
+{
+ "file": "09- ISO 140012015 Transition Training Environmenta.docx",
+ "title": "ISO 14001:2015 Transition Training: Environmental Management System",
+ "duration": "3 Days",
+ "overview": [
+  "This training program is tailored for managers overseeing environmental and sustainability responsibilities. It provides a structured approach to successfully transitioning to the ISO 14001:2015 standard with any accredited certification body. Participants will explore all the new requirements introduced in the 2015 revision, equipping them to return to their organizations and implement the methodologies covered during the course effectively.",
+  "The course highlights how the updated ISO 14001:2015 standard aligns with the organization's strategic direction, emphasizing the enhanced relevance of its clauses. Participants will identify risks and opportunities impacting environmental performance and develop a more focused approach to planning and achieving environmental objectives.",
+  "The critical ‘leadership’ clause will be thoroughly explored, enabling participants to engage top executives and secure their commitment to key environmental initiatives. The course also delves into performance evaluation techniques, helping participants assess the effectiveness of their Environmental Management System (EMS) while driving continuous improvement. Additionally, participants will learn to establish an effective compliance framework to manage organizational environmental compliance and regulatory requirements."
+ ],
+ "audience": [
+  "This course is ideal for managers and supervisors responsible for ISO Management Systems, including HSEQ managers, environmental managers, quality managers, and others tasked with enhancing environmental performance. Internal auditors auditing environmental compliance and performance will also benefit from this training."
+ ],
+ "methodology": [
+  "This interactive course combines presentations, case studies, and technical learning sessions. Industry-specific discussions and implementation challenges enrich the learning experience."
+ ],
+ "competencies": [
+  "ISO 14001 EMS (Environmental Management System)",
+  "Effective communication skills",
+  "Presentation skills (both verbal and written)",
+  "Information and document analysis/interpretation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Advise top management on how the ISO 14001:2015 standard impacts the organization.",
+  "Develop a framework to manage organizational risks and opportunities effectively.",
+  "Establish a system for evaluating compliance and communicating compliance outcomes.",
+  "Implement robust document control practices to support ISO 14001 requirements.",
+  "Align environmental objectives and targets with the organization’s strategic direction, ensuring continuous evaluation and improvement of environmental performance."
+ ],
+ "outline": [
+  {
+   "title": "Introduction to ISO 14001:2015",
+   "items": [
+    {
+     "text": "Overview of ISO 14001:2015 structure (Annex SL)",
+     "level": 0
+    },
+    {
+     "text": "Transitioning to ISO 14001:2015: Role of implementers and auditors",
+     "level": 0
+    },
+    {
+     "text": "Organizational context, leadership, and resource requirements",
+     "level": 0
+    },
+    {
+     "text": "Identifying risks and opportunities for environmental performance",
+     "level": 0
+    },
+    {
+     "text": "Environmental aspects of activities, products, and services: Life cycle perspective",
+     "level": 0
+    },
+    {
+     "text": "Evaluating the significance of environmental aspects",
+     "level": 0
+    },
+    {
+     "text": "Setting environmental objectives and strategic planning",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "ISO 14001:2015 Policies and Documentation",
+   "items": [
+    {
+     "text": "Policy requirements and commitments under ISO 14001",
+     "level": 0
+    },
+    {
+     "text": "Developing and implementing strategies for operational controls and performance evaluation",
+     "level": 0
+    },
+    {
+     "text": "Key challenges affecting ISO 14001 effectiveness",
+     "level": 0
+    },
+    {
+     "text": "Compliance obligations and evaluation processes",
+     "level": 0
+    },
+    {
+     "text": "Documenting and communicating compliance to interested parties",
+     "level": 0
+    },
+    {
+     "text": "Emergency preparedness and response planning",
+     "level": 0
+    },
+    {
+     "text": "Testing and evaluating emergency arrangements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Auditing ISO 14001:2015",
+   "items": [
+    {
+     "text": "Internal audit planning, preparation, and execution",
+     "level": 0
+    },
+    {
+     "text": "Managing nonconformance and implementing corrective actions",
+     "level": 0
+    },
+    {
+     "text": "Conducting effective management reviews (inputs and outputs)",
+     "level": 0
+    },
+    {
+     "text": "Driving improvements within the EMS",
+     "level": 0
+    },
+    {
+     "text": "Managing outsourced processes and ensuring compliance",
+     "level": 0
+    },
+    {
+     "text": "Effective communication strategies for ISO 14001 compliance",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

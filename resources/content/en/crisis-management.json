@@ -1,0 +1,239 @@
+{
+ "file": "05- Crisis Management.docx",
+ "title": "Crisis Management",
+ "duration": "5 Days",
+ "overview": [
+  "This course equips participants with practical crisis management strategies and solutions, focusing on the effective implementation of Crisis Command, Control, Communications, and Intelligence (C3i), along with stakeholder management. Designed for those seeking a deeper understanding of crisis management and eager to engage in realistic scenario-based challenges, this course is an invaluable opportunity."
+ ],
+ "audience": [
+  "Ideal for professionals working in non-hazardous environments such as corporate offices, retail, transportation, hospitality, healthcare, and public services. This course is tailored for senior managers responsible for managing crises at both strategic and tactical levels."
+ ],
+ "methodology": [
+  "he course is highly interactive, incorporating group discussions, video presentations, case studies, and collaborative exercises. Participants will engage in scenario-based crisis management exercises and receive guidance on developing their own crisis management strategies."
+ ],
+ "competencies": [
+  "Crisis Management",
+  "Business Continuity Management",
+  "Risk Management",
+  "Contingency Planning",
+  "Internal & External Audit"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Grasp the fundamentals of Crisis Management and the preferred frameworks for both private and public sectors",
+  "Understand the escalation process from incident to crisis to disaster",
+  "Comprehend Civil Defence responsibilities",
+  "Apply crisis management tools and techniques to effectively navigate organizational pressures",
+  "Create a comprehensive stakeholder management plan for crisis situations",
+  "Identify actionable measures to enhance their organization's crisis management capabilities"
+ ],
+ "outline": [
+  {
+   "title": "Crisis Management Overview",
+   "items": [
+    {
+     "text": "Defining Crisis Management",
+     "level": 0
+    },
+    {
+     "text": "Crisis Management framework",
+     "level": 0
+    },
+    {
+     "text": "The relationship between Crisis Management and other standards (e.g., Business Continuity, Risk Management, Emergency Management)",
+     "level": 0
+    },
+    {
+     "text": "Distinguishing between an incident, a crisis, and a catastrophe",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Threat Scenarios",
+   "items": [
+    {
+     "text": "Understanding threat scenarios",
+     "level": 0
+    },
+    {
+     "text": "Selecting relevant threat scenarios for planning",
+     "level": 0
+    },
+    {
+     "text": "National Risk Registers, relevant legislation, and civil emergency responses",
+     "level": 0
+    },
+    {
+     "text": "Risk control methods",
+     "level": 0
+    },
+    {
+     "text": "Addressing Cyber Threats (ranked as the top threat in the Business Continuity Institute Threat Horizon survey)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Crisis Management Core Concepts",
+   "items": [
+    {
+     "text": "Brand, image, and reputation management during a crisis",
+     "level": 0
+    },
+    {
+     "text": "Phases of a crisis",
+     "level": 0
+    },
+    {
+     "text": "Identifying the causes of a crisis",
+     "level": 0
+    },
+    {
+     "text": "Twelve steps to guide an organization through a crisis",
+     "level": 0
+    },
+    {
+     "text": "Implications of different crisis types",
+     "level": 0
+    },
+    {
+     "text": "Strategies for crisis recovery",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Avoiding the Avoidable",
+   "items": [
+    {
+     "text": "Precautionary measures to mitigate crisis impact",
+     "level": 0
+    },
+    {
+     "text": "Protecting key assets during a crisis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Crisis Management Team",
+   "items": [
+    {
+     "text": "Leadership qualities essential for effective crisis management",
+     "level": 0
+    },
+    {
+     "text": "Structuring the Crisis Management Team",
+     "level": 0
+    },
+    {
+     "text": "Addressing leadership issues in crisis situations",
+     "level": 0
+    },
+    {
+     "text": "Succession planning within the Crisis Management Team and beyond",
+     "level": 0
+    },
+    {
+     "text": "Strategies, structures, and command during a crisis",
+     "level": 0
+    },
+    {
+     "text": "Managing stress induced by crisis situations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Crisis Management and Communication",
+   "items": [
+    {
+     "text": "Developing communication and media response plans",
+     "level": 0
+    },
+    {
+     "text": "Internal and external communication strategies",
+     "level": 0
+    },
+    {
+     "text": "Mobilizing crisis teams",
+     "level": 0
+    },
+    {
+     "text": "Stakeholder management during a crisis",
+     "level": 0
+    },
+    {
+     "text": "Effective communication: What to say and what to avoid",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "The Paradox of Social Media",
+   "items": [
+    {
+     "text": "Overview of social media's role in crisis management",
+     "level": 0
+    },
+    {
+     "text": "Analyzing whether crisis management has become a spectator sport",
+     "level": 0
+    },
+    {
+     "text": "Monitoring social media during a crisis",
+     "level": 0
+    },
+    {
+     "text": "Exploring if social media can trigger a crisis",
+     "level": 0
+    },
+    {
+     "text": "The impact of serious civil emergencies on social media saturation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Training and Exercising",
+   "items": [
+    {
+     "text": "Importance of validating your crisis management plan",
+     "level": 0
+    },
+    {
+     "text": "Building foundational crisis management skills",
+     "level": 0
+    },
+    {
+     "text": "Developing a training and exercise program",
+     "level": 0
+    },
+    {
+     "text": "Planning and executing crisis management exercises",
+     "level": 0
+    },
+    {
+     "text": "Learning from post-exercise feedback and lessons",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Managing a Crisis in a Parallel Universe",
+   "items": [
+    {
+     "text": "Crisis Management case study",
+     "level": 0
+    },
+    {
+     "text": "Crisis Management role-play scenario",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -19,7 +19,7 @@
 <script>
 window.INITIAL_PAGE = document.body.dataset.page || 'home';
 window.APP_BASE = @json(rtrim(url('/'), '/'));
-window.COURSE_DATA = @json(App\Support\Catalog::forScript(View::getSection('lang') === 'ar'));
+window.COURSE_DATA = @json(View::getSection('page') === 'home' ? App\Support\Catalog::forScript() : []);
 </script>
 <script src="{{ asset('js/compubase.js') }}?v={{ filemtime(base_path('js/compubase.js')) }}"></script>
 </body>

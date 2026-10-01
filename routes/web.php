@@ -35,17 +35,20 @@ foreach (['pmp', 'cia', 'cma', 'cisa', 'ceh', 'cyber', 'ai', 'prompt', 'english'
     Route::get("/ar/{$old}", fn () => redirect()->route('courses-ar', [], 301));
 }
 
-// Course pages: /{category}/{course} and /ar/{category}/{course}.
-$categories = array_keys(Catalog::categories());
-
-$coursePage = function (string $view, string $category, string $course) {
-    $found = Catalog::find($category, $course);
+// Course pages: /course/{course} and /ar/course/{course}.
+$coursePage = function (string $view, string $course) {
+    $found = Catalog::find($course);
     abort_if($found === null, 404);
 
     return view($view, ['course' => $found]);
 };
 
-Route::get('/ar/{category}/{course}', fn (string $category, string $course) => $coursePage('pages.course-ar', $category, $course))
-    ->whereIn('category', $categories)->name('course-ar');
-Route::get('/{category}/{course}', fn (string $category, string $course) => $coursePage('pages.course', $category, $course))
-    ->whereIn('category', $categories)->name('course');
+Route::get('/ar/course/{course}', fn (string $course) => $coursePage('pages.course-ar', $course))->name('course-ar');
+Route::get('/course/{course}', fn (string $course) => $coursePage('pages.course', $course))->name('course');
+
+// The earlier /{category}/{course} addresses move permanently to /course/{course}.
+$categories = array_keys(config('courses.categories'));
+Route::get('/ar/{category}/{course}', fn (string $category, string $course) => redirect("/ar/course/{$course}", 301))
+    ->whereIn('category', $categories);
+Route::get('/{category}/{course}', fn (string $category, string $course) => redirect("/course/{$course}", 301))
+    ->whereIn('category', $categories);

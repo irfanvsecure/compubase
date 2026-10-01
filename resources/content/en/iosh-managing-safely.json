@@ -1,0 +1,184 @@
+{
+ "file": "03- IOSH Managing Safely.docx",
+ "title": "IOSH Managing Safely",
+ "duration": "4 Days",
+ "overview": [
+  "The IOSH Managing Safely course is designed for individuals in supervisory or managerial roles to gain a comprehensive understanding of how to manage health and safety within an organization effectively. This course takes participants through the crucial steps of health and safety management, including identifying and assessing risks, developing control measures, and understanding both personal and corporate responsibilities. Participants will also learn about the importance of incident investigations, how to conduct them, and how to identify root causes to prevent similar incidents in the future. Additionally, the course emphasizes the importance of setting performance goals and tracking progress to foster a positive health and safety culture in organizations."
+ ],
+ "audience": [
+  "The IOSH Managing Safely course is aimed at managers and supervisors from any sector or organization worldwide. It equips them with the knowledge, skills, and tools necessary to address safety and health issues within their area of responsibility. The course underscores the critical role of health and safety as an integral part of day-to-day management and business operations."
+ ],
+ "methodology": [
+  "The course features a combination of videos and written materials. Participants will engage in group discussions and small group work, presenting their findings for group-wide discussions. This interactive approach ensures the course content is actively applied and understood."
+ ],
+ "competencies": [
+  "Hazard identification",
+  "Risk assessment and prioritization",
+  "Selection and implementation of health and safety controls",
+  "Incident investigation techniques",
+  "Performance measurement"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Implement risk assessment methods to identify and prioritize health and safety risks within their organization.",
+  "Develop control strategies to reduce or mitigate identified risks and minimize business exposure.",
+  "Understand personal and corporate responsibilities related to health and safety.",
+  "Investigate incidents effectively to reduce the likelihood of recurrence.",
+  "Develop and apply methods for measuring performance against health and safety targets."
+ ],
+ "outline": [
+  {
+   "title": "Introducing Managing Safely",
+   "items": [
+    {
+     "text": "The importance of managing safety effectively",
+     "level": 0
+    },
+    {
+     "text": "The role of managers and supervisors in promoting safety",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Assessing Risks",
+   "items": [
+    {
+     "text": "Defining risk, hazard, and hazardous events",
+     "level": 0
+    },
+    {
+     "text": "Conducting a risk assessment and identifying hazards",
+     "level": 0
+    },
+    {
+     "text": "Using risk matrices for assessment",
+     "level": 0
+    },
+    {
+     "text": "Communicating and recording findings",
+     "level": 0
+    },
+    {
+     "text": "Dynamic risk assessments",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Controlling Risks",
+   "items": [
+    {
+     "text": "Strategies for risk reduction",
+     "level": 0
+    },
+    {
+     "text": "Reducing likelihood and severity of risks",
+     "level": 0
+    },
+    {
+     "text": "Choosing appropriate risk control methods",
+     "level": 0
+    },
+    {
+     "text": "Hierarchy of risk control measures",
+     "level": 0
+    },
+    {
+     "text": "Considering human behavior in risk management",
+     "level": 0
+    },
+    {
+     "text": "The cost-benefit analysis of risk reduction",
+     "level": 0
+    },
+    {
+     "text": "Practical implementation of risk controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Understanding Responsibilities",
+   "items": [
+    {
+     "text": "Legal obligations for health and safety management",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities of duty holders",
+     "level": 0
+    },
+    {
+     "text": "Understanding civil vs. criminal law",
+     "level": 0
+    },
+    {
+     "text": "UAE and international legal frameworks",
+     "level": 0
+    },
+    {
+     "text": "Key components of a health and safety management system",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Understanding Hazards",
+   "items": [
+    {
+     "text": "Common workplace hazards, including mechanical, physical, chemical, biological, environmental, and organizational hazards",
+     "level": 0
+    },
+    {
+     "text": "Methods for reducing or mitigating these hazards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Investigating Incidents",
+   "items": [
+    {
+     "text": "The importance of incident investigation and near-miss reporting",
+     "level": 0
+    },
+    {
+     "text": "Analyzing the causes of incidents using causal trees",
+     "level": 0
+    },
+    {
+     "text": "Identifying immediate, underlying, and root causes",
+     "level": 0
+    },
+    {
+     "text": "Conducting effective investigations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Measuring Performance",
+   "items": [
+    {
+     "text": "Defining health and safety performance measurement",
+     "level": 0
+    },
+    {
+     "text": "Using indicators to measure safety performance (reactive and proactive)",
+     "level": 0
+    },
+    {
+     "text": "Reporting on safety performance",
+     "level": 0
+    },
+    {
+     "text": "Safety pyramid and auditing practices",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -140,6 +140,8 @@ nav.main a:hover{color:var(--gold-ink)}
 .featured{background:#fff;border-top:1px solid var(--line)}
 .filter-tabs{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0 30px}
 .filter-tabs button{border:1px solid var(--line);background:var(--paper);padding:9px 18px;font-family:inherit;font-size:15px;font-weight:700;cursor:pointer;color:var(--text)}
+.cat-nav a{border:1px solid var(--line);background:var(--paper);padding:9px 18px;font-size:15px;font-weight:700;color:var(--text);text-decoration:none}
+.cat-nav a:hover{background:var(--navy);color:#fff;border-color:var(--navy)}
 .filter-tabs button.active{background:var(--navy);color:#fff;border-color:var(--navy)}
 .course-grid{display:grid;grid-template-columns:repeat(3,1fr);column-gap:24px;row-gap:0}
 .course-grid>.course-card{display:grid;grid-template-rows:subgrid;grid-row:span 2;margin-bottom:24px}

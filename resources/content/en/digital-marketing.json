@@ -1,0 +1,268 @@
+{
+ "file": "15- Digital Marketing.docx",
+ "title": "Digital Marketing",
+ "duration": "5 Days",
+ "overview": [
+  "Digital marketing refers to promoting products or brands through various electronic channels. Unlike traditional marketing, digital marketing enables organizations to track and analyze campaign performance in real time, providing insights into what works and what doesn’t (SAS). This course offers participants a comprehensive understanding of the modern digital marketing landscape. They will learn new strategies, tools, and techniques to effectively create, distribute, promote, and price products and services in the digital realm."
+ ],
+ "audience": [
+  "This course is ideal for marketing and communication professionals looking to deepen their knowledge of digital marketing and social media. It is also highly beneficial for experienced managers responsible for developing and executing marketing strategies within their organizations."
+ ],
+ "methodology": [
+  "The course is designed to be action-oriented, focusing on practical outcomes. It involves short presentations by both the consultant and participants, followed by the development of a personalized digital marketing plan using workbooks and provided laptops."
+ ],
+ "competencies": [
+  "Online marketing strategies",
+  "Digital marketing planning",
+  "Social media scheduling",
+  "Lead generation techniques",
+  "Running social media campaigns",
+  "Developing high-impact websites",
+  "Utilizing Google Analytics effectively"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Assess the role of digital platforms in building a solid marketing strategy and determine how to apply each platform to their business.",
+  "Identify opportunities for using SEO to add value to their business and benefit customers.",
+  "Set up and manage Google AdWords campaigns to boost customer engagement and increase market share through social media.",
+  "Leverage Google Analytics to evaluate marketing channels and optimize their use.",
+  "Execute a complete digital marketing campaign to improve customer interaction, generate leads, and enhance brand visibility."
+ ],
+ "outline": [
+  {
+   "title": "Digital Marketing: Overview and Scope",
+   "items": [
+    {
+     "text": "Digital vs. traditional marketing",
+     "level": 0
+    },
+    {
+     "text": "Best B2B and B2C platforms:",
+     "level": 0
+    },
+    {
+     "text": "Facebook",
+     "level": 1
+    },
+    {
+     "text": "Twitter",
+     "level": 1
+    },
+    {
+     "text": "LinkedIn",
+     "level": 1
+    },
+    {
+     "text": "Business blogging",
+     "level": 1
+    },
+    {
+     "text": "Website audit basics",
+     "level": 0
+    },
+    {
+     "text": "The seven-step digital marketing plan",
+     "level": 0
+    },
+    {
+     "text": "Organizing your digital marketing calendar",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Search Engine Optimization (SEO)",
+   "items": [
+    {
+     "text": "What is SEO?",
+     "level": 0
+    },
+    {
+     "text": "21 essential SEO tips for digital marketers",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Google AdWords",
+   "items": [
+    {
+     "text": "Setting up and structuring Google AdWords campaigns",
+     "level": 0
+    },
+    {
+     "text": "Choosing the right keywords",
+     "level": 0
+    },
+    {
+     "text": "Campaign setup process",
+     "level": 0
+    },
+    {
+     "text": "Organizing ad groups",
+     "level": 0
+    },
+    {
+     "text": "Optimizing landing pages",
+     "level": 0
+    },
+    {
+     "text": "Bid management strategies",
+     "level": 0
+    },
+    {
+     "text": "Analytics for campaign measurement and optimization",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Google Analytics",
+   "items": [
+    {
+     "text": "Navigating the dashboard: audience, traffic sources, content, conversions",
+     "level": 0
+    },
+    {
+     "text": "Using analytics to inform decisions",
+     "level": 0
+    },
+    {
+     "text": "Defining business goals and objectives",
+     "level": 0
+    },
+    {
+     "text": "Measurement tools and techniques",
+     "level": 0
+    },
+    {
+     "text": "Calculating ROI from your website",
+     "level": 0
+    },
+    {
+     "text": "Goal conversion tracking",
+     "level": 0
+    },
+    {
+     "text": "Tracking social media traffic and segmenting data",
+     "level": 0
+    },
+    {
+     "text": "Integrating Google AdWords with Google Analytics",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Social Media Marketing: Full Engagement Campaigns",
+   "items": [
+    {
+     "text": "Social media marketing overview and statistics",
+     "level": 0
+    },
+    {
+     "text": "Developing a social media marketing strategy",
+     "level": 0
+    },
+    {
+     "text": "Setting social media goals",
+     "level": 0
+    },
+    {
+     "text": "Targeting the right platforms for your audience",
+     "level": 0
+    },
+    {
+     "text": "Popular social media networks",
+     "level": 0
+    },
+    {
+     "text": "Facebook Graph Search and SEO for Facebook",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Understanding Your Audience",
+   "items": [
+    {
+     "text": "Setting up Facebook Ads for targeted demographics",
+     "level": 0
+    },
+    {
+     "text": "Creating LinkedIn Ads for specific industries",
+     "level": 0
+    },
+    {
+     "text": "Using Google Alerts to monitor brands, competitors, and industry trends",
+     "level": 0
+    },
+    {
+     "text": "Best practices for hashtags and tools",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Inbound Marketing: Overview and Methodology",
+   "items": [
+    {
+     "text": "Self-hosted blogging: tips and tools",
+     "level": 0
+    },
+    {
+     "text": "Lead generation tactics",
+     "level": 0
+    },
+    {
+     "text": "Ideas for content marketing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Implementing Social Media: Engaging Your Audience",
+   "items": [
+    {
+     "text": "Tips for writing effective social media updates",
+     "level": 0
+    },
+    {
+     "text": "Automating updates using Buffer",
+     "level": 0
+    },
+    {
+     "text": "Creating social media graphics without graphic design expertise",
+     "level": 0
+    },
+    {
+     "text": "Scheduling social media updates",
+     "level": 0
+    },
+    {
+     "text": "Integrating social media plugins with your website",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Measuring Success",
+   "items": [
+    {
+     "text": "Using Google Analytics to track performance",
+     "level": 0
+    },
+    {
+     "text": "Analyzing bounce rate, time spent on site, and conversions",
+     "level": 0
+    },
+    {
+     "text": "Tracking offline conversions",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

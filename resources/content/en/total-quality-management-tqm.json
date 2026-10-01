@@ -1,0 +1,200 @@
+{
+ "file": "06- Total Quality Management (TQM).docx",
+ "title": "Total Quality Management (TQM)",
+ "duration": "5 Days",
+ "overview": [
+  "This course provides participants with an in-depth understanding of the history and evolution of quality concepts, including the contributions of renowned quality gurus and tools. Through interactive workshops and role plays, participants will explore the application of various quality systems, models, and methodologies, such as excellence awards, ISO systems, Lean, and Six Sigma. The course focuses on practical applications, equipping participants with the skills to implement powerful quality tools used by leading organizations. By the end of the program, participants will gain best practices for selecting, designing, and applying quality structures and tools in their organizations."
+ ],
+ "audience": [
+  "This course is designed for individuals, managers, and supervisors engaged in implementing quality models, TQM, ISO standards, and excellence awards, as well as those focused on improving organizational performance."
+ ],
+ "methodology": [
+  "The course uses workshops, role plays, and group debriefs to help participants grasp key quality concepts and applications. It features hands-on exercises with quality tools, supported by instructional videos on quality systems. Team discussions and presentations foster a deeper understanding of the subject matter, enhancing participants' ability to apply the concepts in real-world scenarios."
+ ],
+ "competencies": [
+  "Problem-solving",
+  "Application of quality tools",
+  "Selection of quality models and systems",
+  "Utilization of Lean and Six Sigma methodologies",
+  "Change management",
+  "Understanding ISO systems",
+  "Benchmarking techniques"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain the significance of quality models and identify key concepts and frameworks developed by quality gurus.",
+  "Understand the critical success factors for deploying Total Quality Management (TQM).",
+  "Utilize TQM tools to improve customer satisfaction and enhance organizational processes.",
+  "Apply benchmarking techniques to strengthen quality initiatives.",
+  "Implement widely recognized improvement methodologies, including Lean and Six Sigma."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Total Quality Management (TQM) Concepts",
+   "items": [
+    {
+     "text": "Defining quality and quality models",
+     "level": 0
+    },
+    {
+     "text": "Historical perspective on quality evolution",
+     "level": 0
+    },
+    {
+     "text": "Key aspects of TQM and critical success factors",
+     "level": 0
+    },
+    {
+     "text": "The relationship between ISO 9000 and TQM",
+     "level": 0
+    },
+    {
+     "text": "Benefits of implementing quality models",
+     "level": 0
+    },
+    {
+     "text": "Cost implications of poor quality",
+     "level": 0
+    },
+    {
+     "text": "Comparing quality pioneers: Deming, Crosby, Juran, and others",
+     "level": 0
+    },
+    {
+     "text": "Overview of national and international quality awards:",
+     "level": 0
+    },
+    {
+     "text": "Malcolm Baldrige National Quality Award",
+     "level": 1
+    },
+    {
+     "text": "EFQM, Dubai Quality Award, and HH Sheikh Khalifa Excellence Award",
+     "level": 1
+    },
+    {
+     "text": "Selecting the most suitable quality model for your organization",
+     "level": 0
+    },
+    {
+     "text": "Understanding the quality maturity ladder",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Key Success Factors of TQM",
+   "items": [
+    {
+     "text": "Customer-centric quality",
+     "level": 0
+    },
+    {
+     "text": "The Plan-Do-Check-Act (PDCA) model",
+     "level": 0
+    },
+    {
+     "text": "The eight-step problem-solving methodology",
+     "level": 0
+    },
+    {
+     "text": "Process thinking and non-value-added elimination",
+     "level": 0
+    },
+    {
+     "text": "Data-driven management practices",
+     "level": 0
+    },
+    {
+     "text": "Continuous improvement through Kaizen",
+     "level": 0
+    },
+    {
+     "text": "Encouraging employee participation via idea-generation systems",
+     "level": 0
+    },
+    {
+     "text": "Strategies for employee reward and recognition",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Quality Improvement Tools and Methodologies",
+   "items": [
+    {
+     "text": "Overview of quality tools",
+     "level": 0
+    },
+    {
+     "text": "The seven quality control tools:",
+     "level": 0
+    },
+    {
+     "text": "Cause-and-effect diagram, check sheet, control charts, histogram, Pareto chart, scatter diagram, stratification",
+     "level": 1
+    },
+    {
+     "text": "Advanced tools:",
+     "level": 0
+    },
+    {
+     "text": "Brainstorming, tree diagrams (how-how and why-why), force field analysis, affinity diagrams",
+     "level": 1
+    },
+    {
+     "text": "Process mapping: The \"Turtle Diagram\"",
+     "level": 0
+    },
+    {
+     "text": "Error-proofing with Poka Yoke",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Lean Thinking and waste elimination strategies",
+     "level": 0
+    },
+    {
+     "text": "Visual management and the 5S program",
+     "level": 0
+    },
+    {
+     "text": "Applying Six Sigma methodologies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Benchmarking for Quality Improvement",
+   "items": [
+    {
+     "text": "Defining benchmarking and its significance",
+     "level": 0
+    },
+    {
+     "text": "Levels of benchmarking and their application",
+     "level": 0
+    },
+    {
+     "text": "Advantages and limitations of different benchmarking approaches",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Continuous Improvement Processes",
+   "items": [
+    {
+     "text": "The eight steps to achieving improvement",
+     "level": 0
+    },
+    {
+     "text": "Identifying critical success factors and avoiding common pitfalls in TQM",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

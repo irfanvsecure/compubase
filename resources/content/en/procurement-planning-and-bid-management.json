@@ -1,0 +1,179 @@
+{
+ "file": "02- Procurement Planning and Bid Manag.docx",
+ "title": "Procurement Planning and Bid Management",
+ "duration": "5 Days",
+ "overview": [
+  "Effective procurement planning is essential for ensuring supply security while balancing the goals of cost savings and internal customer satisfaction. This course covers comprehensive strategies for procurement planning and bid management, offering insights on setting procurement objectives, forecasting demand, and integrating vendors to sustain operations. Participants will explore both qualitative and quantitative forecasting techniques for inventory planning and learn to apply vendor management strategies that support the organization’s long-term goals."
+ ],
+ "audience": [
+  "This course is designed for purchasing and supply chain professionals at all levels involved in procurement planning, sourcing, buying, and bid management, as well as those engaged in the purchasing process."
+ ],
+ "methodology": [
+  "The course incorporates a mix of individual and team exercises, case studies, and instructional videos to enhance learning and practical application."
+ ],
+ "competencies": [
+  "Procurement planning",
+  "Business analysis",
+  "Structured thinking",
+  "Demand forecasting",
+  "Inventory management",
+  "Performance evaluation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop strategic procurement objectives and initiatives aligned with long-term organizational goals",
+  "Categorize spend items to create targeted go-to-market strategies",
+  "Utilize forecasting techniques to improve procurement planning",
+  "Implement vendor integration strategies to maintain supply continuity",
+  "Apply scientific methods to evaluate and select vendor bids"
+ ],
+ "outline": [
+  {
+   "title": "Strategic Procurement Planning",
+   "items": [
+    {
+     "text": "Defining procurement mission and objectives",
+     "level": 0
+    },
+    {
+     "text": "Identifying and implementing improvement initiatives:",
+     "level": 0
+    },
+    {
+     "text": "Structure-related",
+     "level": 1
+    },
+    {
+     "text": "Systems-related",
+     "level": 1
+    },
+    {
+     "text": "Workstreams-related",
+     "level": 1
+    },
+    {
+     "text": "Culture-related",
+     "level": 1
+    },
+    {
+     "text": "Establishing performance measures and targets",
+     "level": 0
+    },
+    {
+     "text": "Communicating the procurement plan effectively",
+     "level": 0
+    },
+    {
+     "text": "Engaging with key stakeholders",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Spend Category Planning",
+   "items": [
+    {
+     "text": "Profiling spend categories",
+     "level": 0
+    },
+    {
+     "text": "Conducting spend impact analysis",
+     "level": 0
+    },
+    {
+     "text": "Assessing financial impacts and vendor segmentation",
+     "level": 0
+    },
+    {
+     "text": "Performing market risk and value chain analysis",
+     "level": 0
+    },
+    {
+     "text": "Conducting SWOT analysis and Porter’s Five Forces",
+     "level": 0
+    },
+    {
+     "text": "Using risk heat maps and vendor risk scoring",
+     "level": 0
+    },
+    {
+     "text": "Compiling category reports",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Forecasting and Demand Planning",
+   "items": [
+    {
+     "text": "Exploring the human element of forecasting",
+     "level": 0
+    },
+    {
+     "text": "Key insights from Tetlock’s “foxes and hedgehogs” and Taleb’s “black swan”",
+     "level": 0
+    },
+    {
+     "text": "Fundamentals of demand planning",
+     "level": 0
+    },
+    {
+     "text": "Applying quantitative and qualitative forecasting methods",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Vendor Integration",
+   "items": [
+    {
+     "text": "Prequalifying vendors based on:",
+     "level": 0
+    },
+    {
+     "text": "Legal, financial, and technical criteria",
+     "level": 1
+    },
+    {
+     "text": "Staff qualifications and HSE standards",
+     "level": 1
+    },
+    {
+     "text": "Developing Service Level Agreements (SLAs)",
+     "level": 0
+    },
+    {
+     "text": "Fostering strategic partnerships",
+     "level": 0
+    },
+    {
+     "text": "Implementing supplier diversity programs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Bid Evaluation and Selection",
+   "items": [
+    {
+     "text": "Understanding the bid management process",
+     "level": 0
+    },
+    {
+     "text": "Establishing bid evaluation criteria",
+     "level": 0
+    },
+    {
+     "text": "Applying scoring systems and selection protocols",
+     "level": 0
+    },
+    {
+     "text": "Awarding contracts based on Total Cost of Ownership (TCO) for complex purchases",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

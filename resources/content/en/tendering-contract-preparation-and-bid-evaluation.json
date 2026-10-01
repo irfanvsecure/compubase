@@ -1,0 +1,230 @@
+{
+ "file": "6- Tendering, Contract Preparation & Bid Evaluat.docx",
+ "title": "Tendering Procedures and Bid Evaluation",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip participants with the essential knowledge, concepts, and skills required to manage tendering processes and bid evaluations effectively. Participants will gain an in-depth understanding of every step involved in tendering, from preparing tender documents to evaluating bids using diverse techniques and approaches. Through this interactive course, participants will learn to analyze submitted bids using key tools, including preliminary examination, technical evaluation, and commercial evaluation."
+ ],
+ "audience": [
+  "This course is ideal for professionals involved in the initial stages of the contracting lifecycle who seek a thorough understanding of tendering processes, procedures, and evaluation techniques."
+ ],
+ "methodology": [
+  "The course incorporates a mix of individual and group exercises to facilitate practical learning of key contract management activities. Case studies and participant presentations are followed by group discussions to ensure a comprehensive understanding of the concepts. Pre- and post-course assessments are included to measure learning progress."
+ ],
+ "competencies": [
+  "Contract preparation",
+  "Drafting the scope of work",
+  "Contract planning",
+  "Developing pricing strategies",
+  "Mastering the tendering process",
+  "Bid evaluation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify the stages of contracting, from defining the scope of work to awarding the contract.",
+  "Understand the objectives of the tendering process and explore alternative contracting methods.",
+  "Develop a tendering strategy, determine the sourcing method, define the project scope of work, and plan the bidder evaluation process.",
+  "Gain expertise in preparing tenders and selecting potential contractors.",
+  "Apply advanced methodologies for preliminary, technical, and commercial evaluations using criteria, weights, and scoring systems to optimize bidder selection."
+ ],
+ "outline": [
+  {
+   "title": "1. Contracting and Tendering Overview",
+   "items": [
+    {
+     "text": "Definition and fundamentals of contracts",
+     "level": 0
+    },
+    {
+     "text": "Stages of contracting:",
+     "level": 0
+    },
+    {
+     "text": "Preparation and tendering",
+     "level": 1
+    },
+    {
+     "text": "Award and administration",
+     "level": 1
+    },
+    {
+     "text": "Understanding tendering and its purpose",
+     "level": 0
+    },
+    {
+     "text": "Alternatives to traditional tendering",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Tendering Objectives and Processes",
+   "items": [
+    {
+     "text": "Objectives of tendering",
+     "level": 0
+    },
+    {
+     "text": "Contracting methods:",
+     "level": 0
+    },
+    {
+     "text": "Competitive bidding",
+     "level": 1
+    },
+    {
+     "text": "Competitive proposals",
+     "level": 1
+    },
+    {
+     "text": "Reverse auctions",
+     "level": 1
+    },
+    {
+     "text": "Preparing for tendering:",
+     "level": 0
+    },
+    {
+     "text": "Identifying project requirements",
+     "level": 1
+    },
+    {
+     "text": "Drafting the scope of work",
+     "level": 1
+    },
+    {
+     "text": "Planning the evaluation process",
+     "level": 1
+    },
+    {
+     "text": "Supplier identification",
+     "level": 1
+    },
+    {
+     "text": "Developing tender documents",
+     "level": 1
+    },
+    {
+     "text": "Issuing invitations to tender",
+     "level": 1
+    },
+    {
+     "text": "Drafting terms and conditions",
+     "level": 1
+    },
+    {
+     "text": "Conducting tender briefings",
+     "level": 1
+    },
+    {
+     "text": "Receiving and opening bids",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Commercial and Financial Considerations",
+   "items": [
+    {
+     "text": "Contract pricing models:",
+     "level": 0
+    },
+    {
+     "text": "Fixed price",
+     "level": 1
+    },
+    {
+     "text": "Cost-plus",
+     "level": 1
+    },
+    {
+     "text": "Unit price",
+     "level": 1
+    },
+    {
+     "text": "Measured work contracts",
+     "level": 1
+    },
+    {
+     "text": "Special forms of contracting",
+     "level": 0
+    },
+    {
+     "text": "Payment terms and value for money",
+     "level": 0
+    },
+    {
+     "text": "Whole-life costing principles",
+     "level": 0
+    },
+    {
+     "text": "Most Economically Advantageous Tender (MEAT)",
+     "level": 0
+    },
+    {
+     "text": "Contractor strategies and bid/no-bid decisions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Tender Evaluation and Award",
+   "items": [
+    {
+     "text": "The evaluation process:",
+     "level": 0
+    },
+    {
+     "text": "Preliminary bid examination",
+     "level": 1
+    },
+    {
+     "text": "Detailed bid analysis",
+     "level": 1
+    },
+    {
+     "text": "Tools and techniques:",
+     "level": 0
+    },
+    {
+     "text": "Rating scales",
+     "level": 1
+    },
+    {
+     "text": "Scoring protocols",
+     "level": 1
+    },
+    {
+     "text": "Compliance matrices",
+     "level": 1
+    },
+    {
+     "text": "Technical bid scoring",
+     "level": 1
+    },
+    {
+     "text": "Preparing evaluation reports",
+     "level": 0
+    },
+    {
+     "text": "Awarding the contract:",
+     "level": 0
+    },
+    {
+     "text": "Post-award conferences",
+     "level": 1
+    },
+    {
+     "text": "Debriefing unsuccessful bidders",
+     "level": 1
+    },
+    {
+     "text": "Handling mistakes and protests",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

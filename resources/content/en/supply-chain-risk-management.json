@@ -1,0 +1,330 @@
+{
+ "file": "13- Supply Chain Risk Management.docx",
+ "title": "Supply Chain Risk Management",
+ "duration": "3 Days",
+ "overview": [
+  "Effectively managing risks within a supply chain is an essential skill for any supply chain professional today. This course will equip procurement and supply chain professionals with the skills necessary to work diligently and effectively with their supply base, mitigating risks while maximizing opportunities to gain a competitive advantage in the marketplace."
+ ],
+ "audience": [
+  "This course is intended for supply chain and logistics professionals, especially those at the operational, supervisory, and management levels. It is ideal for individuals looking to enhance their supply chain and logistics experience with risk management skills applicable to their daily operations."
+ ],
+ "methodology": [
+  "The course is highly interactive, featuring group discussions, team exercises, case studies, individual and group presentations, videos, and summative quizzes."
+ ],
+ "competencies": [
+  "Supply chain management",
+  "Supply chain risk assessment",
+  "Supply chain quality management",
+  "Warehouse management",
+  "Transportation management",
+  "Procurement",
+  "Logistics management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Outline contemporary supply chain and risk management concepts as a foundation for operational success",
+  "Plan the supply chain management risk process to align with organizational requirements",
+  "Identify and assess sources of risk across the supply chain",
+  "Evaluate risks qualitatively and quantitatively using a diverse toolkit",
+  "Develop risk mitigation and contingency plans to ensure a steady supply flow",
+  "Recognize cultural, ethical, and legal considerations in supply chain risk management planning"
+ ],
+ "outline": [
+  {
+   "title": "Supply Chain Management and Risk",
+   "items": [
+    {
+     "text": "Overview of supply chains",
+     "level": 0
+    },
+    {
+     "text": "Functions of a supply chain",
+     "level": 0
+    },
+    {
+     "text": "Objectives of supply chains",
+     "level": 0
+    },
+    {
+     "text": "Supply chain configuration",
+     "level": 0
+    },
+    {
+     "text": "Introduction to risk management",
+     "level": 0
+    },
+    {
+     "text": "Understanding the rationale for taking risks",
+     "level": 0
+    },
+    {
+     "text": "Risk perception",
+     "level": 0
+    },
+    {
+     "text": "Risks in dynamic environments",
+     "level": 0
+    },
+    {
+     "text": "Advantages of supply chain risk management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Planning the Risk Process in Supply Chains",
+   "items": [
+    {
+     "text": "Overview of the risk management process",
+     "level": 0
+    },
+    {
+     "text": "Key deliverables of risk management",
+     "level": 0
+    },
+    {
+     "text": "Planning approach",
+     "level": 0
+    },
+    {
+     "text": "Risk administration",
+     "level": 0
+    },
+    {
+     "text": "Definitions of supply chain risk",
+     "level": 0
+    },
+    {
+     "text": "Role distribution",
+     "level": 0
+    },
+    {
+     "text": "Stakeholder management",
+     "level": 0
+    },
+    {
+     "text": "Developing a communication plan",
+     "level": 0
+    },
+    {
+     "text": "Managing change",
+     "level": 0
+    },
+    {
+     "text": "Understanding risk tolerance and appetite",
+     "level": 0
+    },
+    {
+     "text": "Cultural considerations",
+     "level": 0
+    },
+    {
+     "text": "Using templates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Identifying Supply Chain Risks",
+   "items": [
+    {
+     "text": "Techniques for identifying risks",
+     "level": 0
+    },
+    {
+     "text": "Scoping supply chain risks",
+     "level": 0
+    },
+    {
+     "text": "Distinguishing between internal and external risks",
+     "level": 0
+    },
+    {
+     "text": "Utilizing the SIPOC model",
+     "level": 0
+    },
+    {
+     "text": "Conducting value chain analysis",
+     "level": 0
+    },
+    {
+     "text": "Applying the SCOR framework",
+     "level": 0
+    },
+    {
+     "text": "Using a work breakdown structure",
+     "level": 0
+    },
+    {
+     "text": "Identifying scope change risks",
+     "level": 0
+    },
+    {
+     "text": "Classifying risk types and categories",
+     "level": 0
+    },
+    {
+     "text": "Assessing service level risks",
+     "level": 0
+    },
+    {
+     "text": "Understanding financial risks",
+     "level": 0
+    },
+    {
+     "text": "Risk identification and evaluation toolkit",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Evaluating Supply Chain Risks",
+   "items": [
+    {
+     "text": "Conducting risk analysis",
+     "level": 0
+    },
+    {
+     "text": "Measuring the likelihood of risks",
+     "level": 0
+    },
+    {
+     "text": "Assessing the impact of risks",
+     "level": 0
+    },
+    {
+     "text": "Gathering expert opinions (interviews)",
+     "level": 0
+    },
+    {
+     "text": "Benchmarking as a risk evaluation tool",
+     "level": 0
+    },
+    {
+     "text": "Utilizing modeling and simulations",
+     "level": 0
+    },
+    {
+     "text": "Understanding probability distributions",
+     "level": 0
+    },
+    {
+     "text": "Implementing three-point estimates",
+     "level": 0
+    },
+    {
+     "text": "Common distribution curves for risk evaluation",
+     "level": 0
+    },
+    {
+     "text": "Conducting sensitivity analysis",
+     "level": 0
+    },
+    {
+     "text": "Utilizing decision tree analysis",
+     "level": 0
+    },
+    {
+     "text": "Mapping risks using heat maps",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Responding to Supply Chain Risks",
+   "items": [
+    {
+     "text": "Risk response strategies",
+     "level": 0
+    },
+    {
+     "text": "Approaches to accept, reject, and transfer risks",
+     "level": 0
+    },
+    {
+     "text": "Developing mitigation and contingency plans",
+     "level": 0
+    },
+    {
+     "text": "Mitigation strategies for transportation risks",
+     "level": 0
+    },
+    {
+     "text": "Mitigation strategies for warehousing risks",
+     "level": 0
+    },
+    {
+     "text": "Mitigation strategies for inventory management risks",
+     "level": 0
+    },
+    {
+     "text": "Mitigation strategies for sourcing risks",
+     "level": 0
+    },
+    {
+     "text": "Strategies for exercising sourcing power",
+     "level": 0
+    },
+    {
+     "text": "Strategies for creating advantages",
+     "level": 0
+    },
+    {
+     "text": "Understanding secondary and residual risks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Controlling Supply Chain Risks",
+   "items": [
+    {
+     "text": "Advantages of monitoring and control",
+     "level": 0
+    },
+    {
+     "text": "Evidence of work performance",
+     "level": 0
+    },
+    {
+     "text": "Managing change requests",
+     "level": 0
+    },
+    {
+     "text": "Ethical considerations",
+     "level": 0
+    },
+    {
+     "text": "Legal considerations",
+     "level": 0
+    },
+    {
+     "text": "Managing a risk charter",
+     "level": 0
+    },
+    {
+     "text": "Elements of a risk charter",
+     "level": 0
+    },
+    {
+     "text": "Assigning ownership of the risk charter",
+     "level": 0
+    },
+    {
+     "text": "Defining responsibilities and accountabilities for risk",
+     "level": 0
+    },
+    {
+     "text": "Treating the charter as a living document",
+     "level": 0
+    },
+    {
+     "text": "Summary of the risk process overview",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

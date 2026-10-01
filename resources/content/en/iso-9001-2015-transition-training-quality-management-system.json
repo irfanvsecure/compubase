@@ -1,0 +1,166 @@
+{
+ "file": "10- ISO 9001 2015 Transition Training Quality Mana.docx",
+ "title": "ISO 9001: 2015 Transition Training: Quality Management System",
+ "duration": "3 Days",
+ "overview": [
+  "The ISO 9001:2015 Quality Management System standard is globally recognized and adaptable to both manufacturing and service industries. It provides organizations, regardless of size, with a robust framework to demonstrate compliance with international standards.",
+  "In today's competitive landscape, governments, industry bodies, and large corporations increasingly require their supply chain partners to adopt the principles of ISO 9001:2015. Whether you are part of the supply chain or require your partners to align with this standard, understanding its requirements is essential. This course emphasizes the Risk-Based and Process Approaches, guiding participants on how to align these principles with their business for maximum benefit.",
+  "This program offers comprehensive guidance on transitioning from ISO 9001:2008 to ISO 9001:2015, enabling participants to meet the new standard's requirements before the implementation deadline."
+ ],
+ "audience": [
+  "This course is ideal for anyone managing, interacting with, or auditing ISO 9001 Quality Management Systems. This includes, but is not limited to:",
+  "Quality, QHSE, Compliance, and Assurance staff",
+  "Internal Auditors",
+  "Organizational leaders",
+  "Professionals new to Quality Management seeking a comprehensive understanding of the new standard and the transition process"
+ ],
+ "methodology": [
+  "The course uses a blend of interactive PowerPoint presentations, real-life case studies, practical examples, and open discussions to cover both theoretical and practical aspects of the transition process."
+ ],
+ "competencies": [
+  "ISO 9001:2015 Standards",
+  "Gap Analysis Assessment",
+  "Risk-Based Thinking",
+  "Auditing Skills",
+  "Quality Management Expertise"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop a Business Risk and Opportunities Register tailored to their organization.",
+  "Conduct a Gap Analysis assessment of their existing Quality Management System.",
+  "Advise leadership on the key principles outlined in Clause 5 of ISO 9001:2015.",
+  "Implement best practices to transition and integrate the system effectively across their organization.",
+  "Recognize the impact of human factors on system implementation and effectiveness.",
+  "Prepare ISO 9001:2015 audit checklists.",
+  "Conduct ISO 9001:2015 Management Review meetings"
+ ],
+ "outline": [
+  {
+   "title": "Overview of ISO 9001:2015",
+   "items": [
+    {
+     "text": "Introduction to ISO and the 9001 standard",
+     "level": 0
+    },
+    {
+     "text": "History and evolution of ISO 9001",
+     "level": 0
+    },
+    {
+     "text": "Certification process and requirements",
+     "level": 0
+    },
+    {
+     "text": "Understanding Annex SL and its significance",
+     "level": 0
+    },
+    {
+     "text": "Key principles and benefits of the 2015 changes",
+     "level": 0
+    },
+    {
+     "text": "Integration with other ISO standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Differences Between ISO 9001:2008 and ISO 9001:2015",
+   "items": [
+    {
+     "text": "Comparison matrix: 2008 vs. 2015",
+     "level": 0
+    },
+    {
+     "text": "Changing terminology and meanings",
+     "level": 0
+    },
+    {
+     "text": "Conducting a Gap Analysis Audit",
+     "level": 0
+    },
+    {
+     "text": "Enhanced focus on leadership",
+     "level": 0
+    },
+    {
+     "text": "Evolving documentation requirements",
+     "level": 0
+    },
+    {
+     "text": "Process management and addressing threats and opportunities",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk-Based Thinking and the Process Approach",
+   "items": [
+    {
+     "text": "Understanding the Process Approach",
+     "level": 0
+    },
+    {
+     "text": "Benefits of adopting a Process Approach",
+     "level": 0
+    },
+    {
+     "text": "Incorporating risk through threats and opportunities into Quality Management Systems",
+     "level": 0
+    },
+    {
+     "text": "Exploring James Reason’s Swiss Cheese Model for Risk-Based Thinking",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Transition Principles of ISO 9001:2015",
+   "items": [
+    {
+     "text": "The role of leadership as a standalone section",
+     "level": 0
+    },
+    {
+     "text": "Importance of awareness and communication",
+     "level": 0
+    },
+    {
+     "text": "Internal audit and management review practices",
+     "level": 0
+    },
+    {
+     "text": "Evolving documentation requirements",
+     "level": 0
+    },
+    {
+     "text": "Managing human factors during implementation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Expectations and Detailed Requirements of ISO 9001:2015",
+   "items": [
+    {
+     "text": "Certification body expectations",
+     "level": 0
+    },
+    {
+     "text": "Transition timelines and milestones",
+     "level": 0
+    },
+    {
+     "text": "Leadership responsibilities during the transition",
+     "level": 0
+    },
+    {
+     "text": "Supporting your organization through the transition process",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

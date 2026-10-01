@@ -1,0 +1,160 @@
+{
+ "file": "04- Governance, Risk and Compliance (GRC).docx",
+ "title": "Governance, Risk and Compliance (GRC)",
+ "duration": "5 Days",
+ "overview": [
+  "Governance, Risk, and Compliance (GRC) are interconnected disciplines that play a crucial role in modern corporate management. As corporate governance and risk management gain prominence in academic and legislative spheres, the integration of governance, risk, compliance, and internal controls into a unified system becomes essential. Unfortunately, not all organizations recognize the strategic importance of this approach.",
+  "This course provides a comprehensive understanding of board structures, committees, and their responsibilities. It also delves into risk management practices aligned with COSO (Committee of Sponsoring Organizations of the Treadway Commission) guidelines and explores internal controls designed to mitigate risks across various corporate areas. Participants will also gain insights into the latest compliance trends and practices"
+ ],
+ "audience": [
+  "This course is suitable for board members, senior executives, CFOs, directors, finance managers, legal advisors, corporate secretaries, auditors, HR managers, and department heads who aim to enhance their knowledge of GRC systems."
+ ],
+ "methodology": [
+  "The course combines instructor-led presentations with interactive discussions, practical exercises, and real-world case studies to ensure participants can apply the concepts effectively."
+ ],
+ "competencies": [
+  "Structuring and analyzing boards of directors and committees.",
+  "Enhancing risk monitoring, assessment, and reporting.",
+  "Controlling risks and advising on integrated GRC systems."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain corporate governance and its relationship with risk management and internal controls.",
+  "Identify the roles and responsibilities of stakeholders in public and private organizations.",
+  "Differentiate between governance models and their functions.",
+  "Recognize key areas of risk management and the impacts of internal and external environmental changes.",
+  "Design and implement effective controls for various business cycles."
+ ],
+ "outline": [
+  {
+   "title": "Overview of Governance, Risk Management, and Internal Controls",
+   "items": [
+    {
+     "text": "Defining corporate governance and its scope",
+     "level": 0
+    },
+    {
+     "text": "Core principles and codes of conduct",
+     "level": 0
+    },
+    {
+     "text": "Role of the board of directors and committees",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Stakeholders in Corporate Governance",
+   "items": [
+    {
+     "text": "Stakeholder and shareholder rights",
+     "level": 0
+    },
+    {
+     "text": "Duties and responsibilities of directors",
+     "level": 0
+    },
+    {
+     "text": "Internal and external auditors’ roles",
+     "level": 0
+    },
+    {
+     "text": "Risk-based decision-making and governance failure impacts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Corporate Governance Functions",
+   "items": [
+    {
+     "text": "Board independence and evaluation",
+     "level": 0
+    },
+    {
+     "text": "Designing and analyzing corporate governance systems",
+     "level": 0
+    },
+    {
+     "text": "Promoting transparency and disclosure",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Introduction to Compliance",
+   "items": [
+    {
+     "text": "Definition, importance, and practical examples of compliance",
+     "level": 0
+    },
+    {
+     "text": "Risks associated with non-compliance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Enterprise Risk Management",
+   "items": [
+    {
+     "text": "Understanding risk perception and its importance",
+     "level": 0
+    },
+    {
+     "text": "Navigating internal and external environmental changes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk Management Areas",
+   "items": [
+    {
+     "text": "Strategic, operational, reporting, financial, and health/safety risks",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk Management Process (COSO Guidelines)",
+   "items": [
+    {
+     "text": "Setting objectives and identifying events",
+     "level": 0
+    },
+    {
+     "text": "Assessing risks and crafting responses",
+     "level": 0
+    },
+    {
+     "text": "Control activities, communication, and monitoring",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Implementing Controls in Business Cycles",
+   "items": [
+    {
+     "text": "Controls in purchasing and payment processes",
+     "level": 0
+    },
+    {
+     "text": "Inventory management and costing",
+     "level": 0
+    },
+    {
+     "text": "HR and payroll cycles",
+     "level": 0
+    },
+    {
+     "text": "Sales, collections, and fixed asset management",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

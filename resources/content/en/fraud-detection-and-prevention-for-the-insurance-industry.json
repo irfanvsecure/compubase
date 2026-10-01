@@ -1,0 +1,149 @@
+{
+ "file": "05- Fraud Detection and Prevention for the Insurance I.docx",
+ "title": "Fraud Detection and Prevention for the Insurance Industry",
+ "duration": "3 Days",
+ "overview": [
+  "This course is designed to equip professionals in the insurance industry with the skills and tools to prevent, detect, investigate, and prosecute fraud. Participants will learn to protect their organizations from internal threats such as agent/broker premium diversion, reinsurance fraud, and rented asset schemes, as well as external threats like staged auto accidents, fake insurance companies, offshore/unlicensed internet companies, and settlement fraud."
+ ],
+ "audience": [
+  "This course is ideal for auditors, investigators, and prosecutors working in the insurance fraud domain. It is also suitable for professionals seeking to expand their expertise in fraud detection and prevention."
+ ],
+ "methodology": [
+  "The program incorporates a combination of presentations, discussions, case studies, videos, role-plays, and interactive exercises to bridge theoretical knowledge with practical application."
+ ],
+ "competencies": [
+  "Fraud prevention and detection in insurance",
+  "Auditing and investigating fraud cases",
+  "Implementing anti-fraud strategies",
+  "Managing fraud risks"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the role of ethics in preventing insurance fraud.",
+  "Recognize the various types and nature of insurance fraud.",
+  "Establish fraud prevention strategies for their organization.",
+  "Implement effective anti-fraud measures and manage fraud-related risks.",
+  "Conduct investigations and prepare legal cases for prosecuting suspected fraudsters."
+ ],
+ "outline": [
+  {
+   "title": "Governance and Ethics in Insurance",
+   "items": [
+    {
+     "text": "Defining ethics and its workplace relevance",
+     "level": 0
+    },
+    {
+     "text": "Addressing conflicts of interest, fraud, racism, and other misconduct",
+     "level": 0
+    },
+    {
+     "text": "Conducting ethics investigations: skills and approaches for investigators",
+     "level": 0
+    },
+    {
+     "text": "Concepts of moral hazard and adverse selection in insurance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fighting Different Types of Fraud",
+   "items": [
+    {
+     "text": "Core concepts: anti-fraud mindset and prevention strategies",
+     "level": 0
+    },
+    {
+     "text": "Fraud in life, health, auto, and property insurance",
+     "level": 0
+    },
+    {
+     "text": "Reporting insurance fraud and the role of fraud investigators",
+     "level": 0
+    },
+    {
+     "text": "Internal audit’s contribution to fraud prevention",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Broker Perspectives on Fraud",
+   "items": [
+    {
+     "text": "Types of fraud from the broker’s standpoint",
+     "level": 0
+    },
+    {
+     "text": "Broker responsibilities and anti-fraud measures",
+     "level": 0
+    },
+    {
+     "text": "Establishing in-house anti-fraud units",
+     "level": 0
+    },
+    {
+     "text": "Utilizing technology: software alerts, databases (e.g., CUE, MIAFTR, MID, CIFAS)",
+     "level": 0
+    },
+    {
+     "text": "Advanced tools: cognitive interviewing, voice stress analysis, aerial mapping",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fraud Investigations",
+   "items": [
+    {
+     "text": "Key responsibilities and standards for fraud investigators",
+     "level": 0
+    },
+    {
+     "text": "Reviewing controls and gathering corroborative evidence",
+     "level": 0
+    },
+    {
+     "text": "Identifying fraudulent claims",
+     "level": 0
+    },
+    {
+     "text": "Theoretical and legal aspects of fraud investigations",
+     "level": 0
+    },
+    {
+     "text": "Adopting a multidisciplinary approach to investigations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Criminal Investigations",
+   "items": [
+    {
+     "text": "Principles and methodologies of criminal investigation",
+     "level": 0
+    },
+    {
+     "text": "Collecting, systematizing, and presenting evidence",
+     "level": 0
+    },
+    {
+     "text": "Conducting interviews, interrogations, and polygraph analysis",
+     "level": 0
+    },
+    {
+     "text": "Criminology considerations and legal frameworks",
+     "level": 0
+    },
+    {
+     "text": "Advanced investigative techniques",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

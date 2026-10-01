@@ -1,0 +1,218 @@
+{
+ "file": "8- FIDIC Contracts Management.docx",
+ "title": "FIDIC Contracts Management: Practical Use of FIDIC Contracts",
+ "duration": "3 Days",
+ "overview": [
+  "This course offers practical insights for professionals involved in the management or administration of projects governed by FIDIC forms of contracts. It focuses on the essential procedures and disciplines required in both the “Pre-Contract” phase, including the FIDIC Client Consultant Service Agreement and selecting the appropriate FIDIC contract form, as well as the “Post-Contract” phase, addressing contract management and claim-related issues.",
+  "The course covers the use of FIDIC’s 1999 Contracts while highlighting key updates in the 2017 Second Editions. Participants will gain a deep understanding of FIDIC’s conditions of contract for construction (“Construction Contract”) and plant and design-build (“Design-Build Contract”). This knowledge ensures confidence in working with these contracts, whether as employers, consultants, or contractors."
+ ],
+ "audience": [
+  "This course is ideal for professionals from government agencies, private employers, consulting engineers, contractors, quantity surveyors, architects, legal advisers, funding agencies, insurers, and anyone involved with FIDIC contracts."
+ ],
+ "methodology": [
+  "The course is interactive, featuring group discussions, case studies, and syndicate work. Practical exercises are integrated to allow participants to apply their advanced knowledge and demonstrate their skills in managing FIDIC contracts effectively."
+ ],
+ "competencies": [
+  "Comprehensive understanding of FIDIC contracts",
+  "Contract administration",
+  "Claims management",
+  "Dispute resolution",
+  "Construction management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Select the most suitable FIDIC form of contract for various projects.",
+  "Apply FIDIC principles, mechanisms, and best practices in contract and project management.",
+  "Understand the responsibilities, obligations, and entitlements of employers and contractors.",
+  "Define the engineer’s roles, duties, and responsibilities under FIDIC contracts.",
+  "Implement FIDIC-compliant mechanisms for payments, claims, and dispute resolution."
+ ],
+ "outline": [
+  {
+   "title": "1. FIDIC Contract Documents: Introduction and Principles",
+   "items": [
+    {
+     "text": "Overview of FIDIC and its background",
+     "level": 0
+    },
+    {
+     "text": "Project harmonization and contract selection",
+     "level": 0
+    },
+    {
+     "text": "Features of the 1999 Editions and user-friendly design",
+     "level": 0
+    },
+    {
+     "text": "Key differences between the 1999 Construction Contract and the 1987 Red Book",
+     "level": 0
+    },
+    {
+     "text": "Preparation and legal character of FIDIC conditions of contract",
+     "level": 0
+    },
+    {
+     "text": "Integration of FIDIC conditions with legal systems",
+     "level": 0
+    },
+    {
+     "text": "Risk analysis and determining the appropriate FIDIC form",
+     "level": 0
+    },
+    {
+     "text": "Overview of the 1999 contracts:",
+     "level": 0
+    },
+    {
+     "text": "Construction Contract",
+     "level": 1
+    },
+    {
+     "text": "Design-Build Contract",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "2. Responsibilities of Key Parties",
+   "items": [
+    {
+     "text": "Clause 1: General provisions and overarching issues",
+     "level": 0
+    },
+    {
+     "text": "Clause 2: Employer’s responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Clause 3: Engineer’s roles and duties",
+     "level": 0
+    },
+    {
+     "text": "Clause 4: Contractor’s obligations",
+     "level": 0
+    },
+    {
+     "text": "Clause 5:",
+     "level": 0
+    },
+    {
+     "text": "Nominated subcontractors (Construction Contract)",
+     "level": 1
+    },
+    {
+     "text": "Design responsibilities (Plant and Design-Build Contract)",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Project Management",
+   "items": [
+    {
+     "text": "Clause 6: Staff and labor management",
+     "level": 0
+    },
+    {
+     "text": "Clause 7: Plant, materials, and workmanship standards",
+     "level": 0
+    },
+    {
+     "text": "Clause 8: Project commencement, delays, and suspension",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Tests and Completion",
+   "items": [
+    {
+     "text": "Clause 9: Tests on completion requirements",
+     "level": 0
+    },
+    {
+     "text": "Clause 10: Employer’s taking-over process and defects liability",
+     "level": 0
+    },
+    {
+     "text": "Clause 11: Post-completion tests (Plant Contract)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Financial Clauses and Procedures",
+   "items": [
+    {
+     "text": "Clause 12: Measurement and evaluation (Construction Contract)",
+     "level": 0
+    },
+    {
+     "text": "Clause 13: Managing variations and adjustments",
+     "level": 0
+    },
+    {
+     "text": "Clause 14: Contract pricing and payment procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Suspension and Termination",
+   "items": [
+    {
+     "text": "Clause 15: Employer-initiated termination",
+     "level": 0
+    },
+    {
+     "text": "Clause 16: Contractor’s suspension and termination rights",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Risk, Liability, and Force Majeure",
+   "items": [
+    {
+     "text": "Clause 17: Risk and responsibility allocation",
+     "level": 0
+    },
+    {
+     "text": "Clause 18: Liability and insurance provisions",
+     "level": 0
+    },
+    {
+     "text": "Clause 19: Force majeure events and procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Claims, Disputes, and Arbitration",
+   "items": [
+    {
+     "text": "Clause 20: Claims, dispute resolution, and arbitration",
+     "level": 0
+    },
+    {
+     "text": "Handling contractor and employer claims, including claims procedures",
+     "level": 0
+    },
+    {
+     "text": "Managing disputes and exploring amicable settlements",
+     "level": 0
+    },
+    {
+     "text": "Role of the Dispute Adjudication Board (DAB)",
+     "level": 0
+    },
+    {
+     "text": "Arbitration procedures for unresolved disputes",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

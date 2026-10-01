@@ -1,0 +1,186 @@
+{
+ "file": "10- Stock Management, Forecasting and.docx",
+ "title": "Stock Management, Forecasting and Demand Planning",
+ "duration": "3 Days",
+ "overview": [
+  "Effective demand planning and stock control are crucial for improving the accuracy of forecasts, maintaining optimal inventory levels, and enhancing profitability by managing expenses. When executed correctly, these practices can eliminate shortages and excess stock. Demand planners, often working behind the scenes, are responsible for these tasks. Their role is complex due to the dynamic nature of demand and its inherent uncertainties. However, when done effectively, companies can leverage numerous untapped opportunities where supply chain management (SCM) can have a significant impact. This course will explore various theories, models, and best practices in demand planning."
+ ],
+ "audience": [
+  "This course is designed for individuals involved in inventory (materials) planning and stock control at operational and supervisory levels. It is also beneficial for those in related functions of materials management, such as purchasing, storage, and distribution, who seek to understand the fundamentals of inventory planning and stock control."
+ ],
+ "methodology": [
+  "The course employs a blend of interactive and practical techniques. In addition to short presentations from the instructor and participants, there will be numerous individual and group exercises. These exercises are work-related, requiring participants to calculate or devise optimal solutions after grasping the underlying processes."
+ ],
+ "competencies": [
+  "Logistics planning",
+  "Logistics workflows",
+  "Inventory management",
+  "Requirement assessment and planning",
+  "Demand forecasting"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Articulate the objectives of stock management and describe their impact on costs and customer service",
+  "Classify stock effectively and apply best practices for item specification and cataloging",
+  "Utilize scientific forecasting techniques to predict demand and improve lead time management",
+  "Distinguish and categorize elements of stock costs",
+  "Calculate the optimal ordering quantity and establish safety stocks and reorder points"
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Stock Management",
+   "items": [
+    {
+     "text": "Scope of supply chain management",
+     "level": 0
+    },
+    {
+     "text": "Functions and objectives of supply chain management",
+     "level": 0
+    },
+    {
+     "text": "Goals of inventory planning and stock control",
+     "level": 0
+    },
+    {
+     "text": "Reasons for holding inventory",
+     "level": 0
+    },
+    {
+     "text": "Considerations for inventory information systems",
+     "level": 0
+    },
+    {
+     "text": "Inventory push vs. pull systems",
+     "level": 0
+    },
+    {
+     "text": "Identifying inventory costs",
+     "level": 0
+    },
+    {
+     "text": "Customer service considerations in inventory management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Description and Classification of Inventory",
+   "items": [
+    {
+     "text": "Types of inventory",
+     "level": 0
+    },
+    {
+     "text": "ABC classification model for inventory ranking",
+     "level": 0
+    },
+    {
+     "text": "Applications of the ABC ranking",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Forecasting Demand and Lead Time",
+   "items": [
+    {
+     "text": "The inventory order cycle",
+     "level": 0
+    },
+    {
+     "text": "Dependent vs. independent demand",
+     "level": 0
+    },
+    {
+     "text": "Factors influencing demand",
+     "level": 0
+    },
+    {
+     "text": "Elements affecting demand forecast accuracy",
+     "level": 0
+    },
+    {
+     "text": "Demand patterns",
+     "level": 0
+    },
+    {
+     "text": "Time series forecasting methods",
+     "level": 0
+    },
+    {
+     "text": "Seasonal demand considerations",
+     "level": 0
+    },
+    {
+     "text": "Moving average techniques",
+     "level": 0
+    },
+    {
+     "text": "Exponential smoothing methods",
+     "level": 0
+    },
+    {
+     "text": "Measuring forecast accuracy",
+     "level": 0
+    },
+    {
+     "text": "Setting lead times and controlling methods",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Inventory Costs",
+   "items": [
+    {
+     "text": "Components of inventory costs",
+     "level": 0
+    },
+    {
+     "text": "Cost of items",
+     "level": 0
+    },
+    {
+     "text": "Purchasing costs",
+     "level": 0
+    },
+    {
+     "text": "Carrying or holding costs",
+     "level": 0
+    },
+    {
+     "text": "Stock-out costs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Inventory Systems",
+   "items": [
+    {
+     "text": "The Economic Order Quantity (EOQ) model",
+     "level": 0
+    },
+    {
+     "text": "Managing quantity discounts",
+     "level": 0
+    },
+    {
+     "text": "Objectives for safety stocks",
+     "level": 0
+    },
+    {
+     "text": "Establishing safety stock levels",
+     "level": 0
+    },
+    {
+     "text": "Determining the Reorder Point (ROP)",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

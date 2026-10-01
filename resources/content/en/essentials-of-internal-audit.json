@@ -1,0 +1,196 @@
+{
+ "file": "10- Essentials of Internal Audit.docx",
+ "title": "Essentials of Internal Audit",
+ "duration": "5 Days",
+ "overview": [
+  "Internal auditing, as defined by the Institute of Internal Auditors, is an independent and objective assurance and consulting activity aimed at adding value and improving an organization’s operations. By applying a systematic and disciplined approach, it enhances the effectiveness of risk management, control, and governance processes to support organizational goals.",
+  "In light of evolving regulatory demands and corporate governance standards, stakeholders now place heightened expectations on internal audit functions. This course equips participants with the essential knowledge, tools, and techniques to conduct internal audits effectively, aligning them with organizational strategies and enhancing sustainability"
+ ],
+ "audience": [
+  "This course is designed for individuals with some auditing experience, junior auditors, finance professionals, and other department staff who wish to develop a best-practice approach to internal auditing. It is also ideal for supervisors and managers seeking to refresh and enhance their knowledge in this area."
+ ],
+ "methodology": [
+  "This course employs an engaging blend of methods, including expert-led presentations, real-world case studies, live demonstrations of sampling techniques, and group exercises, ensuring the practical application of key concepts."
+ ],
+ "competencies": [
+  "Risk-based audit planning",
+  "Evaluating internal audit functions",
+  "Identifying risks and designing controls",
+  "Implementing effective sampling techniques",
+  "Fraud detection and assessment"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define the scope and function of internal auditing within an organization.",
+  "Understand the standards that form the framework for internal auditing activities.",
+  "Differentiate between various types of internal audit assignments, such as operational, compliance, and financial audits.",
+  "Apply techniques for risk identification, control evaluation, and controls testing.",
+  "Select appropriate internal audit testing tools and evaluate their pros and cons.",
+  "Utilize best practices for sampling in internal audit assignments, including sample size and selection.",
+  "Recognize fraud indicators and understand the auditor’s responsibilities when fraud is detected."
+ ],
+ "outline": [
+  {
+   "title": "Risk and Internal Audit Overview",
+   "items": [
+    {
+     "text": "Definition and types of organizational risk",
+     "level": 0
+    },
+    {
+     "text": "Management functions: planning, organizing, implementing, and controlling",
+     "level": 0
+    },
+    {
+     "text": "Defining internal auditing and its role in corporate governance",
+     "level": 0
+    },
+    {
+     "text": "Scope and purpose of the internal audit charter",
+     "level": 0
+    },
+    {
+     "text": "Differences between internal and external auditing",
+     "level": 0
+    },
+    {
+     "text": "Structuring and staffing an internal audit function",
+     "level": 0
+    },
+    {
+     "text": "Role of the audit committee in internal auditing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Internal Audit Standards",
+   "items": [
+    {
+     "text": "Attribute standards",
+     "level": 0
+    },
+    {
+     "text": "Performance standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Types of Internal Auditing",
+   "items": [
+    {
+     "text": "Performance, operational, financial, and compliance auditing",
+     "level": 0
+    },
+    {
+     "text": "Internal auditing’s role in assessing accounting cycles and compliance",
+     "level": 0
+    },
+    {
+     "text": "Key questions for directors regarding internal auditing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Internal Audit Implementation: Fieldwork Guidelines",
+   "items": [
+    {
+     "text": "Gathering and assessing audit information:",
+     "level": 0
+    },
+    {
+     "text": "Characteristics, sources, and persuasiveness of information",
+     "level": 1
+    },
+    {
+     "text": "Engagement procedures:",
+     "level": 0
+    },
+    {
+     "text": "Audit test tools, including observation, interviewing, and verification",
+     "level": 1
+    },
+    {
+     "text": "Role-playing exercises to enhance interviewing skills",
+     "level": 1
+    },
+    {
+     "text": "Managing internal audit working papers:",
+     "level": 0
+    },
+    {
+     "text": "Best practices for documentation and retention policies",
+     "level": 1
+    },
+    {
+     "text": "Communicating results:",
+     "level": 0
+    },
+    {
+     "text": "Legal considerations, recommendations, and conducting exit meetings",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Risk-Based Auditing",
+   "items": [
+    {
+     "text": "Understanding management assertions and the risk assessment process",
+     "level": 0
+    },
+    {
+     "text": "Identifying auditable units and prioritizing risks",
+     "level": 0
+    },
+    {
+     "text": "Developing and implementing risk-based audit plans",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Internal Control Systems",
+   "items": [
+    {
+     "text": "Essential components of effective internal control: COSO framework",
+     "level": 0
+    },
+    {
+     "text": "Testing internal controls: design, implementation, and operational effectiveness",
+     "level": 0
+    },
+    {
+     "text": "Using flowcharts for process understanding and controls testing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Audit Sampling Techniques",
+   "items": [
+    {
+     "text": "Tips and tools for effective sampling in audit assignments",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fraud Assessment",
+   "items": [
+    {
+     "text": "Definition and characteristics of fraud",
+     "level": 0
+    },
+    {
+     "text": "The internal auditor’s responsibilities in fraud detection and response",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

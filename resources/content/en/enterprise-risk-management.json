@@ -1,0 +1,204 @@
+{
+ "file": "08- Enterprise Risk Management.docx",
+ "title": "Enterprise Risk Management",
+ "duration": "3 Days",
+ "overview": [
+  "Enterprise Risk Management (ERM) has advanced significantly since its inception in the 1970s. Initially focused on purchasing insurance, ERM has grown into a critical organizational function that integrates with Governance, Risk, and Compliance (GRC). This comprehensive system begins with corporate governance and culminates in compliance, ensuring that risks are systematically identified, assessed, and mitigated to help organizations achieve their objectives.",
+  "This course is based on the globally recognized ERM framework designed by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Participants will explore the step-by-step process of controlling risk, starting with evaluating the internal environment, setting objectives aligned with corporate vision and governance, and identifying and responding to risks effectively. The course also addresses risk monitoring, communication, and reporting, with a focus on various organizational and industry-specific risk categories, such as strategic, operational, financial, and compliance risks"
+ ],
+ "audience": [
+  "This course is designed for managers, senior managers, directors, executives, financial controllers, senior finance and accounting personnel, and auditors seeking to enhance their understanding of ERM practices."
+ ],
+ "methodology": [
+  "The course employs a blend of detailed instructor-led sessions, participant presentations, and interactive case studies drawn from diverse industries and business functions."
+ ],
+ "competencies": [
+  "Enhancing risk monitoring and control",
+  "Analyzing and assessing organizational risks",
+  "Advising boards and executives on risk strategies",
+  "Mitigating and controlling risks effectively",
+  "Reporting and communicating risks"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify internal and external factors that introduce risks to the organization.",
+  "Enhance Risk-Based Decision-Making (RBDM) and strengthen governance collaboration with the board of directors.",
+  "Develop and influence internal controls based on identified risks.",
+  "Categorize organizational risks and assign appropriate authorities to manage them.",
+  "Analyze, assess, and improve risk management practices within their organizations."
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Risk Management",
+   "items": [
+    {
+     "text": "Understanding risk perception",
+     "level": 0
+    },
+    {
+     "text": "Why risk management is essential",
+     "level": 0
+    },
+    {
+     "text": "Internal and external environmental changes influencing risk",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk Management and Corporate Governance",
+   "items": [
+    {
+     "text": "Overview of corporate governance principles",
+     "level": 0
+    },
+    {
+     "text": "The GRC framework: Governance, Risk, and Compliance",
+     "level": 0
+    },
+    {
+     "text": "Integration of risk management into corporate governance",
+     "level": 0
+    },
+    {
+     "text": "Case studies of governance failures and lessons learned",
+     "level": 0
+    },
+    {
+     "text": "Risk-Based Decision-Making (RBDM)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk Management and Internal Controls",
+   "items": [
+    {
+     "text": "The role of risk management in designing internal controls",
+     "level": 0
+    },
+    {
+     "text": "Conducting risk-based internal audit assessments",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Evolution of Enterprise Risk Management (ERM)",
+   "items": [
+    {
+     "text": "Historical development and benefits of ERM",
+     "level": 0
+    },
+    {
+     "text": "ERM platforms and their applications in:",
+     "level": 0
+    },
+    {
+     "text": "Strategic planning",
+     "level": 1
+    },
+    {
+     "text": "Operations and tactical approaches",
+     "level": 1
+    },
+    {
+     "text": "Business reporting and compliance",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Risk Categories",
+   "items": [
+    {
+     "text": "Strategic risks",
+     "level": 0
+    },
+    {
+     "text": "Reporting risks",
+     "level": 0
+    },
+    {
+     "text": "Financial risks",
+     "level": 0
+    },
+    {
+     "text": "Physical risks (life and safety)",
+     "level": 0
+    },
+    {
+     "text": "Compliance risks, including:",
+     "level": 0
+    },
+    {
+     "text": "Legal and regulatory frameworks",
+     "level": 1
+    },
+    {
+     "text": "Financial reporting standards",
+     "level": 1
+    },
+    {
+     "text": "Operational risks",
+     "level": 0
+    },
+    {
+     "text": "External risks, including socioeconomic, regulatory, technological, and competitive factors",
+     "level": 0
+    },
+    {
+     "text": "Internal risks, including organizational structure, processes, and culture",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "COSO ERM Components",
+   "items": [
+    {
+     "text": "Internal Environment: Setting the foundation for risk management",
+     "level": 0
+    },
+    {
+     "text": "Objective Setting: Aligning risk management with organizational goals",
+     "level": 0
+    },
+    {
+     "text": "Event Identification: Detecting potential risk triggers",
+     "level": 0
+    },
+    {
+     "text": "Risk Assessment:",
+     "level": 0
+    },
+    {
+     "text": "Addressing the \"Black Swan\" challenge",
+     "level": 1
+    },
+    {
+     "text": "Quantitative vs. qualitative approaches",
+     "level": 1
+    },
+    {
+     "text": "Risk Response: Developing mitigation strategies",
+     "level": 0
+    },
+    {
+     "text": "Control Activities: Implementing measures to address risks",
+     "level": 0
+    },
+    {
+     "text": "Information and Communication: Ensuring clear risk communication",
+     "level": 0
+    },
+    {
+     "text": "Risk Monitoring: Continuously tracking and refining risk management processes",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

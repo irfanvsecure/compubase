@@ -1,0 +1,260 @@
+{
+ "file": "04- Agile Project Management.docx",
+ "title": "Agile Project Management",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip participants with the skills necessary for managing knowledge-based projects using agile methodologies. Through interactive sessions, participants will learn essential tools and techniques for agile project management, which are crucial for passing the PMI-ACP® (Agile Certified Practitioner) certification exam"
+ ],
+ "audience": [
+  "This course is intended for individuals seeking in-depth knowledge of agile project management. It is also suitable for those aiming to understand the practices, tools, and techniques needed to effectively manage changes within the agile framework."
+ ],
+ "methodology": [
+  "The course employs individual and group exercises to teach key agile project management activities. It also includes case studies, participant presentations, and group discussions, along with pre- and post-course testing."
+ ],
+ "competencies": [
+  "Project Management",
+  "Agile Project Management",
+  "Team Performance",
+  "Value-Added Delivery",
+  "Adaptive Planning",
+  "Problem Solving",
+  "Continuous Improvement"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define agile project management frameworks, processes, and methodologies, and understand the agile mindset and value-driven delivery.",
+  "Apply agile tools and techniques in alignment with Project Management Institute (PMI) standards.",
+  "Engage agile project stakeholders through active dialogue to identify potential issues, risks, and defects.",
+  "Explain the roles and responsibilities of team members and build a high-performance agile team.",
+  "Implement adaptive planning to help the team respond effectively to changes.",
+  "Incorporate continuous improvement into agile projects through process analysis and tailoring.",
+  "Prepare for and apply to take the PMI-ACP Exam."
+ ],
+ "outline": [
+  {
+   "title": "Agile Principles and Mindset",
+   "items": [
+    {
+     "text": "Core principles of agile project management",
+     "level": 0
+    },
+    {
+     "text": "The Agile Manifesto and its four values",
+     "level": 0
+    },
+    {
+     "text": "Agile value proposition",
+     "level": 0
+    },
+    {
+     "text": "Comparing traditional and agile project management",
+     "level": 0
+    },
+    {
+     "text": "Agile methodologies:",
+     "level": 0
+    },
+    {
+     "text": "Scrum",
+     "level": 0
+    },
+    {
+     "text": "Extreme Programming (XP)",
+     "level": 0
+    },
+    {
+     "text": "Lean Product Development",
+     "level": 0
+    },
+    {
+     "text": "Kanban",
+     "level": 0
+    },
+    {
+     "text": "Agile leadership",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Value-Driven Delivery",
+   "items": [
+    {
+     "text": "Assessing and prioritizing value",
+     "level": 0
+    },
+    {
+     "text": "Prioritization schemes:",
+     "level": 0
+    },
+    {
+     "text": "MoSCoW",
+     "level": 0
+    },
+    {
+     "text": "Monopoly Money",
+     "level": 0
+    },
+    {
+     "text": "Dot Voting",
+     "level": 0
+    },
+    {
+     "text": "Kano Analysis",
+     "level": 0
+    },
+    {
+     "text": "Requirements Prioritization Model (Karl Wiegers)",
+     "level": 0
+    },
+    {
+     "text": "Minimal Viable Product (MVP)",
+     "level": 0
+    },
+    {
+     "text": "Agile contracting",
+     "level": 0
+    },
+    {
+     "text": "Continuous integration",
+     "level": 0
+    },
+    {
+     "text": "Test-Driven Development (TDD)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Stakeholder Engagement",
+   "items": [
+    {
+     "text": "Principles of stakeholder engagement",
+     "level": 0
+    },
+    {
+     "text": "Agile modeling techniques",
+     "level": 0
+    },
+    {
+     "text": "Wireframes and personas",
+     "level": 0
+    },
+    {
+     "text": "Collaborative communication",
+     "level": 0
+    },
+    {
+     "text": "Critical interpersonal skills",
+     "level": 0
+    },
+    {
+     "text": "Participatory decision-making",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Team Performance",
+   "items": [
+    {
+     "text": "Agile team roles",
+     "level": 0
+    },
+    {
+     "text": "Building and maintaining high-performance teams",
+     "level": 0
+    },
+    {
+     "text": "Models of team development",
+     "level": 0
+    },
+    {
+     "text": "Training, coaching, and mentoring",
+     "level": 0
+    },
+    {
+     "text": "Creating collaborative workspaces",
+     "level": 0
+    },
+    {
+     "text": "Managing distributed teams",
+     "level": 0
+    },
+    {
+     "text": "Tracking team performance (e.g., burn charts)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Adaptive Planning",
+   "items": [
+    {
+     "text": "Progressive elaboration",
+     "level": 0
+    },
+    {
+     "text": "Value-based decomposition",
+     "level": 0
+    },
+    {
+     "text": "Timeboxing to control chaos",
+     "level": 0
+    },
+    {
+     "text": "User story (product) backlog management",
+     "level": 0
+    },
+    {
+     "text": "High-level planning tools (affinity estimating, t-shirt sizing)",
+     "level": 0
+    },
+    {
+     "text": "Story maps and product roadmaps",
+     "level": 0
+    },
+    {
+     "text": "Release and iteration planning",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Problem Detection and Resolution",
+   "items": [
+    {
+     "text": "Understanding and addressing problems",
+     "level": 0
+    },
+    {
+     "text": "Managing cycle time, Work In Progress (WIP), and throughput",
+     "level": 0
+    },
+    {
+     "text": "Threat and issue management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Continuous Improvement",
+   "items": [
+    {
+     "text": "Process tailoring",
+     "level": 0
+    },
+    {
+     "text": "Value stream mapping",
+     "level": 0
+    },
+    {
+     "text": "Conducting retrospectives",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

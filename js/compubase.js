@@ -8,19 +8,20 @@ function pageUrl(slug){
 
 /* ---------------- Course data (from config/courses.php) ---------------- */
 const COURSES = window.COURSE_DATA || [];
+const esc=s=>String(s).replace(/[&<>"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]));
 
 /* ---------------- Render featured cards ---------------- */
 const grid=document.getElementById('courseGrid');
 function renderGrid(filter){
   if(!grid) return;
   grid.innerHTML='';
-  const list=filter==='all'?COURSES.slice(0,6):COURSES.filter(c=>c.cat===filter);
+  const list=filter==='all'?COURSES.slice(0,6):COURSES.filter(c=>c.cats.includes(filter));
   list.forEach(c=>{
     grid.insertAdjacentHTML('beforeend',`
     <div class="course-card">
-      <div class="head"><span class="tag">${c.catName}</span><h3>${c.title}</h3></div>
+      <div class="head"><span class="tag">${esc(c.catName)}</span><h3>${esc(c.title)}</h3></div>
       <div class="body">
-        <p>[Course summary from the CompuBase course outline.]</p>
+        <p>${c.summary?esc(c.summary):'[Course summary from the CompuBase course outline.]'}</p>
         <div class="meta">
           <div><span>Duration</span><b>${c.dur}</b></div>
           <div><span>Timing</span><b>Morning or evening</b></div>
@@ -46,7 +47,7 @@ const schedBody=document.getElementById('schedBody');
 if(schedBody){
 COURSES.slice(0,8).forEach(c=>{
   schedBody.insertAdjacentHTML('beforeend',
-   `<tr><td><b style="color:var(--navy)">${c.title}</b></td><td>${c.catName}</td><td>${c.dur}</td><td>Morning or evening</td><td>[DATE]</td><td><a href="${c.url}">Register</a></td></tr>`);
+   `<tr><td><b style="color:var(--navy)">${esc(c.title)}</b></td><td>${esc(c.catName)}</td><td>${c.dur}</td><td>Morning or evening</td><td>[DATE]</td><td><a href="${c.url}">Register</a></td></tr>`);
 });}
 
 /* ---------------- Populate select lists ---------------- */

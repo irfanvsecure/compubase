@@ -1,0 +1,601 @@
+{
+ "file": "11- Certified Internal Auditor Exam Preparation.docx",
+ "title": "Certified Internal Auditor® - Full Program - Part 1, 2 & 3",
+ "duration": "5 Days",
+ "overview": [
+  "The IIA’s CIA Learning System Program is designed to expand your internal audit knowledge, build confidence for addressing today’s internal audit challenges, and prepare you for the Certified Internal Auditor (CIA) exam. This certificate program will provide you with an in-depth review of the global CIA exam syllabus and materials included in The IIA’s CIA Learning System. The IIA’s CIA Learning System is a premier quality CIA review course designed to meet the unique needs of busy internal audit professionals. Developed under the guidance of CIA Certified experts, this program will provide you with the tools necessary to successfully prepare for the CIA exam in the time frame that best suits you."
+ ],
+ "audience": [
+  "Chief audit executives",
+  "Audit directors",
+  "Audit managers and staff",
+  "Risk management staff",
+  "Business, finance, and accounting students",
+  "The person who wants CIA Qualification"
+ ],
+ "methodology": [],
+ "competencies": [],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Distinguish you from your peers.",
+  "Demonstrate your proficiency with internal staff and external clients.",
+  "Develop your knowledge of best practices in the industry.",
+  "Demonstrate your proficiency and professionalism.",
+  "Lay a foundation for continued improvement and advancement.",
+  "Internal auditing function",
+  "conduct covert internal audit"
+ ],
+ "outline": [
+  {
+   "title": "Foundations of Internal Auditing (15%)",
+   "items": [
+    {
+     "text": "Interpret The IIA's Mission of Internal Audit, Definition of Internal Auditing, and Core Principles for the Professional Practice of Internal Auditing, and the purpose, authority, and responsibility of the internal audit activity (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Explain the requirements of an internal audit charter (required components, board approval, communication of the charter, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Interpret the difference between assurance and consulting services provided by the internal audit activity (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Demonstrate conformance with the IIA Code of Ethics (Proficient)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Independence and Objectivity (15%)",
+   "items": [
+    {
+     "text": "Interpret organizational independence of the internal audit activity (importance of independence, functional reporting, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Identify whether the internal audit activity has any impairments to its independence (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Assess and maintain an individual internal auditor's objectivity, including determining whether an individual internal auditor has any impairments to his/her objectivity (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Analyze policies that promote objectivity (Proficient)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Proficiency and Due Professional Care (18%)",
+   "items": [
+    {
+     "text": "Recognize the knowledge, skills, and competencies required (whether developed or procured) to fulfill the responsibilities of the internal audit activity (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Demonstrate the knowledge and competencies that an internal auditor needs to possess to perform his/her individual responsibilities, including technical skills and soft skills (communication skills, critical thinking, persuasion/negotiation and collaboration skills, etc.) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Demonstrate due professional care (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Demonstrate an individual internal auditor's competency through continuing professional development (Proficient)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Quality Assurance and Improvement Program (7%)",
+   "items": [
+    {
+     "text": "Describe the required elements of the quality assurance and improvement program (internal assessments, external assessments, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe the requirement of reporting the results of the quality assurance and improvement program to the board or other governing body (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Identify appropriate disclosure of conformance vs. nonconformance with The IIA’s International Standards for the Professional Practice of Internal Auditing (Basic)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Governance, Risk Management, and Control (35%)",
+   "items": [
+    {
+     "text": "Describe the concept of organizational governance (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize the impact of organizational culture on the overall control environment and individual engagement risks and controls (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize and interpret the organization's ethics and compliance-related issues, alleged violations, and dispositions (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe corporate social responsibility (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Interpret fundamental concepts of risk and the risk management process (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Describe globally accepted risk management frameworks appropriate to the organization (COSO - ERM, ISO 31000, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Examine the effectiveness of risk management within processes and functions (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Recognize the appropriateness of the internal audit activity’s role in the organization's risk management process (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Interpret internal control concepts and types of controls (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Apply globally accepted internal control frameworks appropriate to the organization (COSO, etc.) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Examine the effectiveness and efficiency of internal controls (Proficient)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fraud Risks (10%)",
+   "items": [
+    {
+     "text": "Interpret fraud risks and types of frauds and determine whether fraud risks require special consideration when conducting an engagement (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the potential for occurrence of fraud (red flags, etc.) and how the organization detects and manages fraud risks (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Recommend controls to prevent and detect fraud and education to improve the organization's fraud awareness (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Recognize techniques and internal audit roles related to forensic auditing (interview, investigation, testing, etc.) (Basic)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Managing the Internal Audit Activity (20%)",
+   "items": [
+    {
+     "text": "1. Internal Audit Operations (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Describe policies and procedures for the planning, organizing, directing, and monitoring of internal audit operations (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Interpret administrative activities (budgeting, resourcing, recruiting, staffing, etc.) of the internal audit activity (Basic)",
+     "level": 0
+    },
+    {
+     "text": "2. Establishing a Risk-based Internal Audit Plan (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Identify sources of potential engagements (audit universe, audit cycle requirements, management requests, regulatory mandates, relevant market and industry trends, emerging issues, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Identify a risk management framework to assess risks and prioritize audit engagements based on the results of a risk assessment (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Interpret the types of assurance engagements (risk and control assessments, audits of third parties and contract compliance, security and privacy, performance and quality audits, key performance indicators, operational audits, financial and regulatory compliance audits) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Interpret the types of consulting engagements (training, system design, system development, due diligence, privacy, benchmarking, internal control assessment, process mapping, etc.) designed to provide advice and insight (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Describe coordination of internal audit efforts with the external auditor, regulatory oversight bodies, and other internal assurance functions, and potential reliance on other assurance providers (Basic)",
+     "level": 0
+    },
+    {
+     "text": "3. Communicating and Reporting to Senior Management and the Board (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Recognize that the chief audit executive communicates the annual audit plan to senior management and the board and seeks the board's approval (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Identify significant risk exposures and control and governance issues for the chief audit executive to report to the board (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize that the chief audit executive reports on the overall effectiveness of the organization's internal control and risk management processes to senior management and the board (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize internal audit key performance indicators that the chief audit executive communicates to senior management and the board periodically (Basic)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Planning the Engagement (20%)",
+   "items": [
+    {
+     "text": "1. Engagement Planning (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Determine engagement objectives, evaluation criteria, and the scope of the engagement (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Plan the engagement to assure identification of key risks and controls (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Complete a detailed risk assessment of each audit area, including evaluating and prioritizing risk and control factors (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Determine engagement procedures and prepare the engagement work program (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Determine the level of staff and resources needed for the engagement (Proficient)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Performing the Engagement (40%)",
+   "items": [
+    {
+     "text": "1. Information Gathering (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Gather and examine relevant information (review previous audit reports and data, conduct walk-throughs and interviews, perform observations, etc.) as part of a preliminary survey of the engagement area (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Develop checklists and risk-and-control questionnaires as part of a preliminary survey of the engagement area (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Apply appropriate sampling (nonstatistical, judgmental, discovery, etc.) and statistical analysis techniques (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "2. Analysis and Evaluation (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Use computerized audit tools and techniques (data mining and extraction, continuous monitoring, automated workpapers, embedded audit modules, etc.) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the relevance, sufficiency, and reliability of potential sources of evidence (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Apply appropriate analytical approaches and process mapping techniques (process identification, workflow analysis, process map generation and analysis, spaghetti maps, RACI diagrams, etc.) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Prepare workpapers and documentation of relevant information to support conclusions and engagement results (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe coordination of internal audit efforts with the external auditor, regulatory oversight bodies, and other internal assurance functions, and potential reliance on other assurance providers (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Summarize and develop engagement conclusions, including assessment of risks and controls (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "3. Engagement Supervision (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Identify key activities in supervising engagements (coordinate work assignments, review workpapers, evaluate auditors' performance, etc.) (Basic)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Communicating Engagement Results and Monitoring Progress (20%)",
+   "items": [
+    {
+     "text": "1. Information Gathering (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Arrange preliminary communication with engagement clients (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Demonstrate communication quality (accurate, objective, clear, concise, constructive, complete, and timely) and elements (objectives, scope, conclusions, recommendations, and action plan) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Prepare interim reporting on the engagement progress (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Formulate recommendations to enhance and protect organizational value (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Describe the audit engagement communication and reporting process, including holding the exit conference, developing the audit report (draft, review, approve, and distribute), and obtaining management's response (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe the chief audit executive's responsibility for assessing residual risk (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe the process for communicating risk acceptance (when management has accepted a level of risk that may be unacceptable to the organization) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "2. Monitoring Progress (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Assess engagement outcomes, including the management action plan (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Manage monitoring and follow-up of the disposition of audit engagement results communicated to management and the board (Proficient)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Business Acumen (35%)",
+   "items": [
+    {
+     "text": "1. Organizational Objectives, Behavior, and Performance (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Describe the strategic planning process and key activities (objective setting, globalization and competitive considerations, alignment to the organization's mission and values, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Examine common performance measures (financial, operational, qualitative vs. quantitative, productivity, quality, efficiency, effectiveness, etc.) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Explain organizational behavior (individuals in organizations, groups, and how organizations behave, etc.) and different performance management techniques (traits, organizational politics, motivation, job design, rewards, work schedules, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe management’s effectiveness to lead, mentor, guide people, build organizational commitment, and demonstrate entrepreneurial ability (Basic)",
+     "level": 0
+    },
+    {
+     "text": "2. Organizational Structure and Business Processes (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Appraise the risk and control implications of different organizational configuration structures (centralized vs. decentralized, flat structure vs. traditional, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Examine the risk and control implications of common business processes (human resources, procurement, product development, sales, marketing, logistics, management of outsourced processes, etc.) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Identify project management techniques (project plan and scope, time/team/resources/cost management, change management, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize the various forms and elements of contracts (formality, consideration, unilateral, bilateral, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "3. Data Analytics (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Describe data analytics, data types, data governance, and the value of using data analytics in internal auditing (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Explain the data analytics process (define questions, obtain relevant data, clean/normalize data, analyze data, communicate results) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize the application of data analytics methods in internal auditing (anomaly detection, diagnostic analysis, predictive analysis, network analysis, text analysis, etc.) (Basic)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Information Security (25%)",
+   "items": [
+    {
+     "text": "1. Organizational Objectives, Behavior, and Performance (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Differentiate types of common physical security controls (cards, keys, biometrics, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Differentiate the various forms of user authentication and authorization controls (password, two-level authentication, biometrics, digital signatures, etc.) and identify potential risks (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Explain the purpose and use of various information security controls (encryption, firewalls, antivirus, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize data privacy laws and their potential impact on data security policies and practices (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize emerging technology practices and their impact on security (bring your own device [BYOD], smart devices, internet of things [IoT], etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize existing and emerging cybersecurity risks (hacking, piracy, tampering, ransomware attacks, phishing attacks, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe cybersecurity and information security-related policies (Basic)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Information Technology (20%)",
+   "items": [
+    {
+     "text": "1. Application and System Software (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Recognize core activities in the systems development lifecycle and delivery (requirements definition, design, developing, testing, debugging, deployment, maintenance, etc.) and the importance of change controls throughout the process (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Explain basic database terms (data, database, record, object, field, schema, etc.) and internet terms (HTML, HTTP, URL, domain name, browser, click-through, electronic data interchange [EDI], cookies, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Identify key characteristics of software systems (customer relationship management [CRM] systems; enterprise resource planning [ERP] systems; and governance, risk, and compliance [GRC] systems; etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "2. IT Infrastructure and IT Control Frameworks (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Explain basic IT infrastructure and network concepts (server, mainframe, client-server configuration, gateways, routers, LAN, WAN, VPN, etc.) and identify potential risks (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Define the operational roles of a network administrator, database administrator, and help desk (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize the purpose and applications of IT control frameworks (COBIT, ISO 27000, ITIL, etc.) and basic IT controls (Basic)",
+     "level": 0
+    },
+    {
+     "text": "3. Disaster Recovery (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Explain disaster recovery planning site concepts (hot, warm, cold, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Explain the purpose of systems and data backup (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Explain the purpose of systems and data recovery procedures (Basic)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Financial Management (20%)",
+   "items": [
+    {
+     "text": "1. Financial Accounting and Finance (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Identify concepts and underlying principles of financial accounting (types of financial statements and terminologies such as bonds, leases, pensions, intangible assets, research and development, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Recognize advanced and emerging financial accounting concepts (consolidation, investments, fair value, partnerships, foreign currency transactions, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Interpret financial analysis (horizontal and vertical analysis and ratios related to activity, profitability, liquidity, leverage, etc.) (Proficient)",
+     "level": 0
+    },
+    {
+     "text": "Describe revenue cycle, current asset management activities and accounting, and supply chain management (including inventory valuation and accounts payable) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Describe capital budgeting, capital structure, basic taxation, and transfer pricing (Basic)",
+     "level": 0
+    },
+    {
+     "text": "2. Managerial Accounting (COGNITIVE LEARNING)",
+     "level": 0
+    },
+    {
+     "text": "Explain general concepts of managerial accounting (cost-volume-profit analysis, budgeting, expense allocation, cost- benefit analysis, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Differentiate costing systems (absorption, variable, fixed, activity-based, standard, etc.) (Basic)",
+     "level": 0
+    },
+    {
+     "text": "Distinguish various costs (relevant and irrelevant costs, incremental costs, etc.) and their use in decision making (Basic)",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "EXAM DETAILS",
+   "order": "piiiiiipiiiipiiii",
+   "paras": [
+    "The CIA Part One includes Six Domains:",
+    "The CIA Part Two includes Four Domains:",
+    "The CIA Part Three includes Four Domains:"
+   ],
+   "items": [
+    "Foundations of Internal Auditing",
+    "Independence and Objectivity",
+    "Proficiency and Due Professional Care",
+    "Quality Assurance and Improvement Program",
+    "Governance, Risk Management, and Control",
+    "Fraud Risks",
+    "Managing the Internal Audit Activity",
+    "Planning the Engagement",
+    "Performing the Engagement",
+    "Communicating Engagement Results and Monitoring Progress",
+    "Business acumen",
+    "Information security",
+    "Information technology",
+    "Financial management"
+   ]
+  }
+ ]
+}

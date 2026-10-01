@@ -1,0 +1,259 @@
+{
+ "file": "12- Certified Information Systems Auditor (CISA.docx",
+ "title": "Certified Information Systems Auditor (CISA)",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to help candidates prepare for sitting the ISACA CISA certification examination. By taking this course and obtaining CISA certification, your experience and skills in auditing and securing the organization’s information systems will be validated. Securing the organization’s information is a critical business objective in today’s business environment. The information that an organization depends on to be successful can be at risk from numerous sources. By effectively managing audit processes, controls, and other security aspects of the business, you will greatly contribute to the overall security of the organization."
+ ],
+ "audience": [
+  "The intended audience for this course is information security and IT professionals, particularly internal auditors, who are interested in earning the CISA certification. The course is also applicable to individuals who are interested in learning about information security audits, controls, and security."
+ ],
+ "methodology": [],
+ "competencies": [],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "implement information systems audit services in accordance with information systems audit standards, guidelines, and best practices.",
+  "evaluate an organizations structure, policies, accountability, mechanisms, and monitoring practices.",
+  "evaluate information systems acquisition, development, and implementation.",
+  "evaluate the information systems operations, maintenance, and support of an organization; and evaluate the business continuity and disaster recovery processes used to provide assurance that in the event of a disruption, IT services are maintained.",
+  "define the protection policies used to promote the confidentiality, integrity, and availability of information assets."
+ ],
+ "outline": [
+  {
+   "title": "The Process Of Auditing Information Systems",
+   "items": [
+    {
+     "text": "ISACA Information Systems Auditing Standards and Guidelines",
+     "level": 0
+    },
+    {
+     "text": "Fundamental Business Processes",
+     "level": 0
+    },
+    {
+     "text": "Develop and Implement an Information Systems Audit Strategy",
+     "level": 0
+    },
+    {
+     "text": "Plan an Audit",
+     "level": 0
+    },
+    {
+     "text": "Conduct an Audit",
+     "level": 0
+    },
+    {
+     "text": "The Evidence Life Cycle",
+     "level": 0
+    },
+    {
+     "text": "Communicate Issues, Risks, and Audit Results",
+     "level": 0
+    },
+    {
+     "text": "Support the Implementation of Risk Management and Control Practices",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "It Governance And Management",
+   "items": [
+    {
+     "text": "Evaluate the Following:",
+     "level": 0
+    },
+    {
+     "text": "Effectiveness of IT Governance",
+     "level": 0
+    },
+    {
+     "text": "IT Organizational Structure and HRM",
+     "level": 0
+    },
+    {
+     "text": "IT Strategy and Direction",
+     "level": 0
+    },
+    {
+     "text": "IT Policies, Standards, & Procedures",
+     "level": 0
+    },
+    {
+     "text": "Effectiveness of QMS",
+     "level": 0
+    },
+    {
+     "text": "IT Management and Monitoring of Controls",
+     "level": 0
+    },
+    {
+     "text": "IT Resource Investment, Use, and Allocation Practices",
+     "level": 0
+    },
+    {
+     "text": "IT Contracting Strategies and Policies",
+     "level": 0
+    },
+    {
+     "text": "Risk Management Practices",
+     "level": 0
+    },
+    {
+     "text": "Performance Monitoring and Assurance",
+     "level": 0
+    },
+    {
+     "text": "Organizations Business Continuity Plan",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Information Systems Acquisition, Development, And Implementation",
+   "items": [
+    {
+     "text": "Evaluate the Business Case for Change",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Project Management Frameworks and Governance Practices",
+     "level": 0
+    },
+    {
+     "text": "Development Life Cycle Management",
+     "level": 0
+    },
+    {
+     "text": "Perform Periodic Project Reviews",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Control Mechanisms for Systems",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Development and Testing Processes",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Implementation Readiness",
+     "level": 0
+    },
+    {
+     "text": "Evaluate a System Migration",
+     "level": 0
+    },
+    {
+     "text": "Perform a Post-Implementation System Review",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Information Systems Operations, Maintenance, And Support",
+   "items": [
+    {
+     "text": "Perform Periodic System Reviews",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Service Level Management Practices",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Third-Party Management Practices",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Operations & End User Management",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the Maintenance Process",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Data Administration Practices",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the Use of Capacity and Performance Monitoring Methods",
+     "level": 0
+    },
+    {
+     "text": "Change, Configuration & Release Management",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Problem and Incident Management",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the Adequacy of Backup and Restore Provisions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Protection Of Information Assets",
+   "items": [
+    {
+     "text": "Information Security Design",
+     "level": 0
+    },
+    {
+     "text": "Encryption Basics",
+     "level": 0
+    },
+    {
+     "text": "Functionality of the IT Infrastructure",
+     "level": 0
+    },
+    {
+     "text": "Evaluate Network Infrastructure Security",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the Design, Implementation, and Monitoring of Logical Access Controls",
+     "level": 0
+    },
+    {
+     "text": "Risks and Controls of Virtualization",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the Design, Implementation, and Monitoring of Data Classification Process",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the Design, Implementation, and Monitoring of Physical Access Controls",
+     "level": 0
+    },
+    {
+     "text": "Evaluate the Design, Implementation, and Monitoring of Environmental Controls",
+     "level": 0
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "PREREQUISITES",
+   "order": "ppiiiii",
+   "paras": [
+    "Before attending this course, students must have:",
+    "To ensure your success, you should have at least five years of professional experience in information systems auditing, control, or security. You are also required to prove this level of experience to ISACA in order to obtain certification. The major areas of work experience are described in the CISA job practice domains:"
+   ],
+   "items": [
+    "The process of auditing information systems",
+    "Governance and management of IT",
+    "Information systems acquisition, development, and implementation",
+    "Information systems operations, maintenance, and service management",
+    "Protection of information assets"
+   ]
+  }
+ ]
+}

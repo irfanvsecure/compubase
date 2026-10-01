@@ -1,0 +1,209 @@
+{
+ "file": "21- Internal Control Compliance, Operational and.docx",
+ "title": "Internal Control: Compliance, Operational and Financial",
+ "duration": "5 Days",
+ "overview": [
+  "Internal controls play a vital role in ensuring organizational efficiency and mitigating risk. As part of the Governance, Risk, and Compliance (GRC) framework, internal controls are essential for managing risk and maintaining compliance. This course provides a comprehensive introduction to corporate governance and Enterprise Risk Management (ERM), detailing risk responses and control measures at various management levels. The course explores controls across different business and reporting cycles, including the purchase/payment cycle, HR/payroll cycle, inventory/production cycle, long-term assets lifecycle, and collection cycle. Additionally, it covers key areas such as information systems control, safety controls, financial reporting controls, physical controls, and external reporting requirements. Participants will gain the tools and knowledge to implement effective internal controls tailored to their organizational risks."
+ ],
+ "audience": [
+  "This course is ideal for finance and accounting professionals, including accountants at all levels, accounting managers, controllers, and certified financial personnel seeking to enhance their practical knowledge of internal controls, risk management, and financial reporting."
+ ],
+ "methodology": [
+  "The course consists of instructor-led presentations, real-world examples, case studies, and group exercises. Participants will also be asked to present their findings and recommendations from the case studies and exercises."
+ ],
+ "competencies": [
+  "Risk assessment and response strategies",
+  "Implementing and managing internal controls",
+  "Ensuring compliance with governance standards and regulations",
+  "Understanding and applying financial controls across business cycles",
+  "Analyzing and recommending improvements to control systems"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the Governance, Risk, and Compliance (GRC) system.",
+  "Develop controls to address specific organizational risks.",
+  "Implement segregation of duties and internal controls within business cycles.",
+  "Protect information technology systems and safeguard data centers.",
+  "Design and maintain financial controls to ensure compliance.",
+  "Meet financial and other external reporting obligations."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to the Corporate Control Environment",
+   "items": [
+    {
+     "text": "Overview of the corporate control landscape",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Governance, Risk, and Compliance (GRC)",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Enterprise Risk Management (ERM)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Understanding the GRC System",
+   "items": [
+    {
+     "text": "Governance, risk, and control framework",
+     "level": 0
+    },
+    {
+     "text": "Identifying risk responses and implementing internal controls",
+     "level": 0
+    },
+    {
+     "text": "The purpose and importance of internal controls",
+     "level": 0
+    },
+    {
+     "text": "Compliance requirements through internal controls",
+     "level": 0
+    },
+    {
+     "text": "The role of oversight boards in compliance",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Internal Control Frameworks",
+   "items": [
+    {
+     "text": "The role of internal controls in preventing fraud and ensuring customer satisfaction",
+     "level": 0
+    },
+    {
+     "text": "Addressing the human element in controls",
+     "level": 0
+    },
+    {
+     "text": "The role of technology in implementing controls",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Implementing Internal Controls in Business Cycles",
+   "items": [
+    {
+     "text": "Segregation of duties and approvals in business cycles",
+     "level": 0
+    },
+    {
+     "text": "The importance of proper reporting in business cycles",
+     "level": 0
+    },
+    {
+     "text": "Risks posed by lack of control in business cycles",
+     "level": 0
+    },
+    {
+     "text": "Managing costs related to internal controls",
+     "level": 0
+    },
+    {
+     "text": "Preventing fraud with robust controls",
+     "level": 0
+    },
+    {
+     "text": "Designing and implementing controls across business functions:",
+     "level": 0
+    },
+    {
+     "text": "Purchase and payment cycle",
+     "level": 1
+    },
+    {
+     "text": "Inventory and costing cycle",
+     "level": 1
+    },
+    {
+     "text": "HR and payroll cycle",
+     "level": 1
+    },
+    {
+     "text": "Sales and collection cycle",
+     "level": 1
+    },
+    {
+     "text": "Fixed assets life cycle",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "5. Administrative and IT Controls",
+   "items": [
+    {
+     "text": "Admin controls for IT systems and facilities",
+     "level": 0
+    },
+    {
+     "text": "Safeguarding data and communication systems",
+     "level": 0
+    },
+    {
+     "text": "Access control to building and security systems",
+     "level": 0
+    },
+    {
+     "text": "Managing maintenance, repairs, and safety measures",
+     "level": 0
+    },
+    {
+     "text": "Legal implications and requirements for safety measures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Financial Reporting and Controls",
+   "items": [
+    {
+     "text": "Controlling access to financial assets",
+     "level": 0
+    },
+    {
+     "text": "Implementing controls in financial reporting",
+     "level": 0
+    },
+    {
+     "text": "Using budgets as a tool for financial control",
+     "level": 0
+    },
+    {
+     "text": "Developing management reporting systems for internal control",
+     "level": 0
+    },
+    {
+     "text": "Establishing financial controls through policies and procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. External Reporting and Compliance",
+   "items": [
+    {
+     "text": "Centralization vs. decentralization of financial reporting",
+     "level": 0
+    },
+    {
+     "text": "Meeting financial reporting requirements",
+     "level": 0
+    },
+    {
+     "text": "Reporting to labor-related authorities",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

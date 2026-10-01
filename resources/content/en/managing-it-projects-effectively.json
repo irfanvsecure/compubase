@@ -1,0 +1,240 @@
+{
+ "file": "08- Managing IT Projects Effectively.docx",
+ "title": "Managing IT Projects Effectively",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to equip participants with the essential knowledge and skills needed to effectively manage an Information Technology (IT) project from start to finish. Throughout this interactive program, participants will explore the critical tools and techniques required to lead IT projects successfully. Key topics include requirement analysis, project planning, budget development, team leadership, and performance evaluation."
+ ],
+ "audience": [
+  "This course is ideal for project managers and senior IT professionals who are responsible for managing IT projects of varying sizes or who wish to expand their expertise in project management. It is particularly suited to those who want to complement their technical IT knowledge with essential project management skills."
+ ],
+ "methodology": [
+  "The course employs a variety of interactive methods, including individual and group exercises that focus on key contract management activities. It also includes case studies and role-playing scenarios, followed by group discussions. The course incorporates pre and post-course assessments to measure learning outcomes."
+ ],
+ "competencies": [
+  "Project Management",
+  "IT Management",
+  "Project Planning and Scheduling",
+  "Project Costing",
+  "Capital Budgeting",
+  "Project Control Development",
+  "Risk Management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Manage IT projects using various project management methodologies.",
+  "Evaluate the business case for IT projects to ensure feasibility and sound justification.",
+  "Align project requirements and objectives with stakeholder needs in a clear and persuasive manner.",
+  "Understand and apply fundamental project planning activities and processes, setting realistic and measurable objectives for time and cost using proven planning techniques.",
+  "Manage IT projects utilizing agile methodologies and distinguish between traditional and agile project approaches.",
+  "Understand the role of the project manager during the design and implementation phases of a project.",
+  "Outline key activities during the execution phase and establish effective control processes to ensure alignment with project plans."
+ ],
+ "outline": [
+  {
+   "title": "Overview of IT Project Management",
+   "items": [
+    {
+     "text": "Understanding the unique aspects of IT projects",
+     "level": 0
+    },
+    {
+     "text": "Risks associated with IT projects",
+     "level": 0
+    },
+    {
+     "text": "System Development Life Cycle (SDLC)",
+     "level": 0
+    },
+    {
+     "text": "Waterfall, Incremental, Iterative, and Agile Development Models",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities of an IT Project Manager",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Concept",
+   "items": [
+    {
+     "text": "Assessing business needs and opportunities",
+     "level": 0
+    },
+    {
+     "text": "Developing a project concept",
+     "level": 0
+    },
+    {
+     "text": "Creating a business case",
+     "level": 0
+    },
+    {
+     "text": "Identifying stakeholders",
+     "level": 0
+    },
+    {
+     "text": "Establishing conceptual solutions",
+     "level": 0
+    },
+    {
+     "text": "Crafting a project charter",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Requirements",
+   "items": [
+    {
+     "text": "Gathering and defining requirements",
+     "level": 0
+    },
+    {
+     "text": "Differentiating functional and technical requirements",
+     "level": 0
+    },
+    {
+     "text": "Utilizing a requirements checklist",
+     "level": 0
+    },
+    {
+     "text": "Techniques for requirements gathering",
+     "level": 0
+    },
+    {
+     "text": "Analyzing and prioritizing requirements",
+     "level": 0
+    },
+    {
+     "text": "Documenting requirements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Planning",
+   "items": [
+    {
+     "text": "Creating a Work Breakdown Structure (WBS)",
+     "level": 0
+    },
+    {
+     "text": "Estimating project duration and resource needs",
+     "level": 0
+    },
+    {
+     "text": "Sequencing activities",
+     "level": 0
+    },
+    {
+     "text": "Developing a network diagram and conducting critical path analysis",
+     "level": 0
+    },
+    {
+     "text": "Schedule planning using Gantt and Milestone charts",
+     "level": 0
+    },
+    {
+     "text": "Resource planning",
+     "level": 0
+    },
+    {
+     "text": "Risk management and disaster recovery planning",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Design",
+   "items": [
+    {
+     "text": "Developing preliminary designs",
+     "level": 0
+    },
+    {
+     "text": "Performing gap analysis",
+     "level": 0
+    },
+    {
+     "text": "Prototyping IT solutions",
+     "level": 0
+    },
+    {
+     "text": "Preparing technical specification documents",
+     "level": 0
+    },
+    {
+     "text": "Design criteria and reusability considerations",
+     "level": 0
+    },
+    {
+     "text": "Evaluating solution alternatives: build, buy, or outsource",
+     "level": 0
+    },
+    {
+     "text": "The project manager’s role during the design phase",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Implementation",
+   "items": [
+    {
+     "text": "Addressing challenges during the implementation phase",
+     "level": 0
+    },
+    {
+     "text": "Managing the project team, schedule, and cost",
+     "level": 0
+    },
+    {
+     "text": "Performing earned value analysis",
+     "level": 0
+    },
+    {
+     "text": "System testing, change management, and configuration management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Delivery and Closeout",
+   "items": [
+    {
+     "text": "Crafting a delivery conversion strategy",
+     "level": 0
+    },
+    {
+     "text": "Managing logistics and site preparation",
+     "level": 0
+    },
+    {
+     "text": "Conducting acceptance testing",
+     "level": 0
+    },
+    {
+     "text": "Developing the \"go-live\" transition plan",
+     "level": 0
+    },
+    {
+     "text": "Executing project closeout procedures",
+     "level": 0
+    },
+    {
+     "text": "Completing administrative and contractual closeout",
+     "level": 0
+    },
+    {
+     "text": "Documenting lessons learned",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "file": "10- Managing Project Portfolio.docx",
+ "title": "Managing Project Portfolio",
+ "duration": "3 Days",
+ "overview": [
+  "This course aims to equip participants with a comprehensive and practical methodology for building and managing a balanced project portfolio. It covers the entire project portfolio lifecycle, from defining key terminologies and introducing portfolio models to evaluating projects using both financial and non-financial techniques. The course also provides tools for prioritizing projects, methods for quantifying portfolio risks and uncertainties, and techniques for assessing portfolio performance through earned value analysis."
+ ],
+ "audience": [
+  "This course is ideal for portfolio directors and managers, senior managers, decision-makers, portfolio sponsors, PMO staff, program and project managers, and anyone involved in developing and managing their organization’s project portfolio. Participants will earn 30 PDUs upon completion."
+ ],
+ "methodology": [
+  "The course employs a mix of interactive techniques, including presentations by both the consultant and participants, as well as hands-on training with project management software such as MS Project and Monte Carlo simulation for portfolio risk assessment. Group exercises and case studies are also integral to the course, followed by plenary discussions."
+ ],
+ "competencies": [
+  "Strategy Execution",
+  "Portfolio Management",
+  "Portfolio Planning",
+  "Portfolio Evaluation",
+  "Portfolio Risk Management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Develop a project portfolio model that outlines project life cycles within a portfolio context.",
+  "Apply project portfolio methodology at any organizational level across various industries.",
+  "Prioritize projects within the portfolio using both financial and non-financial ranking tools.",
+  "Quantify portfolio risks using Monte Carlo simulation and sensitivity analysis.",
+  "Utilize earned value techniques to monitor and control portfolio performance."
+ ],
+ "outline": [
+  {
+   "title": "Developing a Portfolio Model",
+   "items": [
+    {
+     "text": "Introduction to Project Portfolio Management (PPM)",
+     "level": 0
+    },
+    {
+     "text": "The role of PPM in executing strategy",
+     "level": 0
+    },
+    {
+     "text": "Key elements of a project portfolio",
+     "level": 0
+    },
+    {
+     "text": "Comparing projects, programs, and portfolios",
+     "level": 0
+    },
+    {
+     "text": "Portfolio modeling",
+     "level": 0
+    },
+    {
+     "text": "Understanding portfolio funnels and filters",
+     "level": 0
+    },
+    {
+     "text": "Decision-making filters",
+     "level": 0
+    },
+    {
+     "text": "Value creation processes",
+     "level": 0
+    },
+    {
+     "text": "Portfolio optimization using the Efficient Frontier",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Portfolio Management (PPM) Methodology",
+   "items": [
+    {
+     "text": "Phases of the PPM methodology",
+     "level": 0
+    },
+    {
+     "text": "Building the foundation",
+     "level": 0
+    },
+    {
+     "text": "Designing the portfolio",
+     "level": 0
+    },
+    {
+     "text": "Constructing the portfolio",
+     "level": 0
+    },
+    {
+     "text": "Monitoring and controlling the portfolio",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Project Evaluation and Prioritization",
+   "items": [
+    {
+     "text": "Project evaluation techniques",
+     "level": 0
+    },
+    {
+     "text": "Understanding shareholder value",
+     "level": 0
+    },
+    {
+     "text": "Drivers of shareholder value",
+     "level": 0
+    },
+    {
+     "text": "Financial and non-financial metrics",
+     "level": 0
+    },
+    {
+     "text": "Tools for project prioritization and ranking",
+     "level": 0
+    },
+    {
+     "text": "Steps for achieving the Efficient Frontier",
+     "level": 0
+    },
+    {
+     "text": "Scoring models and portfolio dashboards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Managing Uncertainty and Risk",
+   "items": [
+    {
+     "text": "Understanding risk and uncertainty in decision-making",
+     "level": 0
+    },
+    {
+     "text": "Steps for portfolio risk management",
+     "level": 0
+    },
+    {
+     "text": "Tools and techniques for managing uncertainty and risk",
+     "level": 0
+    },
+    {
+     "text": "Decision tree analysis",
+     "level": 0
+    },
+    {
+     "text": "Scenario analysis",
+     "level": 0
+    },
+    {
+     "text": "Sensitivity analysis",
+     "level": 0
+    },
+    {
+     "text": "Monte Carlo analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Monitoring Performance Using Earned Value Management (EVM)",
+   "items": [
+    {
+     "text": "Foundations of Earned Value Management (EVM)",
+     "level": 0
+    },
+    {
+     "text": "Work Breakdown Structure (WBS)",
+     "level": 0
+    },
+    {
+     "text": "Gantt charts",
+     "level": 0
+    },
+    {
+     "text": "Bottom-up cost estimation",
+     "level": 0
+    },
+    {
+     "text": "Establishing the Performance Measurement Baseline (PMB)",
+     "level": 0
+    },
+    {
+     "text": "Building blocks of EVM",
+     "level": 0
+    },
+    {
+     "text": "Current and future portfolio performance indicators",
+     "level": 0
+    },
+    {
+     "text": "Role of the Portfolio Management Office (PMO)",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

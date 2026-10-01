@@ -1,0 +1,211 @@
+{
+ "file": "13- Advanced Financial Analysis.docx",
+ "title": "Advanced Financial Analysis",
+ "duration": "5 Days",
+ "overview": [
+  "This course integrates the core aspects of financial statement analysis to enhance participants' ability to evaluate business performance, assess financial health, and identify risks facing businesses and investors. Participants will gain the skills and technical knowledge necessary to ask insightful questions, critique financial data, and confidently analyze business activities. The course applies theory and techniques through interactive examples and case studies, emphasizing practical, hands-on learning."
+ ],
+ "audience": [
+  "This course is ideal for chief accountants, senior accountants, finance managers, financial analysts, credit controllers, bankers, corporate financiers, and professionals responsible for financial and credit risk analysis."
+ ],
+ "methodology": [
+  "The course combines interactive teaching methods, including expert-led presentations, group exercises, and Excel-based case studies. Participants will apply newly acquired knowledge and present their findings to solidify their understanding."
+ ],
+ "competencies": [
+  "Analyzing financial statements",
+  "Interpreting annual reports",
+  "Processing and evaluating financial data",
+  "Conducting financial and credit analyses",
+  "Identifying risks and fraudulent reporting",
+  "Critiquing financial reporting standards",
+  "Applying professional skepticism"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify and distinguish between the critical components of financial statements.",
+  "Analyze financial statement ratios, utilizing Excel to create spreadsheets and graphs.",
+  "Detect creative accounting practices and evaluate the validity of accounting rules applied.",
+  "Assess the quality of financial reports, focusing on earnings and cash flow reliability.",
+  "Evaluate a company's financial performance over time to draw insights about sustainability."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Advanced Financial Analysis",
+   "items": [
+    {
+     "text": "Key users of financial data",
+     "level": 0
+    },
+    {
+     "text": "Components of annual financial reports: regional vs. global standards",
+     "level": 0
+    },
+    {
+     "text": "Importance of non-financial elements in financial reports",
+     "level": 0
+    },
+    {
+     "text": "Emotional and cognitive biases affecting analysis",
+     "level": 0
+    },
+    {
+     "text": "Understanding the income statement, balance sheet, and cash flow statement",
+     "level": 0
+    },
+    {
+     "text": "Components of other comprehensive income",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Basics of Industry Analysis and Ratio Analysis Using Excel",
+   "items": [
+    {
+     "text": "Top-down analysis approach:",
+     "level": 0
+    },
+    {
+     "text": "Macroeconomic indicators (GDP, inflation, interest rates)",
+     "level": 1
+    },
+    {
+     "text": "Country exposure and economic risks",
+     "level": 1
+    },
+    {
+     "text": "Industry analysis using Michael Porter's Five Forces",
+     "level": 1
+    },
+    {
+     "text": "Case studies: Starbucks, Apple Inc., Nike, McDonald’s",
+     "level": 1
+    },
+    {
+     "text": "Common size analysis for comparability",
+     "level": 0
+    },
+    {
+     "text": "Identifying trends and growth patterns",
+     "level": 0
+    },
+    {
+     "text": "Key financial ratios:",
+     "level": 0
+    },
+    {
+     "text": "Profitability",
+     "level": 1
+    },
+    {
+     "text": "Liquidity",
+     "level": 1
+    },
+    {
+     "text": "Efficiency and working capital management",
+     "level": 1
+    },
+    {
+     "text": "Financial structure and risk",
+     "level": 1
+    },
+    {
+     "text": "Altman Z-score for bankruptcy prediction",
+     "level": 0
+    },
+    {
+     "text": "Visualizing data through graphical representation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Financial Cosmetics and Creative Accounting",
+   "items": [
+    {
+     "text": "LIFO vs. FIFO and their impact on profits and taxes",
+     "level": 0
+    },
+    {
+     "text": "Analyzing LIFO reserves and liquidation effects",
+     "level": 0
+    },
+    {
+     "text": "Adjusting inventory valuations for comparability",
+     "level": 0
+    },
+    {
+     "text": "Capitalizing vs. expensing costs and their effect on financial statements",
+     "level": 0
+    },
+    {
+     "text": "Depreciation methods and their implications",
+     "level": 0
+    },
+    {
+     "text": "Impairment and revaluation of assets",
+     "level": 0
+    },
+    {
+     "text": "Operating leases vs. finance leases",
+     "level": 0
+    },
+    {
+     "text": "Using special purpose vehicles for balance sheet manipulation",
+     "level": 0
+    },
+    {
+     "text": "Consolidation practices and goodwill inflation",
+     "level": 0
+    },
+    {
+     "text": "Analyzing employee compensation and stock-based payments",
+     "level": 0
+    },
+    {
+     "text": "Case studies: Creative accounting scandals (Enron, WorldCom, Parmalat)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Assessing Quality of Financial Reports",
+   "items": [
+    {
+     "text": "Framework for evaluating financial report quality",
+     "level": 0
+    },
+    {
+     "text": "Common issues affecting financial report reliability",
+     "level": 0
+    },
+    {
+     "text": "Identifying sustainable and persistent earnings",
+     "level": 0
+    },
+    {
+     "text": "Using the Beneish M-Score to detect earnings manipulation",
+     "level": 0
+    },
+    {
+     "text": "Making adjustments to enhance quality and comparability",
+     "level": 0
+    },
+    {
+     "text": "Evaluating earnings, cash flow, and balance sheet quality",
+     "level": 0
+    },
+    {
+     "text": "Risk indicators and their sources",
+     "level": 0
+    },
+    {
+     "text": "Case study: Investment decision at Nestlé",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

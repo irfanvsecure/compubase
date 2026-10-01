@@ -1,0 +1,261 @@
+{
+ "file": "09- Business Decision Models.docx",
+ "title": "Business Decision Models",
+ "duration": "5 Days",
+ "overview": [
+  "Managers frequently make decisions under conditions of certainty, risk, and uncertainty, yet many lack formal training in decision-making. This course equips participants with essential business decision models and techniques to enhance their decision-making quality, tailored to the specific conditions they encounter."
+ ],
+ "audience": [
+  "Managers, department heads, and business professionals engaged in decision-making, planning, and strategy development for their departments and the organization."
+ ],
+ "methodology": [
+  "The course employs a blend of interactive methods, including brief presentations by the instructor, case studies, and group exercises to apply the knowledge gained throughout the course."
+ ],
+ "competencies": [
+  "Decision making",
+  "Risk management",
+  "Risk assessment",
+  "Evaluation",
+  "Budgeting",
+  "Analytical thinking",
+  "Financial decision making"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Articulate the principles of effective decision-making",
+  "Utilize data to make informed decisions",
+  "Apply risk-based decision-making techniques",
+  "Develop key financial literacy skills",
+  "Implement tools for successful decision-making"
+ ],
+ "outline": [
+  {
+   "title": "The Principles of Decision Making",
+   "items": [
+    {
+     "text": "Overview of the standard decision-making model",
+     "level": 0
+    },
+    {
+     "text": "Understanding the decision-making spectrum",
+     "level": 0
+    },
+    {
+     "text": "Townsend’s rules for decision-making",
+     "level": 0
+    },
+    {
+     "text": "The RAPID model:",
+     "level": 0
+    },
+    {
+     "text": "Recommend",
+     "level": 1
+    },
+    {
+     "text": "Agree",
+     "level": 1
+    },
+    {
+     "text": "Perform",
+     "level": 1
+    },
+    {
+     "text": "Input",
+     "level": 1
+    },
+    {
+     "text": "Decide",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Using Data for Better Decisions",
+   "items": [
+    {
+     "text": "Lewin’s force field analysis:",
+     "level": 0
+    },
+    {
+     "text": "Supporting forces",
+     "level": 1
+    },
+    {
+     "text": "Restricting forces",
+     "level": 1
+    },
+    {
+     "text": "Scenario analysis and forecasting possible outcomes",
+     "level": 0
+    },
+    {
+     "text": "Evaluating risk and cost factors",
+     "level": 0
+    },
+    {
+     "text": "Mapping stakeholder reactions:",
+     "level": 0
+    },
+    {
+     "text": "Stakeholder power",
+     "level": 1
+    },
+    {
+     "text": "Stakeholder interest",
+     "level": 1
+    },
+    {
+     "text": "Navigating the politics of decisions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk-Based Decision Making",
+   "items": [
+    {
+     "text": "Constructing a risk impact/probability chart",
+     "level": 0
+    },
+    {
+     "text": "Understanding the primary dimensions:",
+     "level": 0
+    },
+    {
+     "text": "Probability",
+     "level": 1
+    },
+    {
+     "text": "Impact",
+     "level": 1
+    },
+    {
+     "text": "Creating risk charts using Excel",
+     "level": 0
+    },
+    {
+     "text": "Decision tree analysis:",
+     "level": 0
+    },
+    {
+     "text": "Decision points",
+     "level": 1
+    },
+    {
+     "text": "Chance points",
+     "level": 1
+    },
+    {
+     "text": "Application exercises",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Financial Literacy for Decision Makers",
+   "items": [
+    {
+     "text": "Conducting cost-benefit analysis:",
+     "level": 0
+    },
+    {
+     "text": "Brainstorming costs and benefits",
+     "level": 1
+    },
+    {
+     "text": "Assigning monetary values",
+     "level": 1
+    },
+    {
+     "text": "Comparing costs and benefits",
+     "level": 1
+    },
+    {
+     "text": "Exploring budgeting approaches:",
+     "level": 0
+    },
+    {
+     "text": "Incremental budgeting",
+     "level": 1
+    },
+    {
+     "text": "Zero-based budgeting",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Implementing Your Decisions Successfully",
+   "items": [
+    {
+     "text": "Applying Round’s Trap model:",
+     "level": 0
+    },
+    {
+     "text": "Task",
+     "level": 1
+    },
+    {
+     "text": "Resources",
+     "level": 1
+    },
+    {
+     "text": "Arithmetic",
+     "level": 1
+    },
+    {
+     "text": "Priorities",
+     "level": 1
+    },
+    {
+     "text": "Utilizing Shewhart’s PDCA model:",
+     "level": 0
+    },
+    {
+     "text": "Plan",
+     "level": 1
+    },
+    {
+     "text": "Do",
+     "level": 1
+    },
+    {
+     "text": "Check",
+     "level": 1
+    },
+    {
+     "text": "Act",
+     "level": 1
+    },
+    {
+     "text": "Extracting lessons learned from implementation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Presenting and Gaining Support for Your Ideas",
+   "items": [
+    {
+     "text": "Assessing and refining innovative ideas",
+     "level": 0
+    },
+    {
+     "text": "Performing cost-benefit and risk analysis",
+     "level": 0
+    },
+    {
+     "text": "Anticipating and addressing objections",
+     "level": 0
+    },
+    {
+     "text": "Influencing decision-makers with a compelling business case",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "file": "05- Total Security Management.docx",
+ "title": "Total Security Management",
+ "duration": "5 Days",
+ "overview": [
+  "This course offers participants a comprehensive introduction to the principles of managing modern, effective security operations. Covering a wide range of topics such as security policies and procedures, risk management, access control, and investigations, the course is designed to help participants understand key security and risk management concepts. Participants will gain practical, up-to-date security management skills and techniques that can be immediately applied within their organizations and security teams."
+ ],
+ "audience": [
+  "This course is designed for managers and security personnel who wish to deepen their understanding of security management techniques and further develop their knowledge of security functions, approaches, and strategies."
+ ],
+ "methodology": [
+  "This course is highly interactive, incorporating group discussions, case studies, and syndicate work. It also includes practical exercises to help participants apply the advanced knowledge they acquire and demonstrate their skills in security management."
+ ],
+ "competencies": [
+  "Security management",
+  "Developing security policies and procedures",
+  "Managing physical security",
+  "Conducting risk assessments",
+  "Incident management",
+  "Incident investigation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Design and implement security procedures effectively.",
+  "Conduct a thorough security survey.",
+  "Understand and apply risk management principles.",
+  "Comprehend and manage access control systems.",
+  "Manage and select security personnel.",
+  "Execute basic investigative procedures.",
+  "Utilize crisis management techniques in various scenarios."
+ ],
+ "outline": [
+  {
+   "title": "Security Policies and Procedures",
+   "items": [
+    {
+     "text": "What security policies and procedures should cover",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities in designing policies and procedures",
+     "level": 0
+    },
+    {
+     "text": "The importance of security policies and procedures for organizations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Security Operations Management",
+   "items": [
+    {
+     "text": "What operations management involves",
+     "level": 0
+    },
+    {
+     "text": "Key responsibilities of a security operations manager",
+     "level": 0
+    },
+    {
+     "text": "How security teams collaborate within the operations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Perimeter and Building Security",
+   "items": [
+    {
+     "text": "Security measures for perimeter and building protection",
+     "level": 0
+    },
+    {
+     "text": "Developing and managing on-site security",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Introduction to Security Surveying",
+   "items": [
+    {
+     "text": "Understanding security risks",
+     "level": 0
+    },
+    {
+     "text": "Evaluating and considering security options",
+     "level": 0
+    },
+    {
+     "text": "Communicating survey results to clients",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Security Risk Management",
+   "items": [
+    {
+     "text": "Introduction to security risk management concepts",
+     "level": 0
+    },
+    {
+     "text": "Defining risk management and its importance",
+     "level": 0
+    },
+    {
+     "text": "Who is responsible for risk management",
+     "level": 0
+    },
+    {
+     "text": "Strategies for risk mitigation and the risk management continuum",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Access Management",
+   "items": [
+    {
+     "text": "Types of access control systems and their applications",
+     "level": 0
+    },
+    {
+     "text": "Introduction to CCTV and intruder detection systems",
+     "level": 0
+    },
+    {
+     "text": "Implementing and managing access control systems",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Manpower Selection and Development",
+   "items": [
+    {
+     "text": "Selecting the right candidates for security roles",
+     "level": 0
+    },
+    {
+     "text": "Screening and vetting processes for security personnel",
+     "level": 0
+    },
+    {
+     "text": "Importance of ongoing professional training",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Introduction to Investigations",
+   "items": [
+    {
+     "text": "Gathering information during an investigation",
+     "level": 0
+    },
+    {
+     "text": "Purpose and requirements of an investigation",
+     "level": 0
+    },
+    {
+     "text": "Maintaining credibility and proper documentation",
+     "level": 0
+    },
+    {
+     "text": "Legal aspects of investigations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Crisis Management",
+   "items": [
+    {
+     "text": "Techniques for handling crises",
+     "level": 0
+    },
+    {
+     "text": "Developing fallback plans",
+     "level": 0
+    },
+    {
+     "text": "Post-incident considerations and actions",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

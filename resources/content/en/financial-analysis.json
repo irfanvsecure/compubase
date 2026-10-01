@@ -1,0 +1,178 @@
+{
+ "file": "16- Financial Analysis.docx",
+ "title": "Financial Analysis",
+ "duration": "5 Days",
+ "overview": [
+  "In the modern business environment, finance professionals must go beyond basic reporting to deliver detailed insights into the impact of organizational financial decisions. This requires expertise in deciphering financial statements, analyzing figures, interpreting ratios, and presenting data-driven recommendations effectively.",
+  "This course equips participants with the skills to understand the relationships within financial statements, perform ratio analysis, and present actionable insights. Using real-world examples from published financial statements and Excel tools, participants will learn how to turn raw data into meaningful financial analyses."
+ ],
+ "audience": [
+  "This course is ideal for finance and accounting professionals, financial analysts, department heads, senior managers, financial controllers, finance managers, and chief accountants who are involved in business analysis and financial decision-making."
+ ],
+ "methodology": [
+  "The course combines theoretical knowledge with practical applications of Excel to enhance financial analysis. Participants will engage in real-life case studies, dynamic exercises, and group discussions, culminating in presentations and feedback sessions."
+ ],
+ "competencies": [
+  "Understanding audited financial statements and annual reports",
+  "Performing vertical and horizontal financial analyses",
+  "Conducting liquidity, efficiency, solvency, and profitability analyses"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand and apply the framework for financial statement analysis.",
+  "Perform financial and ratio analysis effectively.",
+  "Interpret company financials and assess industry positions.",
+  "Evaluate and analyze organizational performance.",
+  "Analyze real-life financial statements of companies listed on global and GCC stock exchanges.",
+  "Develop and utilize financial analysis template models."
+ ],
+ "outline": [
+  {
+   "title": "1. Components of Financial Statement Analysis",
+   "items": [
+    {
+     "text": "Role and importance of financial reporting and analysis",
+     "level": 0
+    },
+    {
+     "text": "Key financial statements and the significance of annual reports",
+     "level": 0
+    },
+    {
+     "text": "Understanding the role of notes and supplementary information",
+     "level": 0
+    },
+    {
+     "text": "Objectives and types of financial statement audits",
+     "level": 0
+    },
+    {
+     "text": "Financial statement analysis framework and the accounting cycle",
+     "level": 0
+    },
+    {
+     "text": "Financial reporting mechanics and the relationships within financial statements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Financial Reporting Standards",
+   "items": [
+    {
+     "text": "Importance of reporting standards in financial analysis and valuation",
+     "level": 0
+    },
+    {
+     "text": "Overview of standards-setting bodies",
+     "level": 0
+    },
+    {
+     "text": "Comparison of IFRS and GAAP",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Deep Dive into Financial Statements",
+   "items": [
+    {
+     "text": "Income Statement:",
+     "level": 0
+    },
+    {
+     "text": "Key components, revenue, and expense recognition",
+     "level": 1
+    },
+    {
+     "text": "Balance Sheet:",
+     "level": 0
+    },
+    {
+     "text": "Measurement, classification, and key components",
+     "level": 1
+    },
+    {
+     "text": "Statement of Changes in Owners’ Equity:",
+     "level": 0
+    },
+    {
+     "text": "Structure and analysis",
+     "level": 1
+    },
+    {
+     "text": "Cash Flow Statement:",
+     "level": 0
+    },
+    {
+     "text": "Operating, investing, and financing activities",
+     "level": 1
+    },
+    {
+     "text": "Direct vs. indirect preparation methods",
+     "level": 1
+    },
+    {
+     "text": "Interpreting cash flows and understanding the \"cash-rich\" standard",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "4. Financial Analysis Techniques",
+   "items": [
+    {
+     "text": "Vertical Analysis: Strategies for balance sheets and income statements",
+     "level": 0
+    },
+    {
+     "text": "Horizontal and Trend Analysis: Growth evaluation techniques",
+     "level": 0
+    },
+    {
+     "text": "Liquidity Analysis: Current, quick, and cash ratios, and cash conversion cycles",
+     "level": 0
+    },
+    {
+     "text": "Asset Management Ratios: Total and fixed asset turnover",
+     "level": 0
+    },
+    {
+     "text": "Solvency Analysis: Debt-to-equity, times interest earned, and related ratios",
+     "level": 0
+    },
+    {
+     "text": "Profitability Analysis: Gross margin, profit margin, ROA, and ROE",
+     "level": 0
+    },
+    {
+     "text": "Market and Valuation Metrics: Price-to-earnings ratio and EPS",
+     "level": 0
+    },
+    {
+     "text": "DuPont Analysis: Three-step and five-step models for in-depth financial evaluation",
+     "level": 0
+    },
+    {
+     "text": "Recognizing the limitations of ratio analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Applications and Presentations",
+   "items": [
+    {
+     "text": "Evaluating a company’s past financial performance",
+     "level": 0
+    },
+    {
+     "text": "Conducting comprehensive analyses of publicly traded companies using real-world case studies",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

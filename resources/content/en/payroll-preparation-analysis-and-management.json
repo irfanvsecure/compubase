@@ -1,0 +1,169 @@
+{
+ "file": "20- Payroll Preparation, Analysis and Management.docx",
+ "title": "Payroll: Preparation, Analysis and Management",
+ "duration": "3 Days",
+ "overview": [
+  "Payroll and employee benefits represent one of the most significant expenses for any organization, second only to the Cost of Goods Sold (COGS), rent, and depreciation. For companies where these costs are included in COGS or operational expenses, the impact is even greater. Accurate payroll processing and reporting are essential for financial analysis and effective decision-making. This course begins with an introduction to the HR, accounting, and finance functions, and then delves into the payroll process, covering preparation, calculations, and necessary controls to ensure data accuracy."
+ ],
+ "audience": [
+  "This course is ideal for payroll staff, payroll accountants, accounting assistants, payroll supervisors and managers, HR professionals involved in payroll, and anyone interested in understanding and applying payroll best practices."
+ ],
+ "methodology": [
+  "The course is designed with a blend of consultant-led presentations, practical Excel exercises on payroll and benefits, and interactive group workshops and presentations."
+ ],
+ "competencies": [
+  "Managing employee costs",
+  "Payroll preparation and production",
+  "Payroll analysis and reporting",
+  "Payroll reconciliation",
+  "Budgeting for payroll and departmental expenses",
+  "Planning for required assets"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the critical roles of HR, accounting, and finance in payroll management",
+  "Accurately prepare and review monthly payroll",
+  "Calculate employee benefits, loans, vacations, and End of Service Benefits (EOSB)",
+  "Reconcile payroll with accounting records and audit supporting documents",
+  "Develop monthly and annual payroll budgets",
+  "Create and analyze periodic payroll management reports"
+ ],
+ "outline": [
+  {
+   "title": "Payroll: The Link Between HR and Accounting",
+   "items": [
+    {
+     "text": "Overview of HR, accounting, and finance functions",
+     "level": 0
+    },
+    {
+     "text": "Payroll as a bridge between HR, accounting, and finance",
+     "level": 0
+    },
+    {
+     "text": "Understanding hiring documentation",
+     "level": 0
+    },
+    {
+     "text": "Managing payroll for different employee types (contractors, full-time, temporary, outsourced)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Payroll Preparation and Calculation",
+   "items": [
+    {
+     "text": "Implementing controls before starting payroll processing",
+     "level": 0
+    },
+    {
+     "text": "Determining the correct calculation methods for payroll",
+     "level": 0
+    },
+    {
+     "text": "Identifying risks that lead to payroll errors",
+     "level": 0
+    },
+    {
+     "text": "Handling increments, deductions, and payroll approvals",
+     "level": 0
+    },
+    {
+     "text": "Preparing payroll schedules",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Employee Loans and Benefits",
+   "items": [
+    {
+     "text": "Managing access to employee benefits and loans",
+     "level": 0
+    },
+    {
+     "text": "Reporting on loan status",
+     "level": 0
+    },
+    {
+     "text": "Calculating End of Service Benefits (EOSB) for the company and employees",
+     "level": 0
+    },
+    {
+     "text": "Reporting on benefit plans",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Accounting and Auditing in Payroll",
+   "items": [
+    {
+     "text": "Recording payroll expenses and liabilities",
+     "level": 0
+    },
+    {
+     "text": "Allocating payroll costs to assets or inventory",
+     "level": 0
+    },
+    {
+     "text": "Reconciling receivables and payables with payroll records",
+     "level": 0
+    },
+    {
+     "text": "Reconciling liabilities with social security and government agencies",
+     "level": 0
+    },
+    {
+     "text": "Coordinating payroll payments with bank transactions",
+     "level": 0
+    },
+    {
+     "text": "Introduction to internal and external payroll audits",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Payroll Budgeting",
+   "items": [
+    {
+     "text": "Budgeting for payroll department expenses",
+     "level": 0
+    },
+    {
+     "text": "Preparing annual payroll and contribution budgets",
+     "level": 0
+    },
+    {
+     "text": "Budgeting for employee loans and benefits",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Payroll and Contributions Reporting",
+   "items": [
+    {
+     "text": "Calculating individual and corporate contribution expenses",
+     "level": 0
+    },
+    {
+     "text": "Reporting payroll results to the accounting department",
+     "level": 0
+    },
+    {
+     "text": "Coordinating with accounting for payment processes and controls",
+     "level": 0
+    },
+    {
+     "text": "Reporting to labor ministries, social security authorities, and other regulatory bodies",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "file": "4- Managing Change Orders and Contractual Claims.docx",
+ "title": "Managing Change Orders and Contractual Claims",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to provide participants with foundational knowledge and essential skills to effectively address claims, variations, and disputes between principals and contractors. Through this interactive program, participants will learn to analyze contractual issues, apply techniques for managing challenging situations, and adopt best practices to resolve disputes amicably."
+ ],
+ "audience": [
+  "This course is ideal for professionals involved in contract implementation, administration, claims, and change order management, as well as those managing disputes with contracting parties. It is also beneficial for anyone interested in preventing or resolving contractual issues."
+ ],
+ "methodology": [
+  "The course combines individual and group exercises to enhance understanding of key contract management activities. It includes case studies, participant presentations, role-playing, and discussions to foster practical learning. Pre- and post-course assessments are conducted to measure progress."
+ ],
+ "competencies": [
+  "Contract preparation and administration",
+  "Change order management",
+  "Claim handling and resolution",
+  "Negotiation skills",
+  "Conflict management",
+  "Understanding technical terms and conditions"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify and mitigate the causes of contractual claims and change orders.",
+  "Draft variation orders and notices of breach for major types of change orders.",
+  "Analyze and manage various owners' and contractors' claims effectively.",
+  "Apply collaborative approaches to handle claims, variation orders, and conflicts.",
+  "Use negotiation techniques to resolve disputes and reach final settlements."
+ ],
+ "outline": [
+  {
+   "title": "1. Contract Fundamentals",
+   "items": [
+    {
+     "text": "Key elements of a contract",
+     "level": 0
+    },
+    {
+     "text": "Terms and conditions of contracts",
+     "level": 0
+    },
+    {
+     "text": "Basic contract law concepts:",
+     "level": 0
+    },
+    {
+     "text": "Force majeure",
+     "level": 1
+    },
+    {
+     "text": "Notices and their importance",
+     "level": 1
+    },
+    {
+     "text": "Breach of contract",
+     "level": 1
+    },
+    {
+     "text": "Right to remedy",
+     "level": 1
+    },
+    {
+     "text": "Indemnifications and liabilities",
+     "level": 1
+    },
+    {
+     "text": "Contract termination",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "2. Causes of Claims and Change Orders",
+   "items": [
+    {
+     "text": "Identifying \"red flags\" for claims",
+     "level": 0
+    },
+    {
+     "text": "Managing change requests",
+     "level": 0
+    },
+    {
+     "text": "Understanding claims and disputes",
+     "level": 0
+    },
+    {
+     "text": "Overview of the claim process",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Change Management",
+   "items": [
+    {
+     "text": "Importance of change management",
+     "level": 0
+    },
+    {
+     "text": "Types of changes and variations:",
+     "level": 0
+    },
+    {
+     "text": "Directed changes",
+     "level": 1
+    },
+    {
+     "text": "Constructive changes",
+     "level": 1
+    },
+    {
+     "text": "Cardinal changes",
+     "level": 1
+    },
+    {
+     "text": "Steps for managing changes",
+     "level": 0
+    },
+    {
+     "text": "Drafting variation orders",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Types and Nature of Claims",
+   "items": [
+    {
+     "text": "Documenting events and drafting notices",
+     "level": 0
+    },
+    {
+     "text": "Managing contractor claims:",
+     "level": 0
+    },
+    {
+     "text": "Changed conditions",
+     "level": 1
+    },
+    {
+     "text": "Constructive changes",
+     "level": 1
+    },
+    {
+     "text": "Delays, suspensions, and deficiencies",
+     "level": 1
+    },
+    {
+     "text": "Program extensions",
+     "level": 1
+    },
+    {
+     "text": "Managing owner claims:",
+     "level": 0
+    },
+    {
+     "text": "Defective work and warranty claims",
+     "level": 1
+    },
+    {
+     "text": "Claims under FIDIC guidelines",
+     "level": 1
+    },
+    {
+     "text": "Drafting and evaluating claims",
+     "level": 0
+    },
+    {
+     "text": "Settlement approaches",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Resolving Claims and Disputes",
+   "items": [
+    {
+     "text": "Monetary damages and dispute resolution",
+     "level": 0
+    },
+    {
+     "text": "Alternative dispute resolution methods:",
+     "level": 0
+    },
+    {
+     "text": "Negotiation: best practices",
+     "level": 1
+    },
+    {
+     "text": "Mediation: role of a neutral third party",
+     "level": 1
+    },
+    {
+     "text": "Arbitration: binding vs. non-binding",
+     "level": 1
+    },
+    {
+     "text": "Legal resolution of disputes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Negotiation Techniques for Claims",
+   "items": [
+    {
+     "text": "Building partnerships with suppliers",
+     "level": 0
+    },
+    {
+     "text": "Setting negotiation objectives",
+     "level": 0
+    },
+    {
+     "text": "Communication strategies for successful negotiation",
+     "level": 0
+    },
+    {
+     "text": "Negotiating claims effectively",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "file": "14- IT Auditing and IT Fraud Detection.docx",
+ "title": "IT Auditing and IT Fraud Detection",
+ "duration": "3 Days",
+ "overview": [
+  "In today’s digital age, preventing and investigating IT fraud has become a critical aspect of corporate operations. Auditors need specialized skills to tackle the unique challenges posed by IT-related fraud. This course equips internal auditors with the expertise required to prevent, detect, deter, and report IT fraud effectively. Participants will gain insights into key topics such as the role and skills of IT fraud auditors, the nature of computer fraud, predication, and legal considerations in fraud investigations."
+ ],
+ "audience": [
+  "This course is designed for IT auditors working in high-risk fraud environments. It is also ideal for internal auditors seeking an in-depth understanding of IT fraud detection and computer-based fraud prevention."
+ ],
+ "methodology": [
+  "This interactive course employs a blend of presentations, case studies, discussions, role-plays, videos, and hands-on exercises to enhance participants’ practical skills."
+ ],
+ "competencies": [
+  "Internal auditing",
+  "IT auditing",
+  "Fraud detection and prevention",
+  "Internet fraud investigation",
+  "Legal skills for court representation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define various types of IT and computer-related fraud.",
+  "Identify antifraud controls and assess their effectiveness.",
+  "Recognize fraud risks posed by advanced technologies.",
+  "Apply effective detection methods for different IT fraud types.",
+  "Understand the advantages and limitations of audit software in IT fraud investigations."
+ ],
+ "outline": [
+  {
+   "title": "Understanding Fraud",
+   "items": [
+    {
+     "text": "Definition of fraud and its implications",
+     "level": 0
+    },
+    {
+     "text": "Identifying potential fraud perpetrators",
+     "level": 0
+    },
+    {
+     "text": "Overview of fraud auditing and awareness",
+     "level": 0
+    },
+    {
+     "text": "Introduction to computer fraud",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Computer Fraud and Control",
+   "items": [
+    {
+     "text": "Definition and scope of computer fraud",
+     "level": 0
+    },
+    {
+     "text": "Fraud opportunities in traditional and advanced technologies",
+     "level": 0
+    },
+    {
+     "text": "Exploring the nature of internet fraud and methods to combat hackers",
+     "level": 0
+    },
+    {
+     "text": "Introduction to predication and its role in fraud investigation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Role and Skills of the IT Fraud Auditor",
+   "items": [
+    {
+     "text": "Goals and objectives of an IT fraud auditor",
+     "level": 0
+    },
+    {
+     "text": "Essential skills and characteristics of an effective IT fraud auditor",
+     "level": 0
+    },
+    {
+     "text": "Steps in the fraud examination process",
+     "level": 0
+    },
+    {
+     "text": "Tools and techniques for IT fraud auditors",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Types and Nature of Common Frauds",
+   "items": [
+    {
+     "text": "Common fraud types:",
+     "level": 0
+    },
+    {
+     "text": "Misappropriation of goods",
+     "level": 1
+    },
+    {
+     "text": "Misappropriation of cash",
+     "level": 1
+    },
+    {
+     "text": "Falsification of records",
+     "level": 1
+    },
+    {
+     "text": "Techniques for detecting and controlling computer fraud",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "The Auditor’s Role in Legal Proceedings",
+   "items": [
+    {
+     "text": "Types and relevance of evidence in IT fraud cases",
+     "level": 0
+    },
+    {
+     "text": "Managing the chain of custody for evidence",
+     "level": 0
+    },
+    {
+     "text": "Avoiding exclusion of evidence in legal processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Investigating Fraud Using Technology",
+   "items": [
+    {
+     "text": "Collecting and analyzing documents using computers",
+     "level": 0
+    },
+    {
+     "text": "Effective interviewing techniques for fraud investigations",
+     "level": 0
+    },
+    {
+     "text": "Documenting evidence for fraud cases",
+     "level": 0
+    },
+    {
+     "text": "Preparing to testify as a court witness",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

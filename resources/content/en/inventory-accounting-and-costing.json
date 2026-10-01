@@ -1,0 +1,246 @@
+{
+ "file": "10- Inventory Accounting and Costing.docx",
+ "title": "Inventory Accounting and Costing",
+ "duration": "5 Days",
+ "overview": [
+  "Inventory plays a critical role in the financial health of any business, whether in trading, manufacturing, contracting, or service industries. Its impact extends across the income statement and balance sheet. This course provides a step-by-step guide to best practices in managing inventory, from the purchasing process to cost allocation, while exploring cost flow assumptions like FIFO, LIFO, and weighted average. Participants will also learn how to ensure accurate inventory valuations, reflect net realizable value, and use tools such as Excel and pivot tables for analysis and calculations."
+ ],
+ "audience": [
+  "This course is designed for:",
+  "Inventory professionals, including supervisors, account managers, and purchasing coordinators.",
+  "Financial controllers and internal auditors.",
+  "New employees involved in inventory handling.",
+  "Warehouse assistants and managers.",
+  "Operations managers seeking to enhance their inventory accounting expertise."
+ ],
+ "methodology": [
+  "This interactive course combines brief expert-led presentations, group exercises, and practical case studies. Participants will apply their learning using Excel and present their results to enhance understanding and collaboration."
+ ],
+ "competencies": [
+  "Accounting for inventory transactions.",
+  "Financial reporting of inventory balances.",
+  "Applying professional judgment for special cases.",
+  "Analyzing inventory movements.",
+  "Utilizing Excel and pivot tables for data analysis."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify different inventory types and construct a complete inventory cycle, from purchasing to sales.",
+  "Differentiate between perpetual and periodic inventory methods and evaluate various cost allocation techniques.",
+  "Accurately measure and account for inventory in line with IFRS and GAAP standards.",
+  "Understand the impact of inventory accounting policies on financial statements, including write-downs and write-backs.",
+  "Apply professional judgment in accounting for inventory not physically on hand.",
+  "Analyze the effects of different cost flow assumptions on financial statements and income.",
+  "Utilize Excel and pivot tables to analyze inventory balances and calculate weighted average costs."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Inventory",
+   "items": [
+    {
+     "text": "Role of inventory within current assets.",
+     "level": 0
+    },
+    {
+     "text": "The four primary reasons for maintaining inventory.",
+     "level": 0
+    },
+    {
+     "text": "Inventory cycle overview:",
+     "level": 0
+    },
+    {
+     "text": "Ordering and receiving.",
+     "level": 1
+    },
+    {
+     "text": "Sales and delivery.",
+     "level": 1
+    },
+    {
+     "text": "Best practices for inventory counting.",
+     "level": 1
+    },
+    {
+     "text": "Inventory types across industries: merchandise, manufacturing, construction, and real estate.",
+     "level": 0
+    },
+    {
+     "text": "Distinguishing inventory from fixed assets and investment properties.",
+     "level": 0
+    },
+    {
+     "text": "Analyzing and understanding inventory ratios.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Accounting for Inventory",
+   "items": [
+    {
+     "text": "Comparing perpetual and periodic inventory systems.",
+     "level": 0
+    },
+    {
+     "text": "Differences between cost accounting and financial accounting.",
+     "level": 0
+    },
+    {
+     "text": "Cost allocation techniques:",
+     "level": 0
+    },
+    {
+     "text": "Direct material, direct labor, and manufacturing overhead.",
+     "level": 1
+    },
+    {
+     "text": "Initial recognition of inventory:",
+     "level": 0
+    },
+    {
+     "text": "Costs of purchase and conversion, including rebates and discounts.",
+     "level": 1
+    },
+    {
+     "text": "Post-recognition measurement:",
+     "level": 0
+    },
+    {
+     "text": "Calculating net realizable value (IFRS).",
+     "level": 1
+    },
+    {
+     "text": "Market price determination under the Lower of Cost or Market (LCM) method (GAAP).",
+     "level": 1
+    },
+    {
+     "text": "Handling slow-moving and obsolete inventory: write-downs and write-backs.",
+     "level": 1
+    },
+    {
+     "text": "Accounting for errors during physical inventory counts.",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Special Topics in Inventory Accounting",
+   "items": [
+    {
+     "text": "Accounting for inventory not physically on hand:",
+     "level": 0
+    },
+    {
+     "text": "Consigned goods.",
+     "level": 1
+    },
+    {
+     "text": "Goods in transit (understanding Incoterms).",
+     "level": 1
+    },
+    {
+     "text": "Inventory sold with rights of return or subject to installation and inspection.",
+     "level": 1
+    },
+    {
+     "text": "'Bill and hold' sales.",
+     "level": 1
+    },
+    {
+     "text": "Inventory as collateral (inventory credit).",
+     "level": 0
+    },
+    {
+     "text": "Impact of inventory accounting policy changes on financial statements.",
+     "level": 0
+    },
+    {
+     "text": "Key inventory disclosures required by IFRS and GAAP.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Inventory Cost Flow Assumptions",
+   "items": [
+    {
+     "text": "First-In, First-Out (FIFO) vs. Last-In, First-Out (LIFO).",
+     "level": 0
+    },
+    {
+     "text": "Weighted average and moving average methods.",
+     "level": 0
+    },
+    {
+     "text": "Specific identification of inventory costs.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Inventory Estimation and Cost Accounting Approaches",
+   "items": [
+    {
+     "text": "Inventory estimation techniques:",
+     "level": 0
+    },
+    {
+     "text": "Gross profit method.",
+     "level": 1
+    },
+    {
+     "text": "Retail method.",
+     "level": 1
+    },
+    {
+     "text": "Cost accounting methodologies:",
+     "level": 0
+    },
+    {
+     "text": "Traditional costing vs. activity-based costing.",
+     "level": 1
+    },
+    {
+     "text": "Target costing vs. cost-plus pricing.",
+     "level": 1
+    },
+    {
+     "text": "Standard cost accounting.",
+     "level": 1
+    },
+    {
+     "text": "Throughput accounting.",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "6. Using Excel for Inventory Analysis",
+   "items": [
+    {
+     "text": "Consolidating inventory data for analysis.",
+     "level": 0
+    },
+    {
+     "text": "Validating data accuracy.",
+     "level": 0
+    },
+    {
+     "text": "Identifying slow-moving and obsolete inventory.",
+     "level": 0
+    },
+    {
+     "text": "Recalculating weighted and moving average costs.",
+     "level": 0
+    },
+    {
+     "text": "Leveraging pivot tables for efficient inventory analysis and reporting.",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

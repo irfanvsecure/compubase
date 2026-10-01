@@ -1,0 +1,198 @@
+{
+ "file": "13- Risk-Based Internal Audit.docx",
+ "title": "Risk-Based Internal Audit",
+ "duration": "5 Days",
+ "overview": [
+  "Internal auditing is defined by the Institute of Internal Auditors as an independent, objective assurance and consulting activity designed to add value and improve an organization’s operations. By employing a systematic, disciplined approach, it enhances the effectiveness of risk management, control, and governance processes, enabling organizations to achieve their objectives.",
+  "With increasing regulatory requirements and heightened stakeholder expectations, the internal audit function plays a critical role in corporate governance. This course, Risk-Based Internal Audit, provides participants with the knowledge and tools necessary to conduct audits aligned with organizational strategies. The course emphasizes efficient, flexible, and results-oriented practices to enhance sustainability and tackle future challenges."
+ ],
+ "audience": [
+  "This course is ideal for professionals with some auditing experience, junior auditors, finance personnel, and individuals from other departments seeking to develop best practices in internal auditing. It is also suitable for supervisors and managers looking to enhance or refresh their internal audit knowledge."
+ ],
+ "methodology": [
+  "The course employs interactive methods such as expert-led presentations, practical case studies, live demonstrations of sampling techniques, and group exercises to ensure a hands-on learning experience."
+ ],
+ "competencies": [
+  "Planning risk-based audits",
+  "Evaluating internal audit functions",
+  "Identifying and mitigating risks",
+  "Designing and testing internal controls",
+  "Effective sampling techniques",
+  "Fraud detection and assessment"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the scope, purpose, and function of internal auditing within organizations.",
+  "Explain the concept of risk-based internal auditing and its application.",
+  "Identify and apply internal audit standards as part of the audit framework.",
+  "Differentiate between operational, compliance, and financial audit assignments.",
+  "Use fieldwork guidelines and techniques to identify risks, evaluate controls, and conduct controls testing.",
+  "Select and utilize suitable internal audit tools, evaluating their pros and cons.",
+  "Apply effective sampling techniques, determining appropriate sample sizes and methods.",
+  "Detect and respond to fraud, understanding the auditor’s responsibilities in such cases."
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Risk and Internal Auditing",
+   "items": [
+    {
+     "text": "Definition and types of organizational risks",
+     "level": 0
+    },
+    {
+     "text": "Core management functions: planning, organizing, implementing, and controlling",
+     "level": 0
+    },
+    {
+     "text": "The role of internal audit in corporate governance",
+     "level": 0
+    },
+    {
+     "text": "Scope of internal auditing and the internal audit charter",
+     "level": 0
+    },
+    {
+     "text": "Distinguishing internal auditing from external auditing",
+     "level": 0
+    },
+    {
+     "text": "Establishing and staffing the internal audit function",
+     "level": 0
+    },
+    {
+     "text": "Role of the audit committee in supporting internal auditing",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Internal Audit Standards",
+   "items": [
+    {
+     "text": "Attribute and performance standards as defined by professional bodies",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Types of Internal Auditing",
+   "items": [
+    {
+     "text": "Performance, operational, financial, and compliance audits",
+     "level": 0
+    },
+    {
+     "text": "Evaluating accounting cycles and compliance requirements",
+     "level": 0
+    },
+    {
+     "text": "Key considerations for directors regarding the internal audit function",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Conducting Internal Audits: Fieldwork Guidelines",
+   "items": [
+    {
+     "text": "Information gathering:",
+     "level": 0
+    },
+    {
+     "text": "Characteristics, sources, and evaluation of audit evidence",
+     "level": 1
+    },
+    {
+     "text": "Engagement procedures:",
+     "level": 0
+    },
+    {
+     "text": "Tools such as observation, verification, interviewing, and re-performing tasks",
+     "level": 1
+    },
+    {
+     "text": "Role-play exercises for developing effective interviewing skills",
+     "level": 1
+    },
+    {
+     "text": "Managing working papers:",
+     "level": 0
+    },
+    {
+     "text": "Best practices for documentation and retention policies",
+     "level": 1
+    },
+    {
+     "text": "Communicating audit results:",
+     "level": 0
+    },
+    {
+     "text": "Legal considerations, recommendations, and exit meetings",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Risk-Based Auditing",
+   "items": [
+    {
+     "text": "Understanding management assertions and the risk assessment process",
+     "level": 0
+    },
+    {
+     "text": "Identifying and prioritizing auditable units based on risk evaluation",
+     "level": 0
+    },
+    {
+     "text": "Developing risk-based audit plans and aligning them with organizational objectives",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Internal Controls and Testing",
+   "items": [
+    {
+     "text": "Key components of effective internal control systems: COSO framework",
+     "level": 0
+    },
+    {
+     "text": "Designing and implementing internal controls",
+     "level": 0
+    },
+    {
+     "text": "Testing the operational effectiveness of controls",
+     "level": 0
+    },
+    {
+     "text": "Using flowcharts to understand cycles and control processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Audit Sampling Techniques",
+   "items": [
+    {
+     "text": "Best practices for sampling, including determining sample sizes and methods",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fraud Detection and Assessment",
+   "items": [
+    {
+     "text": "Understanding the definition and characteristics of fraud",
+     "level": 0
+    },
+    {
+     "text": "The internal auditor’s role in identifying and addressing fraudulent activities",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

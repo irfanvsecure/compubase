@@ -1,0 +1,202 @@
+{
+ "file": "01- Accounting for Non-Accountants.docx",
+ "title": "Accounting for Non-Accountants",
+ "duration": "5 Days",
+ "overview": [
+  "Accounting is often referred to as the language of business. This course is designed to provide participants with a solid foundation in accounting principles, including how to read and analyze financial statements. Participants will gain an understanding of the relationship between accounting and finance, the mechanics of debits and credits, and the skills needed to accurately record financial transactions and summarize them in financial statements."
+ ],
+ "audience": [
+  "This course is ideal for managers, supervisors, and staff from various functions, including those in the accounting department, who wish to enhance their understanding of accounting principles and techniques."
+ ],
+ "methodology": [
+  "This course employs a blend of interactive learning techniques, including concise presentations, participant-led discussions, and hands-on exercises. Real-life case studies are a key feature, allowing participants to apply theoretical knowledge to practical scenarios and present their solutions."
+ ],
+ "competencies": [
+  "Recording and analyzing business transactions",
+  "Preparing income statements and interpreting balance sheets",
+  "Analyzing cash flow statements",
+  "Preparing adjustment entries",
+  "Utilizing debits and credits effectively",
+  "Applying IFRS principles"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Explain the purpose of accounting and the accounting cycle.",
+  "Identify key accounting principles and rules under International Financial Reporting Standards (IFRS).",
+  "Demonstrate knowledge of the accounting equation, double-entry bookkeeping, and automated accounting systems.",
+  "Recognize the primary financial statements (balance sheet, income statement, statement of changes in equity, and cash flow statement) and their components.",
+  "Apply adjustments to financial statements at month-end and year-end."
+ ],
+ "outline": [
+  {
+   "title": "1. Introduction to Accounting and Financial Statements",
+   "items": [
+    {
+     "text": "Definition and purpose of accounting",
+     "level": 0
+    },
+    {
+     "text": "Users of accounting information",
+     "level": 0
+    },
+    {
+     "text": "Overview of basic financial statements",
+     "level": 0
+    },
+    {
+     "text": "Understanding corporate entities and presentation of financial information",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. International Financial Reporting Standards (IFRS)",
+   "items": [
+    {
+     "text": "Role of the International Accounting Standards Board (IASB)",
+     "level": 0
+    },
+    {
+     "text": "Overview of IFRS principles",
+     "level": 0
+    },
+    {
+     "text": "Differences between IFRS and US Generally Accepted Accounting Principles (GAAP)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Double-Entry Accounting",
+   "items": [
+    {
+     "text": "The accounting equation and its components",
+     "level": 0
+    },
+    {
+     "text": "Traditional double-entry bookkeeping principles",
+     "level": 0
+    },
+    {
+     "text": "Understanding assets, liabilities, and equity relationships",
+     "level": 0
+    },
+    {
+     "text": "The chart of accounts, general journal, general ledger, and trial balance",
+     "level": 0
+    },
+    {
+     "text": "Modern bookkeeping with automated systems",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Income Statements",
+   "items": [
+    {
+     "text": "Definition and purpose of income statements",
+     "level": 0
+    },
+    {
+     "text": "Revenue recognition and expenditure classification",
+     "level": 0
+    },
+    {
+     "text": "Calculating profits: gross, operating, and net",
+     "level": 0
+    },
+    {
+     "text": "Illustrated examples of income statements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Equity and Retained Earnings",
+   "items": [
+    {
+     "text": "Definition of capital stock and retained earnings",
+     "level": 0
+    },
+    {
+     "text": "Distinctions between cash dividends, stock dividends, and stock splits",
+     "level": 0
+    },
+    {
+     "text": "Overview of treasury stock",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Balance Sheet and Its Components",
+   "items": [
+    {
+     "text": "Purpose and structure of the balance sheet",
+     "level": 0
+    },
+    {
+     "text": "Components: assets, liabilities, and equity",
+     "level": 0
+    },
+    {
+     "text": "Differentiating between current and non-current items",
+     "level": 0
+    },
+    {
+     "text": "Illustrated examples of balance sheets",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Cash Flow Statement",
+   "items": [
+    {
+     "text": "Definition and purpose of the cash flow statement",
+     "level": 0
+    },
+    {
+     "text": "Classification of cash flows:",
+     "level": 0
+    },
+    {
+     "text": "Operating activities",
+     "level": 1
+    },
+    {
+     "text": "Investing activities",
+     "level": 1
+    },
+    {
+     "text": "Financing activities",
+     "level": 1
+    },
+    {
+     "text": "Illustrated examples of cash flow statements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Adjustments to Financial Statements",
+   "items": [
+    {
+     "text": "Accrual concepts and their importance",
+     "level": 0
+    },
+    {
+     "text": "Managing accruals and prepayments",
+     "level": 0
+    },
+    {
+     "text": "Accounting for depreciation, bad debts, and provisions for contingencies",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

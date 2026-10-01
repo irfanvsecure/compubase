@@ -1,0 +1,263 @@
+{
+ "file": "09- Financial Accounting and Reporting.docx",
+ "title": "Financial Accounting and Reporting",
+ "duration": "5 Days",
+ "overview": [
+  "In today’s rapidly evolving accounting landscape, staying updated with the latest standards, regulations, and industry practices is essential. Professionals must continuously refine their skills to improve the quality of financial reporting, ensuring accurate recording, reporting, and disclosure of both routine and complex business transactions.",
+  "This course, Financial Accounting and Reporting, is designed and delivered by experts with extensive theoretical knowledge and practical global experience. It equips participants with the tools needed to produce high-quality financial statements and meet disclosure requirements effectively."
+ ],
+ "audience": [
+  "This course is ideal for:",
+  "Finance and accounting professionals at all levels.",
+  "Accountants seeking to deepen their practical knowledge of finance and accounting.",
+  "Certified financial and accounting professionals looking to enhance their reporting skills."
+ ],
+ "methodology": [
+  "The course is delivered using a blend of interactive methods, including concise presentations, real-world applications of theoretical concepts, and group exercises to encourage collaboration and practical knowledge sharing."
+ ],
+ "competencies": [
+  "Mapping trial balance accounts to financial statement accounts.",
+  "Preparing notes and disclosures for financial statements.",
+  "Applying International Financial Reporting Standards (IFRS).",
+  "Mastering minimum disclosure requirements.",
+  "Leveraging Excel and Pivot Tables for effective financial reporting."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the structure and best presentation practices for core financial statements.",
+  "Recognize key periodical adjustments and their impact on financial statements.",
+  "Accurately account for assets, liabilities, equity, revenues, and expenses during routine and exceptional transactions.",
+  "Identify and apply minimum disclosure requirements for major accounts and transactions.",
+  "Prepare comprehensive financial statements from a raw trial balance, including all required disclosures."
+ ],
+ "outline": [
+  {
+   "title": "1. Financial Statements and Business Decisions",
+   "items": [
+    {
+     "text": "The financial accounting cycle.",
+     "level": 0
+    },
+    {
+     "text": "Overview of the key financial statements.",
+     "level": 0
+    },
+    {
+     "text": "Management applications of financial statements.",
+     "level": 0
+    },
+    {
+     "text": "Interrelations among financial statements.",
+     "level": 0
+    },
+    {
+     "text": "Essential notes and disclosures:",
+     "level": 0
+    },
+    {
+     "text": "Basis of preparation.",
+     "level": 1
+    },
+    {
+     "text": "Accounting policies.",
+     "level": 1
+    },
+    {
+     "text": "Related party transactions.",
+     "level": 1
+    },
+    {
+     "text": "Contingencies.",
+     "level": 1
+    },
+    {
+     "text": "Risk management.",
+     "level": 1
+    },
+    {
+     "text": "Subsequent events.",
+     "level": 1
+    },
+    {
+     "text": "Simulation 1: Reporting on general information, basis of preparation, and significant accounting policies.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Income Statement",
+   "items": [
+    {
+     "text": "Revenue and expense recognition under the accrual basis.",
+     "level": 0
+    },
+    {
+     "text": "Matching principle for revenues and expenses.",
+     "level": 0
+    },
+    {
+     "text": "Components of other comprehensive income.",
+     "level": 0
+    },
+    {
+     "text": "Reporting earnings per share.",
+     "level": 0
+    },
+    {
+     "text": "Simulation 2: Mapping accounts and preparing an income statement using Excel.",
+     "level": 0
+    },
+    {
+     "text": "Simulation 3: Creating income statement disclosures.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Balance Sheet and Statement of Owners' Equity",
+   "items": [
+    {
+     "text": "Minimum presentation requirements for balance sheet accounts.",
+     "level": 0
+    },
+    {
+     "text": "Definitions and classifications of balance sheet accounts.",
+     "level": 0
+    },
+    {
+     "text": "Accurate presentation of the statement of owners' equity.",
+     "level": 0
+    },
+    {
+     "text": "Simulation 4: Mapping accounts and preparing equity and balance sheets using Excel.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Cash Flow Statement",
+   "items": [
+    {
+     "text": "Components of a cash flow statement.",
+     "level": 0
+    },
+    {
+     "text": "Comparing direct and indirect methods of preparation.",
+     "level": 0
+    },
+    {
+     "text": "Linking cash flow statements to disclosures.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Accounting Adjustments",
+   "items": [
+    {
+     "text": "Accruals and unearned revenues.",
+     "level": 0
+    },
+    {
+     "text": "Prepayments and deferrals.",
+     "level": 0
+    },
+    {
+     "text": "Accounting estimates.",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Financial Reporting for Major Accounts and Transactions",
+   "items": [
+    {
+     "text": "Measuring and reporting accounts receivable.",
+     "level": 0
+    },
+    {
+     "text": "Accounting for bad debts.",
+     "level": 0
+    },
+    {
+     "text": "Valuing inventory:",
+     "level": 0
+    },
+    {
+     "text": "Costs to capitalize in inventory.",
+     "level": 1
+    },
+    {
+     "text": "Inventory cost flow assumptions.",
+     "level": 1
+    },
+    {
+     "text": "Presenting inventory at lower of cost or net realizable value.",
+     "level": 1
+    },
+    {
+     "text": "Simulation 5: Preparing disclosures for current assets.",
+     "level": 0
+    },
+    {
+     "text": "Accounting for long-lived assets:",
+     "level": 0
+    },
+    {
+     "text": "Classification, measurement, and recording.",
+     "level": 1
+    },
+    {
+     "text": "Repairs, maintenance, and additions.",
+     "level": 1
+    },
+    {
+     "text": "Depreciation, amortization, and disposal.",
+     "level": 1
+    },
+    {
+     "text": "Reporting intangibles.",
+     "level": 1
+    },
+    {
+     "text": "Investment accounting:",
+     "level": 0
+    },
+    {
+     "text": "Passive investments vs. significant influence or control.",
+     "level": 1
+    },
+    {
+     "text": "Equity and debt investment types.",
+     "level": 1
+    },
+    {
+     "text": "Simulation 6: Preparing disclosures for non-current assets.",
+     "level": 0
+    },
+    {
+     "text": "Liability accounts: definitions and classifications.",
+     "level": 0
+    },
+    {
+     "text": "Types of ownership and stock.",
+     "level": 0
+    },
+    {
+     "text": "Accounting for capital and dividends.",
+     "level": 0
+    },
+    {
+     "text": "Simulation 7: Preparing disclosures for long-term obligations and equity.",
+     "level": 0
+    },
+    {
+     "text": "Wrapping up: Linking notes to the main financial statements.",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

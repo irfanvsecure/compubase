@@ -1,0 +1,239 @@
+{
+ "file": "19- Financial Forecasting Tools and Techniques.docx",
+ "title": "Financial Forecasting: Tools and Techniques",
+ "duration": "5 Days",
+ "overview": [
+  "Forecasting future events is one of the most challenging aspects of decision-making for professionals. Too often, this challenge is met with an over-reliance on professional judgment and educated guesses. While experience and intuition are valuable, effective forecasting requires structured tools and techniques. This course focuses on equipping participants with practical forecasting methodologies and demonstrates their application through Microsoft Excel.",
+  "Participants will gain hands-on experience in using Excel to develop robust financial forecasting models, enabling them to make informed decisions and better support their organizations' strategic goals."
+ ],
+ "audience": [
+  "This course is ideal for financial controllers, analysts, finance and accounting managers, supervisors, and finance professionals responsible for creating, interpreting, and maintaining forecasts within their organizations."
+ ],
+ "methodology": [
+  "This course is delivered as a hands-on workshop, with participants actively applying forecasting techniques in Microsoft Excel. Through a combination of practical exercises, case studies, and interactive discussions, participants will develop the skills needed to build and interpret effective forecasting models."
+ ],
+ "competencies": [
+  "Financial forecasting",
+  "Time series analysis",
+  "Regression analysis",
+  "Modeling financial statements",
+  "Advanced Excel functions and tools"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Apply a range of forecasting techniques to improve financial and business decision-making.",
+  "Utilize Microsoft Excel to create and manage effective forecasting models.",
+  "Identify and incorporate macroeconomic and microeconomic factors into forecasts.",
+  "Develop detailed models for forecasting income statements, balance sheets, and cash flow statements.",
+  "Distinguish between different forecasting models and approaches and communicate their implications to senior management."
+ ],
+ "outline": [
+  {
+   "title": "1. Forecasting Models",
+   "items": [
+    {
+     "text": "Qualitative Models:",
+     "level": 0
+    },
+    {
+     "text": "Market research approach",
+     "level": 1
+    },
+    {
+     "text": "Delphi method",
+     "level": 1
+    },
+    {
+     "text": "Quantitative Models:",
+     "level": 0
+    },
+    {
+     "text": "Indicator-based approaches",
+     "level": 1
+    },
+    {
+     "text": "Causal and econometric models",
+     "level": 1
+    },
+    {
+     "text": "Regression analysis (simple and multiple)",
+     "level": 1
+    },
+    {
+     "text": "Correlation coefficient and coefficient of determination",
+     "level": 1
+    },
+    {
+     "text": "Time series methods:",
+     "level": 1
+    },
+    {
+     "text": "Simple average",
+     "level": 1
+    },
+    {
+     "text": "Moving average",
+     "level": 1
+    },
+    {
+     "text": "Exponential smoothing",
+     "level": 1
+    },
+    {
+     "text": "Expected value",
+     "level": 1
+    },
+    {
+     "text": "Decomposition forecasting",
+     "level": 1
+    },
+    {
+     "text": "ARIMA (Auto-Regressive Integrated Moving Average)",
+     "level": 1
+    },
+    {
+     "text": "Box-Jenkins methodology",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "2. Types of Forecasting",
+   "items": [
+    {
+     "text": "Micro and Macro Factors:",
+     "level": 0
+    },
+    {
+     "text": "Analyzing their impact on forecasting models",
+     "level": 1
+    },
+    {
+     "text": "Forecasting Components:",
+     "level": 0
+    },
+    {
+     "text": "Sales forecasting: market demand, company demand, and sales forecasts",
+     "level": 1
+    },
+    {
+     "text": "Forecasting cost of sales and operating expenses",
+     "level": 1
+    },
+    {
+     "text": "Key asset and liability accounts",
+     "level": 1
+    },
+    {
+     "text": "Modeling forecasts for:",
+     "level": 1
+    },
+    {
+     "text": "Income statements",
+     "level": 1
+    },
+    {
+     "text": "Balance sheets",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "3. Building Forecasting Models",
+   "items": [
+    {
+     "text": "Key Elements in Model Design:",
+     "level": 0
+    },
+    {
+     "text": "Units, quantity, and activity levels",
+     "level": 1
+    },
+    {
+     "text": "Price and cost per unit of activity",
+     "level": 1
+    },
+    {
+     "text": "Pricing Strategies:",
+     "level": 0
+    },
+    {
+     "text": "Cost-plus pricing",
+     "level": 1
+    },
+    {
+     "text": "Pricing aligned with business objectives",
+     "level": 1
+    },
+    {
+     "text": "ROI-focused pricing",
+     "level": 1
+    },
+    {
+     "text": "Expansionistic pricing",
+     "level": 1
+    },
+    {
+     "text": "Price skimming",
+     "level": 1
+    },
+    {
+     "text": "Variable cost pricing",
+     "level": 1
+    },
+    {
+     "text": "Breakeven pricing",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "4. Cash Flow Forecasting",
+   "items": [
+    {
+     "text": "Leveraging published cash flow statements",
+     "level": 0
+    },
+    {
+     "text": "Analyzing and interpreting cash flow data",
+     "level": 0
+    },
+    {
+     "text": "Forecasting free cash flows",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Managing Uncertainty and Risk",
+   "items": [
+    {
+     "text": "Scenario Forecasting and Analysis:",
+     "level": 0
+    },
+    {
+     "text": "Building alternative scenarios to address uncertainty",
+     "level": 1
+    },
+    {
+     "text": "Judgmental Forecasting:",
+     "level": 0
+    },
+    {
+     "text": "Incorporating professional judgment in forecasts",
+     "level": 1
+    },
+    {
+     "text": "Probability and Risk Assessment:",
+     "level": 0
+    },
+    {
+     "text": "Evaluating risks and their impact on forecasting outcomes",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}

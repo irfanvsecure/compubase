@@ -1,0 +1,200 @@
+{
+ "file": "17- Forecasting and Analyzing Cash Flow.docx",
+ "title": "Forecasting and Analyzing Cash Flow",
+ "duration": "5 Days",
+ "overview": [
+  "Cash flow is the lifeline of any successful and sustainable business. This course provides participants with the knowledge and tools to master cash flow and working capital management, ensuring the effective utilization of cash resources. Participants will gain hands-on expertise in preparing cash flow statements using both direct and indirect methods, along with techniques for accurate cash flow forecasting and analysis."
+ ],
+ "audience": [
+  "This course is designed for financial controllers, working capital managers, financial analysts, business development managers, financial managers, management accountants, business analysts, and treasury professionals."
+ ],
+ "methodology": [
+  "The course combines practical, Excel-based applications of cash flow analysis with in-depth discussions of theoretical concepts. Participants will engage in real-life case studies, interactive exercises, and peer presentations to enhance learning and application."
+ ],
+ "competencies": [
+  "Accounting for cash",
+  "Constructing and analyzing cash flow statements",
+  "Performing and interpreting cash flow ratios",
+  "Identifying and resolving cash flow issues",
+  "Assessing the impact of working capital on cash flow",
+  "Preparing detailed cash budgets"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand the relationships between cash flow statements, income statements, and balance sheets.",
+  "Identify the critical elements and significance of organizational cash flow.",
+  "Prepare cash flow statements using both direct and indirect methods.",
+  "Assess the impact of working capital management on cash flow.",
+  "Analyze organizational liquidity and cash flow positions, including free cash flow.",
+  "Review best practices for presenting cash flow data.",
+  "Apply effective cash flow forecasting techniques.",
+  "Perform cash flow ratio analysis to gain deeper insights."
+ ],
+ "outline": [
+  {
+   "title": "1. Understanding Relationships Between Financial Statements",
+   "items": [
+    {
+     "text": "Income statements, balance sheets, and cash flow statements",
+     "level": 0
+    },
+    {
+     "text": "Differences between cash flow and profit",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Presentation of Cash Flow",
+   "items": [
+    {
+     "text": "Fundamentals of cash flow presentation",
+     "level": 0
+    },
+    {
+     "text": "Understanding cash and cash equivalents",
+     "level": 0
+    },
+    {
+     "text": "Operating, investing, and financing cash flows",
+     "level": 0
+    },
+    {
+     "text": "Calculating operating cash flow: direct vs. indirect methods",
+     "level": 0
+    },
+    {
+     "text": "Reporting non-cash transactions",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Cash Flow and Working Capital Management",
+   "items": [
+    {
+     "text": "Balancing liquidity and profitability",
+     "level": 0
+    },
+    {
+     "text": "Conservative vs. aggressive working capital strategies",
+     "level": 0
+    },
+    {
+     "text": "Sources and costs of cash",
+     "level": 0
+    },
+    {
+     "text": "Managing short-term and long-term debt",
+     "level": 0
+    },
+    {
+     "text": "Optimizing working capital and the cash conversion cycle",
+     "level": 0
+    },
+    {
+     "text": "Accounts receivable strategies: factoring, pledging, and assignment",
+     "level": 0
+    },
+    {
+     "text": "Supplier early payment discounts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Insights into Cash Flow Statements",
+   "items": [
+    {
+     "text": "Liquidity and financial flexibility",
+     "level": 0
+    },
+    {
+     "text": "Understanding restricted cash and cash equivalents",
+     "level": 0
+    },
+    {
+     "text": "Gross vs. net cash flow reporting",
+     "level": 0
+    },
+    {
+     "text": "Characteristics of healthy cash flow",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Presentation Challenges",
+   "items": [
+    {
+     "text": "Reporting interest income, dividends, interest expenses, and taxes",
+     "level": 0
+    },
+    {
+     "text": "Managing receivables and bad debts",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Cash Flow Forecasting",
+   "items": [
+    {
+     "text": "Importance and objectives of cash flow forecasting",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities in cash management",
+     "level": 0
+    },
+    {
+     "text": "Incorporating investing and financing decisions",
+     "level": 0
+    },
+    {
+     "text": "Calculating and interpreting free cash flow",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Cash Flow Ratios",
+   "items": [
+    {
+     "text": "External financing index ratio",
+     "level": 0
+    },
+    {
+     "text": "Cash sources component percentages ratio",
+     "level": 0
+    },
+    {
+     "text": "Financing policies ratio",
+     "level": 0
+    },
+    {
+     "text": "Operating cash inflow and outflow ratios",
+     "level": 0
+    },
+    {
+     "text": "Long-term debt payment ratio",
+     "level": 0
+    },
+    {
+     "text": "Asset productivity ratio",
+     "level": 0
+    },
+    {
+     "text": "Cash flow adequacy and reinvestment ratios",
+     "level": 0
+    },
+    {
+     "text": "Dividend payout ratio",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "file": "10- Emergency Response Planning Crisis Manag.docx",
+ "title": "Emergency Response Planning: Crisis Management for Hazardous Environments",
+ "duration": "5 Days",
+ "overview": [
+  "The range of potential incidents and emergencies that can disrupt operations is steadily increasing. While not all incidents will escalate into full-blown crises, those that result in significant losses or place substantial strain on the organization can have severe consequences for the company, its shareholders, stakeholders, and even the country. These events can severely damage reputations if not handled effectively. This course will teach participants that preparation alone is not enough to meet the challenge; successful management of a crisis requires a proactive approach and the ability to effectively respond under pressure."
+ ],
+ "audience": [
+  "This course is designed for individuals in leadership or responsible roles in safety, emergency, or crisis management within organizations, divisions, or municipalities. This includes, but is not limited to, government regulators, fire, safety and security professionals, risk, marketing, and insurance professionals, incident response professionals, emergency response team members, and local fire and emergency personnel. It is also valuable for line managers and supervisors who want to deepen their understanding of emergency response best practices.",
+  "And emergency response members; and other emergency response professionals. This course is also critical for line managers and supervisors wishing to appraise their comprehension of emergency response best practices."
+ ],
+ "methodology": [
+  "This course will strengthen your leadership skills through assessments, role-playing, group discussions, and real-life challenges. You will develop crisis communication skills and problem-solving techniques, with an emphasis on team collaboration. Participants will receive a comprehensive student manual that includes industry standards, audits, plans, and checklists, all of which can be adapted to specific organizational needs. Additionally, a full electronic Crisis Response Manual will be provided, along with a video guide on how to use it."
+ ],
+ "competencies": [
+  "Designing effective response plans",
+  "Organizing Emergency Control Centers",
+  "Managing Emergency Response Teams",
+  "Analyzing incidents and assigning roles",
+  "Developing crisis management strategies"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Differentiate between incidents, emergencies, and crisis situations.",
+  "Develop strategies to prevent unnecessary escalation and effectively manage and control responses to each scenario.",
+  "Improve leadership capabilities and techniques for managing on-site crises.",
+  "Implement best practices for organizing Emergency Control Centers (ECC), Emergency Response Teams (ERT), and Crisis Management Teams (CRT) to support Forward Incident Control (FIC).",
+  "Analyze human factors and allocate responsibilities based on psychological readiness, resource management, deployment, discipline, leadership, and welfare considerations."
+ ],
+ "outline": [
+  {
+   "title": "Hazard Action Prevention",
+   "items": [
+    {
+     "text": "Overview of prevention methods",
+     "level": 0
+    },
+    {
+     "text": "Vulnerability analysis",
+     "level": 0
+    },
+    {
+     "text": "Risk assessment for hazardous materials",
+     "level": 0
+    },
+    {
+     "text": "Developing a crisis management manual",
+     "level": 0
+    },
+    {
+     "text": "Establishing crisis management procedures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Crisis Management – Control Models",
+   "items": [
+    {
+     "text": "Command and control systems",
+     "level": 0
+    },
+    {
+     "text": "Crisis management and emergency planning",
+     "level": 0
+    },
+    {
+     "text": "Understanding international laws and local regulations",
+     "level": 0
+    },
+    {
+     "text": "Writing an emergency response plan",
+     "level": 0
+    },
+    {
+     "text": "Key components of an emergency response plan",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Emergency Organization and Procedures",
+   "items": [
+    {
+     "text": "Assessing available resources",
+     "level": 0
+    },
+    {
+     "text": "Plan implementation",
+     "level": 0
+    },
+    {
+     "text": "Employee training",
+     "level": 0
+    },
+    {
+     "text": "Distribution and updating of emergency plans",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Organizing Incident Control",
+   "items": [
+    {
+     "text": "Emergency Control Centers (ECC)",
+     "level": 0
+    },
+    {
+     "text": "Communication strategies within the ECC",
+     "level": 1
+    },
+    {
+     "text": "Necessary equipment and resources",
+     "level": 1
+    },
+    {
+     "text": "Emergency Response Teams (ERT)",
+     "level": 0
+    },
+    {
+     "text": "Health and safety considerations",
+     "level": 1
+    },
+    {
+     "text": "Crisis Management Teams (CRT)",
+     "level": 0
+    },
+    {
+     "text": "Forward Incident Control (FIC)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Emergency Action Procedures",
+   "items": [
+    {
+     "text": "Media relations and crisis recovery",
+     "level": 0
+    },
+    {
+     "text": "Evacuation and medical emergency procedures",
+     "level": 0
+    },
+    {
+     "text": "Fire and explosion protocols",
+     "level": 0
+    },
+    {
+     "text": "Hazardous materials and environmental hazards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Case Studies",
+   "items": [
+    {
+     "text": "Flixborough disaster",
+     "level": 0
+    },
+    {
+     "text": "Texas BP Refinery explosion",
+     "level": 0
+    },
+    {
+     "text": "Big Spring Refinery case",
+     "level": 0
+    },
+    {
+     "text": "Regional-based incident analysis",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

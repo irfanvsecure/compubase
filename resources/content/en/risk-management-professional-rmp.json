@@ -1,0 +1,232 @@
+{
+ "file": "02- Risk Management Professional (RMP).docx",
+ "title": "Risk Management Professional (RMP)",
+ "duration": "5 Days",
+ "overview": [
+  "This course is designed to prepare participants for the Risk Management Professional (RMP) certification. It provides comprehensive training on developing project risk management plans and maintaining risk registers. Participants will learn to perform both qualitative and quantitative risk assessments and devise effective risk responses. The course also covers setting key performance indicators for monitoring and controlling project risks."
+ ],
+ "audience": [
+  "Risk managers, project managers, project office members, project sponsors, functional managers, senior management, and individuals seeking RMP certification. This course is worth 30 Professional Development Units (PDUs)."
+ ],
+ "methodology": [
+  "The course employs interactive techniques including group exercises, brief presentations by both the consultant and participants, practice exam questions, and simulations."
+ ],
+ "competencies": [
+  "Risk Planning",
+  "Risk Identification",
+  "Risk Assessment",
+  "Risk Review",
+  "Communication",
+  "Leadership",
+  "Motivation"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Review RMP exam requirements and the application process",
+  "Define key risk management terms and build a solid risk management framework",
+  "Plan risk management processes and manage the risk register",
+  "Identify project risks using various techniques",
+  "Conduct qualitative risk assessments",
+  "Perform quantitative analysis to evaluate the impact of risks on project objectives",
+  "Develop appropriate response actions based on risk priority",
+  "Monitor and control project risks through reassessments and audits",
+  "Identify leadership and communication skills essential for effective risk management"
+ ],
+ "outline": [
+  {
+   "title": "PMI-RMP Credential Overview",
+   "items": [
+    {
+     "text": "Introduction to the Project Management Institute (PMI)",
+     "level": 0
+    },
+    {
+     "text": "Overview of the RMP Credential",
+     "level": 0
+    },
+    {
+     "text": "Application and Exam Process",
+     "level": 0
+    },
+    {
+     "text": "Understanding Question Formats",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Introduction to Project Risk",
+   "items": [
+    {
+     "text": "Review of the PMBOK Guide",
+     "level": 0
+    },
+    {
+     "text": "Definitions and Classification of Risk",
+     "level": 0
+    },
+    {
+     "text": "Risk Management Approach",
+     "level": 0
+    },
+    {
+     "text": "Critical Success Factors in Risk Management",
+     "level": 0
+    },
+    {
+     "text": "Project Risk Management Processes",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Planning Risk Management",
+   "items": [
+    {
+     "text": "Steps for Creating the Risk Management Plan",
+     "level": 0
+    },
+    {
+     "text": "Conducting Planning Meetings and Analysis",
+     "level": 0
+    },
+    {
+     "text": "Components and Update Cycle of the Risk Register",
+     "level": 0
+    },
+    {
+     "text": "Managing the Risk Register",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Identifying Risks",
+   "items": [
+    {
+     "text": "Techniques for Information Gathering",
+     "level": 0
+    },
+    {
+     "text": "Diagramming Techniques",
+     "level": 0
+    },
+    {
+     "text": "Analysis Techniques",
+     "level": 0
+    },
+    {
+     "text": "Tools for Quality Assessment",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Performing Qualitative Risk Analysis",
+   "items": [
+    {
+     "text": "Assessing Risk Probability and Impact",
+     "level": 0
+    },
+    {
+     "text": "Using the Risk Probability and Impact Matrix",
+     "level": 0
+    },
+    {
+     "text": "Evaluating Risk Data Quality",
+     "level": 0
+    },
+    {
+     "text": "Categorizing Risks",
+     "level": 0
+    },
+    {
+     "text": "Assessing Risk Urgency",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Performing Quantitative Risk Analysis",
+   "items": [
+    {
+     "text": "Standard Deviation and Probability Distributions",
+     "level": 0
+    },
+    {
+     "text": "Sensitivity Analysis",
+     "level": 0
+    },
+    {
+     "text": "Expected Monetary Value Analysis",
+     "level": 0
+    },
+    {
+     "text": "Decision Tree Analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Planning Risk Responses",
+   "items": [
+    {
+     "text": "Strategies for Risk Response",
+     "level": 0
+    },
+    {
+     "text": "Contingency and Reserve Planning",
+     "level": 0
+    },
+    {
+     "text": "Developing Fallback Plans",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Monitoring and Controlling Risks",
+   "items": [
+    {
+     "text": "Risk Reassessment and Audits",
+     "level": 0
+    },
+    {
+     "text": "Variance and Trend Analysis",
+     "level": 0
+    },
+    {
+     "text": "Earned Value Management",
+     "level": 0
+    },
+    {
+     "text": "Reserve Analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Risk Communication and Leadership",
+   "items": [
+    {
+     "text": "Risk Communication Processes",
+     "level": 0
+    },
+    {
+     "text": "Leadership and Management Styles",
+     "level": 0
+    },
+    {
+     "text": "Motivational and Management Theories",
+     "level": 0
+    },
+    {
+     "text": "Conflict Management",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

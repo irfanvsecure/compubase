@@ -1,0 +1,172 @@
+{
+ "file": "04- HAZOP Study Management.docx",
+ "title": "HAZOP Study Management",
+ "duration": "5 Days",
+ "overview": [
+  "HAZOP (Hazard and Operability) studies are widely regarded as one of the most effective hazard identification methods, applied across numerous industries. This systematic, structured approach helps identify countless potential risks and operational issues. However, the success of a HAZOP study heavily depends on strong leadership. Without proper guidance, studies can stray from their purpose, turning into mere design reviews or, worse, leading to contractual disputes. This course is designed to provide participants with a solid understanding of the HAZOP methodology and the essential skills to assume the role of a HAZOP Team Leader.",
+  "Participants will learn how to lead a HAZOP study, including selecting and preparing a team, choosing nodes, estimating timelines, avoiding common pitfalls, and creating effective reports."
+ ],
+ "audience": [
+  "This course is intended for professionals who are required to lead HAZOP studies across any industry. Participants should have prior experience as team members in HAZOP studies and should already have a basic understanding of the HAZOP methodology (which will be reviewed from a leadership perspective during the course)."
+ ],
+ "methodology": [
+  "The course incorporates case study examples to focus on the key elements of HAZOP leadership. Participants will actively engage in workshops, taking on the roles of Leader and Scribe to practice guiding a team through the HAZOP process. A proprietary HAZOP software package will be demonstrated, allowing participants to set up a study and apply their knowledge. The course includes a hands-on practical exercise where participants will recreate a full HAZOP study, from preparation to making recommendations for organizational improvements."
+ ],
+ "competencies": [
+  "Developing and preparing a HAZOP study",
+  "Leading and managing a HAZOP study",
+  "Writing clear and effective HAZOP study reports",
+  "Managing and motivating a HAZOP study team"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Prepare for a successful HAZOP study, defining scope and timelines clearly.",
+  "Select and motivate the right team to ensure the study is completed on time with quality results.",
+  "Guide productive HAZOP study meetings to achieve actionable outcomes.",
+  "Address and solve problems that arise during the HAZOP study process.",
+  "Create clear, user-friendly HAZOP study reports.",
+  "Analyze results from HAZOP studies and propose organizational improvements"
+ ],
+ "outline": [
+  {
+   "title": "The Role of HAZOP",
+   "items": [
+    {
+     "text": "The importance of HAZOP in risk assessment",
+     "level": 0
+    },
+    {
+     "text": "Consequences of poorly managed HAZOP studies",
+     "level": 0
+    },
+    {
+     "text": "A historical perspective on HAZOP",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "The Origins and Development of HAZOP",
+   "items": [
+    {
+     "text": "Key terminology and concepts in HAZOP",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "HAZOP and Safety",
+   "items": [
+    {
+     "text": "Benefits of applying HAZOP to safety management",
+     "level": 0
+    },
+    {
+     "text": "Risks of not implementing HAZOP",
+     "level": 0
+    },
+    {
+     "text": "How HAZOP contributes to maintaining a ‘safe’ plant",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Leading the HAZOP Study",
+   "items": [
+    {
+     "text": "Defining and understanding HAZOP",
+     "level": 0
+    },
+    {
+     "text": "Identifying hazards and operability issues",
+     "level": 0
+    },
+    {
+     "text": "Preparing for a HAZOP study",
+     "level": 0
+    },
+    {
+     "text": "Defining the scope and requirements",
+     "level": 0
+    },
+    {
+     "text": "Determining the necessary information for the study",
+     "level": 0
+    },
+    {
+     "text": "Defining parts (nodes) of the system",
+     "level": 0
+    },
+    {
+     "text": "Continuous processes",
+     "level": 1
+    },
+    {
+     "text": "Batch processes",
+     "level": 1
+    },
+    {
+     "text": "Procedural studies",
+     "level": 1
+    },
+    {
+     "text": "Establishing study timelines and team requirements",
+     "level": 0
+    },
+    {
+     "text": "Starting the HAZOP team discussion",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Putting HAZOP into Practice: A Case Study",
+   "items": [
+    {
+     "text": "Running a continuous and guided HAZOP study workshop",
+     "level": 0
+    },
+    {
+     "text": "Preparing the study materials",
+     "level": 0
+    },
+    {
+     "text": "Leading the study process",
+     "level": 0
+    },
+    {
+     "text": "Identifying and organizing study components",
+     "level": 0
+    },
+    {
+     "text": "Forming and motivating the HAZOP team",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Reviewing the HAZOP Case Study",
+   "items": [
+    {
+     "text": "Identifying common mistakes in HAZOP studies",
+     "level": 0
+    },
+    {
+     "text": "Methods for improving the process",
+     "level": 0
+    },
+    {
+     "text": "Preparing comprehensive HAZOP reports",
+     "level": 0
+    },
+    {
+     "text": "Implementing recommendations from the study",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

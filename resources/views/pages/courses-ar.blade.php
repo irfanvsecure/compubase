@@ -51,15 +51,17 @@
 </div></section>
 
 @use('App\Support\Catalog')
+<section class="section" style="padding-bottom:0"><div class="container">
+  <div class="eyebrow">الفئات</div>
+  <nav class="filter-tabs cat-nav">@foreach (Catalog::categories() as $cat => $category)<a href="#{{ $cat }}" data-scroll="{{ $cat }}">{{ $category['ar'] }} · {{ count($category['courses']) }}</a>@endforeach</nav>
+</div></section>
 @foreach (Catalog::categories() as $cat => $category)
 <section class="section featured" id="{{ $cat }}"><div class="container">
   <div class="eyebrow">{{ count($category['courses']) }} دورة</div>
   <h2>{{ $category['ar'] }}</h2>
   <div class="course-grid">
-  @foreach (Catalog::courses() as $course)
-    @if ($course['cat'] === $cat)
-      @include('partials.course-card', ['ar' => true])
-    @endif
+  @foreach ($category['courses'] as $course)
+    @include('partials.course-card', ['ar' => true])
   @endforeach
   </div>
   @if ($loop->last)<p class="foot">لست متأكداً أي دورة تناسبك؟ اتصل بمستشار التدريب على <a href="tel:0506399915">050 6399915</a></p>@endif
@@ -76,7 +78,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-logo"><img src="{{ asset('images/logo-light.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></div>
-        <p style="font-size:15px">تدريب صفّي في الشهادات المهنية وتقنية المعلومات والأمن السيبراني واللغات. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
+        <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وغيرها. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>

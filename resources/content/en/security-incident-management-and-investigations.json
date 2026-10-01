@@ -1,0 +1,228 @@
+{
+ "file": "06- Security Incident Management & Investiga.docx",
+ "title": "Security Incident Management and Investigations",
+ "duration": "5 Days",
+ "overview": [
+  "This comprehensive 5-day course is divided into two key parts: Incident Management and Fundamentals of Investigations.",
+  "In the Incident Management section, participants will learn how incident management works and how to effectively implement and apply these principles within their organizations. The goal is to restore normal business operations—safety, productivity, and overall functionality—following an incident. Key topics include the principles of incident management, methodology, and incident typology.",
+  "In the Fundamentals of Investigations section, participants will gain hands-on experience in crime scene management, evidence collection, and conducting interviews. They will also explore techniques for preserving evidence, preparing case files, and overcoming common investigative challenges, such as interviewing suspects and ensuring legal admissibility of evidence."
+ ],
+ "audience": [
+  "This course is ideal for security managers and supervisors, company investigators, HR professionals, site managers, safety and incident response team members, business owners, and anyone involved in managing security incidents and investigations."
+ ],
+ "methodology": [
+  "The course combines various learning methods, including case studies, role-playing exercises, presentations, group discussions, and video analysis, to create an interactive learning environment."
+ ],
+ "competencies": [
+  "Incident Management",
+  "Crime Scene Management",
+  "Communication Skills",
+  "Teamwork",
+  "Critical Thinking"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Apply the principles of Incident Management in their workplace.",
+  "Implement Incident Management methodologies to create recovery plans for swift business resumption after incidents.",
+  "Understand and apply the fundamentals of investigations.",
+  "Conduct a basic internal investigation within their organization.",
+  "Execute a complete crime scene preservation investigation, from initial response to case conclusion."
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Incident Management and Investigations",
+   "items": [
+    {
+     "text": "Defining incident management",
+     "level": 0
+    },
+    {
+     "text": "Differences between emergencies, incidents, and accidents",
+     "level": 0
+    },
+    {
+     "text": "Security vs. safety incidents",
+     "level": 0
+    },
+    {
+     "text": "Managing incidents and responding effectively",
+     "level": 0
+    },
+    {
+     "text": "Business Continuity Management (BCM)",
+     "level": 0
+    },
+    {
+     "text": "Case studies on investigations",
+     "level": 0
+    },
+    {
+     "text": "Evidence collection and maintaining continuity of evidence",
+     "level": 0
+    },
+    {
+     "text": "Internal and external investigations",
+     "level": 0
+    },
+    {
+     "text": "The Locard Exchange Principle",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Fundamentals of Incident Management",
+   "items": [
+    {
+     "text": "Initial response procedures",
+     "level": 0
+    },
+    {
+     "text": "Classifying incidents",
+     "level": 0
+    },
+    {
+     "text": "Reporting and escalation procedures",
+     "level": 0
+    },
+    {
+     "text": "Integrated Incident Management Response",
+     "level": 0
+    },
+    {
+     "text": "Site-specific emergency protocols",
+     "level": 0
+    },
+    {
+     "text": "Five priorities when responding to specific incidents",
+     "level": 0
+    },
+    {
+     "text": "Incident management team roles and responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Conducting post-incident debriefs",
+     "level": 0
+    },
+    {
+     "text": "The 5C’s of Incident Management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Application of Incident Management Plan",
+   "items": [
+    {
+     "text": "What constitutes an Incident Management Plan?",
+     "level": 0
+    },
+    {
+     "text": "Constructing an Incident Management Plan for your organization",
+     "level": 0
+    },
+    {
+     "text": "Key techniques for implementing the plan",
+     "level": 0
+    },
+    {
+     "text": "Practical steps to apply the Incident Management Plan effectively",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Principles of Investigations",
+   "items": [
+    {
+     "text": "Locard’s Exchange Principle",
+     "level": 0
+    },
+    {
+     "text": "Developing an investigative mindset",
+     "level": 0
+    },
+    {
+     "text": "Enhancing observation skills",
+     "level": 0
+    },
+    {
+     "text": "Rules and procedures for investigations",
+     "level": 0
+    },
+    {
+     "text": "Planning the investigation process",
+     "level": 0
+    },
+    {
+     "text": "Decision-making in investigations",
+     "level": 0
+    },
+    {
+     "text": "Working with victims and suspects",
+     "level": 0
+    },
+    {
+     "text": "Priorities when attending the scene",
+     "level": 0
+    },
+    {
+     "text": "Methods and types of searches",
+     "level": 0
+    },
+    {
+     "text": "Understanding types, value, and collection of evidence",
+     "level": 0
+    },
+    {
+     "text": "Preserving crime scenes",
+     "level": 0
+    },
+    {
+     "text": "The impact of crime typology on investigations",
+     "level": 0
+    },
+    {
+     "text": "Common questions and answers in investigations",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Investigation Methodology",
+   "items": [
+    {
+     "text": "Conducting an investigation from start to finish",
+     "level": 0
+    },
+    {
+     "text": "Evaluating the investigation process",
+     "level": 0
+    },
+    {
+     "text": "Handling evidence found at the scene",
+     "level": 0
+    },
+    {
+     "text": "Coordinating with authorities and law enforcement",
+     "level": 0
+    },
+    {
+     "text": "Understanding the legal chain of evidence",
+     "level": 0
+    },
+    {
+     "text": "Effective questioning techniques",
+     "level": 0
+    },
+    {
+     "text": "Conducting professional interviews",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "file": "03- Business Continuity Management.docx",
+ "title": "Business Continuity Management",
+ "duration": "5 Days",
+ "overview": [
+  "This course equips participants with practical solutions, strategies, and insights to implement an effective Business Continuity Management System (BCMS). Participants will evaluate the risks and impacts of potential threats to business operations using proven processes and procedures. The course offers a framework for enhancing organizational resilience, ensuring robust responses to protect key stakeholders, reputation, brand, and value-creating activities."
+ ],
+ "audience": [
+  "Professionals in Business Continuity, Quality, Audit, and IT, including Business Continuity Managers (BCM), Business Continuity Coordinators (BCC), Crisis Managers (CM), and IT Disaster Recovery Managers."
+ ],
+ "methodology": [
+  "The course will be highly interactive, incorporating group discussions, videos, case studies, and syndicate work."
+ ],
+ "competencies": [
+  "Business Continuity Management",
+  "Risk Management",
+  "Contingency Planning",
+  "Internal & External Auditing"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Describe the process for establishing an operational BCMS in alignment with UAE NCEMA 7000-2015, Business Continuity Institute (BCI) Good Practice Guidelines (GPG) 2013, and ISO 22301-2012 requirements.",
+  "Identify key components and best practices for a successful BCM program, including policy, strategy, and supporting tools.",
+  "Understand the elements of an effective Business Impact Analysis (BIA) to meet an organization’s strategic, tactical, and operational needs.",
+  "Develop a Business Continuity Plan (BCP) and conduct a Business Continuity (BC) exercise.",
+  "Create requirements for an auditable BCMS to comply with UAE NCEMA 7000-2015."
+ ],
+ "outline": [
+  {
+   "title": "Business Continuity Management (BCM) and Organizational Resilience",
+   "items": [
+    {
+     "text": "The value of Business Continuity to an organization",
+     "level": 0
+    },
+    {
+     "text": "Defining organizational resilience and its essential elements",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "BCM Program, Policy, Strategy, and Tools",
+   "items": [
+    {
+     "text": "Implementing a BCM program and its leadership",
+     "level": 0
+    },
+    {
+     "text": "Requirements for BC Policy",
+     "level": 0
+    },
+    {
+     "text": "Developing a BC strategy: scope and depth",
+     "level": 0
+    },
+    {
+     "text": "Contingency planning and standby measures",
+     "level": 0
+    },
+    {
+     "text": "Understanding stakeholder needs",
+     "level": 0
+    },
+    {
+     "text": "Relevant legislation, regulations, and standards",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Embedding Business Continuity",
+   "items": [
+    {
+     "text": "Conducting a training needs analysis and establishing a competency framework",
+     "level": 0
+    },
+    {
+     "text": "The necessity and development of a Competency Framework",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Business Impact Analysis (BIA)",
+   "items": [
+    {
+     "text": "Types of BIA: Strategic, Tactical, and Operational",
+     "level": 0
+    },
+    {
+     "text": "Methods for implementing BIA and Risk Assessment (RA)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Developing and Implementing a Business Continuity Plan (BCP)",
+   "items": [
+    {
+     "text": "Ownership and structure of the plan",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities of BC Champions and Team Leaders",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Delivering a Business Continuity Exercise",
+   "items": [
+    {
+     "text": "Types of testing and exercises",
+     "level": 0
+    },
+    {
+     "text": "Key components for conducting an auditable exercise",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Maintenance of the BCMS",
+   "items": [
+    {
+     "text": "The role of audits in BCMS",
+     "level": 0
+    },
+    {
+     "text": "BCM Steering Committee and Terms of Reference (ToR)",
+     "level": 0
+    },
+    {
+     "text": "Management reviews and continuous improvement processes",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

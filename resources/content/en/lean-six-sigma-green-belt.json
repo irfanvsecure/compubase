@@ -1,0 +1,237 @@
+{
+ "file": "07- Lean Six Sigma Green Belt.docx",
+ "title": "Lean Six Sigma Green Belt",
+ "duration": "5 Days",
+ "overview": [
+  "This unique Green Belt Six Sigma course will help you to improve the quality of your organization's operations by adopting a data-driven approach and provide you with the skills necessary to work on projects to benefit all types of processes and businesses. Participants will learn the different phases of Define, Measure, Analyze, Improve, and Control (DMAIC) and how to craft a project charter. Additionally, participants will learn about quality tools and statistics to help them formulate problem statements and translate them into a measurable format. Participants will also be provided with the tools to assess their organization's readiness to launch Six Sigma projects."
+ ],
+ "audience": [
+  "Managers, supervisors, and professionals who wish to fully utilize the Six Sigma approach in their organizations or gain professional certification or learn how Six Sigma relates to work and business improvement."
+ ],
+ "methodology": [
+  "Through the combination of interactive lectures, group, and individual presentations, the course will present participants with the chance to practice the skills acquired through exercises and case studies. Additionally, videos will be shown on real-life companies which implemented the Six Sigma methodology."
+ ],
+ "competencies": [
+  "Deploying Six Sigma",
+  "Problem-solving skills",
+  "Critical thinking skills",
+  "Using applied statistics",
+  "Lean principles"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Discuss Six Sigma and why it is necessary to sustain business improvement.",
+  "Improve processes using Define, Measure, Analyze, Improve and Control (DMAIC) Six Sigma methodology",
+  "Scope a project and build a business case for management to deploy Six Sigma Collect and analyze data appropriately using various tools in Minitab.",
+  "Apply various tools usually used in a Six Sigma project"
+ ],
+ "outline": [
+  {
+   "title": "Six Sigma – Introduction and Define Phase",
+   "items": [
+    {
+     "text": "Understanding Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "History of Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Six Sigma Roles and Responsibilities",
+     "level": 0
+    },
+    {
+     "text": "Cost of Poor Quality (COPQ)",
+     "level": 0
+    },
+    {
+     "text": "Voice of the customer / Critical to Quality (CTQ)",
+     "level": 0
+    },
+    {
+     "text": "The basic Six Sigma metrics",
+     "level": 0
+    },
+    {
+     "text": "Selecting projects",
+     "level": 0
+    },
+    {
+     "text": "Developing the Project Charter and problem statement",
+     "level": 0
+    },
+    {
+     "text": "SIPOC diagram",
+     "level": 0
+    },
+    {
+     "text": "Using Pareto for Scoping",
+     "level": 0
+    },
+    {
+     "text": "Case study",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Six Sigma - Measure Phase",
+   "items": [
+    {
+     "text": "Introduction to Six Sigma Level Calculations",
+     "level": 0
+    },
+    {
+     "text": "Process capability Indices",
+     "level": 0
+    },
+    {
+     "text": "Introduction to Minitab",
+     "level": 0
+    },
+    {
+     "text": "Types of data and basic stats Central Tendency, Variation, and Tampering",
+     "level": 0
+    },
+    {
+     "text": "Data collection planning",
+     "level": 0
+    },
+    {
+     "text": "Sampling of data",
+     "level": 0
+    },
+    {
+     "text": "Understanding the Xs that affect your process Y and building your measurement plan",
+     "level": 0
+    },
+    {
+     "text": "Measurement systems analysis and Gauge R&R",
+     "level": 0
+    },
+    {
+     "text": "Advanced process capability",
+     "level": 0
+    },
+    {
+     "text": "Normality Analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Six Sigma - Analyze Phase",
+   "items": [
+    {
+     "text": "The Seven Classic Quality Tools- A Review",
+     "level": 0
+    },
+    {
+     "text": "Statistical Process Control (SPC)- Control charts",
+     "level": 0
+    },
+    {
+     "text": "Selection of Variables",
+     "level": 0
+    },
+    {
+     "text": "Control chart selection",
+     "level": 0
+    },
+    {
+     "text": "Control chart analysis",
+     "level": 0
+    },
+    {
+     "text": "Process mapping",
+     "level": 0
+    },
+    {
+     "text": "Qualitative Analysis",
+     "level": 0
+    },
+    {
+     "text": "Failure Mode Effect Analysis (FMEA)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Six Sigma – Improve and Control Phases",
+   "items": [
+    {
+     "text": "Introduction to Graphing",
+     "level": 0
+    },
+    {
+     "text": "Histograms",
+     "level": 0
+    },
+    {
+     "text": "Scatter plots",
+     "level": 0
+    },
+    {
+     "text": "Inferential Statistics",
+     "level": 0
+    },
+    {
+     "text": "Six Sigma Control Plans",
+     "level": 0
+    },
+    {
+     "text": "Evaluating and selecting solutions",
+     "level": 0
+    },
+    {
+     "text": "Pilot testing",
+     "level": 0
+    },
+    {
+     "text": "The catapult experiment",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Lean Thinking and Six Sigma",
+   "items": [
+    {
+     "text": "Lean or Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Defining Lean",
+     "level": 0
+    },
+    {
+     "text": "Lean thinking principles",
+     "level": 0
+    },
+    {
+     "text": "Types of waste (MUDA)",
+     "level": 0
+    },
+    {
+     "text": "Lean Toolbox",
+     "level": 0
+    },
+    {
+     "text": "The visual factory and 5 S",
+     "level": 0
+    },
+    {
+     "text": "Mistake Proofing - Poka Yoka",
+     "level": 0
+    },
+    {
+     "text": "Lean vs Six Sigma",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

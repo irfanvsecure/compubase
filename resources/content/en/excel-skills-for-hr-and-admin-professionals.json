@@ -1,0 +1,224 @@
+{
+ "file": "06- Excel Skills for HR and Admin Professionals.docx",
+ "title": "Excel Skills for HR and Admin Professionals",
+ "duration": "5 Days",
+ "overview": [
+  "his course is designed to help HR and administration professionals save valuable time on daily tasks by mastering Excel. Participants will learn efficient techniques to tackle common HR challenges such as employee compensation, benefits, salary, leave management, and more. They will practice essential formatting methods for data conversion, learn to utilize key Excel formulas, create informative charts and graphs, and automate routine tasks. Additionally, the course will cover advanced data analysis techniques and troubleshooting for common Excel issues, ensuring participants can streamline their workflows and enhance their reporting capabilities."
+ ],
+ "audience": [
+  "This course is ideal for HR and admin professionals, compensation and benefits specialists, payroll managers, HR rewards professionals, and anyone who regularly handles HR and admin functions within their organization"
+ ],
+ "methodology": [
+  "This course is highly practical, featuring numerous hands-on exercises to help participants immediately apply time-saving Excel techniques to their work. Participants will gain the skills needed to present clear, meaningful information to management right from day one."
+ ],
+ "competencies": [
+  "HR Reporting Techniques",
+  "HR Data Analysis",
+  "Data Modeling",
+  "Integration with External Data Sources",
+  "Report Structuring",
+  "Task Automation",
+  "Charting and Data Visualization",
+  "Utilizing Pivot Tables"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Master Excel reporting skills for HR and admin by improving data analysis, manipulation, and presentation techniques",
+  "Use pivot tables and pivot charts to automate reporting and streamline analysis processes",
+  "Develop operational dashboards featuring key business performance indicators (KPIs)",
+  "Efficiently automate repetitive tasks and generate reports using macros",
+  "Implement a variety of tips and tricks to boost work efficiency"
+ ],
+ "outline": [
+  {
+   "title": "HR Reports",
+   "items": [
+    {
+     "text": "Creating custom views for HR reports",
+     "level": 0
+    },
+    {
+     "text": "Using pivot tables for report preparation",
+     "level": 0
+    },
+    {
+     "text": "Data consolidation techniques",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Cell and Name Ranges",
+   "items": [
+    {
+     "text": "Defining name ranges for HR data",
+     "level": 0
+    },
+    {
+     "text": "Performing calculations using name ranges",
+     "level": 0
+    },
+    {
+     "text": "Creating 3-D formulas and updating ranges",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "HR Data Formatting",
+   "items": [
+    {
+     "text": "Number and date formatting",
+     "level": 0
+    },
+    {
+     "text": "Conditional formatting for employee data",
+     "level": 0
+    },
+    {
+     "text": "Avoiding duplicate records",
+     "level": 0
+    },
+    {
+     "text": "Using data bars, icon sets, and color scales for performance and job levels",
+     "level": 0
+    },
+    {
+     "text": "Creating warnings for residency expiry",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Automating HR Tasks",
+   "items": [
+    {
+     "text": "Creating and using macros for HR reports",
+     "level": 0
+    },
+    {
+     "text": "Automating monthly reports",
+     "level": 0
+    },
+    {
+     "text": "Storing macros in the personal macros workbook",
+     "level": 0
+    },
+    {
+     "text": "Assigning macros to the Quick Access Toolbar",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Data Calculations",
+   "items": [
+    {
+     "text": "Date and time functions for attendance tracking",
+     "level": 0
+    },
+    {
+     "text": "Calculating working days and years of service",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Logical and Statistical Functions",
+   "items": [
+    {
+     "text": "Applying pay increase and bonus formulas (paste special)",
+     "level": 0
+    },
+    {
+     "text": "Implementing HR policies via statistical functions",
+     "level": 0
+    },
+    {
+     "text": "Using SUMIF, COUNTIF, AVERAGEIF, and other statistical functions for HR data analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Lookup Functions",
+   "items": [
+    {
+     "text": "VLOOKUP and HLOOKUP functions for data retrieval",
+     "level": 0
+    },
+    {
+     "text": "INDEX and MATCH functions for more advanced lookups",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Creating Master Sheets with Data Validation",
+   "items": [
+    {
+     "text": "Setting up data validation for employee status, locations, grades, designations, nationalities, and departments",
+     "level": 0
+    },
+    {
+     "text": "Custom validation for dates and numbers",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Leave Records and Calculations",
+   "items": [
+    {
+     "text": "Determining leave and bonus eligibility using IF functions",
+     "level": 0
+    },
+    {
+     "text": "Managing leave records and balances",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Payroll and Benefits",
+   "items": [
+    {
+     "text": "Creating payroll sheets and salary slips",
+     "level": 0
+    },
+    {
+     "text": "Calculating payroll using attendance data",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "End of Service Calculations",
+   "items": [
+    {
+     "text": "Computing end-of-service benefits like gratuity and cashable leave",
+     "level": 0
+    },
+    {
+     "text": "Visualizing HR data through charts like speedometers and spinners",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Comprehensive Exercises",
+   "items": [
+    {
+     "text": "Calculating gratuity and salary increments",
+     "level": 0
+    },
+    {
+     "text": "Using a performance review scoring system",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

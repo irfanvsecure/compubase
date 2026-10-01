@@ -1,0 +1,215 @@
+{
+ "file": "08- Certified Six Sigma Yellow Belt.docx",
+ "title": "Certified Six Sigma Yellow Belt",
+ "duration": "5 Days",
+ "overview": [
+  "This engaging course introduces participants to the renowned Motorola Six Sigma methodology, providing them with the foundational knowledge to identify and address organizational challenges effectively. Targeted at the Yellow Belt level, the course equips participants with the skills to recognize improvement opportunities and initiate Six Sigma methodologies within their teams.",
+  "Participants will learn the five DMAIC phases (Define, Measure, Analyze, Improve, Control) and how to create a project charter. They will explore essential quality tools and statistical techniques to develop measurable problem statements. Additionally, participants will assess their organization's readiness to implement successful Six Sigma initiatives."
+ ],
+ "audience": [
+  "This course is ideal for managers, supervisors, and professionals who want to gain a foundational understanding of Six Sigma, its application in organizational processes, and its potential to drive business improvements."
+ ],
+ "methodology": [
+  "This interactive course combines theory with practice, offering participants opportunities to apply newly acquired skills through exercises, case studies, and group presentations. Real-world examples of companies using Six Sigma methodologies are presented through videos to enhance understanding."
+ ],
+ "competencies": [
+  "Implementing Six Sigma",
+  "Problem-solving techniques",
+  "Critical thinking and analysis",
+  "Applied statistics",
+  "Change management"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Define and understand key quality concepts and their historical development.",
+  "Discuss the importance of Six Sigma in driving sustainable business improvements.",
+  "Explain the role of Six Sigma in enhancing customer satisfaction and promoting continuous improvement.",
+  "Apply the DMAIC problem-solving methodology at the Yellow Belt level.",
+  "Understand the statistical foundations of Six Sigma projects.",
+  "Use various Six Sigma tools to address and solve organizational challenges.",
+  "Assess their organization’s readiness to launch a successful Six Sigma project."
+ ],
+ "outline": [
+  {
+   "title": "Introduction to Quality",
+   "items": [
+    {
+     "text": "Definition and importance of quality",
+     "level": 0
+    },
+    {
+     "text": "Evolution and history of quality management",
+     "level": 0
+    },
+    {
+     "text": "Benefits of quality systems",
+     "level": 0
+    },
+    {
+     "text": "Overview of the ISO 9000 family",
+     "level": 0
+    },
+    {
+     "text": "Cost implications of poor quality",
+     "level": 0
+    },
+    {
+     "text": "Principles of quality management and Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Understanding the quality maturity ladder",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Understanding Six Sigma",
+   "items": [
+    {
+     "text": "Definition and significance of Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "The meaning of “sigma” and its metrics",
+     "level": 0
+    },
+    {
+     "text": "Historical overview of Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Organizational benefits and cost savings through Six Sigma",
+     "level": 0
+    },
+    {
+     "text": "Positioning Six Sigma as an improvement strategy",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Six Sigma in Customer Service",
+   "items": [
+    {
+     "text": "Impact of Six Sigma on customer satisfaction",
+     "level": 0
+    },
+    {
+     "text": "Levels of sigma performance",
+     "level": 0
+    },
+    {
+     "text": "The Kano model and Quality Function Deployment (QFD)",
+     "level": 0
+    },
+    {
+     "text": "Value creation through Six Sigma initiatives",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Implementing Six Sigma",
+   "items": [
+    {
+     "text": "Overview of the DMAIC methodology",
+     "level": 0
+    },
+    {
+     "text": "Roles and responsibilities of managers, employees, Green Belts, and Black Belts",
+     "level": 0
+    },
+    {
+     "text": "Integrating Six Sigma with Lean principles",
+     "level": 0
+    },
+    {
+     "text": "Organizational readiness and Six Sigma adoption",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Statistical Analysis in Six Sigma",
+   "items": [
+    {
+     "text": "Sigma as a performance metric",
+     "level": 0
+    },
+    {
+     "text": "Identifying sources of variation",
+     "level": 0
+    },
+    {
+     "text": "Calculating process capability and sigma levels",
+     "level": 0
+    },
+    {
+     "text": "Practical examples of statistical analysis",
+     "level": 0
+    },
+    {
+     "text": "Tools and software to support Six Sigma analysis",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Problem-Solving with Six Sigma",
+   "items": [
+    {
+     "text": "Six Sigma toolbox essentials",
+     "level": 0
+    },
+    {
+     "text": "Control charts and Pareto charts",
+     "level": 0
+    },
+    {
+     "text": "Cause-and-effect diagrams",
+     "level": 0
+    },
+    {
+     "text": "Why-why analysis and the Turtle diagram",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Deploying Six Sigma",
+   "items": [
+    {
+     "text": "Selecting the right projects and drafting project charters",
+     "level": 0
+    },
+    {
+     "text": "Leadership and employee involvement in Six Sigma initiatives",
+     "level": 0
+    },
+    {
+     "text": "Guidelines for effective project selection",
+     "level": 0
+    },
+    {
+     "text": "Key characteristics of successful Six Sigma projects",
+     "level": 0
+    },
+    {
+     "text": "Avoiding common pitfalls in project deployment",
+     "level": 0
+    },
+    {
+     "text": "Leadership insights: Key questions for organizational commitment",
+     "level": 0
+    },
+    {
+     "text": "Identifying high-impact opportunities",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

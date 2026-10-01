@@ -1,0 +1,217 @@
+{
+ "file": "25- Fixed Assets Accounting and Management.docx",
+ "title": "Fixed Assets Accounting and Management",
+ "duration": "5 Days",
+ "overview": [
+  "Effective fixed assets management and accounting are crucial for organizations, as these assets are key resources for product production and long-term benefits generation. This course covers the management and accounting of fixed assets based on the British Standards Institute Publicly Available Standard (PAS 55). It introduces the 28 essential points of PAS 55, aimed at maximizing fixed asset utilization. These points are divided into categories: asset policies, strategies, management enablers and controls, implementation of management plans, performance assessments, and improvement through management review. The course spans the entire asset lifecycle, from acquisition or creation to maintenance, utilization, and eventual disposal or renewal.",
+  "The accounting component follows IFRS guidelines, specifically IFRS 16 for property, plant, and equipment, and IFRS 38 for intangible assets. Key topics include capitalization rules for fixed and intangible assets, fair value measurement, depreciation methods, and impairment rules, including their measurement and accounting treatment."
+ ],
+ "audience": [
+  "This course is designed for professionals involved in fixed asset management, including supervisors, account managers, purchasing and facility coordinators, financial controllers, internal auditors, maintenance managers, and operations managers."
+ ],
+ "methodology": [
+  "The course combines consultant-led presentations with participant-led discussions, group exercises, case studies, and role plays to ensure interactive learning."
+ ],
+ "competencies": [
+  "Asset management implementation",
+  "Enhancing asset utilization",
+  "Investment decision-making",
+  "Policy and procedure development",
+  "Utilizing asset information systems",
+  "Monitoring asset performance",
+  "Capitalization rule application",
+  "IFRS-compliant asset accounting"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Implement the 28-point PAS 55 framework to establish a comprehensive asset management system aligned with PAS 55 and ISO 55000 standards",
+  "Evaluate fixed asset investments using Net Present Value (NPV), Internal Rate of Return (IRR), and other financial evaluation tools",
+  "Identify and measure fixed and intangible assets according to IFRS standards",
+  "Justify the accounting treatment and reporting of assets throughout their lifecycle",
+  "Properly account for asset impairment, disposals, and sales of long-lived assets"
+ ],
+ "outline": [
+  {
+   "title": "1. Asset Management Function",
+   "items": [
+    {
+     "text": "Introduction to PAS 55 and ISO 55000",
+     "level": 0
+    },
+    {
+     "text": "Asset management objectives and benefits",
+     "level": 0
+    },
+    {
+     "text": "PAS 55 requirements for effective asset management",
+     "level": 0
+    },
+    {
+     "text": "Risk management in asset management",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "2. Evaluating Investments in Assets",
+   "items": [
+    {
+     "text": "Investment decision-making processes",
+     "level": 0
+    },
+    {
+     "text": "Time value of money concepts",
+     "level": 0
+    },
+    {
+     "text": "Net Present Value (NPV)",
+     "level": 0
+    },
+    {
+     "text": "Internal Rate of Return (IRR)",
+     "level": 0
+    },
+    {
+     "text": "Additional tools for asset investment valuation",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "3. Fair Value Measurement",
+   "items": [
+    {
+     "text": "IFRS 13 fair value measurement principles",
+     "level": 0
+    },
+    {
+     "text": "The three-level hierarchy for fair value",
+     "level": 0
+    },
+    {
+     "text": "Valuation techniques under IFRS",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "4. Initial Measurement of Long-Lived Assets",
+   "items": [
+    {
+     "text": "Recognition and measurement of fixed assets",
+     "level": 0
+    },
+    {
+     "text": "Classes of long-lived assets",
+     "level": 0
+    },
+    {
+     "text": "Measuring construction of tangible assets for internal use",
+     "level": 0
+    },
+    {
+     "text": "Measurement and recognition of investment properties",
+     "level": 0
+    },
+    {
+     "text": "Recognition and measurement of intangible assets",
+     "level": 0
+    },
+    {
+     "text": "Required disclosures",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "5. Special Topics in Accounting for Fixed Assets",
+   "items": [
+    {
+     "text": "Capitalization of borrowing costs",
+     "level": 0
+    },
+    {
+     "text": "Decommissioning costs",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "6. Accounting Over the Life of the Asset",
+   "items": [
+    {
+     "text": "Subsequent costs incurred post-purchase",
+     "level": 0
+    },
+    {
+     "text": "Leasehold improvements",
+     "level": 0
+    },
+    {
+     "text": "Accounting for leased assets",
+     "level": 0
+    },
+    {
+     "text": "Accounting for intangible asset expenditures",
+     "level": 0
+    },
+    {
+     "text": "Accounting under the fair value model",
+     "level": 0
+    },
+    {
+     "text": "Component depreciation concept",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "7. Depreciation Methods",
+   "items": [
+    {
+     "text": "Partial-year depreciation",
+     "level": 0
+    },
+    {
+     "text": "Straight-line depreciation method",
+     "level": 0
+    },
+    {
+     "text": "Units of production method",
+     "level": 0
+    },
+    {
+     "text": "Accelerated depreciation methods",
+     "level": 0
+    },
+    {
+     "text": "Revising depreciation rates",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "8. Impairment and Disposal",
+   "items": [
+    {
+     "text": "Defining asset impairment and related rules",
+     "level": 0
+    },
+    {
+     "text": "Impairment measurement and accounting",
+     "level": 0
+    },
+    {
+     "text": "Identifying impairment indicators and calculations",
+     "level": 0
+    },
+    {
+     "text": "Accounting for the disposal or idle status of assets",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}

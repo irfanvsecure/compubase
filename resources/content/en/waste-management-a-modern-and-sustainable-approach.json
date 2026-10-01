@@ -1,0 +1,215 @@
+{
+ "file": "05- Waste Management A Modern and Sustainabl.docx",
+ "title": "Waste Management: A Modern and Sustainable Approach",
+ "duration": "4 Days",
+ "overview": [
+  "In the 21st century, sustainable waste management goes beyond just safe disposal; it also focuses on resource management and recovery. This course is designed for individuals involved in waste production or handling, helping them adopt sustainable and cost-effective waste management practices, both locally and nationally. The course follows the principles of the waste management hierarchy, emphasizing the idea of waste as a resource, which not only helps protect the environment but also maximizes profit. Participants will explore strategies for waste prevention, re-use, and recycling, as well as identify opportunities for energy generation from biological waste, such as food waste."
+ ],
+ "audience": [
+  "This course is ideal for waste managers and supervisors, including those in industries that produce waste (e.g., manufacturing, retail). It is also suitable for municipal waste managers, waste planners (both private and public sector), and anyone interested in exploring modern approaches to waste management."
+ ],
+ "methodology": [
+  "This highly interactive course includes group discussions, case studies, and syndicate work. It also provides practical exercises to enable participants to apply their newly acquired knowledge and skills in real-world waste management scenarios."
+ ],
+ "competencies": [
+  "Waste prevention",
+  "Sustainable waste management",
+  "Waste recovery",
+  "Waste disposal"
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Understand and apply the waste management hierarchy in the context of sustainable waste management and the circular economy.",
+  "Implement sustainable waste management principles, specifically in a Middle Eastern context.",
+  "Identify cost-effective waste prevention opportunities.",
+  "Explore re-use and recycling possibilities to manage waste-related environmental risks through a risk-based approach.",
+  "Investigate waste recovery methods, including anaerobic digestion and energy generation from waste incineration.",
+  "Assess the environmental impacts of landfill waste disposal and explore sustainable alternatives."
+ ],
+ "outline": [
+  {
+   "title": "Sustainable Waste Management: An International Context",
+   "items": [
+    {
+     "text": "Waste management policies for the 21st century",
+     "level": 0
+    },
+    {
+     "text": "Principles of sustainable waste management",
+     "level": 0
+    },
+    {
+     "text": "Sustainable waste management within the circular economy",
+     "level": 0
+    },
+    {
+     "text": "A Middle Eastern perspective on sustainable waste management",
+     "level": 0
+    },
+    {
+     "text": "Managing and controlling environmental risks",
+     "level": 0
+    },
+    {
+     "text": "Pollution linkages and their role in risk management",
+     "level": 0
+    },
+    {
+     "text": "Good practices in municipal waste management",
+     "level": 0
+    },
+    {
+     "text": "Sustainable solutions for various waste types",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Waste Prevention",
+   "items": [
+    {
+     "text": "Commercial drivers and examples of good practice",
+     "level": 0
+    },
+    {
+     "text": "Understanding the true cost of waste",
+     "level": 0
+    },
+    {
+     "text": "Utilizing simple tools for waste prevention",
+     "level": 0
+    },
+    {
+     "text": "Flow diagrams",
+     "level": 1
+    },
+    {
+     "text": "Process mapping",
+     "level": 1
+    },
+    {
+     "text": "Mass balance",
+     "level": 1
+    },
+    {
+     "text": "SMART objectives",
+     "level": 1
+    },
+    {
+     "text": "Cause and effect diagrams",
+     "level": 1
+    },
+    {
+     "text": "Decision matrices",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Waste Re-use and Recycling",
+   "items": [
+    {
+     "text": "Viewing waste as a valuable resource",
+     "level": 0
+    },
+    {
+     "text": "The role of Materials Recovery Facilities (MRFs)",
+     "level": 0
+    },
+    {
+     "text": "Clean vs. dirty MRFs",
+     "level": 1
+    },
+    {
+     "text": "The role of transfer stations",
+     "level": 1
+    },
+    {
+     "text": "The science and practice of composting",
+     "level": 0
+    },
+    {
+     "text": "Open windrow composting",
+     "level": 1
+    },
+    {
+     "text": "In-Vessel Composting (IVC), including IVC for food waste",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Waste Recovery",
+   "items": [
+    {
+     "text": "Anaerobic Digestion (AD): Old science with new opportunities",
+     "level": 0
+    },
+    {
+     "text": "Overview of AD and its applications",
+     "level": 1
+    },
+    {
+     "text": "AD for food waste management and energy generation",
+     "level": 1
+    },
+    {
+     "text": "Best practices for managing food waste",
+     "level": 1
+    },
+    {
+     "text": "Energy from Waste (EfW) Incineration",
+     "level": 0
+    },
+    {
+     "text": "Best practices in EfW for municipal waste",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "title": "Waste Disposal on Land",
+   "items": [
+    {
+     "text": "Landfill hazards and risks",
+     "level": 0
+    },
+    {
+     "text": "Sustainable landfill principles and engineering considerations",
+     "level": 0
+    },
+    {
+     "text": "Regional influences on landfill practices, including climate and geological factors",
+     "level": 0
+    },
+    {
+     "text": "Co-disposal landfill methods",
+     "level": 0
+    },
+    {
+     "text": "Long-term waste storage",
+     "level": 0
+    },
+    {
+     "text": "Future trends in waste management (including potential commercial opportunities)",
+     "level": 0
+    }
+   ]
+  },
+  {
+   "title": "Course Summary",
+   "items": [
+    {
+     "text": "A comprehensive review of course content",
+     "level": 0
+    },
+    {
+     "text": "Insights into the future of waste management",
+     "level": 0
+    }
+   ]
+  }
+ ]
+}
