@@ -43,22 +43,25 @@
   <h1>Every CompuBase course, by category.</h1><p class="lead">Every course runs Monday to Friday in Abu Dhabi, with morning and evening groups.</p></div>
 </div></section>
 @use('App\Support\Catalog')
-<section class="section" style="padding-bottom:0"><div class="container">
-  <div class="eyebrow">Categories</div>
-  <nav class="filter-tabs cat-nav">@foreach (Catalog::categories() as $cat => $category)<a href="#{{ $cat }}" data-scroll="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</a>@endforeach</nav>
-</div></section>
-@foreach (Catalog::categories() as $cat => $category)
-<section class="section featured" id="{{ $cat }}"><div class="container">
-  <div class="eyebrow">{{ count($category['courses']) }} courses</div>
-  <h2>{{ $category['en'] }}</h2>
+<section class="section featured catalog" id="catalog" data-per-page="12" data-initial="{{ request('go') }}"
+  data-showing="Showing {from}–{to} of {total} courses"><div class="container">
+  <nav class="filter-tabs cat-filter" aria-label="Browse courses by category">
+    <button type="button" class="active" data-cat="all">All courses · {{ count(Catalog::courses()) }}</button>
+    @foreach (Catalog::categories() as $cat => $category)<button type="button" data-cat="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</button>@endforeach
+  </nav>
+  <p class="catalog-count" aria-live="polite"></p>
   <div class="course-grid">
-  @foreach ($category['courses'] as $course)
+  @foreach (Catalog::courses() as $course)
     @include('partials.course-card')
   @endforeach
   </div>
-  @if ($loop->last)<p class="foot">Not sure which fits? Call an advisor on <a href="tel:0506399915">050 6399915</a></p>@endif
+  <nav class="pager" aria-label="Course pages" hidden>
+    <button type="button" class="pager-prev">← Previous</button>
+    <span class="pager-pages"></span>
+    <button type="button" class="pager-next">Next →</button>
+  </nav>
+  <p class="foot">Not sure which fits? Call an advisor on <a href="tel:0506399915">050 6399915</a></p>
 </div></section>
-@endforeach
 <section class="closing"><div class="container">
   <div><h2>Registration is now open.</h2><p>Morning and evening classes are available.</p></div>
   <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Register now</a><a class="btn btn-outline" href="https://wa.me/9710506399915">WhatsApp</a></div>

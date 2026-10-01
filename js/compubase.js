@@ -143,3 +143,55 @@ document.querySelectorAll('[data-scroll]').forEach(a=>{
   scrollSec(a.dataset.scroll);
  });
 });
+
+/* ---------------- All Courses and Schedule: category filter and pagination ---------------- */
+document.querySelectorAll('.catalog').forEach(box=>{
+ const perPage=+box.dataset.perPage||12;
+ const cards=[...box.querySelectorAll('.course-grid>.course-card,.sched tbody>tr')];
+ const chips=[...box.querySelectorAll('.cat-filter [data-cat]')];
+ const pager=box.querySelector('.pager'), pages=box.querySelector('.pager-pages');
+ const prev=box.querySelector('.pager-prev'), next=box.querySelector('.pager-next');
+ const count=box.querySelector('.catalog-count');
+ const params=new URLSearchParams(location.search);
+ let cat=params.get('category')||box.dataset.initial||'all', page=+params.get('page')||1;
+ if(!chips.some(c=>c.dataset.cat===cat)) cat='all';
+
+ function pageList(total){
+  // Every page when there are few, otherwise the first, the last and two either side of the current one.
+  if(total<=7) return Array.from({length:total},(_,i)=>i+1);
+  const out=[1], from=Math.max(2,page-2), to=Math.min(total-1,page+2);
+  if(from>2) out.push('…');
+  for(let i=from;i<=to;i++) out.push(i);
+  if(to<total-1) out.push('…');
+  out.push(total);
+  return out;
+ }
+ function render(scroll){
+  const list=cards.filter(c=>cat==='all'||c.dataset.cats.split(' ').includes(cat));
+  const total=Math.max(1,Math.ceil(list.length/perPage));
+  page=Math.min(Math.max(1,page),total);
+  const start=(page-1)*perPage, shown=list.slice(start,start+perPage);
+  cards.forEach(c=>c.style.display=shown.includes(c)?'':'none');
+  chips.forEach(c=>{const on=c.dataset.cat===cat;c.classList.toggle('active',on);c.setAttribute('aria-pressed',on)});
+  count.textContent=box.dataset.showing.replace('{from}',list.length?start+1:0).replace('{to}',start+shown.length).replace('{total}',list.length);
+  pager.hidden=total<2;
+  prev.disabled=page===1; next.disabled=page===total;
+  pages.innerHTML='';
+  pageList(total).forEach(n=>{
+   if(n==='…'){pages.insertAdjacentHTML('beforeend','<span class="pager-gap">…</span>');return;}
+   const b=document.createElement('button');b.type='button';b.textContent=n;
+   if(n===page){b.className='current';b.setAttribute('aria-current','page');}
+   b.onclick=()=>{page=n;render(true)};
+   pages.appendChild(b);
+  });
+  const q=new URLSearchParams();
+  if(cat!=='all') q.set('category',cat);
+  if(page>1) q.set('page',page);
+  history.replaceState(null,'',location.pathname+(q.toString()?'?'+q:''));
+  if(scroll) box.scrollIntoView({behavior:'smooth',block:'start'});
+ }
+ chips.forEach(c=>c.addEventListener('click',()=>{cat=c.dataset.cat;page=1;render(false)}));
+ prev.addEventListener('click',()=>{page--;render(true)});
+ next.addEventListener('click',()=>{page++;render(true)});
+ render(cat!=='all'||page>1);
+});

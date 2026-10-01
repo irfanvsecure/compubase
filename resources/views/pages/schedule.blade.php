@@ -44,23 +44,34 @@
  <h1>Every start date, in one table.</h1>
  <p class="lead">Confirmed intakes at the Abu Dhabi centre for every course. If a date does not suit you, tell us your preferred week and we will place you in the next group.</p></div>
 </div></section>
-<section class="section schedule"><div class="container">
+@use('App\Support\Catalog')
+<section class="section schedule catalog" id="catalog" data-per-page="10" data-initial="{{ request('go') }}"
+  data-showing="Showing {from}–{to} of {total} courses"><div class="container">
  <div class="sched-head">
   <div><div class="eyebrow">All courses</div><h2>Next confirmed groups.</h2></div>
   <a class="btn btn-outline" href="{{ route('contact') }}">⤓ Get the calendar by email</a>
  </div>
+ <nav class="filter-tabs cat-filter" aria-label="Browse the schedule by category">
+  <button type="button" class="active" data-cat="all">All courses · {{ count(Catalog::courses()) }}</button>
+  @foreach (Catalog::categories() as $cat => $category)<button type="button" data-cat="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</button>@endforeach
+ </nav>
+ <p class="catalog-count" aria-live="polite"></p>
  <div class="table-wrap">
   <table class="sched">
    <caption>Monday to Friday · Abu Dhabi centre</caption>
    <thead><tr><th>Course</th><th>Category</th><th>Duration</th><th>Timing</th><th>Starts</th><th>Seat</th></tr></thead>
    <tbody>
-@use('App\Support\Catalog')
 @foreach (Catalog::courses() as $course)
-<tr><td><b style="color:var(--navy)"><a href="{{ Catalog::url($course) }}" style="color:var(--navy)">{{ $course['en'] }}</a></b></td><td>{{ $course['catEn'] }}</td><td>{{ Catalog::duration($course['days']) }}</td><td>Morning or evening</td><td>2026 &amp; 2027</td><td><a href="{{ route('contact') }}">Register</a></td></tr>
+<tr data-cats="{{ implode(' ', $course['cats']) }}"><td><b style="color:var(--navy)"><a href="{{ Catalog::url($course) }}" style="color:var(--navy)">{{ $course['en'] }}</a></b></td><td>{{ $course['catEn'] }}</td><td>{{ Catalog::duration($course['days']) }}</td><td>Morning or evening</td><td>2026 &amp; 2027</td><td><a href="{{ route('contact') }}">Register</a></td></tr>
 @endforeach
    </tbody>
   </table>
  </div>
+ <nav class="pager" aria-label="Schedule pages" hidden>
+  <button type="button" class="pager-prev">← Previous</button>
+  <span class="pager-pages"></span>
+  <button type="button" class="pager-next">Next →</button>
+ </nav>
  <p class="sched-note">All groups run Monday to Friday at the Abu Dhabi centre. Start dates to be confirmed — call <a href="tel:0506399915" style="font-weight:700;text-decoration:underline">050 6399915</a> for the nearest intake.</p>
 </div></section>
 <section class="closing"><div class="container">

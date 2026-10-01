@@ -49,23 +49,34 @@
  <h1>جميع مواعيد البدء في جدول واحد.</h1>
  <p class="lead">دفعات مؤكدة في مقر أبوظبي لجميع الدورات. إن لم يناسبك موعد، أخبرنا بالأسبوع الذي تفضّله وسنضمّك إلى المجموعة التالية.</p></div>
 </div></section>
-<section class="section schedule"><div class="container">
+@use('App\Support\Catalog')
+<section class="section schedule catalog" id="catalog" data-per-page="10" data-initial="{{ request('go') }}"
+  data-showing="عرض {from}–{to} من {total} دورة"><div class="container">
  <div class="sched-head">
   <div><div class="eyebrow">جميع الدورات</div><h2>المجموعات المؤكدة القادمة.</h2></div>
   <a class="btn btn-outline" href="{{ route('contact-ar') }}">⤓ استلم التقويم بالبريد</a>
  </div>
+ <nav class="filter-tabs cat-filter" aria-label="تصفّح الجدول حسب الفئة">
+  <button type="button" class="active" data-cat="all">جميع الدورات · {{ count(Catalog::courses()) }}</button>
+  @foreach (Catalog::categories() as $cat => $category)<button type="button" data-cat="{{ $cat }}">{{ $category['ar'] }} · {{ count($category['courses']) }}</button>@endforeach
+ </nav>
+ <p class="catalog-count" aria-live="polite"></p>
  <div class="table-wrap">
   <table class="sched">
    <caption>من الاثنين إلى الجمعة · مقر أبوظبي</caption>
    <thead><tr><th>الدورة</th><th>الفئة</th><th>المدة</th><th>التوقيت</th><th>تبدأ في</th><th>المقعد</th></tr></thead>
    <tbody>
-@use('App\Support\Catalog')
 @foreach (Catalog::courses() as $course)
-<tr><td><b style="color:var(--navy)"><a href="{{ Catalog::url($course, true) }}" style="color:var(--navy)">{{ $course['ar'] }}</a></b></td><td>{{ $course['catAr'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td><td>صباحي أو مسائي</td><td>2026 و2027</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
+<tr data-cats="{{ implode(' ', $course['cats']) }}"><td><b style="color:var(--navy)"><a href="{{ Catalog::url($course, true) }}" style="color:var(--navy)">{{ $course['ar'] }}</a></b></td><td>{{ $course['catAr'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td><td>صباحي أو مسائي</td><td>2026 و2027</td><td><a href="{{ route('contact-ar') }}">سجّل</a></td></tr>
 @endforeach
    </tbody>
   </table>
  </div>
+ <nav class="pager" aria-label="صفحات الجدول" hidden>
+  <button type="button" class="pager-prev">→ السابق</button>
+  <span class="pager-pages"></span>
+  <button type="button" class="pager-next">التالي ←</button>
+ </nav>
  <p class="sched-note">تُعقد جميع المجموعات من الاثنين إلى الجمعة في مقر أبوظبي. تُؤكَّد المواعيد لاحقاً — اتصل على <a href="tel:0506399915" style="font-weight:700;text-decoration:underline">050 6399915</a> لأقرب دفعة.</p>
 </div></section>
 <section class="closing"><div class="container">

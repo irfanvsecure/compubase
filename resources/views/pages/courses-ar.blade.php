@@ -51,22 +51,25 @@
 </div></section>
 
 @use('App\Support\Catalog')
-<section class="section" style="padding-bottom:0"><div class="container">
-  <div class="eyebrow">الفئات</div>
-  <nav class="filter-tabs cat-nav">@foreach (Catalog::categories() as $cat => $category)<a href="#{{ $cat }}" data-scroll="{{ $cat }}">{{ $category['ar'] }} · {{ count($category['courses']) }}</a>@endforeach</nav>
-</div></section>
-@foreach (Catalog::categories() as $cat => $category)
-<section class="section featured" id="{{ $cat }}"><div class="container">
-  <div class="eyebrow">{{ count($category['courses']) }} دورة</div>
-  <h2>{{ $category['ar'] }}</h2>
+<section class="section featured catalog" id="catalog" data-per-page="12" data-initial="{{ request('go') }}"
+  data-showing="عرض {from}–{to} من {total} دورة"><div class="container">
+  <nav class="filter-tabs cat-filter" aria-label="تصفّح الدورات حسب الفئة">
+    <button type="button" class="active" data-cat="all">جميع الدورات · {{ count(Catalog::courses()) }}</button>
+    @foreach (Catalog::categories() as $cat => $category)<button type="button" data-cat="{{ $cat }}">{{ $category['ar'] }} · {{ count($category['courses']) }}</button>@endforeach
+  </nav>
+  <p class="catalog-count" aria-live="polite"></p>
   <div class="course-grid">
-  @foreach ($category['courses'] as $course)
+  @foreach (Catalog::courses() as $course)
     @include('partials.course-card', ['ar' => true])
   @endforeach
   </div>
-  @if ($loop->last)<p class="foot">لست متأكداً أي دورة تناسبك؟ اتصل بمستشار التدريب على <a href="tel:0506399915">050 6399915</a></p>@endif
+  <nav class="pager" aria-label="صفحات الدورات" hidden>
+    <button type="button" class="pager-prev">→ السابق</button>
+    <span class="pager-pages"></span>
+    <button type="button" class="pager-next">التالي ←</button>
+  </nav>
+  <p class="foot">لست متأكداً أيّ دورة تناسبك؟ اتصل بمستشار التدريب على <a href="tel:0506399915">050 6399915</a></p>
 </div></section>
-@endforeach
 
 <section class="closing"><div class="container">
   <div><h2>التسجيل مفتوح الآن.</h2><p>حصص صباحية ومسائية متاحة.</p></div>

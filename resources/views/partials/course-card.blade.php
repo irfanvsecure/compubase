@@ -1,11 +1,11 @@
 @use('App\Support\Catalog')
 @if ($ar ?? false)
-  <div class="course-card"><div class="head"><span class="tag">{{ $course['catAr'] }}</span><h3>{{ $course['ar'] }}</h3></div>
+  <div class="course-card" data-cats="{{ implode(' ', $course['cats']) }}"><div class="head"><span class="tag">{{ $course['catAr'] }}</span><h3>{{ $course['ar'] }}</h3></div>
     <div class="body"><p>{{ Catalog::summary($course, true) ?? '[ملخص الدورة من مخطط دورات كمبيوبيس.]' }}</p>
       <div class="meta"><div><span>المدة</span><b>{{ Catalog::duration($course['days'], true) }}</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">2026 و2027</b></div></div>
       <a class="btn btn-outline" href="{{ Catalog::url($course, true) }}">تفاصيل الدورة والرسوم ←</a></div></div>
 @else
-  <div class="course-card">
+  <div class="course-card" data-cats="{{ implode(' ', $course['cats']) }}">
     <div class="head"><span class="tag">{{ $course['catEn'] }}</span><h3>{{ $course['en'] }}</h3></div>
     <div class="body"><p>{{ Catalog::summary($course) ?? '[Course summary from the CompuBase course outline.]' }}</p>
       <div class="meta">
