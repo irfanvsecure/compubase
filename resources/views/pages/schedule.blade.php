@@ -56,7 +56,7 @@
    <tbody>
 @use('App\Support\Catalog')
 @foreach (Catalog::courses() as $course)
-<tr><td><b style="color:var(--navy)"><a href="{{ Catalog::url($course) }}" style="color:var(--navy)">{{ $course['en'] }}</a></b></td><td>{{ $course['catEn'] }}</td><td>{{ Catalog::duration($course['days']) }}</td><td>Morning or evening</td><td>[DATE]</td><td><a href="{{ route('contact') }}">Register</a></td></tr>
+<tr><td><b style="color:var(--navy)"><a href="{{ Catalog::url($course) }}" style="color:var(--navy)">{{ $course['en'] }}</a></b></td><td>{{ $course['catEn'] }}</td><td>{{ Catalog::duration($course['days']) }}</td><td>Morning or evening</td><td>2026 &amp; 2027</td><td><a href="{{ route('contact') }}">Register</a></td></tr>
 @endforeach
    </tbody>
   </table>

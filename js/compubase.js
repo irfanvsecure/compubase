@@ -26,7 +26,7 @@ function renderGrid(filter){
           <div><span>Duration</span><b>${c.dur}</b></div>
           <div><span>Timing</span><b>Morning or evening</b></div>
           <div><span>Days</span><b>Monday to Friday</b></div>
-          <div><span>Next start</span><b style="color:var(--gold-ink)">[START DATE]</b></div>
+          <div><span>Next start</span><b style="color:var(--gold-ink)">2026 &amp; 2027</b></div>
         </div>
         <a class="btn btn-outline" href="${c.url}">Course details and fees →</a>
       </div>
@@ -47,7 +47,7 @@ const schedBody=document.getElementById('schedBody');
 if(schedBody){
 COURSES.slice(0,8).forEach(c=>{
   schedBody.insertAdjacentHTML('beforeend',
-   `<tr><td><b style="color:var(--navy)">${esc(c.title)}</b></td><td>${esc(c.catName)}</td><td>${c.dur}</td><td>Morning or evening</td><td>[DATE]</td><td><a href="${c.url}">Register</a></td></tr>`);
+   `<tr><td><b style="color:var(--navy)">${esc(c.title)}</b></td><td>${esc(c.catName)}</td><td>${c.dur}</td><td>Morning or evening</td><td>2026 &amp; 2027</td><td><a href="${c.url}">Register</a></td></tr>`);
 });}
 
 /* ---------------- Populate select lists ---------------- */

@@ -67,7 +67,7 @@
     </div>
     <div class="booking">
       <div class="eyebrow">المجموعة القادمة</div>
-      <div class="date">[تاريخ البدء]</div>
+      <div class="date">2026 و2027</div>
       <dl>
         <div><dt>رسوم الدورة</dt><dd>[X,XXX درهم]</dd></div>
         <div><dt>المدة</dt><dd>{{ $duration }}</dd></div>

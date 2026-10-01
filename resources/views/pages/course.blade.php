@@ -63,7 +63,7 @@
     </div>
     <div class="booking">
       <div class="eyebrow">Next group</div>
-      <div class="date">[START DATE]</div>
+      <div class="date">2026 &amp; 2027</div>
       <dl>
         <div><dt>Course fee</dt><dd>[AED X,XXX]</dd></div>
         <div><dt>Duration</dt><dd>{{ $duration }}</dd></div>

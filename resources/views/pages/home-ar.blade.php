@@ -155,7 +155,7 @@
         <thead><tr><th>الدورة</th><th>الفئة</th><th>المدة</th><th>التوقيت</th><th>تبدأ في</th><th>المقعد</th></tr></thead>
         <tbody>
           @foreach (array_slice(Catalog::courses(), 0, 8) as $course)
-          <tr><td><b style="color:var(--navy)">{{ $course['ar'] }}</b></td><td>{{ $course['catAr'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td><td>صباحي أو مسائي</td><td>[التاريخ]</td><td><a href="{{ Catalog::url($course, true) }}">سجّل</a></td></tr>
+          <tr><td><b style="color:var(--navy)">{{ $course['ar'] }}</b></td><td>{{ $course['catAr'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td><td>صباحي أو مسائي</td><td>2026 و2027</td><td><a href="{{ Catalog::url($course, true) }}">سجّل</a></td></tr>
           @endforeach
         </tbody>
       </table>
