@@ -276,7 +276,6 @@ footer.site{background:var(--navy-deep);color:rgba(255,255,255,.8);padding:64px 
 .course-hero{background:var(--navy);color:#fff;padding:64px 0}
 .course-hero .container{display:grid;grid-template-columns:1fr 360px;gap:56px;align-items:start}
 .course-hero h1{color:#fff;font-size:44px;line-height:1.15;margin:14px 0 6px}
-.course-hero .ar{color:var(--gold-light);font-size:17px;margin-bottom:16px}
 .course-hero p.lead{color:rgba(255,255,255,.85);max-width:600px}
 .hero-meta{display:grid;grid-template-columns:repeat(4,auto);gap:14px 40px;margin-top:30px;font-size:15px}
 .hero-meta div span{display:block;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-light);font-weight:700}

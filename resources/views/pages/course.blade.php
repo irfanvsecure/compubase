@@ -53,7 +53,6 @@
     <div>
       <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:5px 12px">{{ $course['catEn'] }}</span>
       <h1>{{ $title }}</h1>
-      <p class="ar">{{ $course['ar'] }}</p>
       <p class="lead">{{ $content ? preg_split('/(?<=\.)\s/', $content['overview'][0], 2)[0] : '[Course summary from the CompuBase course outline.]' }}</p>
       <div class="hero-meta">
         <div><span>Duration</span><b>{{ $duration }}</b></div>
