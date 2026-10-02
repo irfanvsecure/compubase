@@ -1,9 +1,28 @@
 <?php
 
+use App\Http\Controllers\Auth\LoginController;
+use App\Http\Controllers\BlogController;
+use App\Http\Controllers\SeoController;
 use App\Support\Catalog;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/home', fn () => redirect()->route('home'));
+
+// Admin sign-in, needed when Claude asks for access through OAuth.
+Route::get('/login', [LoginController::class, 'show'])->middleware('guest')->name('login');
+Route::post('/login', [LoginController::class, 'login'])->middleware(['guest', 'throttle:5,1']);
+Route::post('/logout', [LoginController::class, 'logout'])->middleware('auth')->name('logout');
+
+// Built from the database and the site settings.
+Route::get('/sitemap.xml', [SeoController::class, 'sitemap'])->name('sitemap');
+Route::get('/robots.txt', [SeoController::class, 'robots'])->name('robots');
+
+// Blog: /blog and /ar/blog. Drafts open only through a signed preview link.
+Route::get('/blog', [BlogController::class, 'index'])->name('blog');
+Route::get('/blog/{slug}', [BlogController::class, 'show'])->name('blog.post');
+Route::get('/ar/blog', fn () => app(BlogController::class)->index('ar'))->name('blog-ar');
+Route::get('/ar/blog/{slug}', fn (string $slug) => app(BlogController::class)->show($slug, 'ar'))->name('blog-ar.post');
+Route::get('/blog-preview/{post}', [BlogController::class, 'preview'])->middleware('signed')->name('blog.preview');
 
 // English pages
 Route::view('/', 'pages.home')->name('home');

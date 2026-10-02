@@ -16,6 +16,7 @@
 @section('page', 'course')
 @section('title', $title.' — CompuBase Training Center, Abu Dhabi')
 @section('description', $title.', a '.$duration.' course in '.$course['catEn'].' at CompuBase Training Center, Abu Dhabi.')
+@section('og_image', $photo ?? '')
 
 @section('content')
 <div class="page active" id="pg-course" lang="en">

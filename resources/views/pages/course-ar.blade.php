@@ -17,6 +17,7 @@
 @section('title', $title.' — مركز كمبيوبيس للتدريب، أبوظبي')
 @section('lang', 'ar')
 @section('description', $title.'، دورة مدتها '.$duration.' ضمن '.$course['catAr'].' في مركز كمبيوبيس للتدريب، أبوظبي.')
+@section('og_image', $photo ?? '')
 
 @section('content')
 <div class="page active" id="pg-course-ar" dir="rtl" lang="ar">

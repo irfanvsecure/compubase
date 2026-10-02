@@ -22,3 +22,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Images uploaded through the MCP server live only on the server.
+/uploads/*
+!/uploads/.htaccess
