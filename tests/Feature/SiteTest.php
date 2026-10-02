@@ -84,6 +84,18 @@ class SiteTest extends TestCase
         $this->get('/robots.txt')->assertOk()->assertSee('User-agent: *')->assertSee('Sitemap: '.url('sitemap.xml'));
     }
 
+    public function test_old_wordpress_addresses_move_to_their_new_pages(): void
+    {
+        $this->get('/creative-thinking-and-innovation-techniques/')->assertStatus(301)->assertRedirect(url('/course/creative-thinking-and-innovation-techniques'));
+        $this->get('/communication-business-writing-skills/')->assertStatus(301)->assertRedirect(url('/courses?go=communication-and-business-writing-skills'));
+        $this->get('/shaping-the-future-for-a-strategic-foresight/')->assertStatus(301)->assertRedirect(url('/course/shaping-the-future-for-a-strategic-foresight'));
+        $this->get('/happiness-positivity-in-workplace/')->assertStatus(301)->assertRedirect(url('/course/happiness-and-positivity-in-workplace'));
+
+        foreach (['creative-thinking-and-innovation-techniques', 'shaping-the-future-for-a-strategic-foresight', 'happiness-and-positivity-in-workplace'] as $slug) {
+            $this->get("/course/{$slug}")->assertOk();
+        }
+    }
+
     public function test_saved_redirects_replace_not_found(): void
     {
         Redirect::point('/course/old-name', '/course/emotional-intelligence');

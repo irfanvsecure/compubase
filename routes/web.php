@@ -54,6 +54,16 @@ foreach (['pmp', 'cia', 'cma', 'cisa', 'ceh', 'cyber', 'ai', 'prompt', 'english'
     Route::get("/ar/{$old}", fn () => redirect()->route('courses-ar', [], 301));
 }
 
+// Addresses from the old WordPress site at compubasetraining.ae that now live elsewhere.
+foreach ([
+    'creative-thinking-and-innovation-techniques' => '/course/creative-thinking-and-innovation-techniques',
+    'communication-business-writing-skills' => '/courses?go=communication-and-business-writing-skills',
+    'shaping-the-future-for-a-strategic-foresight' => '/course/shaping-the-future-for-a-strategic-foresight',
+    'happiness-positivity-in-workplace' => '/course/happiness-and-positivity-in-workplace',
+] as $old => $new) {
+    Route::get("/{$old}", fn () => redirect($new, 301));
+}
+
 // Course pages: /course/{course} and /ar/course/{course}.
 $coursePage = function (string $view, string $course) {
     $found = Catalog::find($course);
