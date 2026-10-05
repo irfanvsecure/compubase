@@ -153,7 +153,7 @@ class McpServerTest extends TestCase
         $this->tool(Tools\CreateCategory::class, ['slug' => 'data-science', 'name_en' => 'Data Science', 'name_ar' => 'علم البيانات', 'group' => 'it'])->assertOk();
         $this->tool(Tools\UpdateCategory::class, ['slug' => 'data-science', 'courses' => ['emotional-intelligence', 'critical-thinking']])->assertOk();
         $this->assertSame(['emotional-intelligence', 'critical-thinking'], array_keys(Catalog::categories()['data-science']['courses']));
-        $this->get('/courses')->assertSee('Data Science · 2');
+        $this->get('/courses')->assertSee('data-cat="data-science" data-g="it">Data Science <span>2</span>', false);
 
         $this->tool(Tools\CreateCategory::class, ['slug' => 'lonely', 'name_en' => 'Lonely', 'name_ar' => 'x', 'group' => 'it'])->assertOk();
         $this->tool(Tools\CreateCourse::class, ['slug' => 'only-here', 'title_en' => 'Only', 'title_ar' => 'x', 'days' => 1, 'categories' => ['lonely']])->assertOk();
