@@ -45,6 +45,8 @@
 <section class="section"><div class="container">
   <div class="eyebrow">Who we are</div>
   <h2>Classroom training, done properly.</h2>
+  <div class="about-intro">
+    <div>
   <div style="max-width:760px">
 @use('App\Support\Catalog')
     <p>CompuBase Training Center — Innovative Training Solutions — is a professional training institute in Abu Dhabi, United Arab Emirates. We deliver {{ count(Catalog::courses()) }} scheduled courses in {{ count(Catalog::categories()) }} categories of management and IT training, from personal development, leadership and finance to cyber security, cloud computing and artificial intelligence.</p>
@@ -52,6 +54,9 @@
     <p>[Add: founding year, licence details, and two or three sentences of the centre's own history — to be supplied by CompuBase before publication.]</p>
   </div>
   <div class="placeholder-note" style="max-width:760px">[History, founding year, and team details to be confirmed with the client before this page goes live.]</div>
+    </div>
+    <figure class="about-photo"><img src="{{ url('uploads/2026/10/iso-9001-foundation-pdca-training-ty23la.jpg') }}" alt="Trainer teaching a classroom group at CompuBase Training Center, Abu Dhabi" loading="lazy"></figure>
+  </div>
 </div></section>
 <section class="accred"><div class="container" style="text-align:center">
   <div class="eyebrow">Accredited and recognised by</div>
@@ -66,7 +71,7 @@
     <div class="why-item"><h3>Classroom, not a video library</h3><p>Small groups in a real room, where a question gets answered the moment it comes up.</p></div>
     <div class="why-item"><h3>Straight answers on fit</h3><p>If a course is not right for your level or your goal, an advisor will say so before you pay.</p></div>
   </div>
-  <div class="steps-photo"><div class="photo-frame">📷 &nbsp;Photograph goes here: the CompuBase training rooms, faculty, or reception at the Abu Dhabi centre.</div></div>
+  <div class="steps-photo"><img src="{{ url('uploads/2026/10/certified-python-developer-aa7rim.jpg') }}" alt="Learners practising hands-on with their instructor in a CompuBase training room" loading="lazy"></div>
 </div></section>
 <section class="closing"><div class="container">
   <div><h2>Come and see the centre.</h2><p>CompuBase Training Center, Abu Dhabi. Call 02 677 1117 or WhatsApp 056 689 3378.</p></div>

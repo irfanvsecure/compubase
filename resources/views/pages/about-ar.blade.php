@@ -53,6 +53,8 @@
 <section class="section"><div class="container">
   <div class="eyebrow">من نحن</div>
   <h2>تدريب صفّي، كما ينبغي أن يكون.</h2>
+  <div class="about-intro">
+    <div>
   <div style="max-width:760px">
 @use('App\Support\Catalog')
     <p>مركز كمبيوبيس للتدريب — حلول تدريبية مبتكرة — معهد تدريب مهني في أبوظبي، الإمارات العربية المتحدة. نقدّم {{ count(Catalog::courses()) }} دورة مجدولة في {{ count(Catalog::categories()) }} فئة من الدورات الإدارية ودورات تقنية المعلومات، من تطوير الذات والقيادة والمالية إلى الأمن السيبراني والحوسبة السحابية والذكاء الاصطناعي.</p>
@@ -60,6 +62,9 @@
     <p>[يُضاف هنا: سنة التأسيس، وتفاصيل الترخيص، وجملتان أو ثلاث من تاريخ المركز — تُزوَّد من كمبيوبيس قبل النشر.]</p>
   </div>
   <div class="placeholder-note" style="max-width:760px">[تفاصيل التاريخ وسنة التأسيس والفريق تُؤكَّد مع العميل قبل نشر هذه الصفحة.]</div>
+    </div>
+    <figure class="about-photo"><img src="{{ url('uploads/2026/10/iso-9001-foundation-pdca-training-ty23la.jpg') }}" alt="مدرّب يقدّم حصة صفية لمجموعة من المتدربين في مركز كمبيوبيس للتدريب، أبوظبي" loading="lazy"></figure>
+  </div>
 </div></section>
 
 <section class="accred"><div class="container" style="text-align:center">
@@ -76,7 +81,7 @@
     <div class="why-item"><h3>قاعة حقيقية، لا مكتبة فيديو</h3><p>مجموعات صغيرة في قاعة فعلية، حيث يُجاب عن سؤالك لحظة طرحه.</p></div>
     <div class="why-item"><h3>إجابات صريحة حول الملاءمة</h3><p>إن لم تكن الدورة مناسبة لمستواك أو هدفك، سيخبرك المستشار بذلك قبل الدفع.</p></div>
   </div>
-  <div class="steps-photo"><div class="photo-frame">📷 &nbsp;مكان الصورة: قاعات التدريب أو الكادر التدريبي أو الاستقبال في مقر أبوظبي.</div></div>
+  <div class="steps-photo"><img src="{{ url('uploads/2026/10/certified-python-developer-aa7rim.jpg') }}" alt="متدربون يتدرّبون عملياً مع مدرّبهم في إحدى قاعات كمبيوبيس" loading="lazy"></div>
 </div></section>
 
 <section class="section"><div class="container">
