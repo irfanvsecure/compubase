@@ -17,7 +17,7 @@
       <ul>
         <li><a href="{{ route('courses-ar') }}">الدورات</a></li>
         <li><a href="{{ route('home-ar', ['go' => 'corporate']) }}">التدريب المؤسسي</a></li>
-        <li><a href="{{ route('home-ar', ['go' => 'accreditation']) }}">الاعتمادات</a></li>
+        <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
         <li><a href="{{ route('schedule-ar') }}">جدول الدورات</a></li>
         <li><a href="{{ route('about-ar') }}">من نحن</a></li>
         <li><a href="{{ route('contact-ar') }}">اتصل بنا</a></li>
@@ -49,7 +49,7 @@
       <ul>
         <li><a href="{{ route('courses') }}">Courses</a></li>
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
-        <li><a href="{{ route('home', ['go' => 'accreditation']) }}">Accreditation</a></li>
+        <li><a href="{{ route('partners') }}">Partners</a></li>
         <li><a href="{{ route('schedule') }}">Schedule</a></li>
         <li><a href="{{ route('about') }}">About</a></li>
         <li><a href="{{ route('contact') }}">Contact</a></li>

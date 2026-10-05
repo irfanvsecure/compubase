@@ -39,7 +39,7 @@
       <ul>
         <li><a href="{{ route('courses') }}">Courses</a></li>
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
-        <li><a href="{{ route('home', ['go' => 'accreditation']) }}">Accreditation</a></li>
+        <li><a href="{{ route('partners') }}">Partners</a></li>
         <li><a href="{{ route('schedule') }}">Schedule</a></li>
         <li><a href="{{ route('about') }}">About</a></li>
         <li><a href="{{ route('contact') }}">Contact</a></li>

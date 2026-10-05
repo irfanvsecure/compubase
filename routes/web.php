@@ -31,6 +31,7 @@ Route::view('/contact', 'pages.contact')->name('contact');
 Route::view('/courses', 'pages.courses')->name('courses');
 Route::view('/schedule', 'pages.schedule')->name('schedule');
 Route::view('/corporate', 'pages.corporate')->name('corporate');
+Route::view('/partners', 'pages.partners', ['ar' => false])->name('partners');
 
 // Arabic pages, under /ar/
 Route::prefix('ar')->group(function () {
@@ -40,6 +41,7 @@ Route::prefix('ar')->group(function () {
     Route::view('/courses', 'pages.courses-ar')->name('courses-ar');
     Route::view('/schedule', 'pages.schedule-ar')->name('schedule-ar');
     Route::view('/corporate', 'pages.corporate-ar')->name('corporate-ar');
+    Route::view('/partners', 'pages.partners', ['ar' => true])->name('partners-ar');
 });
 
 // Old Arabic addresses (/home-ar, /about-ar, ...) move permanently to /ar/.

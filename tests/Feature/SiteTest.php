@@ -22,8 +22,8 @@ class SiteTest extends TestCase
 
     public function test_every_main_page_renders(): void
     {
-        foreach (['/', '/about', '/contact', '/courses', '/schedule', '/corporate', '/blog',
-            '/ar', '/ar/about', '/ar/contact', '/ar/courses', '/ar/schedule', '/ar/corporate', '/ar/blog'] as $path) {
+        foreach (['/', '/about', '/contact', '/courses', '/schedule', '/corporate', '/partners', '/blog',
+            '/ar', '/ar/about', '/ar/contact', '/ar/courses', '/ar/schedule', '/ar/corporate', '/ar/partners', '/ar/blog'] as $path) {
             $this->get($path)->assertOk();
         }
     }

@@ -26,7 +26,7 @@
       <ul>
         <li><a href="{{ route('home-ar', ['go' => 'courses']) }}">الدورات</a></li>
         <li><a href="{{ route('home-ar', ['go' => 'corporate']) }}">التدريب المؤسسي</a></li>
-        <li><a href="{{ route('home-ar', ['go' => 'accreditation']) }}">الاعتمادات</a></li>
+        <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
         <li><a href="{{ route('schedule-ar') }}">جدول الدورات</a></li>
         <li><a href="{{ route('about-ar') }}">من نحن</a></li>
         <li><a href="{{ route('contact-ar') }}">اتصل بنا</a></li>

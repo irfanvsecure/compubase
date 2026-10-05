@@ -11,8 +11,8 @@
         ? ['استكشف', [route('courses-ar') => 'جميع الدورات', route('schedule-ar') => 'جدول الدورات', route('corporate-ar') => 'التدريب المؤسسي', route('blog-ar') => 'المدونة']]
         : ['Explore', [route('courses') => 'All courses', route('schedule') => 'Schedule', route('corporate') => 'Corporate training', route('blog') => 'Blog']];
     $columns[] = $ar
-        ? ['عن المركز', [route('about-ar') => 'من نحن', route('contact-ar') => 'اتصل بنا', route('home-ar', ['go' => 'accreditation']) => 'الاعتمادات']]
-        : ['Company', [route('about') => 'About', route('contact') => 'Contact', route('home', ['go' => 'accreditation']) => 'Accreditation']];
+        ? ['عن المركز', [route('about-ar') => 'من نحن', route('contact-ar') => 'اتصل بنا', route('partners-ar') => 'شركاؤنا']]
+        : ['Company', [route('about') => 'About', route('contact') => 'Contact', route('partners') => 'Partners']];
 @endphp
 @foreach (array_slice($columns, 0, 3) as [$heading, $links])
       <div><h4>{{ $heading }}</h4><ul>
