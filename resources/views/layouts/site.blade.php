@@ -36,6 +36,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ asset('css/compubase.css') }}?v={{ filemtime(base_path('css/compubase.css')) }}">
+<script>
+// The design is laid out for a 1400px-wide screen. On wider screens (or a zoomed-out browser) scale the whole
+// page up by the same ratio, so it keeps the same proportions instead of shrinking into the middle.
+(function(){var BASE=1400,MAX=2.5,root=document.documentElement;
+function fit(){var w=window.innerWidth;root.style.zoom=w>BASE?Math.min(w/BASE,MAX).toFixed(4):''}
+fit();addEventListener('resize',fit);})();
+</script>
 </head>
 <body data-page="@yield('page', 'home')">
 @yield('content')
