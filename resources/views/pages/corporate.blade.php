@@ -61,17 +61,7 @@
   <div class="proposal" style="border:1px solid var(--line)">
     <h3>Request a training proposal</h3>
     <p class="sub">Six fields. An advisor replies with dates, format and a written quote.</p>
-    <form onsubmit="event.preventDefault();alert('Demo only — connect this form to your enquiry handler before launch.')">
-      <div class="field"><label>Full name</label><input placeholder="Your name" required></div>
-      <div class="field"><label>Organisation</label><input placeholder="Company name" required></div>
-      <div class="field"><label>Work email</label><input type="email" placeholder="name@company.ae" required></div>
-      <div class="field"><label>Mobile</label><input type="tel" placeholder="05X XXX XXXX" required></div>
-      <div class="field"><label>Course of interest</label><select><option>Select a course</option><option>PMP — Project Management Professional</option><option>CIA — Certified Internal Auditor</option><option>CMA — Certified Management Accountant</option><option>CISA — Information Systems Auditor</option><option>EC-Council Certified Ethical Hacker</option><option>Cyber Security Essentials</option><option>AI Essentials</option><option>Prompt Engineering</option><option>English Language</option><option>IELTS Preparation</option><option>Arabic for Non-Arabic Speakers</option><option>MS Office + Copilot</option></select></div>
-      <div class="field"><label>Team size</label><select><option>Select a range</option><option>2–5</option><option>6–15</option><option>16–30</option><option>30+</option></select></div>
-      <div class="field full"><label>What outcome are you aiming for? <span style="text-transform:none;font-weight:400">Optional</span></label><textarea placeholder="For example: twelve finance staff ready to sit the CMA exam before the end of the year."></textarea></div>
-      <div class="full"><button class="btn btn-navy" style="width:100%">Request the proposal</button>
-      <p class="privacy">We use these details to answer your enquiry only. See the <a href="#">privacy notice</a>.</p></div>
-    </form>
+    @include('partials.enquiry-form', ['type' => 'proposal'])
   </div>
 </div></section>
 <style>@media(max-width:1024px){#corpGrid{grid-template-columns:1fr!important}}</style>
@@ -95,7 +85,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> CompuBase Training Center. All rights reserved.</span>
-      <span><a href="#">Privacy notice</a><a href="#">Terms and refunds</a><a href="#">Sitemap</a><a href="{{ route('corporate-ar') }}">AR</a></span>
+      <span><a href="{{ route('privacy') }}">Privacy notice</a><a href="{{ route('terms') }}">Terms and refunds</a><a href="{{ url('sitemap.xml') }}">Sitemap</a><a href="{{ route('corporate-ar') }}">AR</a></span>
     </div>
   </div>
 </footer>

@@ -172,18 +172,7 @@
     <div class="proposal">
       <h3>اطلب عرضاً تدريبياً</h3>
       <p class="sub">ستة حقول فقط. يردّ عليك مستشار التدريب بالمواعيد والصيغة وعرض سعر مكتوب.</p>
-      <form onsubmit="event.preventDefault();alert('نموذج تجريبي — يُربط بنظام الاستفسارات قبل الإطلاق.')">
-        <div class="field"><label>الاسم الكامل</label><input placeholder="اسمك" required></div>
-        <div class="field"><label>المنشأة</label><input placeholder="اسم الشركة" required></div>
-        <div class="field"><label>البريد الإلكتروني للعمل</label><input type="email" placeholder="name@company.ae" required></div>
-        <div class="field"><label>رقم الجوال</label><input type="tel" placeholder="05X XXX XXXX" required></div>
-        <div class="field"><label>الدورة المطلوبة</label><select><option>اختر دورة</option><option>شهادة إدارة المشاريع الاحترافية</option><option>شهادة المدقق الداخلي المعتمد</option><option>شهادة المحاسب الإداري المعتمد</option><option>شهادة مدقق نظم المعلومات المعتمد</option><option>شهادة الاختراق الأخلاقي المعتمدة</option><option>أساسيات الأمن السيبراني</option><option>أساسيات الذكاء الاصطناعي</option><option>هندسة الأوامر النصية</option><option>دورة اللغة الإنجليزية</option><option>دورة التحضير لامتحان الآيلتس</option><option>اللغة العربية لغير الناطقين بها</option><option>مايكروسوفت أوفيس وكوبايلوت</option></select></div>
-        <div class="field"><label>حجم الفريق</label><select><option>اختر النطاق</option><option>2–5</option><option>6–15</option><option>16–30</option><option>أكثر من 30</option></select></div>
-        <div class="field full"><label>ما الهدف الذي تسعون إليه؟ <span style="text-transform:none;font-weight:400">اختياري</span></label>
-          <textarea placeholder="مثال: اثنا عشر موظفاً مالياً جاهزون لامتحان المحاسب الإداري قبل نهاية العام."></textarea></div>
-        <div class="full"><button class="btn btn-navy" style="width:100%">اطلب العرض</button>
-          <p class="privacy">نستخدم هذه البيانات للرد على استفسارك فقط. راجع <a href="#">سياسة الخصوصية</a>.</p></div>
-      </form>
+      @include('partials.enquiry-form', ['type' => 'proposal', 'ar' => true])
     </div>
   </div>
 </section>
@@ -198,7 +187,7 @@
       <div class="step"><div class="eyebrow">الخطوة 02</div><h3>أكّد مقعدك</h3><p>أكمل نموذج التسجيل وسدّد الرسوم. تصلك رسالة تأكيد مكتوبة بالمكان وتاريخ البدء والتوقيت اليومي.</p></div>
       <div class="step"><div class="eyebrow">الخطوة 03</div><h3>احضر واحصل على شهادتك</h3><p>تدرّب من الاثنين إلى الجمعة في مجموعتك، ثم استلم شهادة الإتمام من كمبيوبيس مع إرشادات الامتحان إن كانت الدورة تؤدي إليه.</p></div>
     </div>
-    <div class="steps-photo"><img src="{{ url('uploads/2026/10/azure-fundamentals-cloud-concepts-class-bevdhj.jpg') }}" alt="مدرّب يشرح المفاهيم على السبورة لمتدربي كمبيوبيس" loading="lazy"></div>
+    @include('partials.class-feature', ['ar' => true])
   </div>
 </section>
 
@@ -257,14 +246,11 @@
           @endforeach
         </ul>
       </div>
-      <div class="side-box calendar">
+      <div class="side-box calendar" id="calendar">
         <h4>تقويم الدورات</h4>
         <h3>احصل على جميع مواعيد البدء في ملف واحد</h3>
         <p>جميع الدورات بمددها وتوقيتاتها في صفحة واحدة — مفيد عند طلب موافقة مديرك.</p>
-        <form onsubmit="event.preventDefault();alert('نموذج تجريبي — يُربط بالبريد قبل الإطلاق.')">
-          <input type="email" placeholder="name@company.ae" required>
-          <button class="btn btn-gold">أرسلوا لي التقويم</button>
-        </form>
+        @include('partials.enquiry-form', ['type' => 'calendar', 'ar' => true])
       </div>
     </aside>
   </div>
@@ -325,7 +311,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> مركز كمبيوبيس للتدريب. جميع الحقوق محفوظة.</span>
-      <span><a href="#">سياسة الخصوصية</a><a href="#">الشروط والاسترداد</a><a href="#">خريطة الموقع</a><a href="{{ route('home') }}">EN</a></span>
+      <span><a href="{{ route('privacy-ar') }}">سياسة الخصوصية</a><a href="{{ route('terms-ar') }}">الشروط والاسترداد</a><a href="{{ url('sitemap.xml') }}">خريطة الموقع</a><a href="{{ route('home') }}">EN</a></span>
     </div>
   </div>
 </footer>

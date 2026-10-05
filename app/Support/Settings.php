@@ -17,6 +17,8 @@ class Settings
         'google_site_verification' => '',
         // Google Analytics 4 measurement ID, e.g. G-ABC123XYZ.
         'google_analytics_id' => '',
+        // Where the website forms are emailed. Empty: forms are only saved (see list_enquiries).
+        'enquiry_email' => 'info@compubasetraining.ae',
     ];
 
     private static ?array $values = null;

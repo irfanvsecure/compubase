@@ -150,7 +150,7 @@ document.querySelectorAll('.finder-form').forEach(form=>{
 });
 
 /* ---------------- Populate select lists ---------------- */
-['proposalCourse'].forEach(sel=>{
+[].forEach(sel=>{
   const s=document.getElementById(sel);
   if(!s) return;
   COURSES.forEach(c=>{const o=document.createElement('option');o.textContent=c.title;s.appendChild(o)});
@@ -237,9 +237,11 @@ document.querySelectorAll('.page').forEach(pg=>{
 document.querySelectorAll('#yr').forEach(y=>y.textContent=new Date().getFullYear());
 document.querySelectorAll('[data-scroll]').forEach(a=>{
  a.addEventListener('click',e=>{
-  if((a.getAttribute('href')||'').includes('?go='))return;
+  // Scroll when the section is on this page; otherwise follow the link to the page that has it.
+  const sec=a.dataset.scroll, el=document.getElementById(sec)||document.querySelector('.'+sec);
+  if(!el)return;
   e.preventDefault();
-  scrollSec(a.dataset.scroll);
+  el.scrollIntoView({behavior:'smooth'});
  });
 });
 
@@ -317,6 +319,12 @@ document.querySelectorAll('.catalog').forEach(box=>{
 });
 // Course sidebar: links that open a tab, and the "Read more" toggle on long text.
 document.querySelectorAll('[data-open-tab]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();if(showTab(a.dataset.openTab,true)){const t=document.querySelector('.tabs');if(t)t.scrollIntoView({behavior:'smooth'});}}));
+/* Course page: "Download the course outline" prints every part of the course document (save as PDF from the print window). */
+document.querySelectorAll('[data-print-outline]').forEach(b=>b.addEventListener('click',()=>{
+ document.body.classList.add('print-outline');
+ window.print();
+ setTimeout(()=>document.body.classList.remove('print-outline'),500);
+}));
 document.querySelectorAll('.cs-toggle').forEach(b=>{
  const box=b.previousElementSibling;
  if(box&&box.scrollHeight<=box.clientHeight+4){box.classList.add('short');b.hidden=true;return;}

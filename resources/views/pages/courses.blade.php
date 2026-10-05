@@ -79,7 +79,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> CompuBase Training Center. All rights reserved.</span>
-      <span><a href="#">Privacy notice</a><a href="#">Terms and refunds</a><a href="#">Sitemap</a><a href="{{ route('courses-ar') }}">AR</a></span>
+      <span><a href="{{ route('privacy') }}">Privacy notice</a><a href="{{ route('terms') }}">Terms and refunds</a><a href="{{ url('sitemap.xml') }}">Sitemap</a><a href="{{ route('courses-ar') }}">AR</a></span>
     </div>
   </div>
 </footer>

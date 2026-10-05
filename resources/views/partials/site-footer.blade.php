@@ -21,7 +21,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> مركز كمبيوبيس للتدريب. جميع الحقوق محفوظة.</span>
-      <span><a href="#">سياسة الخصوصية</a><a href="#">الشروط والاسترداد</a><a href="{{ url('sitemap.xml') }}">خريطة الموقع</a><a href="{{ $alt }}">EN</a></span>
+      <span><a href="{{ route('privacy-ar') }}">سياسة الخصوصية</a><a href="{{ route('terms-ar') }}">الشروط والاسترداد</a><a href="{{ url('sitemap.xml') }}">خريطة الموقع</a><a href="{{ $alt }}">EN</a></span>
     </div>
   </div>
 </footer>
@@ -52,7 +52,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> CompuBase Training Center. All rights reserved.</span>
-      <span><a href="#">Privacy notice</a><a href="#">Terms and refunds</a><a href="{{ url('sitemap.xml') }}">Sitemap</a><a href="{{ $alt }}">AR</a></span>
+      <span><a href="{{ route('privacy') }}">Privacy notice</a><a href="{{ route('terms') }}">Terms and refunds</a><a href="{{ url('sitemap.xml') }}">Sitemap</a><a href="{{ $alt }}">AR</a></span>
     </div>
   </div>
 </footer>

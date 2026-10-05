@@ -48,7 +48,7 @@
     <div class="header-actions">
       <a class="lang-btn" href="{{ Catalog::url($course, true) }}" lang="ar">AR</a>
       <a class="btn btn-outline" href="{{ route('corporate') }}">Enquire</a>
-      <a class="btn btn-navy" href="{{ route('contact') }}">Register now</a>
+      <a class="btn btn-navy" href="{{ route('contact', ['course' => $course['slug']]) }}#contact-form">Register now</a>
       <button class="menu-toggle" onclick="this.closest('header').classList.toggle('open')">☰</button>
     </div>
   </div>
@@ -79,7 +79,7 @@
       </dl>
       <a class="btn btn-navy" href="{{ route('contact') }}">Register for this course →</a>
       <a class="btn btn-outline" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">💬 Ask a question on WhatsApp</a>
-      <a class="dl-link" href="#">⤓ Download the course outline</a>
+      <button type="button" class="dl-link" data-print-outline>⤓ Download the course outline</button>
     </div>
   </div>
 </section>
@@ -91,7 +91,7 @@
         @if ($hasOverview)<a href="#overview" data-tab="overview" class="active" role="tab">Overview</a>@endif
         @if ($hasObjectives)<a href="#objectives" data-tab="objectives" role="tab">Objectives</a>@endif
         <a href="#outline" data-tab="outline" @class(['active' => ! $hasOverview]) role="tab">Course outline</a>
-        @if ($hasAudience)<a href="#" data-scroll="attend-side">Who should attend</a>@endif
+        @if ($hasAudience)<a href="{{ url()->current() }}?go=attend-side" data-scroll="attend-side">Who should attend</a>@endif
       </div>
 
       @if ($hasOverview)
@@ -293,7 +293,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> CompuBase Training Center. All rights reserved.</span>
-      <span><a href="#">Privacy notice</a><a href="#">Terms and refunds</a><a href="#">Sitemap</a><a href="{{ Catalog::url($course, true) }}">AR</a></span>
+      <span><a href="{{ route('privacy') }}">Privacy notice</a><a href="{{ route('terms') }}">Terms and refunds</a><a href="{{ url('sitemap.xml') }}">Sitemap</a><a href="{{ Catalog::url($course, true) }}">AR</a></span>
     </div>
   </div>
 </footer>

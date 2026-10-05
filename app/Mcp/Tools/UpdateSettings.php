@@ -21,6 +21,7 @@ class UpdateSettings extends SiteTool
             'robots_txt' => 'sometimes|nullable|string|max:5000',
             'google_site_verification' => ['sometimes', 'nullable', 'string', 'max:100', 'regex:/^[A-Za-z0-9_\-]*$/'],
             'google_analytics_id' => ['sometimes', 'nullable', 'string', 'regex:/^(G-[A-Z0-9]{4,20})?$/'],
+            'enquiry_email' => 'sometimes|nullable|email|max:160',
         ], ['google_analytics_id.regex' => 'The Google Analytics ID looks like G-ABC123XYZ.']);
 
         foreach ($data as $key => $value) {
@@ -38,6 +39,7 @@ class UpdateSettings extends SiteTool
             'robots_txt' => $schema->string()->description('Full robots.txt text. The Sitemap line is added automatically.'),
             'google_site_verification' => $schema->string()->description('The content value of Google Search Console\'s HTML-tag verification.'),
             'google_analytics_id' => $schema->string()->description('Google Analytics 4 measurement ID, e.g. G-ABC123XYZ. Empty string removes analytics.'),
+            'enquiry_email' => $schema->string()->description('Email address that receives the website forms. Empty string: forms are only saved (list_enquiries).'),
         ];
     }
 }

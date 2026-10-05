@@ -14,7 +14,7 @@ class SeoController extends Controller
     public static function pages(): array
     {
         $pages = [];
-        foreach (['', 'about', 'contact', 'courses', 'schedule', 'corporate', 'partners', 'blog'] as $page) {
+        foreach (['', 'about', 'contact', 'courses', 'schedule', 'corporate', 'partners', 'privacy', 'terms', 'blog'] as $page) {
             $pages[] = ['path' => '/'.$page, 'title' => ucfirst($page ?: 'home')];
             $pages[] = ['path' => '/ar'.($page ? '/'.$page : ''), 'title' => ucfirst($page ?: 'home').' (Arabic)'];
         }

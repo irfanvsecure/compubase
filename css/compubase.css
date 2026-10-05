@@ -218,8 +218,6 @@ table.sched td a{color:var(--gold-ink);font-weight:800;border-bottom:2px solid v
 .step .eyebrow{color:var(--gold)}
 .step h3{font-size:20px;margin:8px 0 8px}
 .step p{font-size:16px}
-.steps-photo{margin-top:44px}
-.steps-photo .photo-frame{border-color:var(--line);color:var(--gold-ink);background:#fff;min-height:220px}
 
 /* ---------- Why ---------- */
 .why{background:#fff;border-top:1px solid var(--line)}
@@ -536,8 +534,6 @@ body{direction:rtl;text-align:right}
 
 @media(max-width:640px){.hero-2col .hero-box{aspect-ratio:1/1;box-shadow:10px 10px 0 0 var(--gold),0 20px 40px rgba(0,0,0,.4);margin:0 10px 10px 0}[dir="rtl"] .hero-2col .hero-box{box-shadow:-10px 10px 0 0 var(--gold),0 20px 40px rgba(0,0,0,.4);margin:0 0 10px 10px}.hero-box .hs-slide .cap{font-size:15px;line-height:22px;padding:0 18px 40px}.hero-box .hs-slide .cap::before{width:34px;margin-bottom:8px}.hero-box .hs-dots{left:18px;bottom:18px}[dir="rtl"] .hero-box .hs-dots{right:18px}}
 
-/* ---------- "How it works" photo: show the whole picture ---------- */
-.steps-photo img{display:block;width:100%;max-width:980px;height:auto;aspect-ratio:3/2;object-fit:cover;margin:0 auto;border-radius:12px;box-shadow:0 20px 50px rgba(15,40,81,.18)}
 
 /* ---------- About page photos ---------- */
 .about-intro{display:grid;grid-template-columns:1.1fr .9fr;gap:56px;align-items:center}
@@ -692,4 +688,77 @@ body{direction:rtl;text-align:right}
   .partner-body{padding:14px 14px 16px}
   .partner-body h3{font-size:16px}
   .partner-body p{font-size:14px}
+}
+
+/* ---------- Home: classroom feature under the three steps ---------- */
+.class-feature{display:grid;grid-template-columns:1.05fr 1fr;gap:64px;align-items:center;margin-top:60px;padding-top:56px;border-top:1px solid var(--line)}
+.class-photo{position:relative;margin:0 18px 18px 0}
+.class-photo::before{content:"";position:absolute;inset:18px -18px -18px 18px;background:var(--gold);border-radius:12px;z-index:0}
+.class-photo img{position:relative;z-index:1;display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:12px;box-shadow:0 20px 44px rgba(15,40,81,.2)}
+.class-badge{position:absolute;z-index:2;left:-14px;bottom:28px;background:var(--navy);color:#fff;padding:14px 20px;border-left:4px solid var(--gold);box-shadow:0 14px 30px rgba(10,28,57,.3)}
+.class-badge b{display:block;font-size:17px;line-height:1.3}
+.class-badge span{display:block;font-size:14px;line-height:1.4;color:var(--gold-light)}
+.class-copy h3{font-size:30px;line-height:1.25;margin:8px 0 22px}
+.class-points{list-style:none;margin:0 0 26px;padding:0;display:grid;gap:16px}
+.class-points li{display:flex;gap:14px;align-items:flex-start}
+.class-points .tick{flex:0 0 28px;height:28px;border-radius:50%;background:rgba(163,145,97,.18);color:var(--gold-ink);font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;margin-top:2px}
+.class-points b{display:block;color:var(--navy);font-size:17px;line-height:1.35}
+.class-points p{margin:2px 0 0;font-size:15px;line-height:1.55}
+.class-stats{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:26px}
+.class-stats div{padding:14px 0;text-align:center}
+.class-stats div+div{border-inline-start:1px solid var(--line)}
+.class-stats b{display:block;font-size:28px;line-height:1.1;color:var(--navy)}
+.class-stats span{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--gold-ink)}
+[dir="rtl"] .class-stats span{letter-spacing:0}
+.class-actions{display:flex;gap:12px;flex-wrap:wrap}
+[dir="rtl"] .class-photo{margin:0 0 18px 18px}
+[dir="rtl"] .class-photo::before{inset:18px 18px -18px -18px}
+[dir="rtl"] .class-badge{left:auto;right:-14px;border-left:0;border-right:4px solid var(--gold)}
+@media(max-width:1024px){
+  .class-feature{grid-template-columns:1fr;gap:44px}
+  .class-photo{max-width:640px}
+}
+@media(max-width:640px){
+  .class-feature{margin-top:40px;padding-top:40px}
+  .class-photo{margin:0 12px 12px 0}
+  .class-photo::before{inset:12px -12px -12px 12px}
+  [dir="rtl"] .class-photo{margin:0 0 12px 12px}
+  [dir="rtl"] .class-photo::before{inset:12px 12px -12px -12px}
+  .class-badge{left:-6px;bottom:16px;padding:10px 14px}
+  [dir="rtl"] .class-badge{right:-6px}
+  .class-copy h3{font-size:24px}
+  .class-actions .btn{flex:1 1 100%}
+}
+
+/* ---------- Website forms: sent / error states, spam trap ---------- */
+.hp{position:absolute!important;left:-9999px!important;width:1px;height:1px;overflow:hidden}
+.form-done{background:#EEF7EF;border:1px solid #BFDEC3;border-inline-start:4px solid #2E7D32;padding:22px 24px}
+.form-done b{display:block;color:#1E5E22;font-size:18px;margin-bottom:6px}
+.form-done p{margin:0;font-size:16px}
+.form-error{background:#FDECEC;border:1px solid #F3C2C2;color:#9B1C1C;padding:10px 14px;font-size:15px;grid-column:1/-1}
+.side-box.calendar .form-done{padding:16px;color:var(--text)}
+button.dl-link{display:block;width:100%;background:none;border:0;cursor:pointer;font-family:inherit}
+button.dl-link:hover{text-decoration:underline}
+
+/* ---------- Privacy and terms pages ---------- */
+.legal-head{max-width:760px;margin-bottom:28px}
+.legal-head h1{font-size:40px;margin:8px 0 6px}
+.legal-head p{color:var(--gold-ink);margin:0;font-size:15px}
+.legal-body{max-width:760px;background:#fff;border:1px solid var(--line);border-top:3px solid var(--gold);padding:34px 40px}
+.legal-body h2{font-size:21px;margin:26px 0 8px}
+.legal-body h2:first-child{margin-top:0}
+.legal-body p{margin:0 0 12px}
+.legal-also{margin-top:26px!important;padding-top:18px;border-top:1px solid var(--line);font-weight:700}
+@media(max-width:640px){.legal-head h1{font-size:30px}.legal-body{padding:24px 20px}}
+
+/* ---------- Course page: "Download the course outline" prints the whole course document ---------- */
+@media print{
+  body.print-outline .utility,body.print-outline header.site,body.print-outline .crumbs,body.print-outline .booking,
+  body.print-outline .tabs,body.print-outline .cs-side,body.print-outline .closing,body.print-outline footer.site,
+  body.print-outline .mobile-bar,body.print-outline .wa-float,body.print-outline .related,body.print-outline .course-photo{display:none!important}
+  body.print-outline{background:#fff;padding:0}
+  body.print-outline .course-hero{background:#fff!important;color:#000;padding:0 0 12px}
+  body.print-outline .course-hero *{color:#000!important}
+  body.print-outline .course-hero .container,body.print-outline .course-body .container{display:block}
+  body.print-outline .tab-panel{display:block!important;break-inside:auto;margin-bottom:18px}
 }

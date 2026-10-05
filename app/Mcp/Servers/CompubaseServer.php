@@ -21,6 +21,8 @@ Images: upload_image first (from a URL or base64), then use the returned path fo
 
 SEO: list_pages gives every page path; get_seo shows what a page shows search engines now; update_seo overrides it. The whole site is hidden from search engines until the "robots" setting is "index, follow" (update_settings) — only change it when the owner asks.
 
+Website forms (course enquiries, corporate proposal requests, calendar requests) are saved and emailed to the "enquiry_email" setting; list_enquiries shows them.
+
 Deleting moves things to the trash (list_trash, restore_item). Confirm with the user before deleting anything. activity_log shows recent changes.
 TEXT)]
 class CompubaseServer extends Server
@@ -58,5 +60,6 @@ class CompubaseServer extends Server
         Tools\ListTrash::class,
         Tools\RestoreItem::class,
         Tools\ActivityLog::class,
+        Tools\ListEnquiries::class,
     ];
 }

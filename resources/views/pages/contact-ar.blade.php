@@ -54,16 +54,7 @@
   <div class="proposal" style="border:1px solid var(--line)">
     <h3>نموذج التسجيل والاستفسار</h3>
     <p class="sub">أخبرنا بالدورة والتوقيت المفضل — نردّ عليك بموعد البدء القادم والرسوم.</p>
-    <form onsubmit="event.preventDefault();alert('نموذج تجريبي — يُربط بنظام الاستفسارات قبل الإطلاق.')">
-      <div class="field"><label>الاسم الكامل</label><input placeholder="اسمك" required></div>
-      <div class="field"><label>رقم الجوال</label><input type="tel" placeholder="05X XXX XXXX" required></div>
-      <div class="field"><label>البريد الإلكتروني</label><input type="email" placeholder="name@email.com" required></div>
-      <div class="field"><label>التوقيت المفضل</label><select><option>صباحي أو مسائي</option><option>صباحي</option><option>مسائي</option></select></div>
-      <div class="field full"><label>الدورة المطلوبة</label><select><option>اختر دورة</option><option>شهادة إدارة المشاريع الاحترافية</option><option>شهادة المدقق الداخلي المعتمد</option><option>شهادة المحاسب الإداري المعتمد</option><option>شهادة مدقق نظم المعلومات المعتمد</option><option>شهادة الاختراق الأخلاقي المعتمدة</option><option>أساسيات الأمن السيبراني</option><option>أساسيات الذكاء الاصطناعي</option><option>هندسة الأوامر النصية</option><option>دورة اللغة الإنجليزية</option><option>دورة التحضير لامتحان الآيلتس</option><option>اللغة العربية لغير الناطقين بها</option><option>مايكروسوفت أوفيس وكوبايلوت</option></select></div>
-      <div class="field full"><label>رسالتك <span style="text-transform:none;font-weight:400">اختياري</span></label><textarea placeholder="أي شيء ينبغي أن نعرفه — مستواك، موعد امتحانك، حجم فريقك."></textarea></div>
-      <div class="full"><button class="btn btn-navy" style="width:100%">أرسل الاستفسار</button>
-      <p class="privacy">نستخدم هذه البيانات للرد على استفسارك فقط. راجع <a href="#">سياسة الخصوصية</a>.</p></div>
-    </form>
+    @include('partials.enquiry-form', ['type' => 'contact', 'ar' => true])
   </div>
   <aside>
     <div class="side-box">
@@ -105,7 +96,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> مركز كمبيوبيس للتدريب. جميع الحقوق محفوظة.</span>
-      <span><a href="#">سياسة الخصوصية</a><a href="#">الشروط والاسترداد</a><a href="#">خريطة الموقع</a><a href="{{ route('contact') }}">EN</a></span>
+      <span><a href="{{ route('privacy-ar') }}">سياسة الخصوصية</a><a href="{{ route('terms-ar') }}">الشروط والاسترداد</a><a href="{{ url('sitemap.xml') }}">خريطة الموقع</a><a href="{{ route('contact') }}">EN</a></span>
     </div>
   </div>
 </footer>

@@ -46,16 +46,7 @@
   <div class="proposal" style="border:1px solid var(--line)">
     <h3>Registration and enquiry form</h3>
     <p class="sub">Tell us the course and your preferred timing — we reply with the next start date and the fee.</p>
-    <form onsubmit="event.preventDefault();alert('Demo only — connect this form to your enquiry handler before launch.')">
-      <div class="field"><label>Full name</label><input placeholder="Your name" required></div>
-      <div class="field"><label>Mobile</label><input type="tel" placeholder="05X XXX XXXX" required></div>
-      <div class="field"><label>Email</label><input type="email" placeholder="name@email.com" required></div>
-      <div class="field"><label>Preferred timing</label><select><option>Morning or evening</option><option>Morning</option><option>Evening</option></select></div>
-      <div class="field full"><label>Course of interest</label><select><option>Select a course</option><option>PMP — Project Management Professional</option><option>CIA — Certified Internal Auditor</option><option>CMA — Certified Management Accountant</option><option>CISA — Information Systems Auditor</option><option>EC-Council Certified Ethical Hacker</option><option>Cyber Security Essentials</option><option>AI Essentials</option><option>Prompt Engineering</option><option>English Language</option><option>IELTS Preparation</option><option>Arabic for Non-Arabic Speakers</option><option>MS Office + Copilot</option></select></div>
-      <div class="field full"><label>Message <span style="text-transform:none;font-weight:400">Optional</span></label><textarea placeholder="Anything we should know — your level, your exam date, your team size."></textarea></div>
-      <div class="full"><button class="btn btn-navy" style="width:100%">Send the enquiry</button>
-      <p class="privacy">We use these details to answer your enquiry only. See the <a href="#">privacy notice</a>.</p></div>
-    </form>
+    @include('partials.enquiry-form', ['type' => 'contact'])
   </div>
   <aside>
     <div class="side-box">
@@ -94,7 +85,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> CompuBase Training Center. All rights reserved.</span>
-      <span><a href="#">Privacy notice</a><a href="#">Terms and refunds</a><a href="#">Sitemap</a><a href="{{ route('contact-ar') }}">AR</a></span>
+      <span><a href="{{ route('privacy') }}">Privacy notice</a><a href="{{ route('terms') }}">Terms and refunds</a><a href="{{ url('sitemap.xml') }}">Sitemap</a><a href="{{ route('contact-ar') }}">AR</a></span>
     </div>
   </div>
 </footer>

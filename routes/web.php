@@ -17,6 +17,9 @@ Route::post('/logout', [LoginController::class, 'logout'])->middleware('auth')->
 Route::get('/sitemap.xml', [SeoController::class, 'sitemap'])->name('sitemap');
 Route::get('/robots.txt', [SeoController::class, 'robots'])->name('robots');
 
+// Website forms: saved, then emailed to the enquiry_email setting.
+Route::post('/enquiry', [\App\Http\Controllers\EnquiryController::class, 'store'])->middleware('throttle:10,1')->name('enquiry');
+
 // Blog: /blog and /ar/blog. Drafts open only through a signed preview link.
 Route::get('/blog', [BlogController::class, 'index'])->name('blog');
 Route::get('/blog/{slug}', [BlogController::class, 'show'])->name('blog.post');
@@ -32,6 +35,8 @@ Route::view('/courses', 'pages.courses')->name('courses');
 Route::view('/schedule', 'pages.schedule')->name('schedule');
 Route::view('/corporate', 'pages.corporate')->name('corporate');
 Route::view('/partners', 'pages.partners', ['ar' => false])->name('partners');
+Route::view('/privacy', 'pages.legal', ['doc' => 'privacy', 'ar' => false])->name('privacy');
+Route::view('/terms', 'pages.legal', ['doc' => 'terms', 'ar' => false])->name('terms');
 
 // Arabic pages, under /ar/
 Route::prefix('ar')->group(function () {
@@ -42,6 +47,8 @@ Route::prefix('ar')->group(function () {
     Route::view('/schedule', 'pages.schedule-ar')->name('schedule-ar');
     Route::view('/corporate', 'pages.corporate-ar')->name('corporate-ar');
     Route::view('/partners', 'pages.partners', ['ar' => true])->name('partners-ar');
+    Route::view('/privacy', 'pages.legal', ['doc' => 'privacy', 'ar' => true])->name('privacy-ar');
+    Route::view('/terms', 'pages.legal', ['doc' => 'terms', 'ar' => true])->name('terms-ar');
 });
 
 // Old Arabic addresses (/home-ar, /about-ar, ...) move permanently to /ar/.

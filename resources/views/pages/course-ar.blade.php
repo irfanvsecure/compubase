@@ -51,7 +51,7 @@
     <div class="header-actions">
       <a class="lang-btn" href="{{ Catalog::url($course) }}" lang="en">EN</a>
       <a class="btn btn-outline" href="{{ route('corporate-ar') }}">استفسر الآن</a>
-      <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a>
+      <a class="btn btn-navy" href="{{ route('contact-ar', ['course' => $course['slug']]) }}#contact-form">سجّل الآن</a>
       <button class="menu-toggle" onclick="this.closest('header').classList.toggle('open')">☰</button>
     </div>
   </div>
@@ -83,7 +83,7 @@
       </dl>
       <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل في هذه الدورة ←</a>
       <a class="btn btn-outline" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">💬 اسأل عبر واتساب</a>
-      <a class="dl-link" href="#">⤓ تحميل مخطط الدورة</a>
+      <button type="button" class="dl-link" data-print-outline>⤓ تحميل مخطط الدورة</button>
     </div>
   </div>
 </section>
@@ -95,7 +95,7 @@
         @if ($hasOverview)<a href="#overview" data-tab="overview" class="active" role="tab">نظرة عامة</a>@endif
         @if ($hasObjectives || ! $content)<a href="#objectives" data-tab="objectives" role="tab">الأهداف</a>@endif
         <a href="#outline" data-tab="outline" @class(['active' => ! $hasOverview]) role="tab">محاور الدورة</a>
-        @if ($hasAudience)<a href="#" data-scroll="attend-side">لمن هذه الدورة</a>@endif
+        @if ($hasAudience)<a href="{{ url()->current() }}?go=attend-side" data-scroll="attend-side">لمن هذه الدورة</a>@endif
       </div>
 
       @if ($hasOverview)
@@ -291,7 +291,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> مركز كمبيوبيس للتدريب. جميع الحقوق محفوظة.</span>
-      <span><a href="#">سياسة الخصوصية</a><a href="#">الشروط والاسترداد</a><a href="#">خريطة الموقع</a><a href="{{ Catalog::url($course) }}">EN</a></span>
+      <span><a href="{{ route('privacy-ar') }}">سياسة الخصوصية</a><a href="{{ route('terms-ar') }}">الشروط والاسترداد</a><a href="{{ url('sitemap.xml') }}">خريطة الموقع</a><a href="{{ Catalog::url($course) }}">EN</a></span>
     </div>
   </div>
 </footer>

@@ -37,7 +37,7 @@
     <div class="header-actions">
       <a class="lang-btn" href="{{ route('home-ar') }}" lang="ar">AR</a>
       <a class="btn btn-outline" href="{{ route('corporate') }}">Enquire</a>
-      <a class="btn btn-navy" href="#" data-scroll="register">Register now</a>
+      <a class="btn btn-navy" href="{{ route('contact') }}">Register now</a>
       <button class="menu-toggle" onclick="this.closest('header').classList.toggle('open')">☰</button>
     </div>
   </div>
@@ -143,7 +143,7 @@
         <h2>Every start date, in one table.</h2>
         <p style="max-width:640px">Confirmed intakes at the Abu Dhabi centre. If a date does not suit you, tell us your preferred week and we will place you in the next group.</p>
       </div>
-      <a class="btn btn-outline" href="#" data-scroll="calendar">⤓ Download the course calendar</a>
+      <a class="btn btn-outline" href="{{ route('home', ['go' => 'calendar']) }}" data-scroll="calendar">⤓ Download the course calendar</a>
     </div>
     <div class="table-wrap">
       <table class="sched">
@@ -152,7 +152,7 @@
         <tbody id="schedBody"></tbody>
       </table>
     </div>
-    <p class="sched-note">Showing {{ min(8, count(Catalog::courses())) }} of {{ count(Catalog::courses()) }} courses. All groups run Monday to Friday at the Abu Dhabi centre. <a href="#" data-scroll="featured" style="font-weight:700;text-decoration:underline">See the full schedule</a></p>
+    <p class="sched-note">Showing {{ min(8, count(Catalog::courses())) }} of {{ count(Catalog::courses()) }} courses. All groups run Monday to Friday at the Abu Dhabi centre. <a href="{{ route('schedule') }}" style="font-weight:700;text-decoration:underline">See the full schedule</a></p>
   </div>
 </section>
 
@@ -186,18 +186,7 @@
     <div class="proposal">
       <h3>Request a training proposal</h3>
       <p class="sub">Six fields. An advisor replies with dates, format and a written quote.</p>
-      <form onsubmit="event.preventDefault();alert('Demo only — connect this form to your enquiry handler before launch.')">
-        <div class="field"><label>Full name</label><input placeholder="Your name" required></div>
-        <div class="field"><label>Organisation</label><input placeholder="Company name" required></div>
-        <div class="field"><label>Work email</label><input type="email" placeholder="name@company.ae" required></div>
-        <div class="field"><label>Mobile</label><input type="tel" placeholder="05X XXX XXXX" required></div>
-        <div class="field"><label>Course of interest</label><select id="proposalCourse"><option>Select a course</option></select></div>
-        <div class="field"><label>Team size</label><select><option>Select a range</option><option>2–5</option><option>6–15</option><option>16–30</option><option>30+</option></select></div>
-        <div class="field full"><label>What outcome are you aiming for? <span style="text-transform:none;font-weight:400">Optional</span></label>
-          <textarea placeholder="For example: twelve finance staff ready to sit the CMA exam before the end of the year."></textarea></div>
-        <div class="full"><button class="btn btn-navy" style="width:100%">Request the proposal</button>
-          <p class="privacy">We use these details to answer your enquiry only. See the <a href="#">privacy notice</a>.</p></div>
-      </form>
+      @include('partials.enquiry-form', ['type' => 'proposal'])
     </div>
   </div>
 </section>
@@ -212,7 +201,7 @@
       <div class="step"><div class="eyebrow">Step 02</div><h3>Confirm your place</h3><p>Complete the registration form and settle the fee. You receive written confirmation with the venue, the start date and the daily timings.</p></div>
       <div class="step"><div class="eyebrow">Step 03</div><h3>Attend and certify</h3><p>Train Monday to Friday in your chosen group, then collect your CompuBase completion certificate and your exam guidance where the course leads to one.</p></div>
     </div>
-    <div class="steps-photo"><img src="{{ url('uploads/2026/10/azure-fundamentals-cloud-concepts-class-bevdhj.jpg') }}" alt="Trainer explaining concepts on a whiteboard to a CompuBase class" loading="lazy"></div>
+    @include('partials.class-feature')
   </div>
 </section>
 
@@ -278,10 +267,7 @@
         <h4>Course calendar</h4>
         <h3>Get every start date as a PDF</h3>
         <p>Every course, with durations and timings, on one page — useful when you need approval from a manager.</p>
-        <form onsubmit="event.preventDefault();alert('Demo only — connect to your email handler before launch.')">
-          <input type="email" placeholder="name@company.ae" required>
-          <button class="btn btn-gold">Send me the calendar</button>
-        </form>
+        @include('partials.enquiry-form', ['type' => 'calendar'])
       </div>
     </aside>
   </div>
@@ -345,7 +331,7 @@
   <div class="foot-bottom">
     <div class="container">
       <span>© <span id="yr"></span> CompuBase Training Center. All rights reserved.</span>
-      <span><a href="#">Privacy notice</a><a href="#">Terms and refunds</a><a href="#">Sitemap</a><a href="{{ route('home-ar') }}">AR</a></span>
+      <span><a href="{{ route('privacy') }}">Privacy notice</a><a href="{{ route('terms') }}">Terms and refunds</a><a href="{{ url('sitemap.xml') }}">Sitemap</a><a href="{{ route('home-ar') }}">AR</a></span>
     </div>
   </div>
 </footer>
@@ -354,7 +340,7 @@
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
   <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
-  <a class="btn btn-navy" href="#">Register</a>
+  <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 
 
