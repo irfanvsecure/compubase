@@ -7,4 +7,5 @@
  * A course without an entry simply shows no extra photo.
  */
 return [
+    'managing-self-and-leading-others' => ['objectives' => 'uploads/2026/10/managing-self-leading-others-objectives-dk5drg.jpg', 'outline' => 'uploads/2026/10/managing-self-leading-others-outline-1mg6kk.jpg'],
 ];
