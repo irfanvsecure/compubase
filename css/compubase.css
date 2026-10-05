@@ -63,7 +63,6 @@ nav.main a:hover{color:var(--gold-ink)}
 .hero .cta-row{display:flex;gap:14px;flex-wrap:wrap}
 .photo-frame{border:1px dashed rgba(255,255,255,.4);background:rgba(255,255,255,.05);min-height:320px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:30px;color:rgba(255,255,255,.65);font-size:13px;gap:10px}
 .photo-frame .cam{font-size:30px}
-.steps-photo img{display:block;width:100%;height:420px;object-fit:cover}
 
 /* ---------- Full-width hero slider ---------- */
 .hero-slider{position:relative;min-height:580px;background:var(--navy);overflow:hidden}
@@ -517,3 +516,27 @@ body{direction:rtl;text-align:right}
 .course-card .tag{background:none;color:var(--gold-light);padding:0 0 0 10px;font-size:11px;letter-spacing:.14em;line-height:1.5;border-left:3px solid var(--gold)}
 [dir="rtl"] .course-card .tag{border-left:0;border-right:3px solid var(--gold);padding:0 10px 0 0}
 [dir="rtl"] .rail-arrow{transform:scaleX(-1)}
+
+/* ---------- Home hero photo slider: framed photo, Ken Burns, progress dots ---------- */
+.hero-2col .hero-box{min-height:0;aspect-ratio:5/4;border:0;border-radius:14px;box-shadow:18px 18px 0 0 var(--gold),0 28px 60px rgba(0,0,0,.45);margin:0 18px 18px 0}
+[dir="rtl"] .hero-2col .hero-box{box-shadow:-18px 18px 0 0 var(--gold),0 28px 60px rgba(0,0,0,.45);margin:0 0 18px 18px}
+.hero-box .hs-slide::after{background:linear-gradient(180deg,rgba(10,28,57,.3) 0%,rgba(10,28,57,0) 28%,rgba(10,28,57,0) 50%,rgba(10,28,57,.92) 100%)!important}
+[dir="rtl"] .hero-box .hs-slide::after{background:linear-gradient(180deg,rgba(10,28,57,.3) 0%,rgba(10,28,57,0) 28%,rgba(10,28,57,0) 50%,rgba(10,28,57,.92) 100%)!important}
+.hero-box .hs-slide .bg{transform:scale(1.12);transition:transform 7s ease-out}
+.hero-box .hs-slide.active .bg{transform:scale(1)}
+.hero-box .hs-slide .cap{z-index:3;background:none;padding:0 26px 46px;font-size:19px;line-height:27px;font-weight:700;text-shadow:0 2px 12px rgba(0,0,0,.35);opacity:0;transform:translateY(16px);transition:opacity .6s ease .35s,transform .6s ease .35s}
+.hero-box .hs-slide .cap::before{content:"";display:block;width:46px;height:3px;background:var(--gold);margin-bottom:12px}
+.hero-box .hs-slide.active .cap{opacity:1;transform:none}
+.hero-box .hs-dots{bottom:22px;left:26px;transform:none}
+[dir="rtl"] .hero-box .hs-dots{left:auto;right:26px}
+.hero-box .hs-dots button{position:relative;overflow:hidden;width:40px;background:rgba(255,255,255,.35)}
+.hero-box .hs-dots button.on{background:rgba(255,255,255,.35)}
+.hero-box .hs-dots button.on::after{content:"";position:absolute;inset:0;background:var(--gold);transform-origin:left center;animation:hsProgress 6s linear forwards}
+[dir="rtl"] .hero-box .hs-dots button.on::after{transform-origin:right center}
+@keyframes hsProgress{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media(max-width:1024px){.hero-2col .hero-box{aspect-ratio:3/2}}
+
+@media(max-width:640px){.hero-2col .hero-box{aspect-ratio:1/1;box-shadow:10px 10px 0 0 var(--gold),0 20px 40px rgba(0,0,0,.4);margin:0 10px 10px 0}[dir="rtl"] .hero-2col .hero-box{box-shadow:-10px 10px 0 0 var(--gold),0 20px 40px rgba(0,0,0,.4);margin:0 0 10px 10px}.hero-box .hs-slide .cap{font-size:15px;line-height:22px;padding:0 18px 40px}.hero-box .hs-slide .cap::before{width:34px;margin-bottom:8px}.hero-box .hs-dots{left:18px;bottom:18px}[dir="rtl"] .hero-box .hs-dots{right:18px}}
+
+/* ---------- "How it works" photo: show the whole picture ---------- */
+.steps-photo img{display:block;width:100%;max-width:980px;height:auto;aspect-ratio:3/2;object-fit:cover;margin:0 auto;border-radius:12px;box-shadow:0 20px 50px rgba(15,40,81,.18)}
