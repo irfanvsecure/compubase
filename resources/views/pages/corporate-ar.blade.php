@@ -12,7 +12,7 @@
   <div class="container">
     <div class="left"><span>مقرّنا في أبوظبي</span><span>من الاثنين إلى الجمعة</span><span>دوام صباحي ومسائي</span></div>
     <div class="right">
-      <a href="tel:0506399915">📞 050 6399915</a>
+      <a href="tel:+97126771117">📞 02 677 1117</a>
       <a href="{{ route('corporate') }}" style="font-weight:700">EN</a>
       <span class="status">التسجيل مفتوح</span>
     </div>
@@ -85,8 +85,8 @@
 <style>@media(max-width:1024px){#corpGrid{grid-template-columns:1fr!important}}</style>
 
 <section class="closing"><div class="container">
-  <div><h2>أسرع عبر الهاتف.</h2><p>راسلنا على واتساب 050 6399915 باسم الدورة وحجم الفريق — ونتولى الباقي.</p></div>
-  <div class="actions"><a class="btn btn-navy" href="https://wa.me/9710506399915">راسلنا على واتساب</a></div>
+  <div><h2>أسرع عبر الهاتف.</h2><p>راسلنا على واتساب 056 689 3378 باسم الدورة وحجم الفريق — ونتولى الباقي.</p></div>
+  <div class="actions"><a class="btn btn-navy" href="https://wa.me/971566893378">راسلنا على واتساب</a></div>
 </div></section>
 <!-- FOOTER -->
 <footer class="site">
@@ -99,7 +99,7 @@
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">info@compubase.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>
       </div>
     </div>
   </div>
@@ -112,8 +112,8 @@
 </footer>
 
 <div class="mobile-bar">
-  <a class="btn call" href="tel:0506399915">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/9710506399915">واتساب</a>
+  <a class="btn call" href="tel:+97126771117">📞</a>
+  <a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a>
   <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل</a>
 </div>
 

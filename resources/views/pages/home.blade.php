@@ -13,7 +13,7 @@
       <span>Abu Dhabi campus</span><span>Weekdays, Monday to Friday</span><span>Morning and evening classes</span>
     </div>
     <div class="right">
-      <a href="tel:0506399915">📞 050 6399915</a>
+      <a href="tel:+97126771117">📞 02 677 1117</a>
       <a href="{{ route('home-ar') }}" title="Arabic version" style="font-weight:700">AR</a>
       <span class="status">REGISTRATION OPEN</span>
     </div>
@@ -60,7 +60,7 @@
       </ul>
       <div class="cta-row">
         <a class="btn btn-gold" href="{{ route('schedule') }}">Register for the next intake →</a>
-        <a class="btn btn-outline-light" href="https://wa.me/9710506399915">WhatsApp 050 6399915</a>
+        <a class="btn btn-outline-light" href="https://wa.me/971566893378">WhatsApp 056 689 3378</a>
       </div>
     </div>
     <div class="hero-box hero-slider" >
@@ -135,14 +135,25 @@
     <div class="eyebrow">Featured this intake</div>
     <h2>The courses Abu Dhabi employers are booking now.</h2>
     <p style="max-width:720px">Each course runs Monday to Friday at our Abu Dhabi centre, with morning and evening groups so you can train around your job. Seats are allocated in the order enquiries are received.</p>
-    <div class="filter-tabs" id="filterTabs">
-      <button class="active" data-f="all">All courses</button>
-      @foreach (Catalog::categories() as $cat => $category)
-      <button data-f="{{ $cat }}">{{ $category['en'] }} · {{ count($category['courses']) }}</button>
-      @endforeach
+    <div class="feat-filter">
+      <div class="feat-groups" id="featGroups">
+        <button type="button" class="active" data-g="all">All courses <span></span></button>
+        <button type="button" data-g="management">Management &amp; Professional <span></span></button>
+        <button type="button" data-g="it">IT &amp; Technology <span></span></button>
+      </div>
+      <div class="feat-rail" id="featRail" hidden>
+        <button type="button" class="rail-arrow prev" aria-label="Scroll categories back">&lsaquo;</button>
+        <div class="feat-cats" id="filterTabs">
+          @foreach (Catalog::categories() as $cat => $category)
+          <button type="button" data-f="{{ $cat }}" data-g="{{ $category['group'] }}" data-name="{{ $category['en'] }}">{{ $category['en'] }} <span>{{ count($category['courses']) }}</span></button>
+          @endforeach
+        </div>
+        <button type="button" class="rail-arrow next" aria-label="Scroll categories forward">&rsaquo;</button>
+      </div>
     </div>
     <div class="course-grid" id="courseGrid"></div>
-    <p class="foot"><a href="{{ route('courses') }}">Browse all {{ count(Catalog::courses()) }} courses</a> or call an advisor on <a href="tel:0506399915">050 6399915</a></p>
+    <div class="feat-more" id="featMore"><a class="btn btn-outline" href="{{ route('courses') }}">View all courses &rarr;</a></div>
+    <p class="foot"><a href="{{ route('courses') }}">Browse all {{ count(Catalog::courses()) }} courses</a> or call an advisor on <a href="tel:+97126771117">02 677 1117</a></p>
   </div>
 </section>
 
@@ -191,7 +202,7 @@
         <li><b>Attendance records and completion certificates</b><span>Documentation your HR and compliance teams can file without chasing us for it.</span></li>
       </ul>
       <div class="corp-cta">
-        <a class="btn btn-gold" href="https://wa.me/9710506399915">WhatsApp 050 6399915</a>
+        <a class="btn btn-gold" href="https://wa.me/971566893378">WhatsApp 056 689 3378</a>
         <small>Group rates apply from [N] delegates. Confirm the threshold before publishing.</small>
       </div>
     </div>
@@ -308,7 +319,7 @@
         <h2>Before you register.</h2>
         <p>If your question is not here, an advisor will answer it directly.</p>
       </div>
-      <a class="btn btn-outline" href="https://wa.me/9710506399915">Ask on WhatsApp</a>
+      <a class="btn btn-outline" href="https://wa.me/971566893378">Ask on WhatsApp</a>
     </div>
     <details open>
       <summary>Are courses taught in English or Arabic?</summary>
@@ -328,11 +339,11 @@
   <div class="container">
     <div>
       <h2>Registration is now open. Morning and evening classes are available.</h2>
-      <p>CompuBase Training Center, Abu Dhabi. Call or WhatsApp 050 6399915.</p>
+      <p>CompuBase Training Center, Abu Dhabi. Call 02 677 1117 or WhatsApp 056 689 3378.</p>
     </div>
     <div class="actions">
       <a class="btn btn-navy" href="{{ route('schedule') }}">Register now</a>
-      <a class="btn btn-outline" href="tel:0506399915">050 6399915</a>
+      <a class="btn btn-outline" href="tel:+97126771117">02 677 1117</a>
     </div>
   </div>
 </section>
@@ -350,7 +361,7 @@
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
         <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">[info@compubase.ae]</a><br>Sunday to Thursday · [opening hours]</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
       </div>
     </div>
   </div>
@@ -364,8 +375,8 @@
 
 <!-- Mobile fixed contact bar -->
 <div class="mobile-bar">
-  <a class="btn call" href="tel:0506399915">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/9710506399915">WhatsApp</a>
+  <a class="btn call" href="tel:+97126771117">📞</a>
+  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
   <a class="btn btn-navy" href="#">Register</a>
 </div>
 

@@ -12,11 +12,10 @@ const esc=s=>String(s).replace(/[&<>"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;'
 
 /* ---------------- Render featured cards ---------------- */
 const grid=document.getElementById('courseGrid');
-function renderGrid(filter){
+function renderGrid(list){
   if(!grid) return;
   grid.innerHTML='';
-  const list=filter==='all'?COURSES.slice(0,6):COURSES.filter(c=>c.cats.includes(filter));
-  list.forEach(c=>{
+  list.slice(0,6).forEach(c=>{
     grid.insertAdjacentHTML('beforeend',`
     <div class="course-card">
       <div class="head"><span class="tag">${esc(c.catName)}</span><h3>${esc(c.title)}</h3></div>
@@ -33,14 +32,56 @@ function renderGrid(filter){
     </div>`);
   });
 }
-renderGrid('all');
+/* Scrolling category row: arrows step through it and grey out at either end. Returns a refresh function. */
+function railArrows(rail){
+  const row=rail.querySelector('.feat-cats'),prev=rail.querySelector('.prev'),next=rail.querySelector('.next');
+  const rtl=document.documentElement.dir==='rtl';
+  function update(){
+    const max=row.scrollWidth-row.clientWidth,x=Math.abs(row.scrollLeft);
+    prev.disabled=x<4;next.disabled=x>max-4;
+    rail.classList.toggle('no-scroll',max<4);
+  }
+  const step=d=>row.scrollBy({left:d*row.clientWidth*.7*(rtl?-1:1),behavior:'smooth'});
+  prev.addEventListener('click',()=>step(-1));next.addEventListener('click',()=>step(1));
+  row.addEventListener('scroll',update,{passive:true});
+  window.addEventListener('resize',update);
+  return ()=>{row.scrollLeft=0;update()};
+}
+/* Featured filter: pick a group (all / management / IT), then optionally one of its categories. */
+const featGroups=document.getElementById('featGroups');
+const featRail=document.getElementById('featRail');
 const filterTabs=document.getElementById('filterTabs');
-if(filterTabs) filterTabs.addEventListener('click',e=>{
-  if(e.target.tagName!=='BUTTON')return;
-  document.querySelectorAll('#filterTabs button').forEach(b=>b.classList.remove('active'));
-  e.target.classList.add('active');
-  renderGrid(e.target.dataset.f);
-});
+const featMore=document.getElementById('featMore');
+if(grid && featGroups && filterTabs){
+  const chips=[...filterTabs.querySelectorAll('button')];
+  const groupOf={};chips.forEach(b=>groupOf[b.dataset.f]=b.dataset.g);
+  const inGroup=g=>g==='all'?COURSES:COURSES.filter(c=>c.cats.some(k=>groupOf[k]===g));
+  featGroups.querySelectorAll('button').forEach(b=>b.querySelector('span').textContent=inGroup(b.dataset.g).length);
+  const coursesUrl=pageUrl('courses');
+  const resetRail=railArrows(featRail);
+  function show(list,label,href){
+    renderGrid(list);
+    const a=featMore.querySelector('a');
+    a.textContent=list.length>6?`View all ${list.length} ${label} →`:'Browse the full catalogue →';
+    a.href=href;
+  }
+  function pickGroup(g){
+    featGroups.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.g===g));
+    chips.forEach(b=>{b.hidden=b.dataset.g!==g;b.classList.remove('active')});
+    featRail.hidden=g==='all';
+    resetRail();
+    show(inGroup(g),g==='all'?'courses':g==='it'?'IT courses':'management courses',coursesUrl);
+  }
+  featGroups.addEventListener('click',e=>{const b=e.target.closest('button');if(b)pickGroup(b.dataset.g)});
+  filterTabs.addEventListener('click',e=>{
+    const b=e.target.closest('button');if(!b)return;
+    if(b.classList.contains('active')){pickGroup(b.dataset.g);return}
+    chips.forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    show(COURSES.filter(c=>c.cats.includes(b.dataset.f)),b.dataset.name+' courses',coursesUrl+'?go='+encodeURIComponent(b.dataset.f));
+  });
+  pickGroup('all');
+}
 
 /* ---------------- Schedule table ---------------- */
 const schedBody=document.getElementById('schedBody');
@@ -148,13 +189,18 @@ document.querySelectorAll('[data-scroll]').forEach(a=>{
 document.querySelectorAll('.catalog').forEach(box=>{
  const perPage=+box.dataset.perPage||12;
  const cards=[...box.querySelectorAll('.course-grid>.course-card,.sched tbody>tr')];
- const chips=[...box.querySelectorAll('.cat-filter [data-cat]')];
+ const tabs=[...box.querySelectorAll('.feat-groups [data-group]')];
+ const chips=[...box.querySelectorAll('.feat-cats [data-cat]')];
+ const rail=box.querySelector('.feat-rail'), resetRail=railArrows(rail);
+ const groupOf={};chips.forEach(c=>groupOf[c.dataset.cat]=c.dataset.g);
  const pager=box.querySelector('.pager'), pages=box.querySelector('.pager-pages');
  const prev=box.querySelector('.pager-prev'), next=box.querySelector('.pager-next');
  const count=box.querySelector('.catalog-count');
  const params=new URLSearchParams(location.search);
- let cat=params.get('category')||box.dataset.initial||'all', page=+params.get('page')||1;
- if(!chips.some(c=>c.dataset.cat===cat)) cat='all';
+ // cat is a category slug or 'all'; group is 'all', 'management' or 'it'.
+ let cat=params.get('category')||box.dataset.initial||'all', group=params.get('group')||'all', page=+params.get('page')||1;
+ if(!groupOf[cat]) cat='all'; else group=groupOf[cat];
+ if(!tabs.some(t=>t.dataset.group===group)) group='all';
 
  function pageList(total){
   // Every page when there are few, otherwise the first, the last and two either side of the current one.
@@ -167,12 +213,14 @@ document.querySelectorAll('.catalog').forEach(box=>{
   return out;
  }
  function render(scroll){
-  const list=cards.filter(c=>cat==='all'||c.dataset.cats.split(' ').includes(cat));
+  const list=cards.filter(c=>{const cs=c.dataset.cats.split(' ');return cat!=='all'?cs.includes(cat):group==='all'||cs.some(k=>groupOf[k]===group)});
   const total=Math.max(1,Math.ceil(list.length/perPage));
   page=Math.min(Math.max(1,page),total);
   const start=(page-1)*perPage, shown=list.slice(start,start+perPage);
   cards.forEach(c=>c.style.display=shown.includes(c)?'':'none');
-  chips.forEach(c=>{const on=c.dataset.cat===cat;c.classList.toggle('active',on);c.setAttribute('aria-pressed',on)});
+  tabs.forEach(t=>{const on=t.dataset.group===group;t.classList.toggle('active',on);t.setAttribute('aria-pressed',on)});
+  chips.forEach(c=>{const on=c.dataset.cat===cat;c.hidden=c.dataset.g!==group;c.classList.toggle('active',on);c.setAttribute('aria-pressed',on)});
+  rail.hidden=group==='all';
   count.textContent=box.dataset.showing.replace('{from}',list.length?start+1:0).replace('{to}',start+shown.length).replace('{total}',list.length);
   pager.hidden=total<2;
   prev.disabled=page===1; next.disabled=page===total;
@@ -185,13 +233,16 @@ document.querySelectorAll('.catalog').forEach(box=>{
    pages.appendChild(b);
   });
   const q=new URLSearchParams();
-  if(cat!=='all') q.set('category',cat);
+  if(cat!=='all') q.set('category',cat); else if(group!=='all') q.set('group',group);
   if(page>1) q.set('page',page);
   history.replaceState(null,'',location.pathname+(q.toString()?'?'+q:''));
   if(scroll) box.scrollIntoView({behavior:'smooth',block:'start'});
  }
- chips.forEach(c=>c.addEventListener('click',()=>{cat=c.dataset.cat;page=1;render(false)}));
+ tabs.forEach(t=>t.addEventListener('click',()=>{group=t.dataset.group;cat='all';page=1;render(false);resetRail()}));
+ chips.forEach(c=>c.addEventListener('click',()=>{cat=cat===c.dataset.cat?'all':c.dataset.cat;page=1;render(false)}));
  prev.addEventListener('click',()=>{page--;render(true)});
  next.addEventListener('click',()=>{page++;render(true)});
- render(cat!=='all'||page>1);
+ render(cat!=='all'||group!=='all'||page>1);
+ const on=chips.find(c=>c.dataset.cat===cat);
+ resetRail(); if(on){const row=on.parentNode;row.scrollLeft+=on.getBoundingClientRect().left-row.getBoundingClientRect().left-40}
 });

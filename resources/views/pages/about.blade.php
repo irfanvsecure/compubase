@@ -9,7 +9,7 @@
   <div class="container">
     <div class="left"><span>Abu Dhabi campus</span><span>Weekdays, Monday to Friday</span><span>Morning and evening classes</span></div>
     <div class="right">
-      <a href="tel:0506399915">📞 050 6399915</a>
+      <a href="tel:+97126771117">📞 02 677 1117</a>
       <a href="{{ route('about-ar') }}" title="Arabic version" style="font-weight:700">AR</a>
       <span class="status">REGISTRATION OPEN</span>
     </div>
@@ -69,7 +69,7 @@
   <div class="steps-photo"><div class="photo-frame">📷 &nbsp;Photograph goes here: the CompuBase training rooms, faculty, or reception at the Abu Dhabi centre.</div></div>
 </div></section>
 <section class="closing"><div class="container">
-  <div><h2>Come and see the centre.</h2><p>CompuBase Training Center, Abu Dhabi. Call or WhatsApp 050 6399915.</p></div>
+  <div><h2>Come and see the centre.</h2><p>CompuBase Training Center, Abu Dhabi. Call 02 677 1117 or WhatsApp 056 689 3378.</p></div>
   <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Contact us</a><a class="btn btn-outline" href="{{ route('courses') }}">Browse courses</a></div>
 </div></section><footer class="site">
   <div class="container">
@@ -81,7 +81,7 @@
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
         <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">[info@compubase.ae]</a><br>Sunday to Thursday · [opening hours]</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
       </div>
     </div>
   </div>
@@ -93,8 +93,8 @@
   </div>
 </footer>
 <div class="mobile-bar">
-  <a class="btn call" href="tel:0506399915">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/9710506399915">WhatsApp</a>
+  <a class="btn call" href="tel:+97126771117">📞</a>
+  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 

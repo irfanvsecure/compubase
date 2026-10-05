@@ -9,7 +9,7 @@
   <div class="container">
     <div class="left"><span>Abu Dhabi campus</span><span>Weekdays, Monday to Friday</span><span>Morning and evening classes</span></div>
     <div class="right">
-      <a href="tel:0506399915">📞 050 6399915</a>
+      <a href="tel:+97126771117">📞 02 677 1117</a>
       <a href="{{ route('contact-ar') }}" title="Arabic version" style="font-weight:700">AR</a>
       <span class="status">REGISTRATION OPEN</span>
     </div>
@@ -60,11 +60,12 @@
   <aside>
     <div class="side-box">
       <h4>Reach us directly</h4>
-      <p><b style="color:var(--navy)">Phone / WhatsApp</b><br><a href="tel:0506399915" style="color:var(--gold-ink);font-weight:700">050 6399915</a></p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">Email</b><br><a href="mailto:info@compubase.ae">[info@compubase.ae]</a></p>
+      <p><b style="color:var(--navy)">Phone</b><br><a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a></p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">WhatsApp</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">Email</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Address</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Office hours</b><br>Sunday to Thursday · [opening hours]</p>
-      <a class="btn btn-gold" style="width:100%;margin-top:16px" href="https://wa.me/9710506399915">WhatsApp us now</a>
+      <a class="btn btn-gold" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">WhatsApp us now</a>
     </div>
     <div class="side-box">
       <h4>Location map</h4>
@@ -75,7 +76,7 @@
 <style>@media(max-width:1024px){#contactGrid{grid-template-columns:1fr!important}}</style>
 <section class="closing"><div class="container">
   <div><h2>Prefer to just call?</h2><p>An advisor answers Sunday to Thursday during office hours.</p></div>
-  <div class="actions"><a class="btn btn-navy" href="tel:0506399915">Call 050 6399915</a></div>
+  <div class="actions"><a class="btn btn-navy" href="tel:+97126771117">Call 02 677 1117</a></div>
 </div></section><footer class="site">
   <div class="container">
     <div class="foot-grid">
@@ -86,7 +87,7 @@
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
         <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">[info@compubase.ae]</a><br>Sunday to Thursday · [opening hours]</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
       </div>
     </div>
   </div>
@@ -98,8 +99,8 @@
   </div>
 </footer>
 <div class="mobile-bar">
-  <a class="btn call" href="tel:0506399915">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/9710506399915">WhatsApp</a>
+  <a class="btn call" href="tel:+97126771117">📞</a>
+  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 

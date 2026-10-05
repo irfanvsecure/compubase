@@ -4,7 +4,7 @@
   <div class="container">
     <div class="left"><span>مقرّنا في أبوظبي</span><span>من الاثنين إلى الجمعة</span><span>دوام صباحي ومسائي</span></div>
     <div class="right">
-      <a href="tel:0506399915">📞 050 6399915</a>
+      <a href="tel:+97126771117">📞 02 677 1117</a>
       <a href="{{ $alt }}" style="font-weight:700">EN</a>
       <span class="status">التسجيل مفتوح</span>
     </div>
@@ -36,7 +36,7 @@
   <div class="container">
     <div class="left"><span>Abu Dhabi campus</span><span>Weekdays, Monday to Friday</span><span>Morning and evening classes</span></div>
     <div class="right">
-      <a href="tel:0506399915">📞 050 6399915</a>
+      <a href="tel:+97126771117">📞 02 677 1117</a>
       <a href="{{ $alt }}" title="Arabic version" style="font-weight:700">AR</a>
       <span class="status">REGISTRATION OPEN</span>
     </div>

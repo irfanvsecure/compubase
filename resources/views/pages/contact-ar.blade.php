@@ -12,7 +12,7 @@
   <div class="container">
     <div class="left"><span>مقرّنا في أبوظبي</span><span>من الاثنين إلى الجمعة</span><span>دوام صباحي ومسائي</span></div>
     <div class="right">
-      <a href="tel:0506399915">📞 050 6399915</a>
+      <a href="tel:+97126771117">📞 02 677 1117</a>
       <a href="{{ route('contact') }}" style="font-weight:700">EN</a>
       <span class="status">التسجيل مفتوح</span>
     </div>
@@ -68,11 +68,12 @@
   <aside>
     <div class="side-box">
       <h4>تواصل معنا مباشرة</h4>
-      <p><b style="color:var(--navy)">الهاتف / واتساب</b><br><a href="tel:0506399915" style="color:var(--gold-ink);font-weight:700">050 6399915</a></p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">البريد الإلكتروني</b><br><a href="mailto:info@compubase.ae">info@compubase.ae</a></p>
+      <p><b style="color:var(--navy)">الهاتف</b><br><a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a></p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">واتساب</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">البريد الإلكتروني</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">العنوان</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
       <p style="margin-top:12px"><b style="color:var(--navy)">ساعات الدوام</b><br>الأحد – الخميس · [ساعات الدوام]</p>
-      <a class="btn btn-gold" style="width:100%;margin-top:16px" href="https://wa.me/9710506399915">راسلنا على واتساب الآن</a>
+      <a class="btn btn-gold" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">راسلنا على واتساب الآن</a>
     </div>
     <div class="side-box">
       <h4>خريطة الموقع</h4>
@@ -84,7 +85,7 @@
 
 <section class="closing"><div class="container">
   <div><h2>تفضّل الاتصال مباشرة؟</h2><p>يجيب المستشار من الأحد إلى الخميس خلال ساعات الدوام.</p></div>
-  <div class="actions"><a class="btn btn-navy" href="tel:0506399915">اتصل على 050 6399915</a></div>
+  <div class="actions"><a class="btn btn-navy" href="tel:+97126771117">اتصل على 02 677 1117</a></div>
 </div></section>
 <!-- FOOTER -->
 <footer class="site">
@@ -97,7 +98,7 @@
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:0506399915">050 6399915</a><br><a href="mailto:info@compubase.ae">info@compubase.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>
       </div>
     </div>
   </div>
@@ -110,8 +111,8 @@
 </footer>
 
 <div class="mobile-bar">
-  <a class="btn call" href="tel:0506399915">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/9710506399915">واتساب</a>
+  <a class="btn call" href="tel:+97126771117">📞</a>
+  <a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a>
   <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل</a>
 </div>
 
