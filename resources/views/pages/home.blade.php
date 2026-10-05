@@ -64,9 +64,9 @@
       </div>
     </div>
     <div class="hero-box hero-slider" >
-      <div class="hs-slide active"><img class="bg" src="https://picsum.photos/seed/compubase-class/900/700" alt="Classroom training at CompuBase Abu Dhabi"><div class="cap">Classroom sessions, Monday to Friday — morning and evening groups</div></div>
-      <div class="hs-slide"><img class="bg" src="https://picsum.photos/seed/compubase-cert/900/700" alt="Professional certification preparation"><div class="cap">PMP, CIA, CMA and CISA exam preparation with in-house faculty</div></div>
-      <div class="hs-slide"><img class="bg" src="https://picsum.photos/seed/compubase-cyber/900/700" alt="Cyber security and AI workshops"><div class="cap">Hands-on cyber security, ethical hacking and AI workshops</div></div>
+      <div class="hs-slide active"><img class="bg" src="{{ url('uploads/2026/10/itil-4-foundation-service-value-class-eqmevv.jpg') }}" alt="Trainer leading a classroom session with working professionals at CompuBase Abu Dhabi"><div class="cap">Classroom sessions, Monday to Friday — morning and evening groups</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/prince2-project-board-plan-presentation-yjldrv.jpg') }}" alt="Professionals preparing for project management and certification exams"><div class="cap">PMP, CIA, CMA and CISA exam preparation with in-house faculty</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/certified-cyber-security-specialist-ccss-isucq2.jpg') }}" alt="Trainees in a hands-on cyber security lab with an instructor"><div class="cap">Hands-on cyber security, ethical hacking and AI workshops</div></div>
       <div class="hs-arrows"><button class="hs-prev" aria-label="Previous">‹</button><button class="hs-next" aria-label="Next">›</button></div>
       <div class="hs-dots"></div>
     </div>
@@ -235,7 +235,7 @@
       <div class="step"><div class="eyebrow">Step 02</div><h3>Confirm your place</h3><p>Complete the registration form and settle the fee. You receive written confirmation with the venue, the start date and the daily timings.</p></div>
       <div class="step"><div class="eyebrow">Step 03</div><h3>Attend and certify</h3><p>Train Monday to Friday in your chosen group, then collect your CompuBase completion certificate and your exam guidance where the course leads to one.</p></div>
     </div>
-    <div class="steps-photo"><div class="photo-frame">📷 &nbsp;Photograph goes here: the CompuBase training room, a trainer mid-session, or the reception at the Abu Dhabi centre. Secure releases from anyone identifiable.</div></div>
+    <div class="steps-photo"><img src="{{ url('uploads/2026/10/azure-fundamentals-cloud-concepts-class-bevdhj.jpg') }}" alt="Trainer explaining concepts on a whiteboard to a CompuBase class" loading="lazy"></div>
   </div>
 </section>
 

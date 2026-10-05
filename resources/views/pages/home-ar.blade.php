@@ -59,9 +59,9 @@
       </div>
     </div>
     <div class="hero-box hero-slider">
-      <div class="hs-slide active"><img class="bg" src="https://picsum.photos/seed/compubase-class/900/700" alt="قاعة تدريب في كمبيوبيس أبوظبي"><div class="cap">حصص صفية من الاثنين إلى الجمعة — مجموعات صباحية ومسائية</div></div>
-      <div class="hs-slide"><img class="bg" src="https://picsum.photos/seed/compubase-cert/900/700" alt="التحضير للشهادات المهنية"><div class="cap">التحضير لامتحانات إدارة المشاريع والتدقيق والمحاسبة مع كادرنا الداخلي</div></div>
-      <div class="hs-slide"><img class="bg" src="https://picsum.photos/seed/compubase-cyber/900/700" alt="ورش الأمن السيبراني والذكاء الاصطناعي"><div class="cap">ورش عملية في الأمن السيبراني والاختراق الأخلاقي والذكاء الاصطناعي</div></div>
+      <div class="hs-slide active"><img class="bg" src="{{ url('uploads/2026/10/itil-4-foundation-service-value-class-eqmevv.jpg') }}" alt="مدرّب يقود حصة صفية مع مهنيين في مركز كمبيوبيس أبوظبي"><div class="cap">حصص صفية من الاثنين إلى الجمعة — مجموعات صباحية ومسائية</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/prince2-project-board-plan-presentation-yjldrv.jpg') }}" alt="مهنيون يستعدون لامتحانات إدارة المشاريع والشهادات المهنية"><div class="cap">التحضير لامتحانات إدارة المشاريع والتدقيق والمحاسبة مع كادرنا الداخلي</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/certified-cyber-security-specialist-ccss-isucq2.jpg') }}" alt="متدربون في مختبر عملي للأمن السيبراني مع مدرّب"><div class="cap">ورش عملية في الأمن السيبراني والاختراق الأخلاقي والذكاء الاصطناعي</div></div>
       <div class="hs-arrows"><button class="hs-prev" aria-label="السابق">›</button><button class="hs-next" aria-label="التالي">‹</button></div>
       <div class="hs-dots"></div>
     </div>
@@ -220,7 +220,7 @@
       <div class="step"><div class="eyebrow">الخطوة 02</div><h3>أكّد مقعدك</h3><p>أكمل نموذج التسجيل وسدّد الرسوم. تصلك رسالة تأكيد مكتوبة بالمكان وتاريخ البدء والتوقيت اليومي.</p></div>
       <div class="step"><div class="eyebrow">الخطوة 03</div><h3>احضر واحصل على شهادتك</h3><p>تدرّب من الاثنين إلى الجمعة في مجموعتك، ثم استلم شهادة الإتمام من كمبيوبيس مع إرشادات الامتحان إن كانت الدورة تؤدي إليه.</p></div>
     </div>
-    <div class="steps-photo"><div class="photo-frame">📷 &nbsp;مكان الصورة: قاعة التدريب في كمبيوبيس، أو مدرّب أثناء الحصة، أو الاستقبال في مقر أبوظبي.</div></div>
+    <div class="steps-photo"><img src="{{ url('uploads/2026/10/azure-fundamentals-cloud-concepts-class-bevdhj.jpg') }}" alt="مدرّب يشرح المفاهيم على السبورة لمتدربي كمبيوبيس" loading="lazy"></div>
   </div>
 </section>
 
