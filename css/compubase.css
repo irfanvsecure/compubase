@@ -549,3 +549,41 @@ body{direction:rtl;text-align:right}
 [dir="rtl"] .about-photo img{box-shadow:-18px 18px 0 0 var(--gold),0 24px 50px rgba(15,40,81,.22)}
 @media(max-width:1024px){.about-intro{grid-template-columns:1fr;gap:36px}.about-photo{max-width:640px}}
 @media(max-width:640px){.about-photo{margin:0 10px 10px 0}[dir="rtl"] .about-photo{margin:0 0 10px 10px}.about-photo img{box-shadow:10px 10px 0 0 var(--gold),0 18px 36px rgba(15,40,81,.2)}[dir="rtl"] .about-photo img{box-shadow:-10px 10px 0 0 var(--gold),0 18px 36px rgba(15,40,81,.2)}}
+
+/* ---------- Course page sidebar cards ---------- */
+.cs-side{display:grid;gap:20px;align-content:start}
+.cs-card{background:#fff;border:1px solid var(--line);border-top:3px solid var(--gold);padding:22px 22px 20px}
+.cs-card h4{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-ink);margin:0 0 14px;line-height:18px}
+.cs-card p{font-size:15px;line-height:24px;margin:0}
+.cs-card p+p{margin-top:10px}
+.cs-glance{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.cs-glance div{background:var(--paper);padding:12px}
+.cs-glance .wide{grid-column:1/-1}
+.cs-glance span{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#6b7688;font-weight:700}
+.cs-glance b{display:block;color:var(--navy);font-size:16px;margin-top:4px;line-height:22px}
+.cs-list li{position:relative;padding:8px 0 8px 28px;font-size:15px;line-height:22px;border-bottom:1px dashed var(--line)}
+.cs-list li:last-child{border-bottom:0}
+.cs-list li::before{content:"\2713";position:absolute;left:0;top:9px;width:18px;height:18px;border-radius:50%;background:var(--gold);color:#fff;font-size:11px;font-weight:800;display:flex;align-items:center;justify-content:center}
+[dir="rtl"] .cs-list li{padding:8px 28px 8px 0}
+[dir="rtl"] .cs-list li::before{left:auto;right:0}
+.cs-more{display:inline-block;margin-top:12px;font-weight:800;color:var(--gold-ink);font-size:14px;background:none;border:0;padding:0;cursor:pointer;font-family:inherit}
+.cs-more:hover{color:var(--navy)}
+.cs-clamp{max-height:120px;overflow:hidden;position:relative}
+.cs-clamp::after{content:"";position:absolute;left:0;right:0;bottom:0;height:40px;background:linear-gradient(rgba(255,255,255,0),#fff)}
+.cs-clamp.open{max-height:none}
+.cs-clamp.open::after{display:none}
+.cs-clamp.short::after{display:none}
+.cs-team{background:var(--navy);color:#fff;border:0;border-top:3px solid var(--gold)}
+.cs-team h4{color:var(--gold-light)}
+.cs-team h3{color:#fff;font-size:20px;line-height:26px;margin:0 0 8px}
+.cs-team p{color:rgba(255,255,255,.82)}
+.cs-team .btn{width:100%;margin-top:16px;white-space:normal;text-align:center}
+.cs-rel li{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:10px 0;border-bottom:1px solid var(--line);font-size:15px;line-height:21px;font-weight:600}
+.cs-rel li a{color:var(--navy)}
+.cs-rel li a:hover{color:var(--gold-ink)}
+.cs-rel li small{color:#6b7688;font-weight:600;white-space:nowrap;font-size:13px}
+.cs-help{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+.cs-help a{display:flex;align-items:center;justify-content:center;gap:6px;min-height:44px;font-weight:800;font-size:14px;border:1px solid var(--line);color:var(--navy)}
+.cs-help a.wa{background:#1f9d55;border-color:#1f9d55;color:#fff}
+.cs-help a:hover{border-color:var(--gold)}
+[dir="rtl"] .cs-card h4{letter-spacing:0;font-size:14px}

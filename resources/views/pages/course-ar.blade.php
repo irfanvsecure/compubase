@@ -184,17 +184,69 @@
         @endif
       </div>
     </div>
-    <aside>
+    <aside class="cs-side">
+      @php
+          $catCourses = Catalog::categories()[$course['cat']]['courses'] ?? [];
+          $modules = $content ? count($content['outline'] ?? []) : 0;
+          $wins = $content ? ($content['objectives'] ?: $content['competencies']) : [];
+      @endphp
+      <div class="cs-card">
+        <h4>الدورة في لمحة</h4>
+        <div class="cs-glance">
+          <div><span>المدة</span><b>{{ $duration }}</b></div>
+          @if ($modules)<div><span>الوحدات</span><b>{{ $modules }}</b></div>@else<div><span>الأيام</span><b>الاثنين–الجمعة</b></div>@endif
+          <div><span>اللغة</span><b>العربية / الإنجليزية</b></div>
+          <div><span>الأسلوب</span><b>حضوري</b></div>
+          <div class="wide"><span>التوقيت</span><b>صباحاً أو مساءً · الاثنين–الجمعة</b></div>
+        </div>
+      </div>
+
+      @if ($wins)
+      <div class="cs-card">
+        <h4>ستتمكّن من</h4>
+        <ul class="cs-list">
+          @foreach (array_slice($wins, 0, 3) as $item)<li>{{ $item }}</li>@endforeach
+        </ul>
+        @if ($hasObjectives && count($wins) > 3)<a class="cs-more" href="#objectives" data-open-tab="objectives">عرض الأهداف كاملة ({{ count($wins) }}) ←</a>@endif
+      </div>
+      @endif
+
       @if ($hasAudience)
-      <div class="side-box" id="attend-side">
+      <div class="cs-card" id="attend-side">
         <h4>لمن هذه الدورة</h4>
         @if ($content)
-          @foreach ($content['audience'] as $para)<p style="font-size:16px">{{ $para }}</p>@endforeach
+          <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{{ $para }}</p>@endforeach</div>
+          <button type="button" class="cs-more cs-toggle" data-more="اقرأ المزيد ←" data-less="عرض أقل ↑">اقرأ المزيد ←</button>
         @else
         <div class="placeholder-note" style="margin-top:0">[الفئة المستهدفة من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
       @endif
+
+      <div class="cs-card cs-team">
+        <h4>تدريب فريق؟</h4>
+        <h3>نقدّم هذه الدورة في مقر مؤسستك</h3>
+        <p>ننفّذها داخل مؤسستك في أنحاء الإمارات، في مواعيد تناسب سير عملك.</p>
+        <a class="btn btn-gold" href="{{ route('corporate-ar') }}">اطلب عرض سعر ←</a>
+      </div>
+
+      @if (count($catCourses) > 1)
+      <div class="cs-card">
+        <h4>المزيد في {{ Catalog::category($course, true) }}</h4>
+        <ul class="cs-rel">
+          @foreach (Catalog::related($course, 4) as $other)
+          <li><a href="{{ Catalog::url($other, true) }}">{{ Catalog::title($other, true) }}</a><small>{{ Catalog::duration($other['days'], true) }}</small></li>
+          @endforeach
+        </ul>
+        <a class="cs-more" href="{{ route('courses-ar', ['go' => $course['cat']]) }}">عرض كل الدورات ({{ count($catCourses) }}) ←</a>
+      </div>
+      @endif
+
+      <div class="cs-card">
+        <h4>تحتاج مساعدة في الاختيار؟</h4>
+        <p>تحدّث مع مستشار حول المستوى والتوقيت ومدى ملاءمة الدورة.</p>
+        <div class="cs-help"><a class="wa" href="https://wa.me/971566893378">💬 واتساب</a><a href="tel:+97126771117">📞 اتصل بنا</a></div>
+      </div>
     </aside>
   </div>
 </section>

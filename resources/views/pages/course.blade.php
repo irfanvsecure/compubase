@@ -178,17 +178,69 @@
       </div>
 
     </div>
-    <aside>
+    <aside class="cs-side">
+      @php
+          $catCourses = Catalog::categories()[$course['cat']]['courses'] ?? [];
+          $modules = $content ? count($content['outline'] ?? []) : 0;
+          $wins = $content ? ($content['objectives'] ?: $content['competencies']) : [];
+      @endphp
+      <div class="cs-card">
+        <h4>Course at a glance</h4>
+        <div class="cs-glance">
+          <div><span>Duration</span><b>{{ $duration }}</b></div>
+          @if ($modules)<div><span>Modules</span><b>{{ $modules }}</b></div>@else<div><span>Days</span><b>Mon–Fri</b></div>@endif
+          <div><span>Language</span><b>English / Arabic</b></div>
+          <div><span>Format</span><b>Classroom</b></div>
+          <div class="wide"><span>Timing</span><b>Morning or evening · Mon–Fri</b></div>
+        </div>
+      </div>
+
+      @if ($wins)
+      <div class="cs-card">
+        <h4>You'll be able to</h4>
+        <ul class="cs-list">
+          @foreach (array_slice($wins, 0, 3) as $item)<li>{{ $item }}</li>@endforeach
+        </ul>
+        @if ($hasObjectives && count($wins) > 3)<a class="cs-more" href="#objectives" data-open-tab="objectives">See all {{ count($wins) }} objectives →</a>@endif
+      </div>
+      @endif
+
       @if ($hasAudience)
-      <div class="side-box" id="attend-side">
+      <div class="cs-card" id="attend-side">
         <h4>Who should attend</h4>
         @if ($content)
-          @foreach ($content['audience'] as $para)<p style="font-size:16px">{{ $para }}</p>@endforeach
+          <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{{ $para }}</p>@endforeach</div>
+          <button type="button" class="cs-more cs-toggle" data-more="Read more →" data-less="Show less ↑">Read more →</button>
         @else
         <div class="placeholder-note" style="margin-top:0">[Target audience from the CompuBase course outline.]</div>
         @endif
       </div>
       @endif
+
+      <div class="cs-card cs-team">
+        <h4>Training a team?</h4>
+        <h3>Run this course at your offices</h3>
+        <p>We deliver it in-house across the UAE, on dates that fit your operations.</p>
+        <a class="btn btn-gold" href="{{ route('corporate') }}">Get an in-house quote →</a>
+      </div>
+
+      @if (count($catCourses) > 1)
+      <div class="cs-card">
+        <h4>More in {{ Catalog::category($course) }}</h4>
+        <ul class="cs-rel">
+          @foreach (Catalog::related($course, 4) as $other)
+          <li><a href="{{ Catalog::url($other) }}">{{ Catalog::title($other) }}</a><small>{{ Catalog::duration($other['days']) }}</small></li>
+          @endforeach
+        </ul>
+        <a class="cs-more" href="{{ route('courses', ['go' => $course['cat']]) }}">View all {{ count($catCourses) }} courses →</a>
+      </div>
+      @endif
+
+      <div class="cs-card">
+        <h4>Need help choosing?</h4>
+        <p>Talk to an advisor about level, timing and fit.</p>
+        <div class="cs-help"><a class="wa" href="https://wa.me/971566893378">💬 WhatsApp</a><a href="tel:+97126771117">📞 Call us</a></div>
+      </div>
     </aside>
   </div>
 </section>

@@ -246,3 +246,10 @@ document.querySelectorAll('.catalog').forEach(box=>{
  const on=chips.find(c=>c.dataset.cat===cat);
  resetRail(); if(on){const row=on.parentNode;row.scrollLeft+=on.getBoundingClientRect().left-row.getBoundingClientRect().left-40}
 });
+// Course sidebar: links that open a tab, and the "Read more" toggle on long text.
+document.querySelectorAll('[data-open-tab]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();if(showTab(a.dataset.openTab,true)){const t=document.querySelector('.tabs');if(t)t.scrollIntoView({behavior:'smooth'});}}));
+document.querySelectorAll('.cs-toggle').forEach(b=>{
+ const box=b.previousElementSibling;
+ if(box&&box.scrollHeight<=box.clientHeight+4){box.classList.add('short');b.hidden=true;return;}
+ b.addEventListener('click',()=>{const open=box.classList.toggle('open');b.textContent=open?b.dataset.less:b.dataset.more;});
+});
