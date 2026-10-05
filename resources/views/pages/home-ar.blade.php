@@ -70,33 +70,11 @@
 
 <!-- COURSE FINDER -->
 <div class="container">
-  <div class="finder">
-    <div class="eyebrow">البحث عن دورة</div>
-    <h3>تحقّق من أقرب مقعد متاح</h3>
-    <form onsubmit="event.preventDefault();scrollSec('schedule')">
-      <div class="field"><label>الفئة</label>
-        <select><option>جميع الفئات</option><option>الشهادات المهنية</option><option>تقنية المعلومات والأمن السيبراني</option><option>اللغات والمهارات المكتبية</option></select></div>
-      <div class="field"><label>الدورة</label>
-        <select><option>أي دورة</option><option>شهادة إدارة المشاريع الاحترافية</option><option>شهادة المدقق الداخلي المعتمد</option><option>شهادة المحاسب الإداري المعتمد</option><option>شهادة مدقق نظم المعلومات المعتمد</option><option>شهادة الاختراق الأخلاقي المعتمدة</option><option>أساسيات الأمن السيبراني</option><option>أساسيات الذكاء الاصطناعي</option><option>هندسة الأوامر النصية</option><option>دورة اللغة الإنجليزية</option><option>دورة التحضير لامتحان الآيلتس</option><option>اللغة العربية لغير الناطقين بها</option><option>مايكروسوفت أوفيس وكوبايلوت</option></select></div>
-      <div class="field"><label>التوقيت المفضل</label>
-        <select><option>صباحي أو مسائي</option><option>صباحي</option><option>مسائي</option></select></div>
-      <button class="btn btn-navy" type="submit">عرض المواعيد ←</button>
-    </form>
-  </div>
+  @include('partials.course-finder', ['ar' => true])
 </div>
 
 <!-- ACCREDITATION -->
-<section class="accred" id="accreditation">
-  <div class="container" style="text-align:center">
-    <div class="eyebrow">معتمدون ومعترف بنا من</div>
-    <div class="marks">
-      <div class="mark">أكتفيت</div>
-      <div class="mark">المجلس الثقافي البريطاني</div>
-      <div class="mark">آيلتس</div>
-      <div class="mark">الرخصة الدولية لقيادة الحاسوب</div>
-    </div>
-  </div>
-</section>
+@include('partials.accreditation', ['ar' => true])
 
 <!-- CATEGORIES -->
 <section class="section" id="courses">

@@ -43,7 +43,7 @@
   <h1>Every CompuBase course, by category.</h1><p class="lead">Every course runs Monday to Friday in Abu Dhabi, with morning and evening groups.</p></div>
 </div></section>
 @use('App\Support\Catalog')
-<section class="section featured catalog" id="catalog" data-per-page="12" data-initial="{{ request('go') }}"
+<section class="section featured catalog" id="catalog" data-per-page="12" data-initial="{{ request('go') }}" data-clear="Clear search" data-days-short="Up to 3 days" data-days-week="4 – 5 days" data-days-long="More than a week"
   data-showing="Showing {from}–{to} of {total} courses"><div class="container">
   @include('partials.cat-filter', ['label' => 'Browse courses by category'])
   <p class="catalog-count" aria-live="polite"></p>

@@ -51,7 +51,7 @@
 </div></section>
 
 @use('App\Support\Catalog')
-<section class="section featured catalog" id="catalog" data-per-page="12" data-initial="{{ request('go') }}"
+<section class="section featured catalog" id="catalog" data-per-page="12" data-initial="{{ request('go') }}" data-clear="مسح البحث" data-days-short="حتى 3 أيام" data-days-week="4 – 5 أيام" data-days-long="أكثر من أسبوع"
   data-showing="عرض {from}–{to} من {total} دورة"><div class="container">
   @include('partials.cat-filter', ['ar' => true, 'label' => 'تصفّح الدورات حسب الفئة'])
   <p class="catalog-count" aria-live="polite"></p>

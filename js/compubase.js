@@ -91,8 +91,66 @@ COURSES.slice(0,8).forEach(c=>{
    `<tr><td><b style="color:var(--navy)">${esc(c.title)}</b></td><td>${esc(c.catName)}</td><td>${c.dur}</td><td>Morning or evening</td><td>2026 &amp; 2027</td><td><a href="${c.url}">Register</a></td></tr>`);
 });}
 
+/* ---------------- Course search helpers (home finder and All Courses) ---------------- */
+function searchNorm(t){return String(t).toLowerCase().replace(/[\u064B-\u0652\u0640]/g,'').replace(/[إأآ]/g,'ا')}
+function searchWords(q){return searchNorm(q).trim().split(/\s+/).filter(Boolean)}
+function fitsDays(d,v){return !v||(v==='short'?d<=3:v==='week'?d>3&&d<=5:d>5)}
+
+/* ---------------- Course finder (home): type to get suggestions, filters narrow the count, Search opens the course or the list ---------------- */
+document.querySelectorAll('.finder-form').forEach(form=>{
+  const data=JSON.parse(form.querySelector('.finder-data').textContent).map(c=>({...c,s:searchNorm(c.s)}));
+  const q=form.querySelector('[name=q]'), cat=form.querySelector('[name=category]'), days=form.querySelector('[name=days]');
+  const list=form.querySelector('.finder-suggest'), btn=form.querySelector('button[type=submit]');
+  let matches=data, active=-1;
+  // Highlight the first matching word in the title (skipped when normalising changed its length, e.g. Arabic diacritics).
+  const hl=(t,words)=>{const n=searchNorm(t),w=words.find(x=>n.includes(x));if(!w||n.length!==t.length)return esc(t);const i=n.indexOf(w);return esc(t.slice(0,i))+'<mark>'+esc(t.slice(i,i+w.length))+'</mark>'+esc(t.slice(i+w.length))};
+  function close(){list.hidden=true;q.setAttribute('aria-expanded','false');q.removeAttribute('aria-activedescendant');active=-1}
+  function mark(i){
+    const items=[...list.querySelectorAll('[role=option]')];
+    if(!items.length) return;
+    active=(i+items.length)%items.length;
+    items.forEach((li,k)=>li.classList.toggle('on',k===active));
+    q.setAttribute('aria-activedescendant',items[active].id);
+    items[active].scrollIntoView({block:'nearest'});
+  }
+  function update(open){
+    const words=searchWords(q.value);
+    matches=data.filter(c=>(!cat.value||c.k.includes(cat.value))&&fitsDays(c.d,days.value)&&words.every(w=>c.s.includes(w)));
+    btn.textContent=matches.length===1?form.dataset.one:matches.length?form.dataset.show.replace('{n}',matches.length):form.dataset.none;
+    btn.disabled=!matches.length;
+    if(!open||!words.length){close();return}
+    list.innerHTML=matches.length
+      ?matches.slice(0,8).map((c,i)=>`<li role="option" id="${list.id}-${i}"><a href="${c.u}"><b>${hl(c.t,words)}</b><small>${esc(c.c)} · ${esc(c.l)}</small></a></li>`).join('')
+        +(matches.length>8?`<li class="more">${esc(form.dataset.show.replace('{n}',matches.length))}</li>`:'')
+      :`<li class="more">${esc(form.dataset.none)}</li>`;
+    list.hidden=false;q.setAttribute('aria-expanded','true');active=-1;
+  }
+  q.addEventListener('input',()=>update(true));
+  q.addEventListener('focus',()=>update(true));
+  cat.addEventListener('change',()=>update(false));
+  days.addEventListener('change',()=>update(false));
+  q.addEventListener('keydown',e=>{
+    if(e.key==='ArrowDown'){e.preventDefault();if(list.hidden)update(true);mark(active+1)}
+    else if(e.key==='ArrowUp'){e.preventDefault();mark(active-1)}
+    else if(e.key==='Escape'){close()}
+    else if(e.key==='Enter'&&active>-1){e.preventDefault();location.href=matches[active].u}
+  });
+  list.addEventListener('click',e=>{if(e.target.closest('.more'))form.requestSubmit()});
+  document.addEventListener('click',e=>{if(!form.querySelector('.finder-q').contains(e.target))close()});
+  form.addEventListener('submit',e=>{
+    e.preventDefault();
+    if(matches.length===1){location.href=matches[0].u;return}
+    const p=new URLSearchParams();
+    if(q.value.trim()) p.set('q',q.value.trim());
+    if(cat.value) p.set('category',cat.value);
+    if(days.value) p.set('days',days.value);
+    location.href=form.action+(p.toString()?'?'+p:'');
+  });
+  update(false);
+});
+
 /* ---------------- Populate select lists ---------------- */
-['finderCourse','proposalCourse'].forEach(sel=>{
+['proposalCourse'].forEach(sel=>{
   const s=document.getElementById(sel);
   if(!s) return;
   COURSES.forEach(c=>{const o=document.createElement('option');o.textContent=c.title;s.appendChild(o)});
@@ -199,6 +257,7 @@ document.querySelectorAll('.catalog').forEach(box=>{
  const params=new URLSearchParams(location.search);
  // cat is a category slug or 'all'; group is 'all', 'management' or 'it'.
  let cat=params.get('category')||box.dataset.initial||'all', group=params.get('group')||'all', page=+params.get('page')||1;
+ let q=(params.get('q')||'').trim(), days=params.get('days')||'';
  if(!groupOf[cat]) cat='all'; else group=groupOf[cat];
  if(!tabs.some(t=>t.dataset.group===group)) group='all';
 
@@ -213,7 +272,10 @@ document.querySelectorAll('.catalog').forEach(box=>{
   return out;
  }
  function render(scroll){
-  const list=cards.filter(c=>{const cs=c.dataset.cats.split(' ');return cat!=='all'?cs.includes(cat):group==='all'||cs.some(k=>groupOf[k]===group)});
+  const words=searchWords(q);
+  const list=cards.filter(c=>{const cs=c.dataset.cats.split(' ');
+   if(c.dataset.title!==undefined&&!(words.every(w=>searchNorm(c.dataset.title).includes(w))&&fitsDays(+c.dataset.days,days))) return false;
+   return cat!=='all'?cs.includes(cat):group==='all'||cs.some(k=>groupOf[k]===group)});
   const total=Math.max(1,Math.ceil(list.length/perPage));
   page=Math.min(Math.max(1,page),total);
   const start=(page-1)*perPage, shown=list.slice(start,start+perPage);
@@ -222,6 +284,11 @@ document.querySelectorAll('.catalog').forEach(box=>{
   chips.forEach(c=>{const on=c.dataset.cat===cat;c.hidden=c.dataset.g!==group;c.classList.toggle('active',on);c.setAttribute('aria-pressed',on)});
   rail.hidden=group==='all';
   count.textContent=box.dataset.showing.replace('{from}',list.length?start+1:0).replace('{to}',start+shown.length).replace('{total}',list.length);
+  if(q||days){
+   const lbl=[q&&`“${q}”`,days&&box.dataset['days'+days[0].toUpperCase()+days.slice(1)]].filter(Boolean).join(' · ');
+   count.insertAdjacentHTML('beforeend',` · <b>${esc(lbl)}</b> <button type="button" class="catalog-clear">${esc(box.dataset.clear||'Clear search')}</button>`);
+   count.querySelector('.catalog-clear').onclick=()=>{q='';days='';page=1;render(false)};
+  }
   pager.hidden=total<2;
   prev.disabled=page===1; next.disabled=page===total;
   pages.innerHTML='';
@@ -232,17 +299,19 @@ document.querySelectorAll('.catalog').forEach(box=>{
    b.onclick=()=>{page=n;render(true)};
    pages.appendChild(b);
   });
-  const q=new URLSearchParams();
-  if(cat!=='all') q.set('category',cat); else if(group!=='all') q.set('group',group);
-  if(page>1) q.set('page',page);
-  history.replaceState(null,'',location.pathname+(q.toString()?'?'+q:''));
+  const u=new URLSearchParams();
+  if(q) u.set('q',q);
+  if(cat!=='all') u.set('category',cat); else if(group!=='all') u.set('group',group);
+  if(days) u.set('days',days);
+  if(page>1) u.set('page',page);
+  history.replaceState(null,'',location.pathname+(u.toString()?'?'+u:''));
   if(scroll) box.scrollIntoView({behavior:'smooth',block:'start'});
  }
  tabs.forEach(t=>t.addEventListener('click',()=>{group=t.dataset.group;cat='all';page=1;render(false);resetRail()}));
  chips.forEach(c=>c.addEventListener('click',()=>{cat=cat===c.dataset.cat?'all':c.dataset.cat;page=1;render(false)}));
  prev.addEventListener('click',()=>{page--;render(true)});
  next.addEventListener('click',()=>{page++;render(true)});
- render(cat!=='all'||group!=='all'||page>1);
+ render(cat!=='all'||group!=='all'||page>1||!!q||!!days);
  const on=chips.find(c=>c.dataset.cat===cat);
  resetRail(); if(on){const row=on.parentNode;row.scrollLeft+=on.getBoundingClientRect().left-row.getBoundingClientRect().left-40}
 });

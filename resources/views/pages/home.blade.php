@@ -75,34 +75,11 @@
 
 <!-- 04 COURSE FINDER -->
 <div class="container">
-  <div class="finder">
-    <div class="eyebrow">Course finder</div>
-    <h3>Check the next available seat</h3>
-    <form onsubmit="event.preventDefault();scrollSec('schedule')">
-      <div class="field"><label>Category</label>
-        <select><option>All categories</option><option>Professional certifications</option><option>IT and cyber security</option><option>Languages and office skills</option></select></div>
-      <div class="field"><label>Course</label>
-        <select id="finderCourse"><option>Any course</option></select></div>
-      <div class="field"><label>Preferred timing</label>
-        <select><option>Morning or evening</option><option>Morning</option><option>Evening</option></select></div>
-      <button class="btn btn-navy" type="submit">Show dates →</button>
-    </form>
-  </div>
+  @include('partials.course-finder')
 </div>
 
 <!-- 05 ACCREDITATION -->
-<section class="accred" id="accreditation">
-  <div class="container" style="text-align:center">
-    <div class="eyebrow">Accredited and recognised by</div>
-    <div class="marks">
-      <div class="mark">ACTVET</div>
-      <div class="mark">BRITISH COUNCIL</div>
-      <div class="mark">IELTS</div>
-      <div class="mark">ICDL</div>
-    </div>
-    <div class="placeholder-note">Placeholders for the four marks already shown on compubasetraining.ae. [Confirm whether PMI, ISACA, IIA, IMA and EC-Council partnerships may also be displayed.]</div>
-  </div>
-</section>
+@include('partials.accreditation')
 
 <!-- 06 CATEGORIES -->
 <section class="section" id="courses">
