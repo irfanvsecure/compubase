@@ -16,12 +16,12 @@
     @endforeach
   </div>
   <div class="feat-rail" hidden>
-    <button type="button" class="rail-arrow prev" aria-label="{{ $ar ? 'الفئات السابقة' : 'Scroll categories back' }}">&lsaquo;</button>
+    <button type="button" class="rail-arrow prev" aria-label="{{ $ar ? 'الفئات السابقة' : 'Scroll categories back' }}"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
     <div class="feat-cats">
       @foreach ($categories as $cat => $category)
       <button type="button" data-cat="{{ $cat }}" data-g="{{ $category['group'] }}">{{ $ar ? $category['ar'] : $category['en'] }} <span>{{ count($category['courses']) }}</span></button>
       @endforeach
     </div>
-    <button type="button" class="rail-arrow next" aria-label="{{ $ar ? 'الفئات التالية' : 'Scroll categories forward' }}">&rsaquo;</button>
+    <button type="button" class="rail-arrow next" aria-label="{{ $ar ? 'الفئات التالية' : 'Scroll categories forward' }}"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
   </div>
 </nav>

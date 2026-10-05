@@ -119,13 +119,13 @@
         <button type="button" data-g="it">IT &amp; Technology <span></span></button>
       </div>
       <div class="feat-rail" id="featRail" hidden>
-        <button type="button" class="rail-arrow prev" aria-label="Scroll categories back">&lsaquo;</button>
+        <button type="button" class="rail-arrow prev" aria-label="Scroll categories back"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
         <div class="feat-cats" id="filterTabs">
           @foreach (Catalog::categories() as $cat => $category)
           <button type="button" data-f="{{ $cat }}" data-g="{{ $category['group'] }}" data-name="{{ $category['en'] }}">{{ $category['en'] }} <span>{{ count($category['courses']) }}</span></button>
           @endforeach
         </div>
-        <button type="button" class="rail-arrow next" aria-label="Scroll categories forward">&rsaquo;</button>
+        <button type="button" class="rail-arrow next" aria-label="Scroll categories forward"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
       </div>
     </div>
     <div class="course-grid" id="courseGrid"></div>

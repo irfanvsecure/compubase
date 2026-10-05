@@ -40,6 +40,7 @@ function railArrows(rail){
     const max=row.scrollWidth-row.clientWidth,x=Math.abs(row.scrollLeft);
     prev.disabled=x<4;next.disabled=x>max-4;
     rail.classList.toggle('no-scroll',max<4);
+    rail.classList.toggle('can-prev',!prev.disabled);rail.classList.toggle('can-next',!next.disabled);
   }
   const step=d=>row.scrollBy({left:d*row.clientWidth*.7*(rtl?-1:1),behavior:'smooth'});
   prev.addEventListener('click',()=>step(-1));next.addEventListener('click',()=>step(1));
@@ -315,7 +316,9 @@ document.querySelectorAll('.catalog').forEach(box=>{
  next.addEventListener('click',()=>{page++;render(true)});
  render(cat!=='all'||group!=='all'||page>1||!!q||!!days);
  const on=chips.find(c=>c.dataset.cat===cat);
- resetRail(); if(on){const row=on.parentNode;row.scrollLeft+=on.getBoundingClientRect().left-row.getBoundingClientRect().left-40}
+ resetRail();
+ // Centre the chosen category in its row (works the same left-to-right and right-to-left).
+ if(on){const row=on.parentNode,r=row.getBoundingClientRect(),c=on.getBoundingClientRect();row.scrollLeft+=(c.left+c.width/2)-(r.left+r.width/2)}
 });
 // Course sidebar: links that open a tab, and the "Read more" toggle on long text.
 document.querySelectorAll('[data-open-tab]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();if(showTab(a.dataset.openTab,true)){const t=document.querySelector('.tabs');if(t)t.scrollIntoView({behavior:'smooth'});}}));

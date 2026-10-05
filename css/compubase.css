@@ -487,9 +487,7 @@ body{direction:rtl;text-align:right}
 .feat-groups button:hover{color:var(--navy)}
 .feat-groups button.active{background:var(--navy);color:#fff}
 .feat-groups button.active span{background:var(--gold);color:var(--navy-deep)}
-.feat-rail{display:flex;align-items:center;gap:8px;margin-top:16px}
 .feat-rail[hidden]{display:none}
-.feat-cats{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0;padding:2px 0}
 .feat-cats::-webkit-scrollbar{display:none}
 .feat-cats button{flex:0 0 auto;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 16px;font-family:inherit;font-size:14px;font-weight:600;color:var(--text);cursor:pointer;display:inline-flex;align-items:center;gap:7px;white-space:nowrap;transition:border-color .2s,background .2s,color .2s}
 .feat-cats button[hidden]{display:none}
@@ -497,21 +495,15 @@ body{direction:rtl;text-align:right}
 .feat-cats button:hover{border-color:var(--gold);color:var(--navy)}
 .feat-cats button.active{background:var(--gold);border-color:var(--gold);color:var(--navy-deep)}
 .feat-cats button.active span{opacity:.85}
-.rail-arrow{flex:0 0 38px;height:38px;border-radius:50%;border:1px solid var(--line);background:#fff;color:var(--navy);font-size:22px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.2s}
-.rail-arrow:hover:not(:disabled){background:var(--navy);color:#fff;border-color:var(--navy)}
-.rail-arrow:disabled{opacity:.3;cursor:default}
-.feat-rail.no-scroll .rail-arrow{display:none}
 .feat-more{text-align:center;margin-top:8px}
 @media(max-width:640px){
   .feat-groups{display:flex;width:100%}
   .feat-groups button{flex:1 1 auto;justify-content:center;padding:10px 12px;font-size:14px}
-  .rail-arrow{display:none}
 }
 
 /* Card category tag: a light label instead of a heavy gold block */
 .course-card .tag{background:none;color:var(--gold-light);padding:0 0 0 10px;font-size:11px;letter-spacing:.14em;line-height:1.5;border-left:3px solid var(--gold)}
 [dir="rtl"] .course-card .tag{border-left:0;border-right:3px solid var(--gold);padding:0 10px 0 0}
-[dir="rtl"] .rail-arrow{transform:scaleX(-1)}
 
 /* ---------- Home hero photo slider: framed photo, Ken Burns, progress dots ---------- */
 .hero-2col .hero-box{min-height:0;aspect-ratio:5/4;border:0;border-radius:14px;box-shadow:18px 18px 0 0 var(--gold),0 28px 60px rgba(0,0,0,.45);margin:0 18px 18px 0}
@@ -762,3 +754,23 @@ button.dl-link:hover{text-decoration:underline}
   body.print-outline .course-hero .container,body.print-outline .course-body .container{display:block}
   body.print-outline .tab-panel{display:block!important;break-inside:auto;margin-bottom:18px}
 }
+
+/* ---------- Scrolling category row: faded edges, arrows only where there is more ---------- */
+.feat-rail{position:relative;margin-top:16px}
+.feat-cats{--fs:0px;--fe:0px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;min-width:0;padding:4px 2px;
+  -webkit-mask-image:linear-gradient(to right,transparent 0,#000 var(--fs),#000 calc(100% - var(--fe)),transparent 100%);
+  mask-image:linear-gradient(to right,transparent 0,#000 var(--fs),#000 calc(100% - var(--fe)),transparent 100%)}
+[dir="rtl"] .feat-cats{-webkit-mask-image:linear-gradient(to left,transparent 0,#000 var(--fs),#000 calc(100% - var(--fe)),transparent 100%);
+  mask-image:linear-gradient(to left,transparent 0,#000 var(--fs),#000 calc(100% - var(--fe)),transparent 100%)}
+.feat-rail.can-prev .feat-cats{--fs:90px}
+.feat-rail.can-next .feat-cats{--fe:90px}
+.rail-arrow{position:absolute;top:50%;z-index:2;width:34px;height:34px;margin-top:-17px;border-radius:50%;border:1px solid rgba(15,40,81,.08);background:#fff;color:var(--navy);
+  box-shadow:0 4px 14px rgba(10,28,57,.14);cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;
+  transition:opacity .2s,transform .2s,background .2s,color .2s}
+.rail-arrow.prev{inset-inline-start:0}
+.rail-arrow.next{inset-inline-end:0}
+.rail-arrow:hover{background:var(--navy);color:#fff;transform:scale(1.06)}
+.rail-arrow:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.rail-arrow:disabled,.feat-rail.no-scroll .rail-arrow{opacity:0;pointer-events:none}
+[dir="rtl"] .rail-arrow svg{transform:scaleX(-1)}
+@media(max-width:640px){.rail-arrow{display:none}.feat-rail.can-prev .feat-cats{--fs:28px}.feat-rail.can-next .feat-cats{--fe:28px}}
