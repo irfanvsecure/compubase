@@ -10,6 +10,8 @@
     $hasObjectives = $content && ($content['competencies'] || $content['objectives'] || $content['objectivesIntro']);
     $hasAudience = ! $content || $content['audience'];
     // An outline-only document has nothing for the Overview tab, so the page opens on the outline.
+    $tabPhotos = config('course_tab_photos.'.$course['slug'], []);
+    $tabPhoto = fn ($k) => ! empty($tabPhotos[$k]) && is_file(base_path($tabPhotos[$k])) ? asset($tabPhotos[$k]) : null;
     $hasOverview = ! $content || $photo || $content['overview'] || $content['methodology'] || ! empty($content['extra']);
 @endphp
 
@@ -134,6 +136,7 @@
 
       @if ($hasObjectives)
       <div class="tab-panel" id="objectives" role="tabpanel">
+        @if ($tabPhoto('objectives'))<img class="tab-photo" src="{{ $tabPhoto('objectives') }}" alt="{{ $title }}" loading="lazy">@endif
         @if ($content['competencies'])
         <h2>Target competencies</h2>
         <ul class="outcomes">
@@ -151,6 +154,7 @@
       @endif
 
       <div @class(['tab-panel', 'active' => ! $hasOverview]) id="outline" role="tabpanel">
+        @if ($tabPhoto('outline'))<img class="tab-photo" src="{{ $tabPhoto('outline') }}" alt="{{ $title }}" loading="lazy">@endif
         <h2>Course outline</h2>
         @if ($content)
         @foreach ($content['outline'] as $module)
@@ -207,6 +211,7 @@
 
       @if ($hasAudience)
       <div class="cs-card" id="attend-side">
+        @if ($tabPhoto('audience'))<img class="cs-photo" src="{{ $tabPhoto('audience') }}" alt="{{ $title }}" loading="lazy">@endif
         <h4>Who should attend</h4>
         @if ($content)
           <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{{ $para }}</p>@endforeach</div>

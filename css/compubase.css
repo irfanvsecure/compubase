@@ -643,3 +643,11 @@ body{direction:rtl;text-align:right}
   .mark span{font-size:12.5px}
 }
 .mark-logo--british-council img{transform:scale(1.45)}
+
+/* Tabs: no black box after a mouse click; keep a visible ring for keyboard users */
+.tabs a:focus{outline:none}
+.tabs a:focus-visible{outline:2px solid var(--gold);outline-offset:4px}
+
+/* Per-tab course photos (Objectives, Course outline, Who should attend) */
+.tab-photo{display:block;width:100%;height:auto;aspect-ratio:21/9;object-fit:cover;border-radius:12px;margin:0 0 28px;box-shadow:0 18px 40px rgba(15,40,81,.16)}
+.cs-card .cs-photo{display:block;width:calc(100% + 44px);max-width:none;margin:-22px -22px 18px;height:auto;aspect-ratio:16/9;object-fit:cover}
