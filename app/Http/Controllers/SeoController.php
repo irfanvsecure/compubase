@@ -18,6 +18,10 @@ class SeoController extends Controller
             $pages[] = ['path' => '/'.$page, 'title' => ucfirst($page ?: 'home')];
             $pages[] = ['path' => '/ar'.($page ? '/'.$page : ''), 'title' => ucfirst($page ?: 'home').' (Arabic)'];
         }
+        foreach (Catalog::categories() as $slug => $category) {
+            $pages[] = ['path' => '/courses/'.$slug, 'title' => $category['en']];
+            $pages[] = ['path' => '/ar/courses/'.$slug, 'title' => $category['ar']];
+        }
         foreach (Catalog::courses() as $course) {
             $pages[] = ['path' => '/course/'.$course['slug'], 'title' => $course['en']];
             $pages[] = ['path' => '/ar/course/'.$course['slug'], 'title' => $course['ar']];

@@ -333,3 +333,17 @@ document.querySelectorAll('.cs-toggle').forEach(b=>{
  if(box&&box.scrollHeight<=box.clientHeight+4){box.classList.add('short');b.hidden=true;return;}
  b.addEventListener('click',()=>{const open=box.classList.toggle('open');b.textContent=open?b.dataset.less:b.dataset.more;});
 });
+/* Category page: search the category's courses and filter them by length. */
+document.querySelectorAll('.cat-courses').forEach(box=>{
+ const cards=[...box.querySelectorAll('.cp-card')], input=box.querySelector('.cat-search'), chips=[...box.querySelectorAll('.cat-days button')], empty=box.querySelector('.cat-empty');
+ const fits={short:d=>d<=3,week:d=>d>=4&&d<=5,long:d=>d>5};
+ let days='';
+ const render=()=>{
+  const q=input.value.trim().toLowerCase();
+  let shown=0;
+  cards.forEach(c=>{const ok=(!q||c.dataset.title.includes(q))&&(!days||fits[days](+c.dataset.days));c.hidden=!ok;if(ok)shown++;});
+  empty.textContent=box.dataset.none;empty.hidden=shown>0;
+ };
+ input.addEventListener('input',render);
+ chips.forEach(b=>b.addEventListener('click',()=>{days=b.dataset.days;chips.forEach(c=>c.classList.toggle('on',c===b));render();}));
+});

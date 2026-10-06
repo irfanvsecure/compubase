@@ -94,7 +94,7 @@
           <tr><td>{{ $course['ar'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td></tr>
           @endforeach
         </table>
-        <a class="link" href="{{ route('courses-ar', ['go' => $cat]) }}">عرض جميع الدورات ←</a>
+        <a class="link" href="{{ \App\Support\Catalog::categoryUrl($cat, true) }}">عرض جميع الدورات ←</a>
       </div>
       @endforeach
     </div>

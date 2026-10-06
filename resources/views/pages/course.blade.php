@@ -54,7 +54,7 @@
   </div>
 </header>
 
-<div class="crumbs"><div class="container"><a href="{{ route('home') }}">Home</a><span>/</span><a href="{{ route('courses') }}">Courses</a><span>/</span><a href="{{ route('courses', ['go' => $course['cat']]) }}">{{ $course['catEn'] }}</a><span>/</span><b style="color:var(--navy)">{{ $title }}</b></div></div>
+<div class="crumbs"><div class="container"><a href="{{ route('home') }}">Home</a><span>/</span><a href="{{ route('courses') }}">Courses</a><span>/</span><a href="{{ \App\Support\Catalog::categoryUrl($course['cat']) }}">{{ $course['catEn'] }}</a><span>/</span><b style="color:var(--navy)">{{ $title }}</b></div></div>
 
 <section class="course-hero">
   <div class="container">
@@ -237,7 +237,7 @@
           <li><a href="{{ Catalog::url($other) }}">{{ Catalog::title($other) }}</a><small>{{ Catalog::duration($other['days']) }}</small></li>
           @endforeach
         </ul>
-        <a class="cs-more" href="{{ route('courses', ['go' => $course['cat']]) }}">View all {{ count($catCourses) }} courses →</a>
+        <a class="cs-more" href="{{ \App\Support\Catalog::categoryUrl($course['cat']) }}">View all {{ count($catCourses) }} courses →</a>
       </div>
       @endif
 

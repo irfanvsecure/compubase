@@ -157,6 +157,12 @@ class Catalog
         return url(($ar ? 'ar/' : '').'course/'.$course['slug']);
     }
 
+    /** Address of a category page. */
+    public static function categoryUrl(string $slug, bool $ar = false): string
+    {
+        return url(($ar ? 'ar/' : '').'courses/'.$slug);
+    }
+
     public static function title(array $course, bool $ar = false): string
     {
         return $ar ? $course['ar'] : $course['en'];

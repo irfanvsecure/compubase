@@ -58,7 +58,7 @@
 </header>
 
 
-<div class="crumbs"><div class="container"><a href="{{ route('home-ar') }}">الرئيسية</a><span>/</span><a href="{{ route('courses-ar') }}">الدورات</a><span>/</span><a href="{{ route('courses-ar', ['go' => $course['cat']]) }}">{{ $course['catAr'] }}</a><span>/</span><b style="color:var(--navy)">{{ $title }}</b></div></div>
+<div class="crumbs"><div class="container"><a href="{{ route('home-ar') }}">الرئيسية</a><span>/</span><a href="{{ route('courses-ar') }}">الدورات</a><span>/</span><a href="{{ \App\Support\Catalog::categoryUrl($course['cat'], true) }}">{{ $course['catAr'] }}</a><span>/</span><b style="color:var(--navy)">{{ $title }}</b></div></div>
 
 <section class="course-hero">
   <div class="container">
@@ -243,7 +243,7 @@
           <li><a href="{{ Catalog::url($other, true) }}">{{ Catalog::title($other, true) }}</a><small>{{ Catalog::duration($other['days'], true) }}</small></li>
           @endforeach
         </ul>
-        <a class="cs-more" href="{{ route('courses-ar', ['go' => $course['cat']]) }}">عرض كل الدورات ({{ count($catCourses) }}) ←</a>
+        <a class="cs-more" href="{{ \App\Support\Catalog::categoryUrl($course['cat'], true) }}">عرض كل الدورات ({{ count($catCourses) }}) ←</a>
       </div>
       @endif
 

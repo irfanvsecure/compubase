@@ -99,7 +99,7 @@
           <tr><td>{{ $course['en'] }}</td><td>{{ Catalog::duration($course['days']) }}</td></tr>
           @endforeach
         </table>
-        <a class="link" href="{{ route('courses', ['go' => $cat]) }}">View all {{ count($category['courses']) }} courses →</a>
+        <a class="link" href="{{ \App\Support\Catalog::categoryUrl($cat) }}">View all {{ count($category['courses']) }} courses →</a>
       </div>
       @endforeach
     </div>
