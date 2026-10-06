@@ -63,7 +63,7 @@
   </div>
   <div class="placeholder-note" style="max-width:760px">[تفاصيل التاريخ وسنة التأسيس والفريق تُؤكَّد مع العميل قبل نشر هذه الصفحة.]</div>
     </div>
-    <figure class="about-photo"><img src="{{ url('uploads/2026/10/iso-9001-foundation-pdca-training-ty23la.jpg') }}" alt="مدرّب يقدّم حصة صفية لمجموعة من المتدربين في مركز كمبيوبيس للتدريب، أبوظبي" loading="lazy"></figure>
+    <figure class="about-photo"><img src="{{ url('uploads/2026/10/abu-dhabi-evening-class-working-professionals-0jvbyg.jpg') }}" alt="مدرّبة تقود حصة مسائية لمهنيين إماراتيين وعُمانيين ومن جنوب آسيا في مركز كمبيوبيس، أبوظبي" loading="lazy"></figure>
   </div>
 </div></section>
 
@@ -81,7 +81,7 @@
     <div class="why-item"><h3>قاعة حقيقية، لا مكتبة فيديو</h3><p>مجموعات صغيرة في قاعة فعلية، حيث يُجاب عن سؤالك لحظة طرحه.</p></div>
     <div class="why-item"><h3>إجابات صريحة حول الملاءمة</h3><p>إن لم تكن الدورة مناسبة لمستواك أو هدفك، سيخبرك المستشار بذلك قبل الدفع.</p></div>
   </div>
-  <div class="steps-photo"><img src="{{ url('uploads/2026/10/certified-python-developer-aa7rim.jpg') }}" alt="متدربون يتدرّبون عملياً مع مدرّبهم في إحدى قاعات كمبيوبيس" loading="lazy"></div>
+  <div class="steps-photo"><img src="{{ url('uploads/2026/10/gulf-small-group-hands-on-practice-74xcsb.jpg') }}" alt="مدرّب يساعد متدربين إماراتيين وعُمانيين ومن جنوب آسيا في تدريب عملي داخل إحدى قاعات كمبيوبيس" loading="lazy"></div>
 </div></section>
 
 <section class="section"><div class="container">
