@@ -40,7 +40,7 @@
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
-        <li><a href="{{ route('courses-ar') }}">الدورات</a></li>
+        @include('partials.nav-courses', ['ar' => true])
         <li><a href="{{ route('corporate-ar') }}">التدريب المؤسسي</a></li>
         <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
         <li><a href="{{ route('schedule-ar') }}">جدول الدورات</a></li>
@@ -82,7 +82,7 @@
         <div><dt>سعر المجموعات</dt><dd>ابتداءً من [العدد] متدربين</dd></div>
       </dl>
       <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل في هذه الدورة ←</a>
-      <a class="btn btn-outline" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">💬 اسأل عبر واتساب</a>
+      <a class="btn btn-wa" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">@include('partials.wa-icon')اسأل عبر واتساب</a>
       <button type="button" class="dl-link" data-print-outline>⤓ تحميل مخطط الدورة</button>
     </div>
   </div>
@@ -250,7 +250,7 @@
       <div class="cs-card">
         <h4>تحتاج مساعدة في الاختيار؟</h4>
         <p>تحدّث مع مستشار حول المستوى والتوقيت ومدى ملاءمة الدورة.</p>
-        <div class="cs-help"><a class="wa" href="https://wa.me/971566893378">💬 واتساب</a><a href="tel:+97126771117">📞 اتصل بنا</a></div>
+        <div class="cs-help"><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a><a class="btn btn-outline" href="tel:+97126771117">اتصل بنا</a></div>
       </div>
     </aside>
   </div>
@@ -270,7 +270,7 @@
 <section class="closing">
   <div class="container">
     <div><h2>التسجيل مفتوح الآن.</h2><p>حصص صباحية ومسائية متاحة. مركز كمبيوبيس للتدريب، أبوظبي.</p></div>
-    <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a></div>
+    <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a></div>
   </div>
 </section>
 <!-- FOOTER -->
@@ -298,7 +298,7 @@
 
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a>
   <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل</a>
 </div>
 

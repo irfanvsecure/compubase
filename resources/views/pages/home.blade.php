@@ -26,7 +26,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
-        <li><a href="{{ route('courses') }}">Courses</a></li>
+        @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
         <li><a href="{{ route('schedule') }}">Schedule</a></li>
@@ -60,7 +60,7 @@
       </ul>
       <div class="cta-row">
         <a class="btn btn-gold" href="{{ route('schedule') }}">Register for the next intake →</a>
-        <a class="btn btn-outline-light" href="https://wa.me/971566893378">WhatsApp 056 689 3378</a>
+        <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp 056 689 3378</a>
       </div>
     </div>
     <div class="hero-box hero-slider" >
@@ -103,6 +103,7 @@
       </div>
       @endforeach
     </div>
+    <div class="cat-more-btn"><a class="btn btn-navy" href="{{ route('categories') }}">View all {{ count(Catalog::categories()) }} categories →</a></div>
   </div>
 </section>
 
@@ -179,7 +180,7 @@
         <li><b>Attendance records and completion certificates</b><span>Documentation your HR and compliance teams can file without chasing us for it.</span></li>
       </ul>
       <div class="corp-cta">
-        <a class="btn btn-gold" href="https://wa.me/971566893378">WhatsApp 056 689 3378</a>
+        <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp 056 689 3378</a>
         <small>Group rates apply from [N] delegates. Confirm the threshold before publishing.</small>
       </div>
     </div>
@@ -282,7 +283,7 @@
         <h2>Before you register.</h2>
         <p>If your question is not here, an advisor will answer it directly.</p>
       </div>
-      <a class="btn btn-outline" href="https://wa.me/971566893378">Ask on WhatsApp</a>
+      <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')Ask on WhatsApp</a>
     </div>
     <details open>
       <summary>Are courses taught in English or Arabic?</summary>
@@ -339,7 +340,7 @@
 <!-- Mobile fixed contact bar -->
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a>
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 

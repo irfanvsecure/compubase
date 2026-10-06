@@ -5,7 +5,7 @@
     foreach (array_slice(App\Support\Catalog::categories(), 0, 5, true) as $cat => $category) {
         $links[\App\Support\Catalog::categoryUrl($cat, $ar)] = $ar ? $category['ar'] : $category['en'];
     }
-    $links[route($ar ? 'courses-ar' : 'courses')] = $ar ? 'جميع الفئات ←' : 'All categories →';
+    $links[route($ar ? 'categories-ar' : 'categories')] = $ar ? 'جميع الفئات ←' : 'All categories →';
     $columns = [[$ar ? 'فئات الدورات' : 'Course categories', $links]];
     $columns[] = $ar
         ? ['استكشف', [route('courses-ar') => 'جميع الدورات', route('schedule-ar') => 'جدول الدورات', route('corporate-ar') => 'التدريب المؤسسي', route('blog-ar') => 'المدونة']]

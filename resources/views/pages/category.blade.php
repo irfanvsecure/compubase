@@ -33,7 +33,7 @@
 <div class="page active" id="pg-category" @if ($ar) dir="rtl" lang="ar" @else lang="en" @endif>
 @include('partials.site-header')
 
-<div class="crumbs"><div class="container"><a href="{{ route($ar ? 'home-ar' : 'home') }}">{{ $t('Home', 'الرئيسية') }}</a><span>/</span><a href="{{ route($ar ? 'courses-ar' : 'courses') }}">{{ $t('Courses', 'الدورات') }}</a><span>/</span><b style="color:var(--navy)">{{ $name }}</b></div></div>
+<div class="crumbs"><div class="container"><a href="{{ route($ar ? 'home-ar' : 'home') }}">{{ $t('Home', 'الرئيسية') }}</a><span>/</span><a href="{{ route($ar ? 'categories-ar' : 'categories') }}">{{ $t('Categories', 'الفئات') }}</a><span>/</span><b style="color:var(--navy)">{{ $name }}</b></div></div>
 
 <section class="cat-hero">
   <div class="container">
@@ -144,7 +144,7 @@
     </div>
     <div class="actions">
       <a class="btn btn-navy" href="{{ route($ar ? 'corporate-ar' : 'corporate') }}">{{ $t('Request a proposal', 'اطلب عرضاً') }}</a>
-      <a class="btn btn-outline" href="https://wa.me/971566893378">{{ $t('WhatsApp an advisor', 'راسل مستشاراً على واتساب') }}</a>
+      <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon'){{ $t('WhatsApp an advisor', 'راسل مستشاراً على واتساب') }}</a>
     </div>
   </div>
 </section>
@@ -152,7 +152,7 @@
 <section class="section cat-more">
   <div class="container">
     <div class="eyebrow">{{ $t('Keep exploring', 'واصل الاستكشاف') }}</div>
-    <h2>{{ $t('More categories', 'فئات أخرى') }}</h2>
+    <div class="cat-more-top"><h2>{{ $t('More categories', 'فئات أخرى') }}</h2><a class="btn btn-outline" href="{{ route($ar ? 'categories-ar' : 'categories') }}">{{ $t('All categories', 'جميع الفئات') }}</a></div>
     @foreach (array_filter([$groupName => $siblings, ($groupNames[$category['group'] === 'it' ? 'management' : 'it'] ?? '') => $others]) as $heading => $list)
     <h3 class="cat-more-group">{{ $heading }}</h3>
     <div class="cat-more-grid">

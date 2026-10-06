@@ -34,7 +34,7 @@
     </div>
     <div class="class-actions">
       <a class="btn btn-navy" href="{{ route($ar ? 'courses-ar' : 'courses') }}">{{ $ar ? 'تصفّح الدورات ←' : 'Browse the courses →' }}</a>
-      <a class="btn btn-outline" href="https://wa.me/971566893378" target="_blank" rel="noopener">{{ $ar ? 'اسأل عبر واتساب' : 'Ask on WhatsApp' }}</a>
+      <a class="btn btn-wa" href="https://wa.me/971566893378" target="_blank" rel="noopener">@include('partials.wa-icon'){{ $ar ? 'اسأل عبر واتساب' : 'Ask on WhatsApp' }}</a>
     </div>
   </div>
 </div>

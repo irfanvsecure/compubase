@@ -32,6 +32,7 @@ Route::view('/', 'pages.home')->name('home');
 Route::view('/about', 'pages.about')->name('about');
 Route::view('/contact', 'pages.contact')->name('contact');
 Route::view('/courses', 'pages.courses')->name('courses');
+Route::view('/categories', 'pages.categories', ['ar' => false])->name('categories');
 Route::view('/schedule', 'pages.schedule')->name('schedule');
 Route::view('/corporate', 'pages.corporate')->name('corporate');
 Route::view('/partners', 'pages.partners', ['ar' => false])->name('partners');
@@ -44,6 +45,7 @@ Route::prefix('ar')->group(function () {
     Route::view('/about', 'pages.about-ar')->name('about-ar');
     Route::view('/contact', 'pages.contact-ar')->name('contact-ar');
     Route::view('/courses', 'pages.courses-ar')->name('courses-ar');
+    Route::view('/categories', 'pages.categories', ['ar' => true])->name('categories-ar');
     Route::view('/schedule', 'pages.schedule-ar')->name('schedule-ar');
     Route::view('/corporate', 'pages.corporate-ar')->name('corporate-ar');
     Route::view('/partners', 'pages.partners', ['ar' => true])->name('partners-ar');

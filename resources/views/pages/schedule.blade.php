@@ -20,7 +20,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
-        <li><a href="{{ route('courses') }}">Courses</a></li>
+        @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
         <li><a href="{{ route('schedule') }}">Schedule</a></li>
@@ -73,7 +73,7 @@
 </div></section>
 <section class="closing"><div class="container">
  <div><h2>Registration is now open.</h2><p>Morning and evening classes are available.</p></div>
- <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Register now</a><a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a></div>
+ <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Register now</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a></div>
 </div></section>
 <footer class="site">
   <div class="container">
@@ -98,7 +98,7 @@
 </footer>
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a>
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 

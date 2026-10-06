@@ -20,7 +20,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
-        <li><a href="{{ route('courses') }}">Courses</a></li>
+        @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
         <li><a href="{{ route('schedule') }}">Schedule</a></li>
@@ -56,7 +56,7 @@
       <p style="margin-top:12px"><b style="color:var(--navy)">Email</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Address</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Office hours</b><br>Sunday to Thursday · [opening hours]</p>
-      <a class="btn btn-gold" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">WhatsApp us now</a>
+      <a class="btn btn-wa" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp us now</a>
     </div>
     <div class="side-box">
       <h4>Location map</h4>
@@ -91,7 +91,7 @@
 </footer>
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a>
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 

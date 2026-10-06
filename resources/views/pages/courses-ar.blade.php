@@ -24,7 +24,7 @@
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
-        <li><a href="{{ route('courses-ar') }}">الدورات</a></li>
+        @include('partials.nav-courses', ['ar' => true])
         <li><a href="{{ route('home-ar', ['go' => 'corporate']) }}">التدريب المؤسسي</a></li>
         <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
         <li><a href="{{ route('schedule-ar') }}">جدول الدورات</a></li>
@@ -70,7 +70,7 @@
 
 <section class="closing"><div class="container">
   <div><h2>التسجيل مفتوح الآن.</h2><p>حصص صباحية ومسائية متاحة.</p></div>
-  <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a></div>
+  <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a></div>
 </div></section>
 <!-- FOOTER -->
 <footer class="site">
@@ -97,7 +97,7 @@
 
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a>
   <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل</a>
 </div>
 

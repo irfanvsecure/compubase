@@ -2,7 +2,7 @@
 @if ($ar)
 <section class="closing"><div class="container">
   <div><h2>التسجيل مفتوح الآن.</h2><p>حصص صباحية ومسائية متاحة.</p></div>
-  <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a></div>
+  <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a></div>
 </div></section>
 <footer class="site">
   <div class="container">
@@ -27,13 +27,13 @@
 </footer>
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a>
   <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل</a>
 </div>
 @else
 <section class="closing"><div class="container">
   <div><h2>Registration is now open.</h2><p>Morning and evening classes are available.</p></div>
-  <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Register now</a><a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a></div>
+  <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Register now</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a></div>
 </div></section>
 <footer class="site">
   <div class="container">
@@ -58,7 +58,7 @@
 </footer>
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a>
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 @endif

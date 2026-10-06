@@ -24,7 +24,7 @@
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
-        <li><a href="{{ route('courses-ar') }}">الدورات</a></li>
+        @include('partials.nav-courses', ['ar' => true])
         <li><a href="{{ route('corporate-ar') }}">التدريب المؤسسي</a></li>
         <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
         <li><a href="{{ route('schedule-ar') }}">جدول الدورات</a></li>
@@ -55,7 +55,7 @@
       </ul>
       <div class="cta-row">
         <a class="btn btn-gold" href="{{ route('schedule-ar') }}">سجّل في الدفعة القادمة ←</a>
-        <a class="btn btn-outline-light" href="https://wa.me/971566893378">واتساب 056 689 3378</a>
+        <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب 056 689 3378</a>
       </div>
     </div>
     <div class="hero-box hero-slider">
@@ -98,6 +98,7 @@
       </div>
       @endforeach
     </div>
+    <div class="cat-more-btn"><a class="btn btn-navy" href="{{ route('categories-ar') }}">عرض جميع الفئات ({{ count(Catalog::categories()) }}) ←</a></div>
   </div>
 </section>
 
@@ -165,7 +166,7 @@
         <li><b>سجلات حضور وشهادات إتمام</b><span>وثائق جاهزة لإدارات الموارد البشرية والامتثال دون متابعة منكم.</span></li>
       </ul>
       <div class="corp-cta">
-        <a class="btn btn-gold" href="https://wa.me/971566893378">واتساب 056 689 3378</a>
+        <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب 056 689 3378</a>
         <small>تسري أسعار المجموعات ابتداءً من [العدد] متدربين.</small>
       </div>
     </div>
@@ -265,7 +266,7 @@
         <h2>قبل أن تسجّل.</h2>
         <p>إن لم تجد سؤالك هنا، سيجيبك مستشار التدريب مباشرة.</p>
       </div>
-      <a class="btn btn-outline" href="https://wa.me/971566893378">اسأل عبر واتساب</a>
+      <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')اسأل عبر واتساب</a>
     </div>
     <details open>
       <summary>هل تُدرَّس الدورات بالإنجليزية أم بالعربية؟</summary>
@@ -318,7 +319,7 @@
 
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">واتساب</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a>
   <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل</a>
 </div>
 

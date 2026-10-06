@@ -37,7 +37,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
-        <li><a href="{{ route('courses') }}">Courses</a></li>
+        @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
         <li><a href="{{ route('schedule') }}">Schedule</a></li>
@@ -78,7 +78,7 @@
         <div><dt>Group rate</dt><dd>From [N] delegates</dd></div>
       </dl>
       <a class="btn btn-navy" href="{{ route('contact') }}">Register for this course →</a>
-      <a class="btn btn-outline" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">💬 Ask a question on WhatsApp</a>
+      <a class="btn btn-wa" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">@include('partials.wa-icon')Ask a question on WhatsApp</a>
       <button type="button" class="dl-link" data-print-outline>⤓ Download the course outline</button>
     </div>
   </div>
@@ -244,7 +244,7 @@
       <div class="cs-card">
         <h4>Need help choosing?</h4>
         <p>Talk to an advisor about level, timing and fit.</p>
-        <div class="cs-help"><a class="wa" href="https://wa.me/971566893378">💬 WhatsApp</a><a href="tel:+97126771117">📞 Call us</a></div>
+        <div class="cs-help"><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a><a class="btn btn-outline" href="tel:+97126771117">Call us</a></div>
       </div>
     </aside>
   </div>
@@ -271,7 +271,7 @@
     </div>
     <div class="actions">
       <a class="btn btn-navy" href="{{ route('contact') }}">Register now</a>
-      <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
+      <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a>
     </div>
   </div>
 </section>
@@ -299,7 +299,7 @@
 </footer>
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
-  <a class="btn btn-outline" href="https://wa.me/971566893378">WhatsApp</a>
+  <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a>
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 
