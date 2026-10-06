@@ -59,9 +59,9 @@
       </div>
     </div>
     <div class="hero-box hero-slider">
-      <div class="hs-slide active"><img class="bg" src="{{ url('uploads/2026/10/itil-4-foundation-service-value-class-eqmevv.jpg') }}" alt="مدرّب يقود حصة صفية مع مهنيين في مركز كمبيوبيس أبوظبي"><div class="cap">حصص صفية من الاثنين إلى الجمعة — مجموعات صباحية ومسائية</div></div>
-      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/prince2-project-board-plan-presentation-yjldrv.jpg') }}" alt="مهنيون يستعدون لامتحانات إدارة المشاريع والشهادات المهنية"><div class="cap">التحضير لامتحانات إدارة المشاريع والتدقيق والمحاسبة مع كادرنا الداخلي</div></div>
-      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/certified-cyber-security-specialist-ccss-isucq2.jpg') }}" alt="متدربون في مختبر عملي للأمن السيبراني مع مدرّب"><div class="cap">ورش عملية في الأمن السيبراني والاختراق الأخلاقي والذكاء الاصطناعي</div></div>
+      <div class="hs-slide active"><img class="bg" src="{{ url('uploads/2026/10/abu-dhabi-classroom-training-session-j5htjt.jpg') }}" alt="مدرّب يقود حصة صفية لمهنيين إماراتيين ومن جنوب آسيا في مركز كمبيوبيس أبوظبي"><div class="cap">حصص صفية من الاثنين إلى الجمعة — مجموعات صباحية ومسائية</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/abu-dhabi-certification-exam-preparation-e2zzvs.jpg') }}" alt="مهنيون يستعدون لامتحانات الشهادات المهنية بالكتب ومع مدرّبة في أبوظبي"><div class="cap">التحضير لامتحانات إدارة المشاريع والتدقيق والمحاسبة مع كادرنا الداخلي</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/uae-cyber-security-ai-workshop-lab-ywxc18.jpg') }}" alt="متدربون إماراتيون ومن جنوب آسيا في مختبر عملي للأمن السيبراني والذكاء الاصطناعي مع مدرّبهم"><div class="cap">ورش عملية في الأمن السيبراني والاختراق الأخلاقي والذكاء الاصطناعي</div></div>
       <div class="hs-arrows"><button class="hs-prev" aria-label="السابق">›</button><button class="hs-next" aria-label="التالي">‹</button></div>
       <div class="hs-dots"></div>
     </div>

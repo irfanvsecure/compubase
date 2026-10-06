@@ -64,9 +64,9 @@
       </div>
     </div>
     <div class="hero-box hero-slider" >
-      <div class="hs-slide active"><img class="bg" src="{{ url('uploads/2026/10/itil-4-foundation-service-value-class-eqmevv.jpg') }}" alt="Trainer leading a classroom session with working professionals at CompuBase Abu Dhabi"><div class="cap">Classroom sessions, Monday to Friday — morning and evening groups</div></div>
-      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/prince2-project-board-plan-presentation-yjldrv.jpg') }}" alt="Professionals preparing for project management and certification exams"><div class="cap">PMP, CIA, CMA and CISA exam preparation with in-house faculty</div></div>
-      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/certified-cyber-security-specialist-ccss-isucq2.jpg') }}" alt="Trainees in a hands-on cyber security lab with an instructor"><div class="cap">Hands-on cyber security, ethical hacking and AI workshops</div></div>
+      <div class="hs-slide active"><img class="bg" src="{{ url('uploads/2026/10/abu-dhabi-classroom-training-session-j5htjt.jpg') }}" alt="Trainer leading a classroom session for Emirati and South Asian professionals at CompuBase Abu Dhabi"><div class="cap">Classroom sessions, Monday to Friday — morning and evening groups</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/abu-dhabi-certification-exam-preparation-e2zzvs.jpg') }}" alt="Professionals preparing for certification exams with study books and an instructor in Abu Dhabi"><div class="cap">PMP, CIA, CMA and CISA exam preparation with in-house faculty</div></div>
+      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/uae-cyber-security-ai-workshop-lab-ywxc18.jpg') }}" alt="Emirati and South Asian trainees in a hands-on cyber security and AI lab with their instructor"><div class="cap">Hands-on cyber security, ethical hacking and AI workshops</div></div>
       <div class="hs-arrows"><button class="hs-prev" aria-label="Previous">‹</button><button class="hs-next" aria-label="Next">›</button></div>
       <div class="hs-dots"></div>
     </div>

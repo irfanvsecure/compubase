@@ -16,7 +16,7 @@
 @endphp
 <div class="class-feature">
   <div class="class-photo">
-    <img src="{{ url('uploads/2026/10/azure-fundamentals-cloud-concepts-class-bevdhj.jpg') }}" alt="{{ $ar ? 'مدرّب يشرح المفاهيم على السبورة لمتدربي كمبيوبيس' : 'Trainer explaining concepts on a whiteboard to a CompuBase class' }}" width="1200" height="800" loading="lazy">
+    <img src="{{ url('uploads/2026/10/abu-dhabi-training-centre-course-advisor-l7e5n1.jpg') }}" alt="{{ $ar ? 'مستشارة الدورات في استقبال مركز كمبيوبيس بأبوظبي ترحّب بالمتدربين' : 'Course advisor welcoming learners at the CompuBase reception in Abu Dhabi' }}" width="1200" height="800" loading="lazy">
     <div class="class-badge"><b>{{ $ar ? 'الاثنين – الجمعة' : 'Monday – Friday' }}</b><span>{{ $ar ? 'مجموعات صباحية ومسائية' : 'Morning and evening groups' }}</span></div>
   </div>
   <div class="class-copy">
