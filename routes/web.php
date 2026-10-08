@@ -83,15 +83,19 @@ $coursePage = function (string $view, string $course) {
     return view($view, ['course' => $found]);
 };
 
-// Category pages: /courses/{category} and /ar/courses/{category}.
+// Category pages: /course-category/{category} and /ar/course-category/{category}.
 $categoryPage = function (string $category, bool $ar) {
     abort_if(! isset(Catalog::categories()[$category]), 404);
 
     return view('pages.category', ['slug' => $category, 'ar' => $ar]);
 };
 
-Route::get('/ar/courses/{category}', fn (string $category) => $categoryPage($category, true))->name('category-ar');
-Route::get('/courses/{category}', fn (string $category) => $categoryPage($category, false))->name('category');
+Route::get('/ar/course-category/{category}', fn (string $category) => $categoryPage($category, true))->name('category-ar');
+Route::get('/course-category/{category}', fn (string $category) => $categoryPage($category, false))->name('category');
+
+// The earlier /courses/{category} addresses move permanently to /course-category/.
+Route::get('/ar/courses/{category}', fn (string $category) => redirect('/ar/course-category/'.$category, 301));
+Route::get('/courses/{category}', fn (string $category) => redirect('/course-category/'.$category, 301));
 
 Route::get('/ar/course/{course}', fn (string $course) => $coursePage('pages.course-ar', $course))->name('course-ar');
 Route::get('/course/{course}', fn (string $course) => $coursePage('pages.course', $course))->name('course');
