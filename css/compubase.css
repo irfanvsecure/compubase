@@ -55,19 +55,22 @@ nav.main>ul{align-items:stretch}
 nav.main>ul>li{display:flex;align-items:center}
 .nav-mega{gap:2px}
 .mega-toggle{background:none;border:0;padding:4px;color:inherit;cursor:pointer;display:flex;transition:transform .2s}
-.mega{position:absolute;left:0;right:0;top:100%;background:#fff;border-top:3px solid var(--gold);border-bottom:1px solid var(--line);box-shadow:0 24px 48px rgba(10,28,57,.14);
+.mega{position:absolute;left:0;right:0;top:100%;background:#fff;border-top:3px solid var(--gold);border-bottom:1px solid var(--line);border-radius:0 0 18px 18px;box-shadow:0 22px 48px rgba(10,28,57,.14);
   opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;z-index:60}
 .nav-mega:hover .mega,.nav-mega:focus-within .mega{opacity:1;visibility:visible;transform:none}
 .nav-mega:hover .mega-toggle{transform:rotate(180deg)}
-.mega .container{display:grid;grid-template-columns:1fr 1fr;gap:10px 48px;padding-top:26px;padding-bottom:22px}
-.mega-group h4{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-ink);margin-bottom:8px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+/* header.site .container is flex, so this selector has to win or the two groups sit at different heights. */
+header.site .mega .container{display:grid;grid-template-columns:1fr 1fr;gap:8px 48px;align-items:start;justify-content:stretch;min-height:0;padding-top:6px;padding-bottom:0}
+.mega-group{background:transparent;border:0;min-width:0}
+.mega-group h4{display:flex;align-items:center;gap:10px;min-height:48px;font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--navy);background:transparent;margin:0 0 8px;padding:14px 0 12px;border-bottom:2px solid var(--gold)}
+.mega-group h4::before{content:"";width:9px;height:9px;border-radius:2px;background:var(--gold);flex-shrink:0}
 .page[dir="rtl"] .mega-group h4{letter-spacing:0}
-nav.main .mega-group ul{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;font-size:15px;font-weight:500}
-nav.main .mega-group a{display:flex;justify-content:space-between;gap:10px;padding:6px 0;line-height:1.35;color:var(--navy)}
-nav.main .mega-group a span{font-size:12px;font-weight:800;color:var(--gold-ink)}
-nav.main .mega-group a:hover{color:var(--gold-ink)}
+nav.main .mega-group ul{display:grid;grid-template-columns:1fr 1fr;gap:2px 20px;align-items:start;font-size:15px;font-weight:500;padding:4px 0 8px}
+nav.main .mega-group a{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 4px;line-height:1.35;color:var(--navy);border-radius:6px}
+nav.main .mega-group a span{font-size:12px;font-weight:800;color:var(--gold-ink);background:rgba(163,145,97,.16);min-width:26px;height:26px;display:inline-flex;align-items:center;justify-content:center;border-radius:99px;flex-shrink:0}
+nav.main .mega-group a:hover{color:var(--navy);background:var(--paper)}
 .mega-links{display:flex;gap:22px;flex-wrap:wrap}
-.mega-foot{grid-column:1/-1;display:flex;justify-content:space-between;align-items:center;gap:16px;border-top:1px solid var(--line);padding-top:14px;font-size:14px;color:var(--gold-ink)}
+header.site .mega .mega-foot{grid-column:1/-1;display:flex;justify-content:space-between;align-items:center;gap:16px;margin:8px -24px 0;padding:14px 24px 16px;border-top:1px solid var(--line);background:#f7f6f3;border-radius:0 0 18px 18px;font-size:14px;color:var(--gold-ink)}
 nav.main .mega-foot a{font-weight:800;color:var(--navy)}
 .header-actions{display:flex;gap:10px;align-items:center}
 .menu-toggle{display:none;background:var(--navy);color:#fff;border:0;width:44px;height:44px;font-size:20px;cursor:pointer}
@@ -380,7 +383,8 @@ footer.site{background:var(--navy-deep);color:rgba(255,255,255,.8);padding:64px 
   .nav-mega.open .mega-toggle{transform:rotate(180deg)}
   .mega{position:static;flex-basis:100%;display:none;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0}
   .nav-mega.open .mega{display:block}
-  .mega .container{grid-template-columns:1fr;padding:0 0 12px}
+  header.site .mega .container{grid-template-columns:1fr;padding:0 0 12px}
+  header.site .mega .mega-foot{margin:8px 0 0;border-radius:0}
   nav.main .mega-group ul{grid-template-columns:1fr}
   header.site.open nav.main .mega li{border-bottom:0}
   header.site.open nav.main .mega a{padding:7px 0;font-weight:500}
