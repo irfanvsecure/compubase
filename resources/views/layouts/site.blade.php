@@ -44,6 +44,18 @@
 window.INITIAL_PAGE = document.body.dataset.page || 'home';
 window.APP_BASE = @json(rtrim(url('/'), '/'));
 window.COURSE_DATA = @json(View::getSection('page') === 'home' ? App\Support\Catalog::forScript() : []);
+// Lock horizontal page drag on RTL/LTR (partner strip / tables must not pan the document).
+(function () {
+  var root = document.documentElement;
+  function lock() {
+    if (window.scrollX) window.scrollTo(0, window.scrollY);
+    root.scrollLeft = 0;
+    document.body.scrollLeft = 0;
+  }
+  lock();
+  addEventListener('scroll', lock, { passive: true });
+  addEventListener('resize', lock);
+})();
 </script>
 <script src="{{ asset('js/compubase.js') }}?v={{ filemtime(base_path('js/compubase.js')) }}"></script>
 </body>
