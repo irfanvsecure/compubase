@@ -1,0 +1,642 @@
+{
+    "file": "Oil_and_Gas_Essentials.docx",
+    "title": "Oil and Gas Essentials",
+    "duration": "5 Days",
+    "overview": [
+        "This five-day course provides a practical introduction to the oil and gas industry, covering the energy value chain from exploration and production through processing, transportation and downstream operations. Participants examine essential technical terminology, field equipment, operational workflows and the health, safety and environmental (HSE) controls used in high-risk facilities. The program emphasizes hazard recognition, risk assessment, safe systems of work, emergency preparedness and responsible operational decision-making. It is an awareness and foundational knowledge course; it does not replace site-specific induction, competency assessment or legally required technical certification."
+    ],
+    "audience": [
+        "New employees and nontechnical professionals entering the oil and gas sector.",
+        "Operations support, administration, procurement, logistics and commercial personnel working with oil and gas facilities.",
+        "Junior technicians, supervisors and graduates requiring an overview of industry operations.",
+        "HSE coordinators and contractor personnel seeking foundational industry and workplace risk awareness.",
+        "Professionals supporting energy projects, asset management and service providers."
+    ],
+    "methodology": [
+        "Instructor-led presentations, illustrated process diagrams, equipment and terminology exercises, operational case studies, hazard-identification workshops, job safety analysis practice, permit-to-work scenarios, incident-learning discussions, emergency-response tabletop exercises, knowledge checks and a final integrated scenario."
+    ],
+    "competencies": [
+        "Understanding the upstream, midstream and downstream oil and gas value chain.",
+        "Recognizing common equipment, processes, terminology and operating interfaces.",
+        "Identifying major process and occupational safety hazards in oil and gas workplaces.",
+        "Applying foundational risk assessment and safe-work planning principles.",
+        "Understanding permit-to-work, isolation, confined space and working-at-height controls.",
+        "Supporting environmental protection, incident reporting and emergency readiness.",
+        "Communicating operational and safety concerns across multidisciplinary teams."
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Describe the structure of the oil and gas industry and the life cycle of a hydrocarbon asset.",
+        "Explain the purpose of key exploration, drilling, production, processing and distribution activities.",
+        "Recognize commonly used field equipment and interpret basic process-flow concepts.",
+        "Identify flammable atmosphere, toxic gas, pressure, energy isolation and other critical hazards.",
+        "Participate in basic hazard identification, risk assessment and job safety analysis.",
+        "Explain the roles of permit-to-work, simultaneous operations and management of change.",
+        "Describe essential emergency response, spill prevention and environmental stewardship practices.",
+        "Apply foundational HSE and operational awareness to realistic workplace scenarios."
+    ],
+    "outline": [
+        {
+            "title": "Oil and Gas Industry Fundamentals",
+            "items": [
+                {
+                    "text": "Global energy landscape and the role of hydrocarbons",
+                    "level": 0
+                },
+                {
+                    "text": "Industry structure: operators, service companies, regulators and contractors",
+                    "level": 0
+                },
+                {
+                    "text": "Upstream, midstream and downstream business segments",
+                    "level": 0
+                },
+                {
+                    "text": "Major asset types: onshore, offshore and unconventional",
+                    "level": 0
+                },
+                {
+                    "text": "Operational life cycle from prospecting to decommissioning",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Hydrocarbon Basics and Petroleum Geology",
+            "items": [
+                {
+                    "text": "Crude oil, natural gas, condensate and associated products",
+                    "level": 0
+                },
+                {
+                    "text": "Reservoir rock, source rock, traps and seals",
+                    "level": 0
+                },
+                {
+                    "text": "Porosity, permeability and reservoir pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Conventional and unconventional resource concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Basic hydrocarbon properties and handling implications",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Exploration and Resource Appraisal",
+            "items": [
+                {
+                    "text": "Geological and geophysical survey fundamentals",
+                    "level": 0
+                },
+                {
+                    "text": "Seismic acquisition and interpretation concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Exploration wells and appraisal activities",
+                    "level": 0
+                },
+                {
+                    "text": "Resource and reserve classification overview",
+                    "level": 0
+                },
+                {
+                    "text": "Uncertainty, economics and exploration risk",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Drilling and Well Construction",
+            "items": [
+                {
+                    "text": "Drilling rig systems and major components",
+                    "level": 0
+                },
+                {
+                    "text": "Drilling fluids, casing, cementing and well integrity",
+                    "level": 0
+                },
+                {
+                    "text": "Well trajectories and directional drilling basics",
+                    "level": 0
+                },
+                {
+                    "text": "Well control concepts and blowout prevention barriers",
+                    "level": 0
+                },
+                {
+                    "text": "Drilling hazards and contractor coordination",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Well Completion and Production Start-Up",
+            "items": [
+                {
+                    "text": "Completion equipment and wellhead assemblies",
+                    "level": 0
+                },
+                {
+                    "text": "Production tubing, valves and downhole safety devices",
+                    "level": 0
+                },
+                {
+                    "text": "Artificial lift overview and production optimization",
+                    "level": 0
+                },
+                {
+                    "text": "Commissioning, start-up checks and operating readiness",
+                    "level": 0
+                },
+                {
+                    "text": "Well testing and performance monitoring",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Production Facilities and Field Operations",
+            "items": [
+                {
+                    "text": "Well pads, gathering systems and manifolds",
+                    "level": 0
+                },
+                {
+                    "text": "Separation of oil, gas and produced water",
+                    "level": 0
+                },
+                {
+                    "text": "Pumps, compressors, valves and control equipment",
+                    "level": 0
+                },
+                {
+                    "text": "Routine inspection, monitoring and maintenance",
+                    "level": 0
+                },
+                {
+                    "text": "Operational handovers and shift communication",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Oil and Gas Processing Fundamentals",
+            "items": [
+                {
+                    "text": "Multiphase separation and stabilization",
+                    "level": 0
+                },
+                {
+                    "text": "Gas dehydration and sweetening concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Compression, metering and quality specifications",
+                    "level": 0
+                },
+                {
+                    "text": "Produced-water treatment and disposal pathways",
+                    "level": 0
+                },
+                {
+                    "text": "Process flow diagrams and equipment identification",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Midstream Transportation and Storage",
+            "items": [
+                {
+                    "text": "Pipelines, terminals, tank farms and marine logistics",
+                    "level": 0
+                },
+                {
+                    "text": "Pressure management and flow assurance basics",
+                    "level": 0
+                },
+                {
+                    "text": "Storage tank hazards and inventory controls",
+                    "level": 0
+                },
+                {
+                    "text": "Pipeline integrity, corrosion and leak detection",
+                    "level": 0
+                },
+                {
+                    "text": "Transport interfaces and product custody transfer",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Refining and Petrochemical Overview",
+            "items": [
+                {
+                    "text": "Crude distillation and major product streams",
+                    "level": 0
+                },
+                {
+                    "text": "Conversion and treatment processes at a high level",
+                    "level": 0
+                },
+                {
+                    "text": "Fuel, lubricant and petrochemical product families",
+                    "level": 0
+                },
+                {
+                    "text": "Utilities, flaring and refinery support systems",
+                    "level": 0
+                },
+                {
+                    "text": "Product quality and operational integration",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Operational Roles and Asset Management",
+            "items": [
+                {
+                    "text": "Operations, maintenance, engineering and HSE interfaces",
+                    "level": 0
+                },
+                {
+                    "text": "Reliability, inspection and preventive maintenance",
+                    "level": 0
+                },
+                {
+                    "text": "Work orders, backlog and equipment criticality",
+                    "level": 0
+                },
+                {
+                    "text": "Shift logs, operational procedures and documentation",
+                    "level": 0
+                },
+                {
+                    "text": "Contractor oversight and operational discipline",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "HSE Management in Oil and Gas",
+            "items": [
+                {
+                    "text": "Occupational safety versus process safety",
+                    "level": 0
+                },
+                {
+                    "text": "Safety leadership, roles and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Life-saving rules and high-risk activity controls",
+                    "level": 0
+                },
+                {
+                    "text": "Safety observations, near misses and reporting culture",
+                    "level": 0
+                },
+                {
+                    "text": "Hierarchy of controls and barrier management",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Hazard Identification and Risk Assessment",
+            "items": [
+                {
+                    "text": "Common mechanical, electrical and chemical hazards",
+                    "level": 0
+                },
+                {
+                    "text": "Hazard identification methods and field walkdowns",
+                    "level": 0
+                },
+                {
+                    "text": "Risk matrices, likelihood and consequence",
+                    "level": 0
+                },
+                {
+                    "text": "Job safety analysis and task-level controls",
+                    "level": 0
+                },
+                {
+                    "text": "Dynamic risk assessment and stop-work authority",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Process Safety and Major Accident Hazards",
+            "items": [
+                {
+                    "text": "Loss of containment and escalation scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Fire, explosion and vapor cloud hazards",
+                    "level": 0
+                },
+                {
+                    "text": "Toxic gas exposure including hydrogen sulfide",
+                    "level": 0
+                },
+                {
+                    "text": "Safety-critical barriers, alarms and shutdown systems",
+                    "level": 0
+                },
+                {
+                    "text": "Process safety indicators and learning from incidents",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Permit to Work and Safe Systems of Work",
+            "items": [
+                {
+                    "text": "Permit types and work authorization responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Hot work, cold work and line-breaking precautions",
+                    "level": 0
+                },
+                {
+                    "text": "Simultaneous operations and conflicting activities",
+                    "level": 0
+                },
+                {
+                    "text": "Pre-job briefings and toolbox talks",
+                    "level": 0
+                },
+                {
+                    "text": "Permit closure, handback and control verification",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Energy Isolation and Lockout/Tagout",
+            "items": [
+                {
+                    "text": "Hazardous energy sources and stored energy",
+                    "level": 0
+                },
+                {
+                    "text": "Mechanical, electrical and process isolation concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Lockout/tagout responsibilities and verification",
+                    "level": 0
+                },
+                {
+                    "text": "Depressurization, draining and purging principles",
+                    "level": 0
+                },
+                {
+                    "text": "Reinstatement and handover controls",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Confined Spaces and Work at Height",
+            "items": [
+                {
+                    "text": "Confined space entry hazards and permits",
+                    "level": 0
+                },
+                {
+                    "text": "Atmospheric testing, ventilation and rescue planning",
+                    "level": 0
+                },
+                {
+                    "text": "Fall prevention and fall protection hierarchy",
+                    "level": 0
+                },
+                {
+                    "text": "Scaffolds, ladders and elevated platforms",
+                    "level": 0
+                },
+                {
+                    "text": "Emergency arrangements for high-risk tasks",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Fire Prevention and Gas Detection",
+            "items": [
+                {
+                    "text": "Flammable limits, ignition sources and area classification",
+                    "level": 0
+                },
+                {
+                    "text": "Portable and fixed gas detection awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Fire triangle, fire classes and basic suppression principles",
+                    "level": 0
+                },
+                {
+                    "text": "Emergency alarms, muster points and evacuation",
+                    "level": 0
+                },
+                {
+                    "text": "Personal protective equipment selection and limitations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Lifting, Transport and Field Logistics",
+            "items": [
+                {
+                    "text": "Lifting plans, load stability and exclusion zones",
+                    "level": 0
+                },
+                {
+                    "text": "Crane, rigging and lifting accessory awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Vehicle movement, journey management and driving risks",
+                    "level": 0
+                },
+                {
+                    "text": "Material handling and dropped-object prevention",
+                    "level": 0
+                },
+                {
+                    "text": "Site access and contractor interface controls",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Occupational Health and Human Factors",
+            "items": [
+                {
+                    "text": "Heat stress, noise, fatigue and ergonomic exposure",
+                    "level": 0
+                },
+                {
+                    "text": "Respiratory protection and chemical exposure awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Human performance, communication and situational awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Fitness for duty and fatigue management",
+                    "level": 0
+                },
+                {
+                    "text": "Behavioral factors in incidents and near misses",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Environmental Management and Sustainability",
+            "items": [
+                {
+                    "text": "Spill prevention, containment and response priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Air emissions, flaring and methane awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Waste segregation and hazardous material handling",
+                    "level": 0
+                },
+                {
+                    "text": "Water use, produced water and biodiversity impacts",
+                    "level": 0
+                },
+                {
+                    "text": "Environmental monitoring and energy efficiency",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Emergency Preparedness and Response",
+            "items": [
+                {
+                    "text": "Site emergency organization and command roles",
+                    "level": 0
+                },
+                {
+                    "text": "Fire, gas release, spill and medical scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Evacuation routes, shelter-in-place and muster checks",
+                    "level": 0
+                },
+                {
+                    "text": "Emergency communications and coordination",
+                    "level": 0
+                },
+                {
+                    "text": "Tabletop exercise and post-incident improvement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Incident Investigation and Continuous Improvement",
+            "items": [
+                {
+                    "text": "Immediate response, scene protection and notification",
+                    "level": 0
+                },
+                {
+                    "text": "Near-miss and incident classification",
+                    "level": 0
+                },
+                {
+                    "text": "Fact gathering and causal analysis fundamentals",
+                    "level": 0
+                },
+                {
+                    "text": "Corrective actions and lessons-learned communication",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking action effectiveness and leading indicators",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Digitalization and Industry Trends",
+            "items": [
+                {
+                    "text": "SCADA, remote monitoring and instrumentation basics",
+                    "level": 0
+                },
+                {
+                    "text": "Predictive maintenance and data-driven operations",
+                    "level": 0
+                },
+                {
+                    "text": "Automation, drones and digital field inspections",
+                    "level": 0
+                },
+                {
+                    "text": "Decarbonization, carbon management and energy transition",
+                    "level": 0
+                },
+                {
+                    "text": "Cybersecurity awareness for industrial environments",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Field Scenario and Knowledge Assessment",
+            "items": [
+                {
+                    "text": "Trace a hydrocarbon stream across the value chain",
+                    "level": 0
+                },
+                {
+                    "text": "Identify equipment, hazards and operational interfaces",
+                    "level": 0
+                },
+                {
+                    "text": "Complete a basic task risk assessment and control plan",
+                    "level": 0
+                },
+                {
+                    "text": "Discuss permit, isolation and emergency requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Final knowledge check and individual action planning",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,919 @@
+{
+    "file": "Actionable_Selling_Skills.docx",
+    "title": "Actionable Selling Skills",
+    "duration": "3 Days",
+    "overview": [
+        "Effective selling depends on converting customer conversations into clear, useful actions that advance a genuine buying decision. Sales professionals must understand customer needs, establish trust, communicate value, handle concerns, and secure meaningful next steps without relying on pressure or generic sales scripts.",
+        "This practical three-day course develops the essential skills used throughout the sales cycle, from preparation and prospecting to discovery, solution presentation, objection handling, negotiation, closing, and follow-up. It emphasizes repeatable behaviors, disciplined opportunity management, and measurable improvement in everyday selling performance.",
+        "Participants practice realistic customer interactions, build questioning and listening skills, refine value propositions, handle common sales objections, and develop personal action plans to apply immediately in their roles."
+    ],
+    "audience": [
+        "Sales executives, sales representatives, business development professionals, account managers, retail and field sales staff, telesales professionals, customer-facing employees with sales responsibilities, and new or experienced salespeople seeking practical improvements in selling effectiveness."
+    ],
+    "methodology": [
+        "Interactive presentations, facilitated discussions, sales demonstrations, customer scenarios, role plays, discovery interviews, objection-handling drills, negotiation simulations, peer feedback, sales case analysis, and individual selling action plans. Participants repeatedly practice and receive feedback on observable selling behaviors."
+    ],
+    "competencies": [
+        "Sales preparation and prospecting",
+        "Customer engagement and rapport",
+        "Consultative questioning",
+        "Active listening",
+        "Needs analysis",
+        "Value-based presentation",
+        "Objection handling",
+        "Negotiation and closing",
+        "Sales follow-up",
+        "Opportunity and pipeline discipline",
+        "Customer relationship management",
+        "Personal sales effectiveness"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Plan customer interactions with clear objectives and relevant research.",
+        "Identify and qualify promising sales opportunities.",
+        "Build rapport and establish credibility quickly and professionally.",
+        "Use structured questions and active listening to uncover customer needs.",
+        "Translate product or service features into customer-specific benefits and value.",
+        "Present recommendations persuasively without overpromising.",
+        "Recognize buying signals and address objections constructively.",
+        "Negotiate terms while protecting customer trust and commercial value.",
+        "Ask for commitment and agree clear next steps.",
+        "Follow up consistently and maintain accurate opportunity records.",
+        "Use basic sales performance measures to improve results.",
+        "Create a practical personal selling improvement plan."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Actionable Selling",
+            "items": [
+                {
+                    "text": "The role of selling in creating customer value",
+                    "level": 0
+                },
+                {
+                    "text": "Transactional and consultative selling approaches",
+                    "level": 0
+                },
+                {
+                    "text": "The stages of a typical sales cycle",
+                    "level": 0
+                },
+                {
+                    "text": "Behaviors of effective sales professionals",
+                    "level": 0
+                },
+                {
+                    "text": "Turning selling knowledge into repeatable actions",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing commercial targets with customer interests",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Adopting a Customer-Centered Sales Mindset",
+            "items": [
+                {
+                    "text": "Understanding customer decision processes",
+                    "level": 0
+                },
+                {
+                    "text": "Building credibility and trust",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the difference between persuasion and pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Focusing on customer outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Professional integrity and accurate claims",
+                    "level": 0
+                },
+                {
+                    "text": "Taking ownership of the customer experience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Preparing for Successful Sales Conversations",
+            "items": [
+                {
+                    "text": "Defining the purpose of each interaction",
+                    "level": 0
+                },
+                {
+                    "text": "Researching the customer and their organization",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing available account history",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying likely customer priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing relevant questions",
+                    "level": 0
+                },
+                {
+                    "text": "Planning the desired next step",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Prospecting and Identifying Opportunities",
+            "items": [
+                {
+                    "text": "Defining an appropriate target customer",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing buying triggers",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting suitable prospecting channels",
+                    "level": 0
+                },
+                {
+                    "text": "Developing relevant outreach messages",
+                    "level": 0
+                },
+                {
+                    "text": "Making effective first contact",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing prospecting activities and follow-up",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Qualifying Sales Leads",
+            "items": [
+                {
+                    "text": "Identifying customer needs and urgency",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding authority and stakeholder involvement",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring budget or resource considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying decision timing",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing product or service fit",
+                    "level": 0
+                },
+                {
+                    "text": "Deciding whether to pursue, nurture, or disqualify",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating a Positive First Impression",
+            "items": [
+                {
+                    "text": "Professional verbal and nonverbal communication",
+                    "level": 0
+                },
+                {
+                    "text": "Opening conversations confidently",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing relevance early",
+                    "level": 0
+                },
+                {
+                    "text": "Using appropriate rapport-building techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Respecting the customer’s time",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding premature product pitches",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Rapport and Trust",
+            "items": [
+                {
+                    "text": "Demonstrating genuine interest",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting communication to the customer",
+                    "level": 0
+                },
+                {
+                    "text": "Using empathy without making assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Showing reliability and consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining appropriate professional boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening trust through follow-through",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Asking Effective Sales Questions",
+            "items": [
+                {
+                    "text": "Open and closed questions",
+                    "level": 0
+                },
+                {
+                    "text": "Situation and context questions",
+                    "level": 0
+                },
+                {
+                    "text": "Problem and challenge questions",
+                    "level": 0
+                },
+                {
+                    "text": "Impact and consequence questions",
+                    "level": 0
+                },
+                {
+                    "text": "Desired outcome questions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying and confirming questions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practicing Active Listening",
+            "items": [
+                {
+                    "text": "Listening without interrupting",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing stated and unstated concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing facts from assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Using paraphrasing and summarizing",
+                    "level": 0
+                },
+                {
+                    "text": "Noticing hesitation and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming shared understanding",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Discovering Customer Needs",
+            "items": [
+                {
+                    "text": "Identifying explicit needs",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring underlying motivations",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the current situation",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing consequences of inaction",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying decision criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing the needs that matter most",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Customer Buying Motivations",
+            "items": [
+                {
+                    "text": "Functional requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Financial considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Convenience and time savings",
+                    "level": 0
+                },
+                {
+                    "text": "Risk reduction",
+                    "level": 0
+                },
+                {
+                    "text": "Confidence and reassurance",
+                    "level": 0
+                },
+                {
+                    "text": "Personal and organizational priorities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Presenting Products and Services Effectively",
+            "items": [
+                {
+                    "text": "Selecting relevant product information",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining features clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Translating features into benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting benefits to discovered needs",
+                    "level": 0
+                },
+                {
+                    "text": "Using demonstrations and examples",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding information overload",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating a Compelling Value Proposition",
+            "items": [
+                {
+                    "text": "Defining customer-specific value",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining differentiated benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Using credible supporting evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing outcomes rather than features alone",
+                    "level": 0
+                },
+                {
+                    "text": "Handling competitor comparisons professionally",
+                    "level": 0
+                },
+                {
+                    "text": "Checking whether the proposition resonates",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Storytelling and Proof in Selling",
+            "items": [
+                {
+                    "text": "Using concise customer examples",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting relevant case evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating practical outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining testimonials responsibly",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping stories factual and focused",
+                    "level": 0
+                },
+                {
+                    "text": "Inviting questions and clarification",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Buying Signals",
+            "items": [
+                {
+                    "text": "Identifying questions about implementation or delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Noticing interest in terms and options",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing requests for confirmation",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing genuine signals from politeness",
+                    "level": 0
+                },
+                {
+                    "text": "Testing readiness through appropriate questions",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing a suitable next step",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Sales Objections",
+            "items": [
+                {
+                    "text": "Why customers raise objections",
+                    "level": 0
+                },
+                {
+                    "text": "Separating questions from objections",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing genuine versus surface concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Listening without defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the underlying issue",
+                    "level": 0
+                },
+                {
+                    "text": "Treating objections as useful information",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Responding to Common Objections",
+            "items": [
+                {
+                    "text": "Price and affordability concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Timing and urgency concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Product or service fit concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Trust and credibility concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Competitor comparisons",
+                    "level": 0
+                },
+                {
+                    "text": "Requests to postpone decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using a Structured Objection-Handling Process",
+            "items": [
+                {
+                    "text": "Listen fully",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledge the concern",
+                    "level": 0
+                },
+                {
+                    "text": "Clarify the real issue",
+                    "level": 0
+                },
+                {
+                    "text": "Respond with relevant evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Check whether the concern is resolved",
+                    "level": 0
+                },
+                {
+                    "text": "Agree the next appropriate step",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Selling Value When Price Is Challenged",
+            "items": [
+                {
+                    "text": "Understanding price versus total value",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting price with customer outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring the basis of comparisons",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding immediate discounting",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting alternatives where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining confidence and transparency",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Fundamentals of Sales Negotiation",
+            "items": [
+                {
+                    "text": "Preparing objectives and boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding customer interests",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing positions from interests",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying possible trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Making conditional concessions",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting long-term relationships",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Closing Sales Professionally",
+            "items": [
+                {
+                    "text": "Understanding readiness to decide",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing agreed value",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying remaining concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for commitment directly and respectfully",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing delivery or implementation details",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding artificial urgency and pressure",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Customer Hesitation",
+            "items": [
+                {
+                    "text": "Exploring uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying missing information",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding perceived risk",
+                    "level": 0
+                },
+                {
+                    "text": "Offering appropriate reassurance",
+                    "level": 0
+                },
+                {
+                    "text": "Providing decision support",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when to allow more time",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Securing Clear Next Steps",
+            "items": [
+                {
+                    "text": "Defining the next action",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning responsibility",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing a realistic timeline",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming communication channels",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Following up as promised",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Following Up Without Becoming Intrusive",
+            "items": [
+                {
+                    "text": "Planning useful follow-up",
+                    "level": 0
+                },
+                {
+                    "text": "Providing additional relevant information",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing appropriate timing",
+                    "level": 0
+                },
+                {
+                    "text": "Personalizing follow-up messages",
+                    "level": 0
+                },
+                {
+                    "text": "Handling non-response professionally",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accurate interaction records",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Long-Term Customer Relationships",
+            "items": [
+                {
+                    "text": "Delivering on promises",
+                    "level": 0
+                },
+                {
+                    "text": "Checking customer satisfaction",
+                    "level": 0
+                },
+                {
+                    "text": "Handling issues promptly",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying additional relevant needs",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing opportunities for repeat business",
+                    "level": 0
+                },
+                {
+                    "text": "Building referrals through trust and service",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Daily Sales Activities",
+            "items": [
+                {
+                    "text": "Setting daily and weekly priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing prospecting and active opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Using contact and follow-up schedules",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining CRM records",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing opportunity status",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting time for high-value selling activities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Sales Performance Measures",
+            "items": [
+                {
+                    "text": "Sales targets and actual results",
+                    "level": 0
+                },
+                {
+                    "text": "Lead-to-opportunity conversion",
+                    "level": 0
+                },
+                {
+                    "text": "Opportunity-to-sale conversion",
+                    "level": 0
+                },
+                {
+                    "text": "Average deal or transaction value",
+                    "level": 0
+                },
+                {
+                    "text": "Sales cycle length",
+                    "level": 0
+                },
+                {
+                    "text": "Follow-up and activity quality",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Improving Personal Selling Performance",
+            "items": [
+                {
+                    "text": "Reviewing sales outcomes and behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strengths and gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Using customer and manager feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing challenging interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Testing improved techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking progress over time",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Sales Skills Simulation",
+            "items": [
+                {
+                    "text": "Preparing for a customer interaction",
+                    "level": 0
+                },
+                {
+                    "text": "Opening and building rapport",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting discovery",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting a relevant solution",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to objections",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing commitment and next steps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing an Actionable Selling Skills Plan",
+            "items": [
+                {
+                    "text": "Selecting priority selling behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Defining practical improvement goals",
+                    "level": 0
+                },
+                {
+                    "text": "Planning regular skills practice",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying support and resources",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing measures of improvement",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a personal follow-up schedule",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

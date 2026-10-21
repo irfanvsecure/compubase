@@ -1,0 +1,1385 @@
+{
+    "file": "Strategic_Decision_Making_in_Competitive_Environments.docx",
+    "title": "Strategic Decision Making in Competitive Environments",
+    "duration": "3 Days",
+    "overview": [
+        "Strategic decisions are made in environments where information is incomplete, competitors react, stakeholder interests differ, assumptions may change, and the consequences of choices can extend far beyond immediate operational results. Effective strategic decision making therefore requires more than analysis; it requires disciplined framing, evidence-based judgment, awareness of uncertainty, anticipation of competitive response, and the ability to make clear trade-offs.",
+        "This three-day course equips managers and decision makers with practical frameworks for making high-impact decisions in competitive and uncertain environments. Participants examine strategic problem framing, environmental and competitor analysis, decision criteria, alternatives, scenarios, uncertainty, risk, cognitive bias, stakeholder interests, competitive response, option evaluation, implementation, and post-decision learning.",
+        "Through decision cases, scenario exercises, competitive-response simulations, option evaluation, bias checks, and structured decision workshops, participants learn to improve both the quality of strategic choices and the discipline of the decision-making process."
+    ],
+    "audience": [
+        "Senior managers, directors, department heads, business-unit leaders, strategy and planning professionals, business-development managers, project and program leaders, transformation managers, and professionals responsible for high-impact decisions involving competition, uncertainty, resource allocation, strategic priorities, or organizational direction."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining short presentations, strategic decision cases, competitive analysis, problem-framing exercises, scenario development, decision matrices, assumption testing, risk analysis, cognitive-bias exercises, stakeholder mapping, competitive-response simulations, group decision exercises, and action planning. Participants apply the tools to realistic strategic choices and practice documenting the logic behind their decisions."
+    ],
+    "competencies": [
+        "Strategic judgment",
+        "Decision framing",
+        "Competitive analysis",
+        "Critical thinking",
+        "Scenario analysis",
+        "Risk and uncertainty assessment",
+        "Strategic option evaluation",
+        "Cognitive-bias management",
+        "Stakeholder analysis",
+        "Competitive-response anticipation",
+        "Decision implementation",
+        "Strategic learning"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Distinguish strategic decisions from routine operational decisions.",
+        "Frame complex strategic decisions clearly before evaluating solutions.",
+        "Identify relevant competitive, market, organizational, and stakeholder information.",
+        "Develop meaningful strategic alternatives rather than choosing between artificially narrow options.",
+        "Use decision criteria, scenarios, and structured evaluation methods to compare alternatives.",
+        "Assess risk and uncertainty without creating false precision.",
+        "Recognize cognitive and organizational biases that distort strategic judgment.",
+        "Anticipate competitor and stakeholder responses to strategic moves.",
+        "Balance short-term outcomes with longer-term strategic consequences.",
+        "Build commitment while preserving constructive challenge in group decisions.",
+        "Translate strategic decisions into clear implementation and review mechanisms.",
+        "Use post-decision learning to improve future strategic judgment."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Strategic Decision Making",
+            "items": [
+                {
+                    "text": "Defining strategic decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Strategic versus operational decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of high-impact decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Long-term consequences and organizational commitment",
+                    "level": 0
+                },
+                {
+                    "text": "Decisions under competition and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "The role of judgment when information is incomplete",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing speed and analytical depth",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding decision quality separately from eventual outcome",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing the Competitive Decision Environment",
+            "items": [
+                {
+                    "text": "Understanding market and sector dynamics",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying direct and indirect competitors",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing substitutes and alternative solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding stakeholder power",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring regulatory and technological change",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing interdependence between strategic actors",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying forces that can alter the decision context",
+                    "level": 0
+                },
+                {
+                    "text": "Translating environmental change into decision implications",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Framing the Strategic Decision",
+            "items": [
+                {
+                    "text": "Defining the decision that actually needs to be made",
+                    "level": 0
+                },
+                {
+                    "text": "Separating symptoms from underlying strategic issues",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the desired outcome",
+                    "level": 0
+                },
+                {
+                    "text": "Defining scope and boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing hidden assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding solution-first framing",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a clear strategic decision statement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Clarifying Decision Objectives",
+            "items": [
+                {
+                    "text": "Identifying what the decision must achieve",
+                    "level": 0
+                },
+                {
+                    "text": "Separating essential outcomes from preferences",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying strategic priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing competing objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Considering financial and non-financial outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Considering customer and stakeholder value",
+                    "level": 0
+                },
+                {
+                    "text": "Defining time horizon",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing decision criteria",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Gathering Decision-Relevant Information",
+            "items": [
+                {
+                    "text": "Identifying information that can change the decision",
+                    "level": 0
+                },
+                {
+                    "text": "Separating useful evidence from data overload",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing information quality",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing information gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Using internal and external sources",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing facts from estimates",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the cost and value of additional information",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when sufficient information exists to decide",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Competitors",
+            "items": [
+                {
+                    "text": "Understanding competitor objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing competitor capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying current strategic positions",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing recent competitive moves",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding likely incentives",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strengths and vulnerabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing competitor constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Using competitor analysis to improve decision quality",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Anticipating Competitive Response",
+            "items": [
+                {
+                    "text": "Understanding strategic interdependence",
+                    "level": 0
+                },
+                {
+                    "text": "Asking how competitors may react",
+                    "level": 0
+                },
+                {
+                    "text": "Considering retaliation and counter-moves",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying likely response timing",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing competitor ability to respond",
+                    "level": 0
+                },
+                {
+                    "text": "Considering second-order consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Developing alternative response scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding decisions based on static competitor assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Strategic Alternatives",
+            "items": [
+                {
+                    "text": "Avoiding false either-or choices",
+                    "level": 0
+                },
+                {
+                    "text": "Generating multiple viable options",
+                    "level": 0
+                },
+                {
+                    "text": "Including the option to delay or stage a decision",
+                    "level": 0
+                },
+                {
+                    "text": "Considering partnerships and alliances",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring alternative resource commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Considering defensive and offensive choices",
+                    "level": 0
+                },
+                {
+                    "text": "Combining options where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring alternatives are genuinely distinct",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Challenging Strategic Assumptions",
+            "items": [
+                {
+                    "text": "Identifying assumptions behind each option",
+                    "level": 0
+                },
+                {
+                    "text": "Separating known facts from beliefs",
+                    "level": 0
+                },
+                {
+                    "text": "Testing market assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Testing customer and stakeholder assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Testing competitor assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Testing capability assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying assumptions most likely to change the decision",
+                    "level": 0
+                },
+                {
+                    "text": "Designing ways to validate critical assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Scenario Thinking",
+            "items": [
+                {
+                    "text": "Understanding scenarios as alternative plausible futures",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying critical uncertainties",
+                    "level": 0
+                },
+                {
+                    "text": "Creating contrasting scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Testing strategic options across scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying robust decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing options that depend on one narrow future",
+                    "level": 0
+                },
+                {
+                    "text": "Defining early warning indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Using scenarios without attempting to predict the future precisely",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Risk and Uncertainty",
+            "items": [
+                {
+                    "text": "Distinguishing risk from uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying major decision risks",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing likelihood and impact",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing uncertainty that cannot be quantified reliably",
+                    "level": 0
+                },
+                {
+                    "text": "Considering upside as well as downside",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding risk interdependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying risk tolerance",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating risk into strategic choice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Strategic Options",
+            "items": [
+                {
+                    "text": "Strategic alignment",
+                    "level": 0
+                },
+                {
+                    "text": "Expected value and impact",
+                    "level": 0
+                },
+                {
+                    "text": "Competitive advantage",
+                    "level": 0
+                },
+                {
+                    "text": "Customer and stakeholder implications",
+                    "level": 0
+                },
+                {
+                    "text": "Feasibility and capability",
+                    "level": 0
+                },
+                {
+                    "text": "Resource requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Risk and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Reversibility and flexibility",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Decision Matrices",
+            "items": [
+                {
+                    "text": "Selecting meaningful criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding duplicated criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning weights carefully",
+                    "level": 0
+                },
+                {
+                    "text": "Scoring alternatives consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Testing sensitivity to different weights",
+                    "level": 0
+                },
+                {
+                    "text": "Using quantitative structure without creating false precision",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing reasons behind scores",
+                    "level": 0
+                },
+                {
+                    "text": "Using the matrix as decision support rather than automatic decision making",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Considering Financial Implications",
+            "items": [
+                {
+                    "text": "Understanding relevant financial consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Considering investment requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing expected returns",
+                    "level": 0
+                },
+                {
+                    "text": "Considering cash-flow timing",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding opportunity cost",
+                    "level": 0
+                },
+                {
+                    "text": "Testing key financial assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Considering downside exposure",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating financial evidence with broader strategic value",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Considering Strategic Trade-Offs",
+            "items": [
+                {
+                    "text": "Understanding that strategy requires choices",
+                    "level": 0
+                },
+                {
+                    "text": "Short-term versus long-term performance",
+                    "level": 0
+                },
+                {
+                    "text": "Growth versus profitability",
+                    "level": 0
+                },
+                {
+                    "text": "Control versus flexibility",
+                    "level": 0
+                },
+                {
+                    "text": "Speed versus certainty",
+                    "level": 0
+                },
+                {
+                    "text": "Standardization versus customization",
+                    "level": 0
+                },
+                {
+                    "text": "Investment versus preservation of resources",
+                    "level": 0
+                },
+                {
+                    "text": "Making trade-offs explicit rather than accidental",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Cognitive Bias",
+            "items": [
+                {
+                    "text": "Confirmation bias",
+                    "level": 0
+                },
+                {
+                    "text": "Anchoring",
+                    "level": 0
+                },
+                {
+                    "text": "Availability bias",
+                    "level": 0
+                },
+                {
+                    "text": "Overconfidence",
+                    "level": 0
+                },
+                {
+                    "text": "Status quo bias",
+                    "level": 0
+                },
+                {
+                    "text": "Loss aversion",
+                    "level": 0
+                },
+                {
+                    "text": "Sunk-cost effects",
+                    "level": 0
+                },
+                {
+                    "text": "Using structured challenge to reduce bias",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Escalation of Commitment",
+            "items": [
+                {
+                    "text": "Recognizing attachment to previous decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Separating past investment from future value",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying face-saving behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Creating objective continuation criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Using independent review",
+                    "level": 0
+                },
+                {
+                    "text": "Making stopping decisions explicit",
+                    "level": 0
+                },
+                {
+                    "text": "Redirecting resources when evidence changes",
+                    "level": 0
+                },
+                {
+                    "text": "Learning without treating strategic change as failure",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Intuition Appropriately",
+            "items": [
+                {
+                    "text": "Understanding experience-based intuition",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when intuition may be useful",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing environments where intuition is unreliable",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing intuition from emotional impulse",
+                    "level": 0
+                },
+                {
+                    "text": "Testing intuitive judgments against evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Seeking disconfirming information",
+                    "level": 0
+                },
+                {
+                    "text": "Combining expertise with structured analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overconfidence in seniority or experience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying Critical Thinking to Strategic Decisions",
+            "items": [
+                {
+                    "text": "Clarifying claims and assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying logical gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Considering alternative explanations",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing correlation from causation",
+                    "level": 0
+                },
+                {
+                    "text": "Testing consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Asking what evidence would change the conclusion",
+                    "level": 0
+                },
+                {
+                    "text": "Improving reasoning transparency",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Pre-Mortem Analysis",
+            "items": [
+                {
+                    "text": "Assuming the decision has failed",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying plausible reasons for failure",
+                    "level": 0
+                },
+                {
+                    "text": "Surfacing hidden concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing pressure toward consensus",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying overlooked risks",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening mitigation plans",
+                    "level": 0
+                },
+                {
+                    "text": "Reconsidering fragile assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Improving the decision before commitment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Stakeholder Interests",
+            "items": [
+                {
+                    "text": "Identifying key stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding interests and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing influence and power",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing likely support and resistance",
+                    "level": 0
+                },
+                {
+                    "text": "Considering stakeholder impact",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying potential coalitions",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating unintended consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Incorporating stakeholder realities without losing strategic focus",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making Decisions in Groups",
+            "items": [
+                {
+                    "text": "Understanding advantages and risks of group decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Using diverse expertise",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing domination by senior or vocal participants",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging constructive disagreement",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding groupthink",
+                    "level": 0
+                },
+                {
+                    "text": "Separating idea generation from final choice",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying who makes the final decision",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the decision rationale",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating Constructive Challenge",
+            "items": [
+                {
+                    "text": "Inviting dissent deliberately",
+                    "level": 0
+                },
+                {
+                    "text": "Using devil's-advocate roles carefully",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning alternative-case teams",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for disconfirming evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Challenging assumptions rather than personalities",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting psychological safety",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding performative agreement",
+                    "level": 0
+                },
+                {
+                    "text": "Using disagreement to strengthen decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making Decisions Under Time Pressure",
+            "items": [
+                {
+                    "text": "Identifying what must be decided now",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing reversible from irreversible choices",
+                    "level": 0
+                },
+                {
+                    "text": "Focusing on critical information",
+                    "level": 0
+                },
+                {
+                    "text": "Using minimum sufficient analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing pressure-driven bias",
+                    "level": 0
+                },
+                {
+                    "text": "Defining immediate safeguards",
+                    "level": 0
+                },
+                {
+                    "text": "Planning rapid review points",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accountability despite speed",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making Decisions with Incomplete Information",
+            "items": [
+                {
+                    "text": "Accepting that perfect information is rarely available",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the most consequential unknowns",
+                    "level": 0
+                },
+                {
+                    "text": "Estimating ranges rather than false point precision",
+                    "level": 0
+                },
+                {
+                    "text": "Using assumptions explicitly",
+                    "level": 0
+                },
+                {
+                    "text": "Creating contingent decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Preserving flexibility",
+                    "level": 0
+                },
+                {
+                    "text": "Planning additional learning",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when delay creates greater risk than deciding",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Real Options Thinking",
+            "items": [
+                {
+                    "text": "Understanding the value of flexibility",
+                    "level": 0
+                },
+                {
+                    "text": "Staging commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Piloting before full-scale investment",
+                    "level": 0
+                },
+                {
+                    "text": "Creating options to expand",
+                    "level": 0
+                },
+                {
+                    "text": "Creating options to exit",
+                    "level": 0
+                },
+                {
+                    "text": "Deferring irreversible commitments where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing option value with speed",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence to determine the next commitment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making Resource Allocation Decisions",
+            "items": [
+                {
+                    "text": "Connecting resources with strategic priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating competing investment requests",
+                    "level": 0
+                },
+                {
+                    "text": "Considering opportunity cost",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding equal distribution without strategic logic",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing expected strategic contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Considering portfolio balance",
+                    "level": 0
+                },
+                {
+                    "text": "Stopping lower-value commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Reallocating resources as conditions change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Balancing Portfolio Decisions",
+            "items": [
+                {
+                    "text": "Understanding portfolio-level trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing core and growth investments",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing risk levels",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing short- and long-term initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Considering dependencies between decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive concentration",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing portfolio performance",
+                    "level": 0
+                },
+                {
+                    "text": "Adjusting the portfolio as evidence develops",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating Strategic Decisions",
+            "items": [
+                {
+                    "text": "Explaining the decision clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating the strategic rationale",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying alternatives considered",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining major trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging uncertainty honestly",
+                    "level": 0
+                },
+                {
+                    "text": "Tailoring communication to stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying implications and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining confidence without overstating certainty",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Commitment to Decisions",
+            "items": [
+                {
+                    "text": "Distinguishing participation from veto power",
+                    "level": 0
+                },
+                {
+                    "text": "Engaging key stakeholders at the right stage",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing constructive challenge before commitment",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying final decision authority",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing legitimate concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning leadership messages",
+                    "level": 0
+                },
+                {
+                    "text": "Defining responsibilities after the decision",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from debate to coordinated execution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Translating Decisions into Action",
+            "items": [
+                {
+                    "text": "Defining implementation outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying required resources",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Managing dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Defining performance measures",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying implementation risks",
+                    "level": 0
+                },
+                {
+                    "text": "Creating follow-up mechanisms",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Monitoring Strategic Decisions",
+            "items": [
+                {
+                    "text": "Defining indicators that matter",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking competitor responses",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing stakeholder reactions",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring expected outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying unintended effects",
+                    "level": 0
+                },
+                {
+                    "text": "Creating decision review points",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing temporary variance from strategic warning signs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Knowing When to Adapt or Reverse a Decision",
+            "items": [
+                {
+                    "text": "Defining conditions for reconsideration",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing material changes in assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to new evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding attachment to previous choices",
+                    "level": 0
+                },
+                {
+                    "text": "Considering switching costs",
+                    "level": 0
+                },
+                {
+                    "text": "Managing stakeholder expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting while preserving strategic coherence",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating reversals responsibly",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Learning from Strategic Decisions",
+            "items": [
+                {
+                    "text": "Conducting post-decision reviews",
+                    "level": 0
+                },
+                {
+                    "text": "Separating process quality from outcome luck",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing assumptions with actual results",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying information that was missed",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing competitor-response assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing bias in hindsight",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing reusable lessons",
+                    "level": 0
+                },
+                {
+                    "text": "Improving future decision processes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Strategic Decision-Making Workshop",
+            "items": [
+                {
+                    "text": "Framing a complex competitive decision",
+                    "level": 0
+                },
+                {
+                    "text": "Defining objectives and criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing competitors and stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Generating strategic alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Testing assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Developing scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating risk and trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating competitive responses",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting and defending a strategic choice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Strategic Decision-Making Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current decision-making strengths",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying recurring decision biases",
+                    "level": 0
+                },
+                {
+                    "text": "Improving decision framing",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening competitive analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Defining challenge mechanisms",
+                    "level": 0
+                },
+                {
+                    "text": "Improving decision documentation",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing review and learning practices",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Strategic Decision-Making Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

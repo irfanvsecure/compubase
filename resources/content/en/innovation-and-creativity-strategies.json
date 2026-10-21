@@ -1,0 +1,968 @@
+{
+    "file": "Innovation_and_Creativity_Strategies.docx",
+    "title": "Innovation & Creativity Strategies",
+    "duration": "3 Days",
+    "overview": [
+        "Organizations need more than occasional creative ideas to remain responsive, competitive, and capable of improvement. Creativity generates possibilities, while innovation converts selected possibilities into solutions that create practical value. Developing both capabilities requires structured methods for identifying opportunities, challenging assumptions, generating alternatives, evaluating ideas, experimenting, and moving promising concepts toward implementation.",
+        "This course provides participants with practical strategies for strengthening creativity and innovation at individual, team, and organizational levels. Participants will learn how to recognize innovation opportunities, frame challenges effectively, apply structured creativity techniques, develop and prioritize ideas, use design-thinking principles, prototype and test concepts, and create conditions that encourage responsible experimentation and continuous learning.",
+        "The program combines creative-thinking tools with innovation-management practices. It emphasizes the complete journey from identifying a meaningful challenge through idea generation, selection, development, testing, implementation planning, and measurement so that creativity becomes connected to organizational priorities and measurable outcomes."
+    ],
+    "audience": [
+        "Managers, supervisors, team leaders, strategy and planning professionals, innovation teams, project managers, service-development personnel, organizational-excellence professionals, business-development staff, and employees responsible for generating ideas, improving services or processes, solving complex problems, or supporting innovation initiatives."
+    ],
+    "methodology": [
+        "The course uses an interactive and highly practical methodology combining short presentations, creativity exercises, innovation case studies, problem-framing activities, brainstorming and brainwriting, SCAMPER, assumption challenges, design-thinking exercises, idea-prioritization tools, concept development, rapid prototyping, testing scenarios, group workshops, and implementation planning. Participants will apply the techniques to realistic organizational challenges and develop an innovation concept from opportunity identification to action planning."
+    ],
+    "competencies": [
+        "Creative thinking",
+        "Innovation thinking",
+        "Opportunity identification",
+        "Problem framing",
+        "Divergent and convergent thinking",
+        "Idea generation",
+        "Design thinking",
+        "Idea evaluation and prioritization",
+        "Concept development",
+        "Experimentation and prototyping",
+        "Innovation collaboration",
+        "Implementation planning"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Distinguish creativity, innovation, invention, and continuous improvement.",
+        "Identify organizational problems, unmet needs, trends, and performance gaps that can become innovation opportunities.",
+        "Frame challenges in ways that encourage useful exploration rather than premature solutions.",
+        "Apply structured creativity techniques to generate a wider range of ideas.",
+        "Challenge assumptions and habitual ways of thinking.",
+        "Use design-thinking principles to develop solutions around stakeholder needs.",
+        "Evaluate and prioritize ideas according to value, feasibility, impact, risk, and strategic relevance.",
+        "Develop promising ideas into clear innovation concepts.",
+        "Use prototypes and small-scale tests to reduce uncertainty before implementation.",
+        "Create team conditions that support creative contribution and responsible experimentation.",
+        "Develop a practical implementation and measurement plan for selected innovations."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Creativity and Innovation",
+            "items": [
+                {
+                    "text": "Defining creativity and innovation in an organizational context",
+                    "level": 0
+                },
+                {
+                    "text": "Creativity as the generation of useful possibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Innovation as the implementation of value-creating ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Innovation versus invention and continuous improvement",
+                    "level": 0
+                },
+                {
+                    "text": "Incremental and more transformative innovation",
+                    "level": 0
+                },
+                {
+                    "text": "Product, service, process, business-model, and organizational innovation",
+                    "level": 0
+                },
+                {
+                    "text": "The relationship between creativity, problem solving, and innovation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing that innovation requires both imagination and execution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Innovation Opportunities",
+            "items": [
+                {
+                    "text": "Identifying unmet customer and stakeholder needs",
+                    "level": 0
+                },
+                {
+                    "text": "Using complaints, delays, errors, and inefficiencies as signals",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing opportunities created by technology and changing behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Examining performance gaps and recurring problems",
+                    "level": 0
+                },
+                {
+                    "text": "Looking for unnecessary complexity and outdated practices",
+                    "level": 0
+                },
+                {
+                    "text": "Observing trends and changes in the external environment",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing an opportunity from a preferred solution",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a clear innovation opportunity statement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Framing Challenges for Creative Thinking",
+            "items": [
+                {
+                    "text": "Understanding why problem definition influences solution quality",
+                    "level": 0
+                },
+                {
+                    "text": "Separating symptoms from underlying causes",
+                    "level": 0
+                },
+                {
+                    "text": "Using the Five Whys to explore root causes",
+                    "level": 0
+                },
+                {
+                    "text": "Reframing a challenge from different perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Broadening and narrowing the problem frame",
+                    "level": 0
+                },
+                {
+                    "text": "Using 'How Might We' questions",
+                    "level": 0
+                },
+                {
+                    "text": "Defining boundaries without restricting creativity unnecessarily",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a focused creative challenge statement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Barriers to Creativity",
+            "items": [
+                {
+                    "text": "Fear of failure and criticism",
+                    "level": 0
+                },
+                {
+                    "text": "Premature judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Overreliance on familiar solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Assuming existing constraints cannot be challenged",
+                    "level": 0
+                },
+                {
+                    "text": "Group conformity and hierarchy",
+                    "level": 0
+                },
+                {
+                    "text": "Time pressure and cognitive overload",
+                    "level": 0
+                },
+                {
+                    "text": "Negative language that closes exploration",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing personal and organizational habits that restrict creativity",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Creative Mindset",
+            "items": [
+                {
+                    "text": "Strengthening curiosity and observation",
+                    "level": 0
+                },
+                {
+                    "text": "Becoming comfortable with incomplete ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Separating idea generation from evaluation",
+                    "level": 0
+                },
+                {
+                    "text": "Looking beyond the first obvious answer",
+                    "level": 0
+                },
+                {
+                    "text": "Seeking different perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Using constraints as creative prompts",
+                    "level": 0
+                },
+                {
+                    "text": "Learning from unsuccessful attempts",
+                    "level": 0
+                },
+                {
+                    "text": "Building creative confidence through practice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying Divergent and Convergent Thinking",
+            "items": [
+                {
+                    "text": "Understanding the purpose of divergent thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Generating quantity and variety before selection",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding early elimination of unconventional ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding convergent thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Grouping and organizing generated ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from possibilities to practical choices",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when to switch between divergence and convergence",
+                    "level": 0
+                },
+                {
+                    "text": "Using both modes throughout the innovation process",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Brainstorming and Brainwriting",
+            "items": [
+                {
+                    "text": "Establishing a clear challenge before ideation",
+                    "level": 0
+                },
+                {
+                    "text": "Deferring judgment during idea generation",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging quantity and variety",
+                    "level": 0
+                },
+                {
+                    "text": "Building on other people's ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Using brainwriting to increase participation",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing the effect of dominant personalities and hierarchy",
+                    "level": 0
+                },
+                {
+                    "text": "Using timed rounds and creative prompts",
+                    "level": 0
+                },
+                {
+                    "text": "Clustering ideas after generation",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from raw ideas to development",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying SCAMPER",
+            "items": [
+                {
+                    "text": "Substituting elements, resources, steps, or assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Combining functions, activities, or ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting approaches from other contexts",
+                    "level": 0
+                },
+                {
+                    "text": "Modifying characteristics, scale, or emphasis",
+                    "level": 0
+                },
+                {
+                    "text": "Putting existing resources or solutions to another use",
+                    "level": 0
+                },
+                {
+                    "text": "Eliminating unnecessary elements",
+                    "level": 0
+                },
+                {
+                    "text": "Reversing or rearranging sequence, roles, or direction",
+                    "level": 0
+                },
+                {
+                    "text": "Using SCAMPER systematically on existing products, services, and processes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Challenging Assumptions and Using Reversal",
+            "items": [
+                {
+                    "text": "Identifying explicit and hidden assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Separating facts from established habits",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether a perceived constraint is real",
+                    "level": 0
+                },
+                {
+                    "text": "Asking what would happen if an assumption were removed",
+                    "level": 0
+                },
+                {
+                    "text": "Reversing roles, sequence, or normal practice",
+                    "level": 0
+                },
+                {
+                    "text": "Using opposite thinking to expose new possibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Turning negative findings into improvement ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting useful ideas created through assumption challenges",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Analogies and Cross-Industry Inspiration",
+            "items": [
+                {
+                    "text": "Looking beyond the immediate industry or function",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying similar challenges in different environments",
+                    "level": 0
+                },
+                {
+                    "text": "Extracting the principle behind another solution",
+                    "level": 0
+                },
+                {
+                    "text": "Using nature, services, technology, and everyday experiences as inspiration",
+                    "level": 0
+                },
+                {
+                    "text": "Transferring useful characteristics rather than copying literally",
+                    "level": 0
+                },
+                {
+                    "text": "Combining inspiration from several sources",
+                    "level": 0
+                },
+                {
+                    "text": "Using analogies to escape habitual thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting external ideas to organizational reality",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying Design Thinking",
+            "items": [
+                {
+                    "text": "Understanding the stages of design thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Developing empathy with customers and stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Defining needs based on evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Generating alternative solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Building simple prototypes",
+                    "level": 0
+                },
+                {
+                    "text": "Testing concepts with users",
+                    "level": 0
+                },
+                {
+                    "text": "Learning and iterating",
+                    "level": 0
+                },
+                {
+                    "text": "Using design thinking for services, processes, and internal challenges",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Stakeholder Needs",
+            "items": [
+                {
+                    "text": "Identifying users, customers, employees, partners, and other stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding goals, frustrations, expectations, and constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Using interviews, observation, feedback, and data",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing stated requests from underlying needs",
+                    "level": 0
+                },
+                {
+                    "text": "Developing simple personas where useful",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping the stakeholder journey",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying important moments and pain points",
+                    "level": 0
+                },
+                {
+                    "text": "Using insight rather than assumption to guide innovation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Ideas into Innovation Concepts",
+            "items": [
+                {
+                    "text": "Moving from a raw idea to a defined concept",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the problem or opportunity addressed",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the intended user or beneficiary",
+                    "level": 0
+                },
+                {
+                    "text": "Describing how the solution would work",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the expected value and benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying resources and capabilities required",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing important assumptions and dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a concise innovation concept statement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Combining and Strengthening Ideas",
+            "items": [
+                {
+                    "text": "Identifying complementary ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Combining partial solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Adding useful features or capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Simplifying overly complex concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing weaknesses without losing the core value",
+                    "level": 0
+                },
+                {
+                    "text": "Using feedback to strengthen concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Creating alternatives at different levels of ambition",
+                    "level": 0
+                },
+                {
+                    "text": "Developing stronger concepts from several moderate ideas",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating and Prioritizing Ideas",
+            "items": [
+                {
+                    "text": "Knowing when to move from generation to evaluation",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing transparent evaluation criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing stakeholder and organizational value",
+                    "level": 0
+                },
+                {
+                    "text": "Considering strategic relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating feasibility and resource requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing implementation complexity and risk",
+                    "level": 0
+                },
+                {
+                    "text": "Using impact-effort and value-feasibility matrices",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing ideas consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting ideas for development, testing, combination, or rejection",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Prototyping Innovation Concepts",
+            "items": [
+                {
+                    "text": "Understanding prototypes as learning tools",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting the simplest prototype that can answer a question",
+                    "level": 0
+                },
+                {
+                    "text": "Using sketches, mock-ups, storyboards, process models, and role plays",
+                    "level": 0
+                },
+                {
+                    "text": "Prototyping services as well as physical or digital solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping early prototypes low-cost and easy to change",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying what each prototype is intended to test",
+                    "level": 0
+                },
+                {
+                    "text": "Collecting structured feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Improving the concept through iteration",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Testing and Experimentation",
+            "items": [
+                {
+                    "text": "Identifying critical assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Turning assumptions into testable hypotheses",
+                    "level": 0
+                },
+                {
+                    "text": "Defining success and learning criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Designing small, controlled experiments",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting appropriate participants for testing",
+                    "level": 0
+                },
+                {
+                    "text": "Observing behavior as well as collecting opinions",
+                    "level": 0
+                },
+                {
+                    "text": "Learning from unsuccessful tests",
+                    "level": 0
+                },
+                {
+                    "text": "Deciding whether to proceed, modify, retest, or stop",
+                    "level": 0
+                },
+                {
+                    "text": "Building evidence before major investment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Innovative Teams",
+            "items": [
+                {
+                    "text": "Creating psychological safety for ideas and questions",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging contributions from different perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing hierarchy from controlling idea quality",
+                    "level": 0
+                },
+                {
+                    "text": "Using constructive disagreement",
+                    "level": 0
+                },
+                {
+                    "text": "Building on rather than competing with ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Managing dominant and quiet participants",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding groupthink",
+                    "level": 0
+                },
+                {
+                    "text": "Combining creativity with accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Creating shared ownership of innovation challenges",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating an Innovation-Supportive Culture",
+            "items": [
+                {
+                    "text": "Understanding how leadership behavior affects innovation",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging responsible experimentation",
+                    "level": 0
+                },
+                {
+                    "text": "Responding constructively to unsuccessful attempts",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing learning as well as successful outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Creating time and space for improvement thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Removing unnecessary barriers to early ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing lessons across teams",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting innovation to normal work rather than isolated events",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Overcoming Resistance to New Ideas",
+            "items": [
+                {
+                    "text": "Understanding why people resist unfamiliar solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing legitimate concerns from automatic rejection",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying stakeholder interests and potential losses",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence rather than enthusiasm alone",
+                    "level": 0
+                },
+                {
+                    "text": "Involving affected stakeholders early",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating expected value clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Using pilots to reduce uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing practical implementation barriers",
+                    "level": 0
+                },
+                {
+                    "text": "Building support through early results",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Moving from Idea to Implementation",
+            "items": [
+                {
+                    "text": "Defining the desired outcome",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying actions required to operationalize the concept",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying ownership and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying resources and capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Creating implementation milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Planning stakeholder communication and engagement",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying implementation risks",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining flexibility as evidence develops",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Innovation Results",
+            "items": [
+                {
+                    "text": "Defining success before implementation",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing baseline measures",
+                    "level": 0
+                },
+                {
+                    "text": "Linking measures to the original problem or opportunity",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring customer or stakeholder value",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking efficiency, quality, time, cost, or adoption where relevant",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring unintended consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Combining quantitative and qualitative evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Using results to improve or scale the innovation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Innovation and Creativity Challenge",
+            "items": [
+                {
+                    "text": "Selecting a realistic organizational challenge",
+                    "level": 0
+                },
+                {
+                    "text": "Framing the problem or opportunity",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying stakeholders and needs",
+                    "level": 0
+                },
+                {
+                    "text": "Generating ideas using multiple creativity techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Combining and developing promising ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating alternatives using agreed criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Creating an innovation concept",
+                    "level": 0
+                },
+                {
+                    "text": "Designing a simple prototype or test",
+                    "level": 0
+                },
+                {
+                    "text": "Developing an implementation and measurement outline",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting the concept and receiving structured feedback",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Personal Innovation and Creativity Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current creative and innovation habits",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying personal strengths and barriers",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting techniques suited to different challenges",
+                    "level": 0
+                },
+                {
+                    "text": "Creating opportunities for regular idea generation",
+                    "level": 0
+                },
+                {
+                    "text": "Building a habit of observation and questioning",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying workplace opportunities for immediate application",
+                    "level": 0
+                },
+                {
+                    "text": "Defining practical next steps",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a Personal Innovation and Creativity Development Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

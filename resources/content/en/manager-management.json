@@ -1,0 +1,1269 @@
+{
+    "file": "Manager_Management.docx",
+    "title": "Manager Management",
+    "duration": "3 Days",
+    "overview": [
+        "Managing managers is fundamentally different from supervising individual contributors. The role requires leaders to achieve results through other leaders, create alignment across teams, strengthen managerial accountability, develop management capability, coordinate priorities, and ensure that organizational standards are translated consistently into day-to-day leadership practice.",
+        "This course equips senior managers, department heads, and leaders of managers with practical methods for directing, supporting, challenging, and developing the managers who report to them. Participants examine role clarity, delegation, accountability, performance management, coaching, decision rights, cross-functional coordination, managerial communication, conflict, succession, and the creation of a strong management culture.",
+        "The program emphasizes the transition from personally solving operational problems to building a capable layer of managers who can lead independently. Through leadership cases, delegation exercises, coaching scenarios, performance discussions, accountability tools, and action planning, participants will develop a structured approach to improving the performance of managers and the teams they lead."
+    ],
+    "audience": [
+        "Senior managers, directors, department heads, business-unit leaders, functional heads, general managers, experienced managers who supervise other managers or team leaders, and high-potential leaders preparing to assume responsibility for multiple teams or managerial layers."
+    ],
+    "methodology": [
+        "The course uses an applied leadership methodology combining short presentations, management case studies, role-clarity exercises, delegation and decision-rights activities, performance-management scenarios, coaching simulations, accountability discussions, cross-functional problem solving, difficult-conversation practice, peer feedback, and individual action planning. Participants apply the concepts to realistic challenges involved in leading managers rather than individual contributors."
+    ],
+    "competencies": [
+        "Leadership of managers",
+        "Managerial accountability",
+        "Delegation and empowerment",
+        "Performance management",
+        "Coaching and manager development",
+        "Decision-rights management",
+        "Strategic alignment",
+        "Cross-functional coordination",
+        "Leadership communication",
+        "Conflict management",
+        "Succession development",
+        "Management culture building"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the differences between managing individual contributors and managing managers.",
+        "Clarify managerial roles, responsibilities, decision rights, and performance expectations.",
+        "Delegate outcomes and authority without unnecessary interference or loss of accountability.",
+        "Create effective management rhythms for planning, review, communication, and follow-up.",
+        "Evaluate manager performance using both business results and leadership behavior.",
+        "Coach managers to strengthen judgment, leadership capability, and team performance.",
+        "Address underperformance and accountability gaps constructively.",
+        "Coordinate priorities and resolve conflicts across multiple teams and functions.",
+        "Develop stronger managerial ownership and reduce upward dependency.",
+        "Identify and develop future managers and successors.",
+        "Create a practical plan for strengthening the management layer of the organization."
+    ],
+    "outline": [
+        {
+            "title": "Understanding the Role of a Manager of Managers",
+            "items": [
+                {
+                    "text": "Moving from direct supervision to leadership through managers",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the multiplier effect of managerial behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing strategic, managerial, and operational responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Creating results through multiple teams",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the risks of remaining too operational",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the value added by the manager of managers",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining visibility without micromanaging",
+                    "level": 0
+                },
+                {
+                    "text": "Building a strong management layer",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making the Leadership Transition",
+            "items": [
+                {
+                    "text": "Letting go of previous individual-contributor habits",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from expert problem solver to leader of leaders",
+                    "level": 0
+                },
+                {
+                    "text": "Changing the time horizon of the role",
+                    "level": 0
+                },
+                {
+                    "text": "Shifting attention from tasks to systems and capability",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing inappropriate downward delegation",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding becoming the default solution for every issue",
+                    "level": 0
+                },
+                {
+                    "text": "Building confidence in managers' judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Redefining personal measures of leadership success",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Clarifying Managerial Roles and Expectations",
+            "items": [
+                {
+                    "text": "Defining the purpose of each management role",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying responsibilities and accountabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Separating managerial work from specialist work",
+                    "level": 0
+                },
+                {
+                    "text": "Setting expectations for team leadership",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying standards for planning and execution",
+                    "level": 0
+                },
+                {
+                    "text": "Defining communication responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing expectations for people development",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing gaps and overlaps between management roles",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Aligning Managers with Organizational Priorities",
+            "items": [
+                {
+                    "text": "Translating strategy into managerial priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Creating line of sight from organizational goals to team objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying what matters most",
+                    "level": 0
+                },
+                {
+                    "text": "Managing competing priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring consistent interpretation across managers",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting resource decisions with priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing progress against strategic objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Realigning managers when priorities change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Setting Managerial Objectives and Standards",
+            "items": [
+                {
+                    "text": "Defining outcome-based expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Setting measurable objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing results and leadership behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing quality and service standards",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying deadlines and milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Defining acceptable decision boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing reporting and review expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring managers understand how success will be assessed",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Delegating Through Managers",
+            "items": [
+                {
+                    "text": "Delegating outcomes rather than isolated tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Matching responsibility with authority",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying desired results",
+                    "level": 0
+                },
+                {
+                    "text": "Defining boundaries and constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing checkpoints",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing managers discretion in execution",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding reverse delegation",
+                    "level": 0
+                },
+                {
+                    "text": "Holding managers accountable for delegated outcomes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Defining Decision Rights",
+            "items": [
+                {
+                    "text": "Identifying decisions that belong at each management level",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing consultation from approval",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying escalation thresholds",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unnecessary upward decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing conflicting authority",
+                    "level": 0
+                },
+                {
+                    "text": "Building manager confidence in decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing decisions without taking them over",
+                    "level": 0
+                },
+                {
+                    "text": "Adjusting decision rights as capability develops",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Empowering Managers Without Losing Control",
+            "items": [
+                {
+                    "text": "Understanding empowerment as accountable authority",
+                    "level": 0
+                },
+                {
+                    "text": "Providing context rather than excessive instruction",
+                    "level": 0
+                },
+                {
+                    "text": "Creating clear operating boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing appropriate experimentation",
+                    "level": 0
+                },
+                {
+                    "text": "Accepting reasonable differences in management style",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring outcomes rather than controlling every action",
+                    "level": 0
+                },
+                {
+                    "text": "Intervening proportionately",
+                    "level": 0
+                },
+                {
+                    "text": "Building trust through consistent accountability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating Effective Management Rhythms",
+            "items": [
+                {
+                    "text": "Establishing regular one-to-one meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Using management-team meetings effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Creating planning and review cycles",
+                    "level": 0
+                },
+                {
+                    "text": "Defining reporting requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Using dashboards and performance information",
+                    "level": 0
+                },
+                {
+                    "text": "Separating operational updates from development discussions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining disciplined follow-up",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding meeting overload",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Running Effective One-to-One Meetings with Managers",
+            "items": [
+                {
+                    "text": "Preparing for managerial one-to-ones",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing priorities and outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing risks and obstacles",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring leadership and team issues",
+                    "level": 0
+                },
+                {
+                    "text": "Coaching rather than merely giving instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Creating space for upward feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing clear next actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Leading the Management Team",
+            "items": [
+                {
+                    "text": "Creating collective responsibility",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding silo-based management",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying shared priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Building trust among managers",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging constructive challenge",
+                    "level": 0
+                },
+                {
+                    "text": "Managing dominant voices",
+                    "level": 0
+                },
+                {
+                    "text": "Creating disciplined decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Holding managers accountable for enterprise-wide behavior",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Performance Through Managers",
+            "items": [
+                {
+                    "text": "Reviewing results at the correct level",
+                    "level": 0
+                },
+                {
+                    "text": "Using meaningful performance indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing symptoms from management causes",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing the quality of managerial execution",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying recurring performance patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Asking managers to diagnose their own performance",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing corrective actions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accountability for follow-through",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Managerial Effectiveness",
+            "items": [
+                {
+                    "text": "Assessing business and operational results",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing team performance",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing employee development",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating decision quality",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing delegation and empowerment",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing communication and collaboration",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating retention and succession strength",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing short-term results with sustainable leadership behavior",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Coaching Managers",
+            "items": [
+                {
+                    "text": "Understanding coaching at manager level",
+                    "level": 0
+                },
+                {
+                    "text": "Helping managers think rather than supplying every answer",
+                    "level": 0
+                },
+                {
+                    "text": "Using questions to develop judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Helping managers identify alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing support and challenge",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing development actions",
+                    "level": 0
+                },
+                {
+                    "text": "Following up on application",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Managerial Judgment",
+            "items": [
+                {
+                    "text": "Moving beyond procedural decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding context and consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying relevant stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing short-term and long-term considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing risks and trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Learning from previous decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Using reflection after significant decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Gradually increasing decision complexity",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Giving Feedback to Managers",
+            "items": [
+                {
+                    "text": "Using specific behavioral evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting behavior with impact",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing directness and respect",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing patterns rather than isolated irritation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing effective leadership behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Managing defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing observable changes",
+                    "level": 0
+                },
+                {
+                    "text": "Following up consistently",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Addressing Manager Underperformance",
+            "items": [
+                {
+                    "text": "Identifying whether the issue is capability, motivation, clarity, or resources",
+                    "level": 0
+                },
+                {
+                    "text": "Separating managerial performance from team excuses",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Holding direct accountability conversations",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying required improvement",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing support and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring progress",
+                    "level": 0
+                },
+                {
+                    "text": "Taking appropriate action when improvement does not occur",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Managers Who Avoid Accountability",
+            "items": [
+                {
+                    "text": "Recognizing upward delegation",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying excuse-based patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Redirecting ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for recommendations rather than only problems",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying consequences of non-delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding rescuing behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Building a culture of ownership",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing High-Performing Managers",
+            "items": [
+                {
+                    "text": "Recognizing strong performance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding neglect of high performers",
+                    "level": 0
+                },
+                {
+                    "text": "Increasing challenge and scope appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Providing strategic exposure",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting continued development",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing overdependence on one strong manager",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing high performers for broader roles",
+                    "level": 0
+                },
+                {
+                    "text": "Retaining strong managerial talent",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Different Management Styles",
+            "items": [
+                {
+                    "text": "Recognizing variation in leadership approach",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing style differences from performance problems",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing appropriate managerial individuality",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting communication to different managers",
+                    "level": 0
+                },
+                {
+                    "text": "Managing highly controlling managers",
+                    "level": 0
+                },
+                {
+                    "text": "Managing overly passive managers",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting inexperienced managers",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining common standards despite different styles",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Cross-Functional Cooperation",
+            "items": [
+                {
+                    "text": "Understanding interdependence between teams",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying shared outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Resolving competing priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Managing resource conflicts",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing silo behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Creating direct manager-to-manager coordination",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating only when necessary",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing enterprise-wide responsibility",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Resolving Conflict Between Managers",
+            "items": [
+                {
+                    "text": "Identifying the real source of conflict",
+                    "level": 0
+                },
+                {
+                    "text": "Separating task conflict from relationship conflict",
+                    "level": 0
+                },
+                {
+                    "text": "Listening to both perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying facts and interests",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing triangulation",
+                    "level": 0
+                },
+                {
+                    "text": "Facilitating direct dialogue",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing working arrangements",
+                    "level": 0
+                },
+                {
+                    "text": "Following up on behavioral commitments",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Upward Communication",
+            "items": [
+                {
+                    "text": "Defining what managers should escalate",
+                    "level": 0
+                },
+                {
+                    "text": "Improving the quality of management reports",
+                    "level": 0
+                },
+                {
+                    "text": "Requiring concise problem statements",
+                    "level": 0
+                },
+                {
+                    "text": "Expecting options and recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing information from decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unnecessary detail",
+                    "level": 0
+                },
+                {
+                    "text": "Creating early warning mechanisms",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging transparency about risks and bad news",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating Decisions Through Management Layers",
+            "items": [
+                {
+                    "text": "Clarifying the purpose and rationale of decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring consistent messages",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing managers to answer questions",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing appropriate contextual adaptation",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing message distortion",
+                    "level": 0
+                },
+                {
+                    "text": "Listening to feedback from lower levels",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting misunderstandings quickly",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining alignment during change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Leading Managers Through Change",
+            "items": [
+                {
+                    "text": "Preparing managers before broader communication",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding managers as both recipients and leaders of change",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing their own uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying their role in implementation",
+                    "level": 0
+                },
+                {
+                    "text": "Equipping managers to handle employee reactions",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring resistance and adoption",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining leadership consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing new expectations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building a Strong Accountability Culture",
+            "items": [
+                {
+                    "text": "Clarifying ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Making commitments visible",
+                    "level": 0
+                },
+                {
+                    "text": "Following up consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing missed commitments promptly",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding blame-based accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing reliable delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring consequences are fair and predictable",
+                    "level": 0
+                },
+                {
+                    "text": "Modeling accountability at senior levels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Managers as People Leaders",
+            "items": [
+                {
+                    "text": "Setting expectations for employee development",
+                    "level": 0
+                },
+                {
+                    "text": "Improving managers' coaching capability",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing team capability regularly",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring quality performance conversations",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening delegation within teams",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring engagement and retention",
+                    "level": 0
+                },
+                {
+                    "text": "Building internal talent pipelines",
+                    "level": 0
+                },
+                {
+                    "text": "Holding managers accountable for developing others",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Succession Planning for Management Roles",
+            "items": [
+                {
+                    "text": "Identifying critical management positions",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing potential successors",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing current performance from future potential",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying readiness gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Creating development assignments",
+                    "level": 0
+                },
+                {
+                    "text": "Providing exposure to broader responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing succession regularly",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing dependency on individual managers",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing New Managers",
+            "items": [
+                {
+                    "text": "Recognizing common first-line management challenges",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the shift from doing to managing",
+                    "level": 0
+                },
+                {
+                    "text": "Building basic planning and delegation capability",
+                    "level": 0
+                },
+                {
+                    "text": "Developing confidence in performance conversations",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Providing structured coaching",
+                    "level": 0
+                },
+                {
+                    "text": "Increasing responsibility progressively",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overprotection",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building a Management Culture",
+            "items": [
+                {
+                    "text": "Defining expected management behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Creating common leadership standards",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning management systems with desired behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing collaboration",
+                    "level": 0
+                },
+                {
+                    "text": "Normalizing feedback and coaching",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing management practices",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing destructive management behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Using senior leaders as role models",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Avoiding Common Manager-of-Managers Traps",
+            "items": [
+                {
+                    "text": "Micromanaging through multiple layers",
+                    "level": 0
+                },
+                {
+                    "text": "Bypassing managers and directing their employees",
+                    "level": 0
+                },
+                {
+                    "text": "Becoming the chief problem solver",
+                    "level": 0
+                },
+                {
+                    "text": "Tolerating unclear accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Overloading strong managers",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding difficult performance conversations",
+                    "level": 0
+                },
+                {
+                    "text": "Confusing activity with managerial effectiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing inconsistent standards across teams",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Manager Management Scenarios",
+            "items": [
+                {
+                    "text": "Delegating a significant outcome to a manager",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to upward delegation",
+                    "level": 0
+                },
+                {
+                    "text": "Coaching a manager through a difficult decision",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing managerial underperformance",
+                    "level": 0
+                },
+                {
+                    "text": "Resolving conflict between two managers",
+                    "level": 0
+                },
+                {
+                    "text": "Leading a management-team priority discussion",
+                    "level": 0
+                },
+                {
+                    "text": "Giving feedback on leadership behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing managerial performance and development",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Manager Management Action Plan",
+            "items": [
+                {
+                    "text": "Assessing the current strength of the management layer",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying role and accountability gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting delegation improvements",
+                    "level": 0
+                },
+                {
+                    "text": "Defining management rhythms",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying coaching priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying succession needs",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting management-culture improvements",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Manager Management Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

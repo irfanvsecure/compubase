@@ -1,0 +1,988 @@
+{
+    "file": "Future_Foresight_Methodologies.docx",
+    "title": "Future Foresight Methodologies",
+    "duration": "3 Days",
+    "overview": [
+        "Future foresight is a structured approach to exploring how external forces, emerging developments, uncertainties, and strategic choices may shape different possible futures. It does not attempt to predict one certain future. Instead, it helps organizations broaden their field of view, challenge assumptions, anticipate change, recognize emerging opportunities and risks, and make present-day decisions that remain more robust under different future conditions.",
+        "This course introduces participants to the principal methodologies used in practical foresight work. Participants will learn how to define a foresight question, establish an appropriate time horizon, scan the external environment, identify trends and weak signals, analyze drivers of change, distinguish predetermined elements from critical uncertainties, build scenarios, explore implications, use backcasting, identify strategic options, and translate foresight findings into planning and decision making.",
+        "The program is application-focused. Participants will use structured tools and workshops to move from environmental scanning through scenario development and strategic interpretation, culminating in a practical foresight exercise relevant to an organizational or sectoral challenge."
+    ],
+    "audience": [
+        "Senior managers, department heads, strategy and planning professionals, policy personnel, innovation teams, risk and resilience professionals, transformation leaders, project and program managers, researchers, analysts, and employees responsible for long-term planning, strategic decision making, policy development, organizational preparedness, or anticipating emerging opportunities and challenges."
+    ],
+    "methodology": [
+        "The course uses an interactive methodology combining short presentations, foresight case studies, horizon-scanning exercises, trend and signal analysis, PESTLE/STEEP analysis, driver mapping, uncertainty assessment, scenario-building workshops, scenario narratives, implication analysis, backcasting, wind-tunneling exercises, group discussions, and strategic action planning. Participants will progressively develop a foresight study around a selected organizational or sectoral issue."
+    ],
+    "competencies": [
+        "Strategic foresight thinking",
+        "Environmental and horizon scanning",
+        "Trend and weak-signal analysis",
+        "Driver-of-change analysis",
+        "Uncertainty assessment",
+        "Systems thinking",
+        "Scenario development",
+        "Future implications analysis",
+        "Backcasting",
+        "Strategic option development",
+        "Robust strategy assessment",
+        "Foresight communication and integration"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the purpose and limitations of future foresight and distinguish it from forecasting and prediction.",
+        "Frame a clear foresight question and select an appropriate time horizon and scope.",
+        "Conduct structured environmental and horizon scanning for relevant external developments.",
+        "Differentiate trends, emerging issues, weak signals, drivers of change, and uncertainties.",
+        "Analyze how political, economic, social, technological, legal, environmental, and other forces may interact.",
+        "Identify critical uncertainties that can materially change future conditions.",
+        "Develop coherent and sufficiently differentiated future scenarios.",
+        "Assess the implications of alternative scenarios for stakeholders, capabilities, risks, opportunities, and strategic priorities.",
+        "Apply backcasting and wind-tunneling techniques to improve strategic choices.",
+        "Translate foresight insights into practical indicators, options, and actions for present-day planning."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Future Foresight",
+            "items": [
+                {
+                    "text": "Defining future foresight and strategic foresight",
+                    "level": 0
+                },
+                {
+                    "text": "Foresight versus forecasting, prediction, and conventional planning",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding multiple possible, plausible, probable, and preferable futures",
+                    "level": 0
+                },
+                {
+                    "text": "Why uncertainty requires exploration rather than a single forecast",
+                    "level": 0
+                },
+                {
+                    "text": "The role of foresight in strategy, policy, innovation, risk, and transformation",
+                    "level": 0
+                },
+                {
+                    "text": "Using foresight to improve present-day decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the limitations of foresight",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding false certainty about the future",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Framing a Foresight Study",
+            "items": [
+                {
+                    "text": "Clarifying the decision or challenge that requires foresight",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the focal question",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting the appropriate time horizon",
+                    "level": 0
+                },
+                {
+                    "text": "Determining geographic, organizational, sectoral, and thematic scope",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key stakeholders and users of the foresight work",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying assumptions at the start of the process",
+                    "level": 0
+                },
+                {
+                    "text": "Defining expected outputs",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding foresight questions that are too broad or too narrow",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Thinking in Time Horizons",
+            "items": [
+                {
+                    "text": "Understanding short-, medium-, and long-term perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing different rates of change",
+                    "level": 0
+                },
+                {
+                    "text": "Separating current operational issues from longer-term structural change",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding path dependency",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing delayed effects and long development cycles",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring how today's decisions constrain or enable future options",
+                    "level": 0
+                },
+                {
+                    "text": "Using time horizons to organize foresight evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining connection between future exploration and present action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Environmental and Horizon Scanning",
+            "items": [
+                {
+                    "text": "Understanding environmental scanning and horizon scanning",
+                    "level": 0
+                },
+                {
+                    "text": "Defining relevant information domains",
+                    "level": 0
+                },
+                {
+                    "text": "Using systematic rather than random information collection",
+                    "level": 0
+                },
+                {
+                    "text": "Scanning beyond the organization's immediate industry",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emerging developments and discontinuities",
+                    "level": 0
+                },
+                {
+                    "text": "Combining quantitative and qualitative sources",
+                    "level": 0
+                },
+                {
+                    "text": "Recording evidence consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing useful signals from information noise",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a repeatable scanning process",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying PESTLE and STEEP Analysis",
+            "items": [
+                {
+                    "text": "Scanning political and governance developments",
+                    "level": 0
+                },
+                {
+                    "text": "Examining economic forces and structural changes",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing social and demographic developments",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking technological change",
+                    "level": 0
+                },
+                {
+                    "text": "Considering legal and regulatory developments",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing environmental and sustainability forces",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying interactions across categories",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding isolated lists without strategic interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing developments relevant to the focal question",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Trends and Megatrends",
+            "items": [
+                {
+                    "text": "Defining trends and megatrends",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing long-term trends from short-lived events",
+                    "level": 0
+                },
+                {
+                    "text": "Examining direction, momentum, and maturity",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying supporting evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding trend diffusion and adoption",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing countertrends",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing implications rather than assuming continuation",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding simple extrapolation of current trends",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Weak Signals and Emerging Issues",
+            "items": [
+                {
+                    "text": "Understanding weak signals",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing early indications of potentially significant change",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing weak signals from established trends",
+                    "level": 0
+                },
+                {
+                    "text": "Looking at edge cases and unusual developments",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emerging technologies, behaviors, and practices",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating relevance and potential impact",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking signals over time",
+                    "level": 0
+                },
+                {
+                    "text": "Using clusters of signals to identify emerging issues",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Drivers of Change",
+            "items": [
+                {
+                    "text": "Defining drivers of change",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from individual observations to underlying forces",
+                    "level": 0
+                },
+                {
+                    "text": "Grouping related trends and signals",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying structural, technological, behavioral, economic, and policy drivers",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding reinforcing and constraining forces",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing drivers from outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing the relative influence of different drivers",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a driver map",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Systems Thinking in Foresight",
+            "items": [
+                {
+                    "text": "Understanding interconnected systems",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing feedback loops and interdependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying direct and indirect effects",
+                    "level": 0
+                },
+                {
+                    "text": "Considering second- and third-order consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing unintended outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring how changes in one area influence others",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding linear cause-and-effect assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Using systems maps to enrich foresight analysis",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Assessing Impact and Uncertainty",
+            "items": [
+                {
+                    "text": "Evaluating the potential impact of drivers",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing the degree of uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Separating high-impact certainties from high-impact uncertainties",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying predetermined elements",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing uncertainties that matter strategically",
+                    "level": 0
+                },
+                {
+                    "text": "Using impact-uncertainty matrices",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing factors for scenario development",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding focus on uncertainty that has little strategic consequence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Critical Uncertainties",
+            "items": [
+                {
+                    "text": "Defining critical uncertainties",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether an uncertainty can produce meaningfully different futures",
+                    "level": 0
+                },
+                {
+                    "text": "Formulating uncertainty dimensions",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring the endpoints are plausible and distinct",
+                    "level": 0
+                },
+                {
+                    "text": "Checking for dependence between uncertainties",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting uncertainties that are strategically relevant",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding extremes that are implausible or purely dramatic",
+                    "level": 0
+                },
+                {
+                    "text": "Using critical uncertainties as scenario-building foundations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Introduction to Scenario Planning",
+            "items": [
+                {
+                    "text": "Understanding scenarios as structured alternative futures",
+                    "level": 0
+                },
+                {
+                    "text": "What scenarios are and are not",
+                    "level": 0
+                },
+                {
+                    "text": "Why multiple scenarios are more useful than one preferred forecast",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting scenarios to the focal question",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining internal coherence",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring scenarios are plausible and sufficiently differentiated",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing creativity with evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Using scenarios to challenge strategic assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Scenario Frameworks",
+            "items": [
+                {
+                    "text": "Selecting the scenario-building approach",
+                    "level": 0
+                },
+                {
+                    "text": "Using two critical uncertainties to create a scenario matrix",
+                    "level": 0
+                },
+                {
+                    "text": "Defining scenario logics",
+                    "level": 0
+                },
+                {
+                    "text": "Naming scenarios meaningfully",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating predetermined elements",
+                    "level": 0
+                },
+                {
+                    "text": "Incorporating relevant drivers and trends",
+                    "level": 0
+                },
+                {
+                    "text": "Testing each scenario for coherence",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding good-future versus bad-future simplification",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Scenario Narratives",
+            "items": [
+                {
+                    "text": "Turning scenario frameworks into understandable future worlds",
+                    "level": 0
+                },
+                {
+                    "text": "Describing political, economic, social, technological, and organizational conditions",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining how the future may develop over time",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key events and turning points",
+                    "level": 0
+                },
+                {
+                    "text": "Describing stakeholder behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistency between scenario elements",
+                    "level": 0
+                },
+                {
+                    "text": "Using narrative to make strategic implications visible",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping scenarios exploratory rather than predictive",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Exploring Scenario Implications",
+            "items": [
+                {
+                    "text": "Identifying opportunities in each scenario",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying risks and vulnerabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing implications for customers, citizens, employees, and partners",
+                    "level": 0
+                },
+                {
+                    "text": "Examining capability requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Considering operational and financial implications",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying policy, regulatory, or governance consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing assumptions that become weak under particular scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing implications across scenarios",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Futures Wheel and Consequence Analysis",
+            "items": [
+                {
+                    "text": "Defining a focal future development",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying first-order consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring second- and third-order effects",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing positive and negative consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying unexpected interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Using the futures wheel to broaden discussion",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting consequences to stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Using findings to identify risks and opportunities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Backcasting from a Desired Future",
+            "items": [
+                {
+                    "text": "Defining a preferable or target future state",
+                    "level": 0
+                },
+                {
+                    "text": "Working backward from the desired outcome",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying conditions required before the future can be achieved",
+                    "level": 0
+                },
+                {
+                    "text": "Defining intermediate milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing capability and policy requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying decisions that must be made earlier",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing the backcast pathway with current plans",
+                    "level": 0
+                },
+                {
+                    "text": "Turning a long-term aspiration into near-term actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Wind Tunneling to Test Strategies",
+            "items": [
+                {
+                    "text": "Understanding wind tunneling",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting strategies, policies, or initiatives for testing",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing performance under each scenario",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strategies that are robust across several futures",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing strategies that depend on specific assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying vulnerabilities and required adaptations",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing flexible and irreversible commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Using results to improve strategic resilience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Strategic Options",
+            "items": [
+                {
+                    "text": "Translating foresight insights into strategic choices",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying no-regret actions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying options that preserve flexibility",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing contingent actions linked to future conditions",
+                    "level": 0
+                },
+                {
+                    "text": "Developing opportunity options",
+                    "level": 0
+                },
+                {
+                    "text": "Creating risk-mitigation options",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing current priorities with future preparedness",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding strategic responses based on only one scenario",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Early-Warning Indicators",
+            "items": [
+                {
+                    "text": "Identifying indicators that suggest a scenario may be emerging",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting indicators to critical uncertainties",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting observable and meaningful measures",
+                    "level": 0
+                },
+                {
+                    "text": "Combining quantitative and qualitative indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Defining thresholds or trigger conditions where useful",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning responsibility for monitoring",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing indicators periodically",
+                    "level": 0
+                },
+                {
+                    "text": "Using early warning to adjust decisions before risks fully materialize",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Foresight for Innovation",
+            "items": [
+                {
+                    "text": "Identifying emerging needs and future opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting trends with unmet stakeholder needs",
+                    "level": 0
+                },
+                {
+                    "text": "Using scenarios to inspire new services and solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring future customer or citizen expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying capability opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Testing innovation concepts against alternative futures",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding innovation based only on current demand",
+                    "level": 0
+                },
+                {
+                    "text": "Using foresight to build a longer-term innovation pipeline",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Foresight in Strategic Planning",
+            "items": [
+                {
+                    "text": "Connecting foresight with vision and strategic objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Using scenarios to challenge strategic assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying robust priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Building flexibility into strategic plans",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting early-warning indicators with strategic reviews",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating foresight into risk and opportunity discussions",
+                    "level": 0
+                },
+                {
+                    "text": "Updating plans as evidence changes",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding foresight as a one-time workshop disconnected from planning",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating Foresight Findings",
+            "items": [
+                {
+                    "text": "Tailoring findings to decision makers",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining uncertainty without creating confusion",
+                    "level": 0
+                },
+                {
+                    "text": "Using clear visuals and scenario summaries",
+                    "level": 0
+                },
+                {
+                    "text": "Separating evidence, assumptions, and interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating opportunities as well as risks",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding sensational or overly certain language",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting future insights to current decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a concise foresight briefing",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Future Foresight Workshop",
+            "items": [
+                {
+                    "text": "Defining a focal question and time horizon",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting a structured environmental scan",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying trends, signals, and drivers",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing impact and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting critical uncertainties",
+                    "level": 0
+                },
+                {
+                    "text": "Building alternative scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring implications and strategic options",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying early-warning indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Testing current priorities against the scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting foresight findings and recommended actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing an Organizational Foresight Practice",
+            "items": [
+                {
+                    "text": "Determining where foresight should support decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Defining roles and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing a regular scanning rhythm",
+                    "level": 0
+                },
+                {
+                    "text": "Creating methods for storing and reviewing signals",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting foresight with strategy, risk, innovation, and planning",
+                    "level": 0
+                },
+                {
+                    "text": "Scheduling scenario refreshes",
+                    "level": 0
+                },
+                {
+                    "text": "Building internal foresight capability",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a practical Foresight Integration Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1348 @@
+{
+    "file": "Measuring_ROI_of_Training.docx",
+    "title": "Measuring ROI of Training",
+    "duration": "3 Days",
+    "overview": [
+        "Training investments are increasingly expected to demonstrate measurable contribution to individual and organizational performance. Attendance, participant satisfaction, and completion rates provide useful information, but they do not by themselves show whether learning was applied, performance improved, business results changed, or the financial value of the intervention justified its cost.",
+        "This three-day course provides a practical framework for evaluating training effectiveness and measuring return on investment. Participants examine the complete evaluation chain from needs and objectives through reaction, learning, application, business impact, cost analysis, benefit conversion, ROI calculation, and reporting. Particular attention is given to isolating the effects of training so that impact claims remain credible.",
+        "Through practical exercises, evaluation planning, data analysis, benefit calculations, ROI cases, and reporting activities, participants learn how to build an evaluation approach that is proportionate to the importance and cost of the training intervention and useful to management decision makers."
+    ],
+    "audience": [
+        "Training and development managers, learning and development professionals, HR managers and specialists, talent-development professionals, training coordinators, organizational-development professionals, performance-management specialists, internal trainers, HR business partners, and managers responsible for evaluating the effectiveness and business contribution of training programs."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining short presentations, evaluation case studies, objective-setting exercises, evaluation-plan development, data-collection design, learning and performance measurement exercises, impact-isolation techniques, cost and benefit calculations, ROI calculations, reporting practice, group discussion, and action planning. Participants progressively build an evaluation and ROI framework for a realistic training intervention."
+    ],
+    "competencies": [
+        "Training evaluation",
+        "Learning measurement",
+        "Performance-impact assessment",
+        "Evaluation planning",
+        "Data collection and analysis",
+        "Impact isolation",
+        "Training cost analysis",
+        "Benefit conversion",
+        "ROI calculation",
+        "Evaluation reporting",
+        "Stakeholder communication",
+        "Evidence-based L&D decision making"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the purpose and levels of training evaluation.",
+        "Link training needs, learning objectives, performance outcomes, and business measures.",
+        "Select appropriate evaluation measures for different training interventions.",
+        "Measure participant reaction and learning without confusing them with business impact.",
+        "Assess whether learning is transferred and applied in the workplace.",
+        "Identify business-impact measures connected with training objectives.",
+        "Use practical methods to isolate the effects of training from other influences.",
+        "Identify and calculate the full costs of a training intervention.",
+        "Convert appropriate training benefits into monetary values.",
+        "Calculate benefit-cost ratio and return on investment.",
+        "Report tangible and intangible results credibly to stakeholders.",
+        "Develop a practical evaluation and ROI plan for a training program."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Training Evaluation and ROI",
+            "items": [
+                {
+                    "text": "Why organizations evaluate training",
+                    "level": 0
+                },
+                {
+                    "text": "Moving beyond attendance and satisfaction",
+                    "level": 0
+                },
+                {
+                    "text": "Training effectiveness versus training efficiency",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding business impact",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding return on investment",
+                    "level": 0
+                },
+                {
+                    "text": "When ROI analysis is appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing evaluation rigor with practicality",
+                    "level": 0
+                },
+                {
+                    "text": "Using evaluation to improve future training decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Connecting Training with Organizational Performance",
+            "items": [
+                {
+                    "text": "Starting with the business or performance need",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the performance gap",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing training from non-training solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying expected behavior change",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying organizational outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Linking learning objectives with performance objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting performance objectives with business measures",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a clear results chain",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding the Levels of Evaluation",
+            "items": [
+                {
+                    "text": "Reaction and participant experience",
+                    "level": 0
+                },
+                {
+                    "text": "Learning and capability acquisition",
+                    "level": 0
+                },
+                {
+                    "text": "Application and behavior change",
+                    "level": 0
+                },
+                {
+                    "text": "Business impact",
+                    "level": 0
+                },
+                {
+                    "text": "Return on investment",
+                    "level": 0
+                },
+                {
+                    "text": "Intangible benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the relationship between evaluation levels",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting the appropriate depth of evaluation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Planning Evaluation Before Training Begins",
+            "items": [
+                {
+                    "text": "Defining the purpose of the evaluation",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying decisions the evaluation should support",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting evaluation levels",
+                    "level": 0
+                },
+                {
+                    "text": "Defining measures and data sources",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing timing",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the evaluation plan",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Measurable Training Objectives",
+            "items": [
+                {
+                    "text": "Distinguishing learning objectives from activity statements",
+                    "level": 0
+                },
+                {
+                    "text": "Defining observable performance",
+                    "level": 0
+                },
+                {
+                    "text": "Setting conditions and standards where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning objectives with job requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting objectives with assessment methods",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding vague learning language",
+                    "level": 0
+                },
+                {
+                    "text": "Defining expected workplace application",
+                    "level": 0
+                },
+                {
+                    "text": "Using objectives as the foundation for evaluation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Establishing Baseline Measures",
+            "items": [
+                {
+                    "text": "Understanding the importance of pre-training data",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying current performance levels",
+                    "level": 0
+                },
+                {
+                    "text": "Using historical performance data",
+                    "level": 0
+                },
+                {
+                    "text": "Using pre-tests and skill assessments",
+                    "level": 0
+                },
+                {
+                    "text": "Collecting manager observations",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying existing business measures",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring baseline comparability",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting assumptions when baseline data is limited",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Participant Reaction",
+            "items": [
+                {
+                    "text": "Understanding what reaction data can and cannot show",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing perceived usefulness",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating facilitation and learning environment",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring confidence and intention to apply",
+                    "level": 0
+                },
+                {
+                    "text": "Designing focused reaction questionnaires",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive satisfaction questions",
+                    "level": 0
+                },
+                {
+                    "text": "Using reaction data for program improvement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Learning",
+            "items": [
+                {
+                    "text": "Identifying knowledge, skill, and attitude outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Using pre- and post-assessments",
+                    "level": 0
+                },
+                {
+                    "text": "Knowledge tests",
+                    "level": 0
+                },
+                {
+                    "text": "Practical demonstrations",
+                    "level": 0
+                },
+                {
+                    "text": "Simulations and role plays",
+                    "level": 0
+                },
+                {
+                    "text": "Case-based assessments",
+                    "level": 0
+                },
+                {
+                    "text": "Scoring and assessment criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting learning results",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Learning Transfer and Application",
+            "items": [
+                {
+                    "text": "Understanding the difference between learning and application",
+                    "level": 0
+                },
+                {
+                    "text": "Defining observable workplace behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting an appropriate follow-up period",
+                    "level": 0
+                },
+                {
+                    "text": "Using participant self-assessment carefully",
+                    "level": 0
+                },
+                {
+                    "text": "Using manager observation",
+                    "level": 0
+                },
+                {
+                    "text": "Using performance evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying barriers to application",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring frequency and quality of skill use",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Business Impact Measures",
+            "items": [
+                {
+                    "text": "Productivity measures",
+                    "level": 0
+                },
+                {
+                    "text": "Quality measures",
+                    "level": 0
+                },
+                {
+                    "text": "Cost measures",
+                    "level": 0
+                },
+                {
+                    "text": "Time and efficiency measures",
+                    "level": 0
+                },
+                {
+                    "text": "Sales and revenue measures",
+                    "level": 0
+                },
+                {
+                    "text": "Customer-service measures",
+                    "level": 0
+                },
+                {
+                    "text": "Employee and workforce measures",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting measures directly connected with the training purpose",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Selecting Data Collection Methods",
+            "items": [
+                {
+                    "text": "Questionnaires and surveys",
+                    "level": 0
+                },
+                {
+                    "text": "Tests and assessments",
+                    "level": 0
+                },
+                {
+                    "text": "Interviews",
+                    "level": 0
+                },
+                {
+                    "text": "Focus groups",
+                    "level": 0
+                },
+                {
+                    "text": "Observation",
+                    "level": 0
+                },
+                {
+                    "text": "Performance records",
+                    "level": 0
+                },
+                {
+                    "text": "Business systems and dashboards",
+                    "level": 0
+                },
+                {
+                    "text": "Combining multiple sources for stronger evidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing Effective Evaluation Instruments",
+            "items": [
+                {
+                    "text": "Writing clear evaluation questions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding leading questions",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting appropriate rating scales",
+                    "level": 0
+                },
+                {
+                    "text": "Designing knowledge assessments",
+                    "level": 0
+                },
+                {
+                    "text": "Developing observation checklists",
+                    "level": 0
+                },
+                {
+                    "text": "Creating manager follow-up forms",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping instruments proportionate",
+                    "level": 0
+                },
+                {
+                    "text": "Piloting evaluation tools where necessary",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Ensuring Evaluation Data Quality",
+            "items": [
+                {
+                    "text": "Reliability and consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Validity and relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Sample size and representation",
+                    "level": 0
+                },
+                {
+                    "text": "Response bias",
+                    "level": 0
+                },
+                {
+                    "text": "Self-report limitations",
+                    "level": 0
+                },
+                {
+                    "text": "Data completeness",
+                    "level": 0
+                },
+                {
+                    "text": "Confidentiality considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting limitations transparently",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Isolating the Effects of Training",
+            "items": [
+                {
+                    "text": "Why impact must be separated from other influences",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing concurrent initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Considering market and operational changes",
+                    "level": 0
+                },
+                {
+                    "text": "Using control or comparison groups where practical",
+                    "level": 0
+                },
+                {
+                    "text": "Using trend-line analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Using participant and manager estimates",
+                    "level": 0
+                },
+                {
+                    "text": "Using expert judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Applying conservative adjustments to improve credibility",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Control and Comparison Groups",
+            "items": [
+                {
+                    "text": "Understanding the purpose of comparison",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting comparable groups",
+                    "level": 0
+                },
+                {
+                    "text": "Pre- and post-measurement",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing practical limitations",
+                    "level": 0
+                },
+                {
+                    "text": "Contamination between groups",
+                    "level": 0
+                },
+                {
+                    "text": "Ethical and operational considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting differences carefully",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when another isolation method is more practical",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Trend and Performance Analysis",
+            "items": [
+                {
+                    "text": "Reviewing historical performance patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Projecting expected performance without training",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing actual and expected results",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing seasonal effects",
+                    "level": 0
+                },
+                {
+                    "text": "Considering organizational changes",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unsupported causal claims",
+                    "level": 0
+                },
+                {
+                    "text": "Using trend analysis with other evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the logic of impact estimation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Estimates to Isolate Impact",
+            "items": [
+                {
+                    "text": "Obtaining participant estimates",
+                    "level": 0
+                },
+                {
+                    "text": "Obtaining manager estimates",
+                    "level": 0
+                },
+                {
+                    "text": "Using subject-matter expert estimates",
+                    "level": 0
+                },
+                {
+                    "text": "Estimating the percentage of improvement attributable to training",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing confidence in the estimate",
+                    "level": 0
+                },
+                {
+                    "text": "Applying confidence adjustments",
+                    "level": 0
+                },
+                {
+                    "text": "Using conservative assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the estimation process",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Training Costs",
+            "items": [
+                {
+                    "text": "Needs-analysis costs",
+                    "level": 0
+                },
+                {
+                    "text": "Design and development costs",
+                    "level": 0
+                },
+                {
+                    "text": "Facilitator costs",
+                    "level": 0
+                },
+                {
+                    "text": "Materials and technology costs",
+                    "level": 0
+                },
+                {
+                    "text": "Venue and logistics costs",
+                    "level": 0
+                },
+                {
+                    "text": "Travel and accommodation costs",
+                    "level": 0
+                },
+                {
+                    "text": "Participant time costs",
+                    "level": 0
+                },
+                {
+                    "text": "Follow-up and evaluation costs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Calculating the Total Cost of Training",
+            "items": [
+                {
+                    "text": "Direct and indirect costs",
+                    "level": 0
+                },
+                {
+                    "text": "One-time and recurring costs",
+                    "level": 0
+                },
+                {
+                    "text": "Internal resource costs",
+                    "level": 0
+                },
+                {
+                    "text": "External supplier costs",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating development costs appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Calculating participant opportunity cost",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding omitted costs",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a complete cost summary",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Tangible Training Benefits",
+            "items": [
+                {
+                    "text": "Increased output",
+                    "level": 0
+                },
+                {
+                    "text": "Reduced errors and rework",
+                    "level": 0
+                },
+                {
+                    "text": "Reduced processing time",
+                    "level": 0
+                },
+                {
+                    "text": "Improved sales",
+                    "level": 0
+                },
+                {
+                    "text": "Reduced employee turnover",
+                    "level": 0
+                },
+                {
+                    "text": "Reduced absenteeism",
+                    "level": 0
+                },
+                {
+                    "text": "Reduced operating costs",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting measured improvement with monetary value",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Converting Benefits into Monetary Values",
+            "items": [
+                {
+                    "text": "Using standard organizational values",
+                    "level": 0
+                },
+                {
+                    "text": "Using unit-cost calculations",
+                    "level": 0
+                },
+                {
+                    "text": "Using salary and labor-cost data",
+                    "level": 0
+                },
+                {
+                    "text": "Using revenue and contribution measures",
+                    "level": 0
+                },
+                {
+                    "text": "Valuing time savings appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Valuing quality improvements",
+                    "level": 0
+                },
+                {
+                    "text": "Valuing reduced turnover or incidents",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting conversion assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Intangible Benefits",
+            "items": [
+                {
+                    "text": "Improved confidence",
+                    "level": 0
+                },
+                {
+                    "text": "Higher employee engagement",
+                    "level": 0
+                },
+                {
+                    "text": "Improved teamwork",
+                    "level": 0
+                },
+                {
+                    "text": "Improved communication",
+                    "level": 0
+                },
+                {
+                    "text": "Improved customer experience",
+                    "level": 0
+                },
+                {
+                    "text": "Stronger leadership capability",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing benefits that should not be forced into monetary values",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting intangible outcomes alongside financial results",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Calculating Net Program Benefits",
+            "items": [
+                {
+                    "text": "Calculating total monetary benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Calculating total program costs",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding gross versus net benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Net program benefits formula",
+                    "level": 0
+                },
+                {
+                    "text": "Applying conservative adjustments",
+                    "level": 0
+                },
+                {
+                    "text": "Checking calculation consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting data sources",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing calculations for review",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Calculating Benefit-Cost Ratio",
+            "items": [
+                {
+                    "text": "Understanding benefit-cost ratio",
+                    "level": 0
+                },
+                {
+                    "text": "Benefit-cost ratio formula",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting values above and below one",
+                    "level": 0
+                },
+                {
+                    "text": "Using consistent cost and benefit periods",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding double counting",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing programs cautiously",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding limitations of the ratio",
+                    "level": 0
+                },
+                {
+                    "text": "Using BCR alongside other evaluation evidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Calculating Return on Investment",
+            "items": [
+                {
+                    "text": "Understanding ROI percentage",
+                    "level": 0
+                },
+                {
+                    "text": "ROI formula",
+                    "level": 0
+                },
+                {
+                    "text": "Using net program benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Calculating ROI step by step",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting positive and negative ROI",
+                    "level": 0
+                },
+                {
+                    "text": "Checking the time period of benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding exaggerated ROI claims",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting ROI with supporting assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Payback Period Where Relevant",
+            "items": [
+                {
+                    "text": "Understanding payback period",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying when payback is useful",
+                    "level": 0
+                },
+                {
+                    "text": "Calculating the time required to recover investment",
+                    "level": 0
+                },
+                {
+                    "text": "Considering recurring benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding limitations of payback",
+                    "level": 0
+                },
+                {
+                    "text": "Using payback with ROI and impact measures",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating the result simply",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding reliance on one financial measure",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Testing the Credibility of ROI Results",
+            "items": [
+                {
+                    "text": "Reviewing causal assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Checking impact-isolation logic",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing monetary conversion methods",
+                    "level": 0
+                },
+                {
+                    "text": "Checking for double counting",
+                    "level": 0
+                },
+                {
+                    "text": "Testing sensitivity to assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Using conservative estimates",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying limitations",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring calculations can be explained and replicated",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Evaluation Findings",
+            "items": [
+                {
+                    "text": "Comparing results with objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying patterns across evaluation levels",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding gaps between learning and application",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying barriers to transfer",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing groups where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting business-impact results",
+                    "level": 0
+                },
+                {
+                    "text": "Separating evidence from interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Developing actionable conclusions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reporting Training Results",
+            "items": [
+                {
+                    "text": "Matching the report to stakeholder needs",
+                    "level": 0
+                },
+                {
+                    "text": "Creating an executive summary",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting objectives and methodology",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting reaction and learning results",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting application and business impact",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting ROI calculations",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting intangible benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Disclosing assumptions and limitations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating ROI to Senior Management",
+            "items": [
+                {
+                    "text": "Focusing on business relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Using concise performance language",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining the evaluation chain",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting financial results clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding technical overload",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining assumptions transparently",
+                    "level": 0
+                },
+                {
+                    "text": "Answering challenges to attribution",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting findings with future investment decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Evaluation to Improve Training",
+            "items": [
+                {
+                    "text": "Identifying content that requires improvement",
+                    "level": 0
+                },
+                {
+                    "text": "Improving instructional methods",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing barriers to transfer",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening manager involvement",
+                    "level": 0
+                },
+                {
+                    "text": "Adjusting participant selection",
+                    "level": 0
+                },
+                {
+                    "text": "Improving follow-up support",
+                    "level": 0
+                },
+                {
+                    "text": "Revising evaluation measures",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence for continuous improvement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Selecting Programs for ROI Evaluation",
+            "items": [
+                {
+                    "text": "Considering program cost",
+                    "level": 0
+                },
+                {
+                    "text": "Considering strategic importance",
+                    "level": 0
+                },
+                {
+                    "text": "Considering participant volume",
+                    "level": 0
+                },
+                {
+                    "text": "Considering management interest",
+                    "level": 0
+                },
+                {
+                    "text": "Considering visibility and risk",
+                    "level": 0
+                },
+                {
+                    "text": "Considering availability of impact data",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unnecessary ROI analysis for every program",
+                    "level": 0
+                },
+                {
+                    "text": "Creating an evaluation portfolio",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building an Evaluation Culture",
+            "items": [
+                {
+                    "text": "Clarifying accountability for training results",
+                    "level": 0
+                },
+                {
+                    "text": "Engaging line managers",
+                    "level": 0
+                },
+                {
+                    "text": "Building evaluation capability in L&D",
+                    "level": 0
+                },
+                {
+                    "text": "Using consistent evaluation standards",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating evaluation into program design",
+                    "level": 0
+                },
+                {
+                    "text": "Creating access to performance data",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing lessons rather than only positive results",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence in learning-investment decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Training ROI Workshop",
+            "items": [
+                {
+                    "text": "Selecting a training intervention",
+                    "level": 0
+                },
+                {
+                    "text": "Defining expected business outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Developing the evaluation chain",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting measures and data sources",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing an impact-isolation method",
+                    "level": 0
+                },
+                {
+                    "text": "Calculating total training costs",
+                    "level": 0
+                },
+                {
+                    "text": "Converting benefits into monetary value",
+                    "level": 0
+                },
+                {
+                    "text": "Calculating BCR and ROI",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing an executive results summary",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Training Evaluation and ROI Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current evaluation practices",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying priority programs for deeper evaluation",
+                    "level": 0
+                },
+                {
+                    "text": "Defining required baseline information",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting practical evaluation methods",
+                    "level": 0
+                },
+                {
+                    "text": "Improving access to business data",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying stakeholder responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing reporting and review practices",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Training Evaluation and ROI Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

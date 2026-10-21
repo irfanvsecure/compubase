@@ -1,0 +1,1104 @@
+{
+    "file": "Customer_Support_Management.docx",
+    "title": "Customer Support Management",
+    "duration": "3 Days",
+    "overview": [
+        "Effective customer support management requires more than resolving individual requests. It requires a structured operating approach that connects customer needs, support channels, people, processes, service standards, technology, escalation, knowledge, performance measurement, and continuous improvement. When these elements work together, support teams can provide reliable service while controlling workload, improving resolution quality, and strengthening the overall customer experience.",
+        "This course equips managers, supervisors, and team leaders with practical methods for organizing and managing customer support operations. Participants will learn how to define service standards, structure support workflows, manage queues and priorities, improve first-contact resolution, establish escalation processes, build useful knowledge resources, coach support employees, handle difficult cases, monitor service performance, and use customer-support data to improve processes and decisions.",
+        "The program combines operational management with customer-experience principles. Participants will work through support scenarios, workflow analysis, service-level exercises, escalation cases, performance measures, coaching situations, and improvement planning to develop a practical approach for leading responsive, consistent, and customer-focused support teams."
+    ],
+    "audience": [
+        "Customer-support managers, customer-service managers, supervisors, team leaders, contact-center leaders, help-desk managers, service-desk personnel, branch and operations managers, customer-experience professionals, service-quality personnel, and employees responsible for managing customer requests, support teams, service levels, escalations, or support performance."
+    ],
+    "methodology": [
+        "The course uses an interactive methodology combining short presentations, customer-support case studies, workflow mapping, service-level exercises, queue and prioritization scenarios, escalation simulations, complaint and difficult-customer cases, performance-measurement activities, coaching exercises, root-cause analysis, group discussions, and action planning. Participants will apply the tools to realistic support environments and develop practical improvements relevant to their own operations."
+    ],
+    "competencies": [
+        "Customer support operations management",
+        "Service standards management",
+        "Workflow and queue management",
+        "Prioritization and escalation",
+        "Customer communication",
+        "Case and complaint management",
+        "Knowledge management",
+        "Support-team leadership",
+        "Performance coaching",
+        "Service performance measurement",
+        "Root-cause analysis",
+        "Continuous support improvement"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the role of customer support within the overall customer experience.",
+        "Design clear support workflows from initial contact through resolution and closure.",
+        "Establish practical service standards and service-level expectations.",
+        "Prioritize customer cases according to urgency, impact, complexity, and agreed criteria.",
+        "Develop effective escalation paths and ownership rules.",
+        "Improve first-contact resolution while maintaining quality and accuracy.",
+        "Manage customer communication throughout the support process.",
+        "Use knowledge resources to improve consistency and reduce avoidable repeat work.",
+        "Coach and manage support employees using relevant operational and quality measures.",
+        "Analyze support data, recurring contacts, and complaints to identify root causes.",
+        "Develop practical actions for improving support efficiency, quality, and customer satisfaction."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Customer Support Management",
+            "items": [
+                {
+                    "text": "Defining customer support and its role in the customer relationship",
+                    "level": 0
+                },
+                {
+                    "text": "Customer support versus general customer service",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding reactive and proactive support",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting support quality with customer satisfaction and loyalty",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the operational and emotional dimensions of support",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the manager's responsibility for people, process, and performance",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing customer expectations with organizational capability",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the characteristics of an effective support operation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing the Customer Support Operating Model",
+            "items": [
+                {
+                    "text": "Identifying the types of support requests handled",
+                    "level": 0
+                },
+                {
+                    "text": "Defining support channels",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying team roles and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing ownership from contact to closure",
+                    "level": 0
+                },
+                {
+                    "text": "Defining specialist and supervisory support",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying dependencies on other departments",
+                    "level": 0
+                },
+                {
+                    "text": "Creating clear handoff rules",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning the operating model with customer needs and service volume",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Mapping the Support Journey",
+            "items": [
+                {
+                    "text": "Mapping the customer's support journey",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying entry points and contact channels",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding customer expectations at each stage",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping internal activities behind customer interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying delays, repeated contacts, and unnecessary handoffs",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing moments that strongly influence customer perception",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying breakdowns in ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing journey improvements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Customer Support Standards",
+            "items": [
+                {
+                    "text": "Defining clear service standards",
+                    "level": 0
+                },
+                {
+                    "text": "Setting expectations for response and resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing standards for accuracy and completeness",
+                    "level": 0
+                },
+                {
+                    "text": "Defining communication and follow-up expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Creating ownership standards",
+                    "level": 0
+                },
+                {
+                    "text": "Setting closure requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing standardization with professional judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing standards as customer needs and operations change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Service Levels",
+            "items": [
+                {
+                    "text": "Defining service levels and service-level targets",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting meaningful measures",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing response time from resolution time",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding service-level agreements where applicable",
+                    "level": 0
+                },
+                {
+                    "text": "Defining internal operating-level expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding targets that encourage poor-quality shortcuts",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating service levels clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing performance against agreed targets",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Support Channels",
+            "items": [
+                {
+                    "text": "Managing telephone, email, chat, digital, and face-to-face support",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding different customer expectations by channel",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistency across channels",
+                    "level": 0
+                },
+                {
+                    "text": "Defining channel-specific response standards",
+                    "level": 0
+                },
+                {
+                    "text": "Managing transfers between channels",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring information continuity",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting the appropriate channel for complex situations",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding fragmented customer experiences",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Queues and Workload",
+            "items": [
+                {
+                    "text": "Understanding incoming demand",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring queue size and aging",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing new requests with existing cases",
+                    "level": 0
+                },
+                {
+                    "text": "Distributing workload fairly and effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing workload bottlenecks",
+                    "level": 0
+                },
+                {
+                    "text": "Managing peak periods",
+                    "level": 0
+                },
+                {
+                    "text": "Using skills-based allocation where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining visibility of unresolved cases",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing cases from becoming lost or inactive",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Prioritizing Customer Cases",
+            "items": [
+                {
+                    "text": "Defining urgency and impact",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing urgent from merely demanding requests",
+                    "level": 0
+                },
+                {
+                    "text": "Creating priority categories",
+                    "level": 0
+                },
+                {
+                    "text": "Considering customer and operational consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Applying priority criteria consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing priority when circumstances change",
+                    "level": 0
+                },
+                {
+                    "text": "Managing high-priority cases actively",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating priority decisions appropriately",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Improving First-Contact Resolution",
+            "items": [
+                {
+                    "text": "Understanding first-contact resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the main causes of repeat contact",
+                    "level": 0
+                },
+                {
+                    "text": "Providing employees with accurate information",
+                    "level": 0
+                },
+                {
+                    "text": "Improving authority and decision boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Using diagnostic questioning effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing unnecessary transfers",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring complete rather than superficial resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing first-contact resolution with the need for specialist escalation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Case Ownership",
+            "items": [
+                {
+                    "text": "Assigning clear ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Defining responsibility during handoffs",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accountability after escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping customers informed of progress",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting actions and commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking pending dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing duplicate work",
+                    "level": 0
+                },
+                {
+                    "text": "Closing cases only when resolution requirements are met",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing Effective Escalation Processes",
+            "items": [
+                {
+                    "text": "Understanding functional and hierarchical escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Defining escalation triggers",
+                    "level": 0
+                },
+                {
+                    "text": "Creating clear escalation paths",
+                    "level": 0
+                },
+                {
+                    "text": "Specifying information required before escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Setting ownership during escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Managing urgent and high-impact cases",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unnecessary escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing escalated cases for recurring causes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating During the Support Process",
+            "items": [
+                {
+                    "text": "Creating a professional first response",
+                    "level": 0
+                },
+                {
+                    "text": "Listening and questioning to understand the issue",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining actions in clear language",
+                    "level": 0
+                },
+                {
+                    "text": "Setting realistic expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Providing proactive updates",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unsupported promises",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating delays transparently",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming the resolution and next steps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Difficult Customer Situations",
+            "items": [
+                {
+                    "text": "Recognizing the causes of customer frustration",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining composure under pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Listening without becoming defensive",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging the customer's concern",
+                    "level": 0
+                },
+                {
+                    "text": "Using calm and respectful language",
+                    "level": 0
+                },
+                {
+                    "text": "Setting appropriate boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Focusing discussion on resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when supervisory involvement is required",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Complaints and Service Failures",
+            "items": [
+                {
+                    "text": "Distinguishing complaints from routine support requests",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing complaints accurately",
+                    "level": 0
+                },
+                {
+                    "text": "Taking ownership of the next step",
+                    "level": 0
+                },
+                {
+                    "text": "Investigating facts before responding",
+                    "level": 0
+                },
+                {
+                    "text": "Apologizing appropriately when service has failed",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting the immediate issue",
+                    "level": 0
+                },
+                {
+                    "text": "Providing proportionate recovery where authorized",
+                    "level": 0
+                },
+                {
+                    "text": "Following up after significant failures",
+                    "level": 0
+                },
+                {
+                    "text": "Using complaints as improvement information",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building and Managing a Knowledge Base",
+            "items": [
+                {
+                    "text": "Understanding the role of knowledge management in support",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying high-value knowledge content",
+                    "level": 0
+                },
+                {
+                    "text": "Creating clear troubleshooting and resolution guidance",
+                    "level": 0
+                },
+                {
+                    "text": "Standardizing frequently used answers",
+                    "level": 0
+                },
+                {
+                    "text": "Making knowledge easy to search",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning content ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing and updating outdated information",
+                    "level": 0
+                },
+                {
+                    "text": "Using frontline feedback to improve knowledge",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring whether knowledge resources reduce repeat effort",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Support Team Capability",
+            "items": [
+                {
+                    "text": "Identifying the competencies required for support roles",
+                    "level": 0
+                },
+                {
+                    "text": "Building product and service knowledge",
+                    "level": 0
+                },
+                {
+                    "text": "Developing diagnostic questioning",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening communication and empathy",
+                    "level": 0
+                },
+                {
+                    "text": "Developing problem-solving skills",
+                    "level": 0
+                },
+                {
+                    "text": "Improving written support communication",
+                    "level": 0
+                },
+                {
+                    "text": "Training employees on systems and procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Using case reviews as learning opportunities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Coaching Customer Support Employees",
+            "items": [
+                {
+                    "text": "Observing performance objectively",
+                    "level": 0
+                },
+                {
+                    "text": "Using real support cases for coaching",
+                    "level": 0
+                },
+                {
+                    "text": "Giving specific and timely feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing effective behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing performance gaps constructively",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing clear improvement actions",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting employees with difficult cases",
+                    "level": 0
+                },
+                {
+                    "text": "Following up on development progress",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Support Team Performance",
+            "items": [
+                {
+                    "text": "Setting clear expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing productivity, quality, and customer outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring individual and team performance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overemphasis on speed",
+                    "level": 0
+                },
+                {
+                    "text": "Using performance data fairly",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing strong performance",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing repeated underperformance",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accountability without damaging service behavior",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Customer Support Performance",
+            "items": [
+                {
+                    "text": "Selecting operational and customer measures",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring response time",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring resolution time",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking first-contact resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring backlog and case aging",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring reopen and repeat-contact rates",
+                    "level": 0
+                },
+                {
+                    "text": "Using customer satisfaction after support interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing quality and accuracy",
+                    "level": 0
+                },
+                {
+                    "text": "Using a balanced performance dashboard",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Quality Monitoring in Customer Support",
+            "items": [
+                {
+                    "text": "Defining support quality criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing calls, messages, and case records",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing accuracy and completeness",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating communication quality",
+                    "level": 0
+                },
+                {
+                    "text": "Checking compliance with procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Calibrating quality reviews between evaluators",
+                    "level": 0
+                },
+                {
+                    "text": "Using quality findings for coaching",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying team-wide improvement themes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Customer Support Data",
+            "items": [
+                {
+                    "text": "Categorizing contact reasons",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing support volume",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying recurring issues",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring channel usage",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing peak periods",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing customer and operational measures",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying patterns by product, service, location, or customer segment",
+                    "level": 0
+                },
+                {
+                    "text": "Turning support data into management insight",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Root-Cause Analysis and Problem Management",
+            "items": [
+                {
+                    "text": "Moving beyond repeated case resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying recurring incidents and complaints",
+                    "level": 0
+                },
+                {
+                    "text": "Using the Five Whys",
+                    "level": 0
+                },
+                {
+                    "text": "Applying cause-and-effect analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing symptoms from underlying causes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying process, system, policy, product, or capability causes",
+                    "level": 0
+                },
+                {
+                    "text": "Working with other departments on corrective action",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking whether corrective actions reduce future contacts",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Improving Support Processes",
+            "items": [
+                {
+                    "text": "Mapping current support processes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying unnecessary steps",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing duplicate data entry",
+                    "level": 0
+                },
+                {
+                    "text": "Improving handoffs",
+                    "level": 0
+                },
+                {
+                    "text": "Simplifying approvals",
+                    "level": 0
+                },
+                {
+                    "text": "Automating repetitive activities where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Preserving human support where judgment is required",
+                    "level": 0
+                },
+                {
+                    "text": "Testing process improvements before wider implementation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Technology in Customer Support",
+            "items": [
+                {
+                    "text": "Understanding the role of CRM and case-management systems",
+                    "level": 0
+                },
+                {
+                    "text": "Using ticketing and workflow tools",
+                    "level": 0
+                },
+                {
+                    "text": "Applying self-service appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Using chatbots and automation for suitable requests",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining human escalation options",
+                    "level": 0
+                },
+                {
+                    "text": "Using customer history to improve continuity",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring accurate data capture",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing efficiency, privacy, and customer experience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating Proactive Customer Support",
+            "items": [
+                {
+                    "text": "Identifying issues before customers report them",
+                    "level": 0
+                },
+                {
+                    "text": "Using recurring-case data to anticipate problems",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating known issues proactively",
+                    "level": 0
+                },
+                {
+                    "text": "Providing preventive guidance",
+                    "level": 0
+                },
+                {
+                    "text": "Using reminders and notifications appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Improving self-service information",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing avoidable support demand",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring the effect of proactive support",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Support During High-Pressure Situations",
+            "items": [
+                {
+                    "text": "Preparing for demand spikes and major service issues",
+                    "level": 0
+                },
+                {
+                    "text": "Defining incident communication responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing critical customer impact",
+                    "level": 0
+                },
+                {
+                    "text": "Providing consistent internal updates",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining clear external communication",
+                    "level": 0
+                },
+                {
+                    "text": "Using temporary escalation arrangements",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting employees during sustained pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting post-incident reviews",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Cross-Functional Support",
+            "items": [
+                {
+                    "text": "Recognizing dependencies between support and other functions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying responsibilities across departments",
+                    "level": 0
+                },
+                {
+                    "text": "Creating effective internal escalation channels",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing customer insight with product and operations teams",
+                    "level": 0
+                },
+                {
+                    "text": "Improving collaboration with sales and account management",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing internal blame",
+                    "level": 0
+                },
+                {
+                    "text": "Using shared measures where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Creating organizational ownership of recurring customer problems",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Customer Support Improvement Plan",
+            "items": [
+                {
+                    "text": "Assessing current support performance",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying customer and operational pain points",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing high-impact improvements",
+                    "level": 0
+                },
+                {
+                    "text": "Defining service-standard improvements",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying process and technology actions",
+                    "level": 0
+                },
+                {
+                    "text": "Defining team capability requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting performance measures",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning responsibilities and timelines",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Customer Support Management Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

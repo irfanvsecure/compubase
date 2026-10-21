@@ -1,0 +1,988 @@
+{
+    "file": "Customer_Satisfaction_and_Loyalty.docx",
+    "title": "Customer Satisfaction and Loyalty",
+    "duration": "3 Days",
+    "overview": [
+        "Customer satisfaction and loyalty are created through the cumulative quality of the customer’s experience rather than through a single transaction. Organizations that understand customer expectations, consistently deliver relevant value, reduce unnecessary effort, respond effectively when problems occur, and learn systematically from feedback are better positioned to retain customers and build long-term relationships.",
+        "This course provides participants with a practical framework for understanding, measuring, and improving customer satisfaction and loyalty. It explores customer expectations, perceived value, moments of truth, customer journeys, satisfaction drivers, service quality, trust, emotional connection, complaint handling, service recovery, customer feedback, loyalty behavior, retention, and the use of customer data to guide improvement.",
+        "Participants will apply the concepts through customer-experience analysis, journey mapping, satisfaction measurement exercises, complaint and recovery scenarios, loyalty-driver analysis, and action planning. The focus is on converting customer insight into practical improvements that strengthen satisfaction, retention, advocacy, and sustainable customer relationships."
+    ],
+    "audience": [
+        "Customer-service managers and employees, customer-experience professionals, sales and account-management personnel, branch and contact-center teams, marketing professionals, service-quality personnel, operations managers, supervisors, team leaders, and employees responsible for customer satisfaction, retention, loyalty, complaint management, or service improvement."
+    ],
+    "methodology": [
+        "The course uses an interactive methodology combining short presentations, customer-experience case studies, satisfaction-driver analysis, customer-journey mapping, persona and expectation exercises, complaint and service-recovery scenarios, customer-feedback analysis, measurement activities, loyalty and retention exercises, group discussions, and action planning. Participants will apply the tools to realistic customer situations and identify practical improvements relevant to their own service environment."
+    ],
+    "competencies": [
+        "Customer-centric thinking",
+        "Customer expectation management",
+        "Customer experience analysis",
+        "Customer satisfaction measurement",
+        "Service quality improvement",
+        "Customer communication",
+        "Complaint handling",
+        "Service recovery",
+        "Customer loyalty development",
+        "Customer retention",
+        "Customer feedback analysis",
+        "Continuous service improvement"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the relationship between customer expectations, perceived value, satisfaction, loyalty, and retention.",
+        "Identify the principal factors that influence customer satisfaction across different touchpoints.",
+        "Analyze customer journeys and recognize moments that have a disproportionate effect on satisfaction.",
+        "Manage customer expectations through clear communication and reliable service delivery.",
+        "Apply appropriate methods for collecting and interpreting customer feedback.",
+        "Use common customer-satisfaction and loyalty measures appropriately.",
+        "Handle complaints and service failures in ways that support recovery and relationship preservation.",
+        "Identify the drivers of customer loyalty and the causes of customer defection.",
+        "Develop practical approaches for strengthening customer retention and advocacy.",
+        "Translate customer insight into prioritized service-improvement actions."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Customer Satisfaction",
+            "items": [
+                {
+                    "text": "Defining customer satisfaction",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding satisfaction as a comparison between expectations and experience",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing satisfaction from service quality",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing functional and emotional dimensions of satisfaction",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding why satisfied customers are not automatically loyal",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the consequences of repeated dissatisfaction",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing differences between transactional and relationship satisfaction",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting customer satisfaction with organizational performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Customer Expectations",
+            "items": [
+                {
+                    "text": "Identifying explicit and implicit expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding how previous experiences shape expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the influence of competitors and market standards",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the effect of brand promises and communication",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing differences between customer segments",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing needs, wants, preferences, and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Managing expectations without lowering service ambition",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding promises that create unrealistic expectations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Perceived Value",
+            "items": [
+                {
+                    "text": "Defining customer-perceived value",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing benefits against financial and non-financial costs",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the role of time, effort, convenience, and risk",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing functional, emotional, and relational value",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding how value perceptions differ among customers",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying factors that increase or reduce perceived value",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting value with satisfaction and loyalty",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating value clearly and credibly",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying the Drivers of Satisfaction",
+            "items": [
+                {
+                    "text": "Identifying product and service quality factors",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding reliability and consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the importance of responsiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Examining employee attitude and communication",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding convenience and customer effort",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing speed and accuracy",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the role of trust and transparency",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing satisfaction drivers according to customer importance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Mapping the Customer Journey",
+            "items": [
+                {
+                    "text": "Understanding the customer journey",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying stages before, during, and after the transaction",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping customer touchpoints",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying customer goals at each stage",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying customer questions and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing pain points and friction",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping customer emotions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying opportunities to improve the journey",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Moments of Truth",
+            "items": [
+                {
+                    "text": "Defining moments of truth",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying high-impact interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing first and last impressions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the effect of waiting and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Managing handoffs between employees and departments",
+                    "level": 0
+                },
+                {
+                    "text": "Responding effectively during emotionally important moments",
+                    "level": 0
+                },
+                {
+                    "text": "Creating consistency in critical interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Using moments of truth to strengthen trust",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reducing Customer Effort",
+            "items": [
+                {
+                    "text": "Understanding customer effort",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying unnecessary steps and repeated requests",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing transfers and handoffs",
+                    "level": 0
+                },
+                {
+                    "text": "Improving access to information",
+                    "level": 0
+                },
+                {
+                    "text": "Simplifying forms, procedures, and communication",
+                    "level": 0
+                },
+                {
+                    "text": "Improving first-contact resolution where possible",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating common customer questions",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing simplicity with necessary controls",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Trust with Customers",
+            "items": [
+                {
+                    "text": "Understanding trust as a foundation of loyalty",
+                    "level": 0
+                },
+                {
+                    "text": "Delivering consistently on commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating honestly and transparently",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting customer information",
+                    "level": 0
+                },
+                {
+                    "text": "Admitting mistakes appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding misleading promises",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating competence and reliability",
+                    "level": 0
+                },
+                {
+                    "text": "Rebuilding trust after a service failure",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating for Customer Satisfaction",
+            "items": [
+                {
+                    "text": "Listening actively to understand the customer",
+                    "level": 0
+                },
+                {
+                    "text": "Using appropriate questioning techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining processes in clear language",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating empathy appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Managing tone and non-verbal communication",
+                    "level": 0
+                },
+                {
+                    "text": "Setting realistic expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping customers informed",
+                    "level": 0
+                },
+                {
+                    "text": "Closing interactions with clear next steps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Customer Loyalty",
+            "items": [
+                {
+                    "text": "Defining customer loyalty",
+                    "level": 0
+                },
+                {
+                    "text": "Behavioral versus attitudinal loyalty",
+                    "level": 0
+                },
+                {
+                    "text": "Repeat purchase versus genuine preference",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding loyalty based on convenience or switching barriers",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing emotional and relationship-based loyalty",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the role of trust and value",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting loyalty with advocacy",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding assumptions based only on repeat transactions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Loyalty Drivers",
+            "items": [
+                {
+                    "text": "Consistent delivery of customer value",
+                    "level": 0
+                },
+                {
+                    "text": "Reliability and ease of doing business",
+                    "level": 0
+                },
+                {
+                    "text": "Trust and transparency",
+                    "level": 0
+                },
+                {
+                    "text": "Recognition and personalization",
+                    "level": 0
+                },
+                {
+                    "text": "Quality of problem resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Emotional connection",
+                    "level": 0
+                },
+                {
+                    "text": "Relationship continuity",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding which drivers matter most to different customer groups",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Customer Retention",
+            "items": [
+                {
+                    "text": "Defining customer retention",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the business value of retaining suitable customers",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing early signs of declining engagement",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying preventable causes of defection",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding voluntary and involuntary churn",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing retention from preventing customers from leaving",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing acquisition and retention priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting retention initiatives to customer value",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Causes of Customer Defection",
+            "items": [
+                {
+                    "text": "Repeated service failures",
+                    "level": 0
+                },
+                {
+                    "text": "Poor complaint handling",
+                    "level": 0
+                },
+                {
+                    "text": "Inconsistent quality",
+                    "level": 0
+                },
+                {
+                    "text": "Unmet expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Excessive customer effort",
+                    "level": 0
+                },
+                {
+                    "text": "Lack of trust",
+                    "level": 0
+                },
+                {
+                    "text": "Better competitor alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Changing customer needs",
+                    "level": 0
+                },
+                {
+                    "text": "Using lost-customer information to identify systemic issues",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Customer Complaints",
+            "items": [
+                {
+                    "text": "Understanding why customers complain",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing complaints as a source of insight",
+                    "level": 0
+                },
+                {
+                    "text": "Listening without defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the issue and desired outcome",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging the customer's concern",
+                    "level": 0
+                },
+                {
+                    "text": "Taking ownership of the next step",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining available options",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming resolution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recovering from Service Failure",
+            "items": [
+                {
+                    "text": "Understanding the impact of service failure on satisfaction and loyalty",
+                    "level": 0
+                },
+                {
+                    "text": "Responding quickly",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging the customer's experience",
+                    "level": 0
+                },
+                {
+                    "text": "Apologizing appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting the immediate problem",
+                    "level": 0
+                },
+                {
+                    "text": "Offering proportionate recovery where authorized",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping the customer informed",
+                    "level": 0
+                },
+                {
+                    "text": "Following up after significant failures",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing recurrence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Turning Dissatisfaction into Improvement",
+            "items": [
+                {
+                    "text": "Capturing the causes of dissatisfaction",
+                    "level": 0
+                },
+                {
+                    "text": "Categorizing complaints and negative feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying recurring patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing isolated incidents from systemic problems",
+                    "level": 0
+                },
+                {
+                    "text": "Applying root-cause analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying process, policy, system, or capability causes",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning ownership for corrective action",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking whether improvements reduce recurrence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Collecting Customer Feedback",
+            "items": [
+                {
+                    "text": "Identifying appropriate feedback channels",
+                    "level": 0
+                },
+                {
+                    "text": "Using surveys, interviews, comments, reviews, complaints, and observations",
+                    "level": 0
+                },
+                {
+                    "text": "Collecting feedback at relevant journey stages",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing structured and open-ended questions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding leading questions",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging representative feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Closing the feedback loop",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding data collection without action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Customer Satisfaction",
+            "items": [
+                {
+                    "text": "Understanding Customer Satisfaction Score (CSAT)",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting appropriate survey questions",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing suitable timing for measurement",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting satisfaction scores in context",
+                    "level": 0
+                },
+                {
+                    "text": "Segmenting results where useful",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring trends rather than isolated results",
+                    "level": 0
+                },
+                {
+                    "text": "Combining scores with qualitative feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overreliance on a single metric",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Loyalty and Advocacy",
+            "items": [
+                {
+                    "text": "Understanding Net Promoter Score (NPS) conceptually",
+                    "level": 0
+                },
+                {
+                    "text": "Promoters, passives, and detractors",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding what recommendation intent can and cannot indicate",
+                    "level": 0
+                },
+                {
+                    "text": "Using repeat behavior and retention indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring referrals and advocacy",
+                    "level": 0
+                },
+                {
+                    "text": "Considering share of wallet where relevant",
+                    "level": 0
+                },
+                {
+                    "text": "Combining behavioral and attitudinal measures",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting loyalty indicators alongside customer context",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Customer Effort",
+            "items": [
+                {
+                    "text": "Understanding Customer Effort Score (CES)",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying interactions where effort is especially important",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring ease of resolution or completion",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting effort with process design",
+                    "level": 0
+                },
+                {
+                    "text": "Using qualitative comments to understand effort",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying repeated effort across the journey",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing effort without sacrificing necessary controls",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking improvement after process changes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Voice of the Customer",
+            "items": [
+                {
+                    "text": "Understanding Voice of the Customer",
+                    "level": 0
+                },
+                {
+                    "text": "Bringing together feedback from multiple channels",
+                    "level": 0
+                },
+                {
+                    "text": "Categorizing customer themes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying frequency and severity",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing symptoms from root causes",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing feedback across segments and touchpoints",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emerging customer needs",
+                    "level": 0
+                },
+                {
+                    "text": "Translating insight into decision-ready information",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Customer Data Responsibly",
+            "items": [
+                {
+                    "text": "Using customer data to understand patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Segmenting customers for relevant analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding conclusions from insufficient data",
+                    "level": 0
+                },
+                {
+                    "text": "Combining operational and feedback information",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting customer privacy and confidentiality",
+                    "level": 0
+                },
+                {
+                    "text": "Using personalization responsibly",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding manipulative retention practices",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring customer insight supports genuine value creation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing Loyalty Initiatives",
+            "items": [
+                {
+                    "text": "Clarifying the objective of a loyalty initiative",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding whether customers value rewards, recognition, convenience, or access",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning loyalty initiatives with the brand and customer relationship",
+                    "level": 0
+                },
+                {
+                    "text": "Designing meaningful benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive complexity",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring operational feasibility",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring participation and customer response",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing whether the initiative creates genuine loyalty or only short-term transactions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating Customer Advocacy",
+            "items": [
+                {
+                    "text": "Understanding customer advocacy",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the conditions that encourage recommendation",
+                    "level": 0
+                },
+                {
+                    "text": "Creating consistently positive experiences",
+                    "level": 0
+                },
+                {
+                    "text": "Making it easy for customers to share feedback and referrals",
+                    "level": 0
+                },
+                {
+                    "text": "Responding professionally to public reviews",
+                    "level": 0
+                },
+                {
+                    "text": "Using testimonials appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing advocates without exploiting the relationship",
+                    "level": 0
+                },
+                {
+                    "text": "Learning from customers who actively promote the organization",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Customer Satisfaction and Loyalty Improvement Plan",
+            "items": [
+                {
+                    "text": "Assessing current customer satisfaction and loyalty performance",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying priority customer segments and journeys",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting key satisfaction and loyalty drivers",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing pain points and service gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Defining improvement initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting appropriate performance measures",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning responsibilities and timelines",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring customer response",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Customer Satisfaction and Loyalty Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

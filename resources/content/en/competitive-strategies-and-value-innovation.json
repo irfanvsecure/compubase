@@ -1,0 +1,1199 @@
+{
+    "file": "Competitive_Strategies_and_Value_Innovation.docx",
+    "title": "Competitive Strategies and Value Innovation",
+    "duration": "3 Days",
+    "overview": [
+        "Sustainable competitive advantage requires organizations to understand where competition is heading, make deliberate strategic choices, and create value in ways that are difficult to imitate. Competing only on existing industry factors can lead to price pressure, incremental improvement, and strategic similarity. Value innovation challenges organizations to rethink what customers and stakeholders value and to redesign the combination of benefits, costs, experiences, and capabilities that define their competitive position.",
+        "This three-day course provides managers and strategy professionals with practical frameworks for analyzing competitive environments, understanding sources of advantage, identifying strategic gaps, evaluating competitors, segmenting value, and creating differentiated strategic positions. Participants will also explore value innovation principles, strategic canvases, the eliminate-reduce-raise-create framework, noncustomer analysis, business-model choices, and the translation of strategic ideas into executable initiatives.",
+        "Through competitive-analysis exercises, case studies, strategic mapping, value-curve development, option evaluation, and implementation planning, participants will learn to move from market understanding to clear strategic choices that create distinctive and defensible value."
+    ],
+    "audience": [
+        "Senior managers, department heads, strategy and planning professionals, business-development managers, marketing managers, product and service leaders, innovation managers, transformation professionals, business-unit leaders, and managers involved in competitive positioning, growth, strategic planning, or value creation."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining short presentations, competitive-strategy cases, industry and competitor analysis, strategic-group mapping, customer-value analysis, strategy-canvas exercises, value-curve development, eliminate-reduce-raise-create workshops, noncustomer analysis, strategic-option evaluation, group discussion, and implementation planning. Participants apply the tools to realistic organizational and market situations."
+    ],
+    "competencies": [
+        "Competitive analysis",
+        "Strategic positioning",
+        "Customer and stakeholder value analysis",
+        "Value innovation",
+        "Strategic differentiation",
+        "Competitive intelligence",
+        "Strategic option development",
+        "Business-model thinking",
+        "Strategic decision making",
+        "Market opportunity identification",
+        "Strategic prioritization",
+        "Strategy implementation"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Analyze the competitive forces and structural characteristics of an industry or sector.",
+        "Identify current and emerging competitors, substitutes, and alternative sources of value.",
+        "Assess organizational sources of competitive advantage and strategic vulnerability.",
+        "Evaluate different approaches to competitive positioning and differentiation.",
+        "Map the factors on which organizations currently compete.",
+        "Apply value innovation principles to challenge established competitive assumptions.",
+        "Use the strategy canvas and value curve to compare strategic profiles.",
+        "Apply the eliminate-reduce-raise-create framework to redesign customer or stakeholder value.",
+        "Explore noncustomers and unmet needs as sources of strategic opportunity.",
+        "Evaluate strategic options based on value, differentiation, feasibility, risk, and sustainability.",
+        "Translate competitive and value-innovation choices into focused implementation priorities."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Competitive Strategy",
+            "items": [
+                {
+                    "text": "Defining competitive strategy",
+                    "level": 0
+                },
+                {
+                    "text": "Strategy as a set of deliberate choices",
+                    "level": 0
+                },
+                {
+                    "text": "Competition for customers, resources, attention, and relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Competitive advantage versus operational effectiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Temporary and sustainable advantage",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding strategic positioning",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing strategic trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting competitive strategy with organizational objectives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing the Competitive Environment",
+            "items": [
+                {
+                    "text": "Defining the relevant competitive arena",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding market and sector boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying direct and indirect competitors",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing substitute solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding customer and stakeholder alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emerging competitive threats",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing the pace of competitive change",
+                    "level": 0
+                },
+                {
+                    "text": "Translating environmental analysis into strategic implications",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Industry Structure",
+            "items": [
+                {
+                    "text": "Competitive rivalry",
+                    "level": 0
+                },
+                {
+                    "text": "Threat of new entrants",
+                    "level": 0
+                },
+                {
+                    "text": "Threat of substitutes",
+                    "level": 0
+                },
+                {
+                    "text": "Buyer or customer power",
+                    "level": 0
+                },
+                {
+                    "text": "Supplier and partner power",
+                    "level": 0
+                },
+                {
+                    "text": "Structural drivers of profitability and value",
+                    "level": 0
+                },
+                {
+                    "text": "Changes that can reshape industry structure",
+                    "level": 0
+                },
+                {
+                    "text": "Using industry analysis to identify strategic pressure points",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Competitor Analysis",
+            "items": [
+                {
+                    "text": "Identifying priority competitors",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding competitor objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing competitor positioning",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing capabilities and resources",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing products, services, channels, and experiences",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying likely competitor responses",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing facts from assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Building a structured competitor profile",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Competitive Intelligence",
+            "items": [
+                {
+                    "text": "Defining useful competitive intelligence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying ethical information sources",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring competitor moves",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking customer and market signals",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing weak signals",
+                    "level": 0
+                },
+                {
+                    "text": "Separating meaningful change from noise",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing intelligence across functions",
+                    "level": 0
+                },
+                {
+                    "text": "Converting intelligence into strategic decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Sources of Competitive Advantage",
+            "items": [
+                {
+                    "text": "Cost and efficiency advantages",
+                    "level": 0
+                },
+                {
+                    "text": "Differentiation advantages",
+                    "level": 0
+                },
+                {
+                    "text": "Customer relationships",
+                    "level": 0
+                },
+                {
+                    "text": "Brand and reputation",
+                    "level": 0
+                },
+                {
+                    "text": "Capabilities and expertise",
+                    "level": 0
+                },
+                {
+                    "text": "Technology and data",
+                    "level": 0
+                },
+                {
+                    "text": "Networks, ecosystems, and partnerships",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding whether an advantage can be sustained",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Assessing Strategic Capabilities",
+            "items": [
+                {
+                    "text": "Identifying valuable capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding capability uniqueness",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing difficulty of imitation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing organizational support requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying capability gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding capability erosion",
+                    "level": 0
+                },
+                {
+                    "text": "Building new capabilities strategically",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting capabilities with competitive position",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Choosing a Competitive Position",
+            "items": [
+                {
+                    "text": "Understanding broad versus focused positioning",
+                    "level": 0
+                },
+                {
+                    "text": "Competing on cost, differentiation, or specialized value",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the target customer or stakeholder",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the value proposition",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding an unclear strategic position",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether the position is distinctive",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning activities with the chosen position",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Customer and Stakeholder Value",
+            "items": [
+                {
+                    "text": "Defining value from the recipient's perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Functional value",
+                    "level": 0
+                },
+                {
+                    "text": "Economic value",
+                    "level": 0
+                },
+                {
+                    "text": "Emotional and experiential value",
+                    "level": 0
+                },
+                {
+                    "text": "Convenience and effort",
+                    "level": 0
+                },
+                {
+                    "text": "Risk reduction and confidence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying value drivers",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing value creation from feature addition",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Mapping the Current Basis of Competition",
+            "items": [
+                {
+                    "text": "Identifying factors on which organizations compete",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding industry assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing common investment patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing competitor offerings",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying over-served factors",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying under-served factors",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing strategic convergence",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a fact-based picture of the current competitive landscape",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Introducing Value Innovation",
+            "items": [
+                {
+                    "text": "Understanding value innovation",
+                    "level": 0
+                },
+                {
+                    "text": "Pursuing differentiation and improved value simultaneously",
+                    "level": 0
+                },
+                {
+                    "text": "Challenging the conventional value-cost trade-off",
+                    "level": 0
+                },
+                {
+                    "text": "Focusing on buyer or stakeholder utility",
+                    "level": 0
+                },
+                {
+                    "text": "Rethinking accepted industry factors",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding innovation that creates novelty without value",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting value innovation with strategic positioning",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing conditions where value innovation can reshape competition",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using the Strategy Canvas",
+            "items": [
+                {
+                    "text": "Understanding the purpose of the strategy canvas",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting meaningful competitive factors",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing the level of offering on each factor",
+                    "level": 0
+                },
+                {
+                    "text": "Plotting the current value curve",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing competitor value curves",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying similarity and divergence",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing opportunities for strategic focus",
+                    "level": 0
+                },
+                {
+                    "text": "Using the canvas to communicate strategic choices",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying the Eliminate-Reduce-Raise-Create Framework",
+            "items": [
+                {
+                    "text": "Identifying factors that can be eliminated",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing factors that are overprovided",
+                    "level": 0
+                },
+                {
+                    "text": "Raising factors that create meaningful value",
+                    "level": 0
+                },
+                {
+                    "text": "Creating factors not previously offered",
+                    "level": 0
+                },
+                {
+                    "text": "Questioning inherited industry practices",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing value creation and cost implications",
+                    "level": 0
+                },
+                {
+                    "text": "Combining the four actions into a coherent value curve",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether the new profile is genuinely differentiated",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Challenging Strategic Assumptions",
+            "items": [
+                {
+                    "text": "Identifying assumptions about customers",
+                    "level": 0
+                },
+                {
+                    "text": "Questioning assumptions about competitors",
+                    "level": 0
+                },
+                {
+                    "text": "Challenging accepted service levels",
+                    "level": 0
+                },
+                {
+                    "text": "Questioning channel and delivery assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Reconsidering pricing and revenue logic",
+                    "level": 0
+                },
+                {
+                    "text": "Challenging process and capability assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Using reversal and alternative-framing questions",
+                    "level": 0
+                },
+                {
+                    "text": "Turning challenged assumptions into strategic opportunities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Looking Beyond Existing Customers",
+            "items": [
+                {
+                    "text": "Understanding the limits of customer-only analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying noncustomers",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding why people reject or avoid current offerings",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring alternatives used instead",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying barriers to adoption",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing commonalities across noncustomer groups",
+                    "level": 0
+                },
+                {
+                    "text": "Discovering latent demand",
+                    "level": 0
+                },
+                {
+                    "text": "Using noncustomer insight to expand strategic opportunity",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Unmet and Underserved Needs",
+            "items": [
+                {
+                    "text": "Observing customer frustrations",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying unnecessary effort",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing compromises customers currently accept",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding unmet functional needs",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emotional and experience gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring underserved segments",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing genuine needs from requested features",
+                    "level": 0
+                },
+                {
+                    "text": "Translating insight into strategic opportunity areas",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Looking Across Alternative Industries and Solutions",
+            "items": [
+                {
+                    "text": "Understanding why customers choose alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing different ways of solving the same problem",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying value factors from other industries",
+                    "level": 0
+                },
+                {
+                    "text": "Learning from substitute experiences",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing transferable business-model ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Using analogy to generate strategic possibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding direct imitation",
+                    "level": 0
+                },
+                {
+                    "text": "Combining insights into new value propositions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Rethinking the Customer Experience",
+            "items": [
+                {
+                    "text": "Mapping the customer or stakeholder journey",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying friction points",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding pre-purchase or pre-service experience",
+                    "level": 0
+                },
+                {
+                    "text": "Improving access and convenience",
+                    "level": 0
+                },
+                {
+                    "text": "Examining use and delivery experience",
+                    "level": 0
+                },
+                {
+                    "text": "Considering support and after-service experience",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying opportunities to reduce effort and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Redesigning the experience around value",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Distinctive Value Proposition",
+            "items": [
+                {
+                    "text": "Defining the target customer or stakeholder",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the problem or need addressed",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the primary benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining meaningful differentiation",
+                    "level": 0
+                },
+                {
+                    "text": "Defining reasons to choose the offering",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring relevance and credibility",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding generic value statements",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting the value proposition with operational capabilities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Exploring Business-Model Innovation",
+            "items": [
+                {
+                    "text": "Understanding the relationship between strategy and business model",
+                    "level": 0
+                },
+                {
+                    "text": "Rethinking how value is created",
+                    "level": 0
+                },
+                {
+                    "text": "Rethinking how value is delivered",
+                    "level": 0
+                },
+                {
+                    "text": "Rethinking how value is captured",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring partnership and ecosystem models",
+                    "level": 0
+                },
+                {
+                    "text": "Considering digital and platform-enabled models",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying cost-structure implications",
+                    "level": 0
+                },
+                {
+                    "text": "Testing business-model assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Strategic Options",
+            "items": [
+                {
+                    "text": "Generating alternative competitive moves",
+                    "level": 0
+                },
+                {
+                    "text": "Combining differentiation and value opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring defensive and offensive options",
+                    "level": 0
+                },
+                {
+                    "text": "Considering market-development options",
+                    "level": 0
+                },
+                {
+                    "text": "Considering capability-based options",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring partnership options",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the strategic logic of each option",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding premature commitment to one approach",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Strategic Options",
+            "items": [
+                {
+                    "text": "Strategic fit",
+                    "level": 0
+                },
+                {
+                    "text": "Customer or stakeholder value",
+                    "level": 0
+                },
+                {
+                    "text": "Degree of differentiation",
+                    "level": 0
+                },
+                {
+                    "text": "Expected competitive response",
+                    "level": 0
+                },
+                {
+                    "text": "Capability requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Financial and resource implications",
+                    "level": 0
+                },
+                {
+                    "text": "Risk and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Sustainability of the proposed advantage",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Competitive Response",
+            "items": [
+                {
+                    "text": "Anticipating competitor reactions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying easy-to-copy elements",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing barriers to imitation",
+                    "level": 0
+                },
+                {
+                    "text": "Considering price responses",
+                    "level": 0
+                },
+                {
+                    "text": "Considering product or service responses",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding incumbent advantages",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing alternative responses",
+                    "level": 0
+                },
+                {
+                    "text": "Building adaptability into competitive strategy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Protecting Strategic Advantage",
+            "items": [
+                {
+                    "text": "Strengthening distinctive capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Creating activity-system fit",
+                    "level": 0
+                },
+                {
+                    "text": "Building customer relationships and switching value",
+                    "level": 0
+                },
+                {
+                    "text": "Using data and learning advantages",
+                    "level": 0
+                },
+                {
+                    "text": "Developing network effects where relevant",
+                    "level": 0
+                },
+                {
+                    "text": "Building reputation and trust",
+                    "level": 0
+                },
+                {
+                    "text": "Continuing innovation before advantage erodes",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding complacency after initial success",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Prioritizing Competitive Initiatives",
+            "items": [
+                {
+                    "text": "Linking initiatives with strategic choices",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing expected strategic impact",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating urgency",
+                    "level": 0
+                },
+                {
+                    "text": "Considering resources and capability",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing quick wins and longer-term moves",
+                    "level": 0
+                },
+                {
+                    "text": "Stopping activities that do not support the position",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a focused initiative portfolio",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Translating Value Innovation into Execution",
+            "items": [
+                {
+                    "text": "Defining required changes to products or services",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying process changes",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying technology requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning people and capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying partner requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Defining implementation ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Creating milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining strategic focus during execution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Aligning the Organization with Competitive Strategy",
+            "items": [
+                {
+                    "text": "Communicating the strategic position",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying what the organization will and will not do",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning structures and processes",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning resources",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning performance measures",
+                    "level": 0
+                },
+                {
+                    "text": "Developing required capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing consistent management decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing operational choices from undermining strategy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Measuring Competitive and Value Performance",
+            "items": [
+                {
+                    "text": "Defining strategic performance indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking customer or stakeholder value",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring adoption and retention",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring cost and productivity effects",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking market or sector position",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring competitor movement",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether differentiation remains meaningful",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence to refine strategic choices",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reviewing and Adapting Competitive Strategy",
+            "items": [
+                {
+                    "text": "Monitoring strategic assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing changes in customer value",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing competitor moves",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emerging substitutes",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing capability changes",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing execution problems from strategy problems",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting without losing strategic coherence",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when a strategic position requires fundamental renewal",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Competitive Strategy and Value Innovation Workshop",
+            "items": [
+                {
+                    "text": "Defining a competitive arena",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key competitors and alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping current competitive factors",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a strategy canvas",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying value gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Applying eliminate-reduce-raise-create",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a differentiated value curve",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating strategic feasibility and risk",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting the proposed competitive strategy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Competitive Strategy Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current competitive position",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying priority intelligence gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting value-innovation opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Defining strategic choices",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying required capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing implementation initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Defining measures and review mechanisms",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Competitive Strategy and Value Innovation Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

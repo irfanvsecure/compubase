@@ -1,0 +1,640 @@
+{
+    "file": "Strategic_Account_Management.docx",
+    "title": "Strategic Account Management",
+    "duration": "3 Days",
+    "overview": [
+        "Strategic Account Management equips professionals to build long-term, profitable partnerships with strategically important customers. The program moves beyond routine account servicing to account portfolio prioritization, business insight, executive alignment, value co-creation, competitive positioning, and multi-year growth planning. Participants learn to evaluate account potential, map decision networks, formulate differentiated account strategies, lead cross-functional account teams, and govern performance through measurable customer and commercial outcomes."
+    ],
+    "audience": [
+        "Strategic and key account managers responsible for high-value customer relationships.",
+        "Sales directors, business development managers, and commercial leaders.",
+        "Client relationship managers, enterprise sales professionals, and customer success leaders.",
+        "Account team leaders and professionals managing complex B2B or institutional accounts."
+    ],
+    "methodology": [
+        "Interactive facilitator-led sessions combine strategic account case studies, customer portfolio analysis, stakeholder mapping workshops, account-planning templates, financial and opportunity assessments, negotiation scenarios, executive meeting simulations, peer feedback, and a capstone strategic account plan. Participants apply each tool to a realistic or current priority account."
+    ],
+    "competencies": [
+        "Strategic account selection, segmentation, and portfolio prioritization.",
+        "Customer business analysis and industry intelligence.",
+        "Stakeholder mapping, executive relationship building, and influence.",
+        "Account strategy formulation and value proposition development.",
+        "Cross-functional collaboration and account governance.",
+        "Commercial planning, negotiation, risk management, and growth forecasting.",
+        "Account performance measurement and continuous improvement."
+    ],
+    "objectivesIntro": [],
+    "objectives": [
+        "Differentiate strategic account management from transactional selling and routine account servicing.",
+        "Select strategic accounts using objective attractiveness, fit, and growth criteria.",
+        "Analyze customer priorities, economics, buying structures, and competitive dynamics.",
+        "Build influence across decision-makers, sponsors, users, and procurement stakeholders.",
+        "Develop a differentiated, customer-centered strategic account plan.",
+        "Identify white-space opportunities and design value-creation initiatives.",
+        "Coordinate internal resources to deliver a consistent account experience.",
+        "Manage commercial risk, profitability, negotiations, and account retention.",
+        "Establish meaningful account KPIs, review routines, and improvement actions."
+    ],
+    "outline": [
+        {
+            "title": "Strategic Account Management Fundamentals",
+            "items": [
+                {
+                    "text": "The purpose and business case for strategic account management",
+                    "level": 0
+                },
+                {
+                    "text": "Transactional, key-account, and strategic partnership approaches",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of strategically significant accounts",
+                    "level": 0
+                },
+                {
+                    "text": "Long-term value creation and mutual business outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Responsibilities and success factors of strategic account leaders",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Strategic Account Selection and Prioritization",
+            "items": [
+                {
+                    "text": "Account attractiveness versus organizational capability and fit",
+                    "level": 0
+                },
+                {
+                    "text": "Revenue, margin, growth, influence, and strategic relevance criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Portfolio segmentation and tiering models",
+                    "level": 0
+                },
+                {
+                    "text": "Resource allocation according to account potential",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing account designation as conditions change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding the Customer Business",
+            "items": [
+                {
+                    "text": "Customer business model, revenue drivers, and cost pressures",
+                    "level": 0
+                },
+                {
+                    "text": "Industry trends, regulation, and competitive landscape",
+                    "level": 0
+                },
+                {
+                    "text": "Customer strategic priorities and transformation initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Financial, operational, and organizational indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Sources of account intelligence and validation methods",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Customer Needs and Opportunity Diagnosis",
+            "items": [
+                {
+                    "text": "Explicit needs, latent needs, and unmet business challenges",
+                    "level": 0
+                },
+                {
+                    "text": "Linking customer pain points to strategic outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Discovery conversations with different business functions",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating the cost of inaction and change urgency",
+                    "level": 0
+                },
+                {
+                    "text": "Translating insight into an opportunity hypothesis",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Mapping the Account Ecosystem",
+            "items": [
+                {
+                    "text": "Organizational structures and formal buying processes",
+                    "level": 0
+                },
+                {
+                    "text": "Economic buyers, technical evaluators, users, and influencers",
+                    "level": 0
+                },
+                {
+                    "text": "Decision power, interests, and relationship strength",
+                    "level": 0
+                },
+                {
+                    "text": "Stakeholder mapping and relationship coverage gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Developing multi-threaded engagement strategies",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Executive-Level Relationships",
+            "items": [
+                {
+                    "text": "Engaging senior sponsors with relevant business insight",
+                    "level": 0
+                },
+                {
+                    "text": "Executive meeting preparation and strategic agendas",
+                    "level": 0
+                },
+                {
+                    "text": "Credibility, trust, and consultative dialogue",
+                    "level": 0
+                },
+                {
+                    "text": "Managing access, sponsorship, and internal champions",
+                    "level": 0
+                },
+                {
+                    "text": "Sustaining relationships through leadership transitions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Competitive Positioning Within Strategic Accounts",
+            "items": [
+                {
+                    "text": "Incumbent advantages and competitor relationship networks",
+                    "level": 0
+                },
+                {
+                    "text": "Competitive differentiation beyond product features",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing account share, switching barriers, and vulnerabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Defending strategic positions without unnecessary discounting",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing responses to competitive threats",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing the Strategic Account Vision",
+            "items": [
+                {
+                    "text": "Defining desired future relationship and partnership scope",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning account ambition with customer priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Setting short-, medium-, and long-term outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Determining strategic plays and account investment levels",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a coherent account narrative",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Strategic Account Planning Framework",
+            "items": [
+                {
+                    "text": "Essential components of a documented account plan",
+                    "level": 0
+                },
+                {
+                    "text": "Account baseline, SWOT, objectives, and opportunity map",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritized initiatives, milestones, owners, and dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Assumptions, evidence, and decision checkpoints",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining a living plan rather than a static document",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing Customer Value Propositions",
+            "items": [
+                {
+                    "text": "Linking solutions to customer business priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Quantifying economic, operational, and risk-reduction benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Value propositions for multiple stakeholder groups",
+                    "level": 0
+                },
+                {
+                    "text": "Co-creating solutions with customer teams",
+                    "level": 0
+                },
+                {
+                    "text": "Testing and communicating differentiated value",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "White-Space and Growth Opportunity Mapping",
+            "items": [
+                {
+                    "text": "Share-of-wallet and product or service penetration analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Cross-selling, up-selling, and adjacent business opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Geographic, departmental, and business-unit expansion",
+                    "level": 0
+                },
+                {
+                    "text": "Qualification and prioritization of growth opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing new growth with existing service commitments",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Opportunity Portfolio and Pipeline Strategy",
+            "items": [
+                {
+                    "text": "Building an account-specific opportunity portfolio",
+                    "level": 0
+                },
+                {
+                    "text": "Qualification of complex opportunities and buying readiness",
+                    "level": 0
+                },
+                {
+                    "text": "Opportunity interdependencies and timing considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Forecast quality, probability, and deal slippage risks",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting opportunity actions to account objectives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Cross-Functional Account Team Leadership",
+            "items": [
+                {
+                    "text": "Roles of sales, operations, finance, technical, and service teams",
+                    "level": 0
+                },
+                {
+                    "text": "Account team charters and clear ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Internal alignment around customer outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating complex proposals and service delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Escalation paths and internal decision rights",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Customer Collaboration and Joint Business Planning",
+            "items": [
+                {
+                    "text": "Shared priorities and joint planning sessions",
+                    "level": 0
+                },
+                {
+                    "text": "Mutual action plans and implementation responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Customer governance meetings and working groups",
+                    "level": 0
+                },
+                {
+                    "text": "Joint innovation and improvement initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Managing expectations and tracking agreed commitments",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Commercial Strategy and Account Profitability",
+            "items": [
+                {
+                    "text": "Revenue quality, gross margin, and cost-to-serve",
+                    "level": 0
+                },
+                {
+                    "text": "Customer lifetime value and investment decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Pricing architecture and commercial concessions",
+                    "level": 0
+                },
+                {
+                    "text": "Profitability by solution, segment, and account activity",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing strategic value with commercial discipline",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Negotiating Strategic Agreements",
+            "items": [
+                {
+                    "text": "Preparation for multi-stakeholder negotiations",
+                    "level": 0
+                },
+                {
+                    "text": "Value-based trade-offs and concession planning",
+                    "level": 0
+                },
+                {
+                    "text": "Procurement strategy and supplier evaluation criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Framework agreements, service levels, and renewal terms",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting relationship quality while negotiating firmly",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Account Retention and Relationship Resilience",
+            "items": [
+                {
+                    "text": "Early indicators of dissatisfaction and disengagement",
+                    "level": 0
+                },
+                {
+                    "text": "Contract renewal planning and retention risk assessment",
+                    "level": 0
+                },
+                {
+                    "text": "Handling service failures and executive escalations",
+                    "level": 0
+                },
+                {
+                    "text": "Recovery plans for at-risk strategic accounts",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing single-contact dependency",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Risk Management and Scenario Planning",
+            "items": [
+                {
+                    "text": "Concentration, credit, delivery, and reputational risks",
+                    "level": 0
+                },
+                {
+                    "text": "Customer restructuring and leadership-change scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Competitive displacement and budget reduction threats",
+                    "level": 0
+                },
+                {
+                    "text": "Contingency plans and risk ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing account assumptions under uncertainty",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Strategic Account Governance",
+            "items": [
+                {
+                    "text": "Executive sponsorship and steering structures",
+                    "level": 0
+                },
+                {
+                    "text": "Account review cadence and decision forums",
+                    "level": 0
+                },
+                {
+                    "text": "Escalation protocols and accountability mechanisms",
+                    "level": 0
+                },
+                {
+                    "text": "Documentation, CRM discipline, and knowledge continuity",
+                    "level": 0
+                },
+                {
+                    "text": "Governance that supports agility and customer trust",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Account Performance Metrics and Dashboards",
+            "items": [
+                {
+                    "text": "Revenue growth, profitability, and share-of-wallet indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Customer outcomes, satisfaction, and retention measures",
+                    "level": 0
+                },
+                {
+                    "text": "Relationship breadth, opportunity health, and plan execution",
+                    "level": 0
+                },
+                {
+                    "text": "Leading versus lagging indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting dashboard trends and corrective action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Strategic Account Reviews and Continuous Improvement",
+            "items": [
+                {
+                    "text": "Quarterly business reviews and executive account reviews",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing objectives, commitments, and business value delivered",
+                    "level": 0
+                },
+                {
+                    "text": "Testing strategic assumptions against new intelligence",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing lessons and revising account priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating progress internally and to the customer",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Digital Tools and Account Intelligence",
+            "items": [
+                {
+                    "text": "Using CRM to consolidate stakeholder and opportunity data",
+                    "level": 0
+                },
+                {
+                    "text": "Account dashboards and collaborative planning tools",
+                    "level": 0
+                },
+                {
+                    "text": "Responsible use of AI-assisted research and analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Information accuracy, confidentiality, and access controls",
+                    "level": 0
+                },
+                {
+                    "text": "Turning account data into practical engagement decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Strategic Account Leadership and Communication",
+            "items": [
+                {
+                    "text": "Influencing without direct authority across functions",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting account strategy to internal leadership",
+                    "level": 0
+                },
+                {
+                    "text": "Facilitating difficult customer and internal conversations",
+                    "level": 0
+                },
+                {
+                    "text": "Building alignment on investment and priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating with clarity at operational and executive levels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Capstone: Strategic Account Plan Development",
+            "items": [
+                {
+                    "text": "Select and diagnose a priority account scenario",
+                    "level": 0
+                },
+                {
+                    "text": "Build customer insight and stakeholder maps",
+                    "level": 0
+                },
+                {
+                    "text": "Set strategic objectives and identify growth initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Prepare governance, KPI, and risk mitigation plans",
+                    "level": 0
+                },
+                {
+                    "text": "Present the plan, receive feedback, and define next actions",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

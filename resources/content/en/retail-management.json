@@ -1,0 +1,1566 @@
+{
+    "file": "Retail_Management.docx",
+    "title": "Retail Management",
+    "duration": "3 Days",
+    "overview": [
+        "Successful retail management requires the coordinated management of customers, people, merchandise, operations, inventory, sales performance, and the overall store experience. Retail managers must achieve commercial targets while maintaining service standards, operational discipline, product availability, employee productivity, and a consistent brand experience.",
+        "This three-day course provides retail managers and supervisors with a practical framework for managing store performance. Participants examine retail strategy, customer behavior, store operations, merchandise and inventory control, visual merchandising, sales conversion, service quality, team leadership, scheduling, loss prevention, retail KPIs, and performance improvement.",
+        "Through retail cases, store-performance exercises, KPI analysis, merchandising scenarios, customer-service situations, staffing activities, and action planning, participants learn how to manage the retail environment systematically and improve both customer experience and commercial results."
+    ],
+    "audience": [
+        "Retail managers, store managers, assistant store managers, retail supervisors, department managers, area and branch managers, retail operations professionals, sales supervisors, merchandising professionals, and employees preparing for retail-management responsibilities."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining short presentations, retail-management cases, store-performance analysis, customer-journey exercises, merchandise and inventory scenarios, visual-merchandising activities, staffing and scheduling exercises, sales and service simulations, KPI analysis, loss-prevention cases, group discussion, and individual action planning."
+    ],
+    "competencies": [
+        "Retail operations management",
+        "Customer experience management",
+        "Retail sales management",
+        "Merchandise management",
+        "Inventory control",
+        "Visual merchandising",
+        "Retail team leadership",
+        "Workforce scheduling",
+        "Retail KPI management",
+        "Loss prevention",
+        "Service recovery",
+        "Store performance improvement"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the key responsibilities and commercial priorities of effective retail management.",
+        "Analyze customer behavior and manage the store experience around customer needs.",
+        "Organize store operations to maintain efficiency, consistency, and service quality.",
+        "Manage merchandise availability, inventory levels, replenishment, and stock accuracy.",
+        "Apply visual-merchandising principles to support customer navigation and sales.",
+        "Improve sales conversion, average transaction value, and complementary selling.",
+        "Lead, schedule, coach, and motivate retail employees effectively.",
+        "Use retail KPIs to diagnose performance and identify improvement priorities.",
+        "Manage complaints and service-recovery situations professionally.",
+        "Reduce operational losses through disciplined controls and loss-prevention practices.",
+        "Plan promotional and peak-period execution effectively.",
+        "Develop a practical action plan for improving store performance."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Retail Management",
+            "items": [
+                {
+                    "text": "The role of the retail manager",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing customer, employee, operational, and commercial priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the retail value proposition",
+                    "level": 0
+                },
+                {
+                    "text": "The relationship between brand promise and store execution",
+                    "level": 0
+                },
+                {
+                    "text": "Key drivers of retail performance",
+                    "level": 0
+                },
+                {
+                    "text": "Managing consistency in a dynamic environment",
+                    "level": 0
+                },
+                {
+                    "text": "Retail management as a daily operating discipline",
+                    "level": 0
+                },
+                {
+                    "text": "Common causes of poor store performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding the Retail Customer",
+            "items": [
+                {
+                    "text": "Customer needs and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Shopping missions and purchase occasions",
+                    "level": 0
+                },
+                {
+                    "text": "Functional and emotional buying drivers",
+                    "level": 0
+                },
+                {
+                    "text": "Customer decision behavior",
+                    "level": 0
+                },
+                {
+                    "text": "The effect of convenience and effort",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing different customer profiles",
+                    "level": 0
+                },
+                {
+                    "text": "Using customer observations responsibly",
+                    "level": 0
+                },
+                {
+                    "text": "Translating customer insight into store decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing the Customer Journey",
+            "items": [
+                {
+                    "text": "Pre-visit expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Store arrival and first impression",
+                    "level": 0
+                },
+                {
+                    "text": "Navigation and product discovery",
+                    "level": 0
+                },
+                {
+                    "text": "Interaction with employees",
+                    "level": 0
+                },
+                {
+                    "text": "Product evaluation",
+                    "level": 0
+                },
+                {
+                    "text": "Checkout experience",
+                    "level": 0
+                },
+                {
+                    "text": "Post-purchase support",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying friction points across the journey",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating an Effective Store Experience",
+            "items": [
+                {
+                    "text": "Store cleanliness and readiness",
+                    "level": 0
+                },
+                {
+                    "text": "Product availability",
+                    "level": 0
+                },
+                {
+                    "text": "Ease of navigation",
+                    "level": 0
+                },
+                {
+                    "text": "Employee visibility and accessibility",
+                    "level": 0
+                },
+                {
+                    "text": "Queue management",
+                    "level": 0
+                },
+                {
+                    "text": "Atmosphere and presentation",
+                    "level": 0
+                },
+                {
+                    "text": "Consistency of service",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining the experience throughout the trading day",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Planning Daily Store Operations",
+            "items": [
+                {
+                    "text": "Opening procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Daily priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Staff deployment",
+                    "level": 0
+                },
+                {
+                    "text": "Product and stock readiness",
+                    "level": 0
+                },
+                {
+                    "text": "Cash and till readiness",
+                    "level": 0
+                },
+                {
+                    "text": "Operational checks",
+                    "level": 0
+                },
+                {
+                    "text": "Shift communication",
+                    "level": 0
+                },
+                {
+                    "text": "Closing procedures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Store Checklists and Standards",
+            "items": [
+                {
+                    "text": "Defining critical operating standards",
+                    "level": 0
+                },
+                {
+                    "text": "Creating practical checklists",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning responsibility",
+                    "level": 0
+                },
+                {
+                    "text": "Checking compliance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding checklist activity without action",
+                    "level": 0
+                },
+                {
+                    "text": "Recording exceptions",
+                    "level": 0
+                },
+                {
+                    "text": "Following up corrective actions",
+                    "level": 0
+                },
+                {
+                    "text": "Using standards to improve consistency",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Merchandise Management",
+            "items": [
+                {
+                    "text": "The role of merchandise in retail performance",
+                    "level": 0
+                },
+                {
+                    "text": "Product assortment",
+                    "level": 0
+                },
+                {
+                    "text": "Category structure",
+                    "level": 0
+                },
+                {
+                    "text": "Core versus seasonal merchandise",
+                    "level": 0
+                },
+                {
+                    "text": "Product availability",
+                    "level": 0
+                },
+                {
+                    "text": "Product lifecycle considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing choice and complexity",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting merchandise decisions with customer demand",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Inventory Effectively",
+            "items": [
+                {
+                    "text": "Understanding stock levels",
+                    "level": 0
+                },
+                {
+                    "text": "Minimum and maximum inventory",
+                    "level": 0
+                },
+                {
+                    "text": "Safety stock",
+                    "level": 0
+                },
+                {
+                    "text": "Stock turnover",
+                    "level": 0
+                },
+                {
+                    "text": "Fast- and slow-moving items",
+                    "level": 0
+                },
+                {
+                    "text": "Overstock and understock",
+                    "level": 0
+                },
+                {
+                    "text": "Stock aging",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing availability with inventory cost",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Improving Stock Accuracy",
+            "items": [
+                {
+                    "text": "Receiving controls",
+                    "level": 0
+                },
+                {
+                    "text": "Correct product identification",
+                    "level": 0
+                },
+                {
+                    "text": "Stock movements",
+                    "level": 0
+                },
+                {
+                    "text": "Returns and transfers",
+                    "level": 0
+                },
+                {
+                    "text": "Cycle counting",
+                    "level": 0
+                },
+                {
+                    "text": "Physical inventory",
+                    "level": 0
+                },
+                {
+                    "text": "Investigating discrepancies",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accurate system records",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Replenishment",
+            "items": [
+                {
+                    "text": "Identifying replenishment needs",
+                    "level": 0
+                },
+                {
+                    "text": "Shelf and floor availability",
+                    "level": 0
+                },
+                {
+                    "text": "Backroom organization",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing high-demand items",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to stockouts",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating with supply and warehouse teams",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring replenishment performance",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing lost sales caused by poor availability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Visual Merchandising",
+            "items": [
+                {
+                    "text": "The purpose of visual merchandising",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting customer navigation",
+                    "level": 0
+                },
+                {
+                    "text": "Creating product visibility",
+                    "level": 0
+                },
+                {
+                    "text": "Using focal points",
+                    "level": 0
+                },
+                {
+                    "text": "Product grouping",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining brand consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing aesthetics and commercial purpose",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating visual effectiveness",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Product Displays",
+            "items": [
+                {
+                    "text": "Display planning",
+                    "level": 0
+                },
+                {
+                    "text": "Product placement",
+                    "level": 0
+                },
+                {
+                    "text": "Facings and presentation",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining display standards",
+                    "level": 0
+                },
+                {
+                    "text": "Highlighting priority products",
+                    "level": 0
+                },
+                {
+                    "text": "Cross-merchandising",
+                    "level": 0
+                },
+                {
+                    "text": "Seasonal and promotional displays",
+                    "level": 0
+                },
+                {
+                    "text": "Refreshing displays based on performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Store Layout to Support Sales",
+            "items": [
+                {
+                    "text": "Understanding customer traffic flow",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying high- and low-traffic areas",
+                    "level": 0
+                },
+                {
+                    "text": "Product adjacency",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing navigation barriers",
+                    "level": 0
+                },
+                {
+                    "text": "Using space effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Managing congestion",
+                    "level": 0
+                },
+                {
+                    "text": "Positioning impulse opportunities appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing layout based on customer behavior",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Retail Sales Performance",
+            "items": [
+                {
+                    "text": "Understanding the sales process in retail",
+                    "level": 0
+                },
+                {
+                    "text": "Creating customer engagement",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying needs quickly",
+                    "level": 0
+                },
+                {
+                    "text": "Matching products with customer needs",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating value",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting customer decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Closing naturally",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining service quality while pursuing sales",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Improving Sales Conversion",
+            "items": [
+                {
+                    "text": "Understanding conversion rate",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying reasons visitors do not purchase",
+                    "level": 0
+                },
+                {
+                    "text": "Improving employee availability",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening product knowledge",
+                    "level": 0
+                },
+                {
+                    "text": "Improving needs discovery",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing customer hesitation",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring product availability",
+                    "level": 0
+                },
+                {
+                    "text": "Using conversion data to guide improvement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Increasing Transaction Value",
+            "items": [
+                {
+                    "text": "Understanding average transaction value",
+                    "level": 0
+                },
+                {
+                    "text": "Complementary selling",
+                    "level": 0
+                },
+                {
+                    "text": "Cross-selling",
+                    "level": 0
+                },
+                {
+                    "text": "Up-selling appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Bundling relevant products",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting recommendations with customer needs",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding aggressive selling",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring the impact of selling behaviors",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Product Knowledge",
+            "items": [
+                {
+                    "text": "Understanding product features",
+                    "level": 0
+                },
+                {
+                    "text": "Translating features into benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding common customer questions",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing product limitations",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping knowledge current",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing knowledge within the team",
+                    "level": 0
+                },
+                {
+                    "text": "Using product knowledge to build confidence and trust",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Delivering Excellent Retail Customer Service",
+            "items": [
+                {
+                    "text": "Creating a welcoming first contact",
+                    "level": 0
+                },
+                {
+                    "text": "Approaching customers appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Listening and understanding needs",
+                    "level": 0
+                },
+                {
+                    "text": "Providing accurate assistance",
+                    "level": 0
+                },
+                {
+                    "text": "Respecting customer space",
+                    "level": 0
+                },
+                {
+                    "text": "Managing multiple customers",
+                    "level": 0
+                },
+                {
+                    "text": "Ending interactions positively",
+                    "level": 0
+                },
+                {
+                    "text": "Creating reasons for customers to return",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Customer Complaints",
+            "items": [
+                {
+                    "text": "Listening without defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the problem",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging the customer's experience",
+                    "level": 0
+                },
+                {
+                    "text": "Taking ownership within authority",
+                    "level": 0
+                },
+                {
+                    "text": "Offering appropriate solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating when necessary",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting recurring issues",
+                    "level": 0
+                },
+                {
+                    "text": "Using complaints as improvement information",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Service Recovery",
+            "items": [
+                {
+                    "text": "Responding quickly to service failure",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding customer expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Restoring confidence",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing customer needs and company policy",
+                    "level": 0
+                },
+                {
+                    "text": "Empowering employees appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Following up when necessary",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying root causes",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing repeated service failures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Leading the Retail Team",
+            "items": [
+                {
+                    "text": "Setting clear expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Leading visibly on the sales floor",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing direction and empowerment",
+                    "level": 0
+                },
+                {
+                    "text": "Creating accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining employee engagement",
+                    "level": 0
+                },
+                {
+                    "text": "Managing different experience levels",
+                    "level": 0
+                },
+                {
+                    "text": "Modeling expected customer-service behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a performance-focused team culture",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Effective Shift Briefings",
+            "items": [
+                {
+                    "text": "Reviewing daily targets",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating promotions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying staffing and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing product priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing service expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Highlighting operational risks",
+                    "level": 0
+                },
+                {
+                    "text": "Creating employee involvement",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping briefings concise and actionable",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Scheduling and Deploying Retail Staff",
+            "items": [
+                {
+                    "text": "Matching staffing with customer demand",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding peak and quiet periods",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing coverage across store areas",
+                    "level": 0
+                },
+                {
+                    "text": "Managing breaks",
+                    "level": 0
+                },
+                {
+                    "text": "Considering employee skills",
+                    "level": 0
+                },
+                {
+                    "text": "Planning for promotions and events",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to unexpected absence",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing labor productivity",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Coaching Retail Employees",
+            "items": [
+                {
+                    "text": "Observing performance on the floor",
+                    "level": 0
+                },
+                {
+                    "text": "Giving immediate useful feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing effective behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting performance gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Using questions to build employee thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Coaching sales and service behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing improvement actions",
+                    "level": 0
+                },
+                {
+                    "text": "Following up consistently",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Retail Employee Performance",
+            "items": [
+                {
+                    "text": "Setting individual expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Using sales and service measures",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing productivity",
+                    "level": 0
+                },
+                {
+                    "text": "Considering behaviors as well as results",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying performance gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding causes",
+                    "level": 0
+                },
+                {
+                    "text": "Providing support and accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing strong performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Motivating the Retail Team",
+            "items": [
+                {
+                    "text": "Understanding different motivators",
+                    "level": 0
+                },
+                {
+                    "text": "Using meaningful recognition",
+                    "level": 0
+                },
+                {
+                    "text": "Creating achievable challenges",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining energy during quiet periods",
+                    "level": 0
+                },
+                {
+                    "text": "Managing pressure during peak periods",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging team cooperation",
+                    "level": 0
+                },
+                {
+                    "text": "Celebrating progress",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding motivation based only on financial incentives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Retail KPIs",
+            "items": [
+                {
+                    "text": "Sales revenue",
+                    "level": 0
+                },
+                {
+                    "text": "Sales growth",
+                    "level": 0
+                },
+                {
+                    "text": "Conversion rate",
+                    "level": 0
+                },
+                {
+                    "text": "Average transaction value",
+                    "level": 0
+                },
+                {
+                    "text": "Units per transaction",
+                    "level": 0
+                },
+                {
+                    "text": "Sales per employee hour",
+                    "level": 0
+                },
+                {
+                    "text": "Inventory turnover",
+                    "level": 0
+                },
+                {
+                    "text": "Customer-service measures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Store Performance",
+            "items": [
+                {
+                    "text": "Comparing actual results with targets",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing trends",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing time periods",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding traffic and conversion together",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing transaction value",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing category performance",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying operational causes behind numbers",
+                    "level": 0
+                },
+                {
+                    "text": "Turning analysis into corrective action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Retail Dashboards",
+            "items": [
+                {
+                    "text": "Selecting relevant measures",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping dashboards focused",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing daily and weekly indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Highlighting significant variance",
+                    "level": 0
+                },
+                {
+                    "text": "Using visual trends",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing performance with the team",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning actions",
+                    "level": 0
+                },
+                {
+                    "text": "Following up on improvement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Promotions",
+            "items": [
+                {
+                    "text": "Understanding promotion objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing stock",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing displays and signage",
+                    "level": 0
+                },
+                {
+                    "text": "Briefing employees",
+                    "level": 0
+                },
+                {
+                    "text": "Managing promotional pricing",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring customer response",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding operational confusion",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing promotional performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Peak Trading Periods",
+            "items": [
+                {
+                    "text": "Forecasting customer volume",
+                    "level": 0
+                },
+                {
+                    "text": "Planning staffing",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring inventory availability",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing queues and checkout capacity",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining service under pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning clear floor responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to unexpected demand",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting post-peak review",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Retail Loss",
+            "items": [
+                {
+                    "text": "Inventory shrinkage",
+                    "level": 0
+                },
+                {
+                    "text": "Administrative errors",
+                    "level": 0
+                },
+                {
+                    "text": "Damage and waste",
+                    "level": 0
+                },
+                {
+                    "text": "Internal theft",
+                    "level": 0
+                },
+                {
+                    "text": "External theft",
+                    "level": 0
+                },
+                {
+                    "text": "Fraud",
+                    "level": 0
+                },
+                {
+                    "text": "Process weaknesses",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the commercial impact of loss",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying Loss-Prevention Practices",
+            "items": [
+                {
+                    "text": "Receiving controls",
+                    "level": 0
+                },
+                {
+                    "text": "Stockroom controls",
+                    "level": 0
+                },
+                {
+                    "text": "Cash-handling discipline",
+                    "level": 0
+                },
+                {
+                    "text": "Refund and return controls",
+                    "level": 0
+                },
+                {
+                    "text": "Access management",
+                    "level": 0
+                },
+                {
+                    "text": "Employee awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting suspicious activity appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing security with customer experience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Cash and Transaction Controls",
+            "items": [
+                {
+                    "text": "Till accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Cash-count procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Refund authorization",
+                    "level": 0
+                },
+                {
+                    "text": "Discount controls",
+                    "level": 0
+                },
+                {
+                    "text": "Void and cancellation controls",
+                    "level": 0
+                },
+                {
+                    "text": "End-of-shift reconciliation",
+                    "level": 0
+                },
+                {
+                    "text": "Investigating discrepancies",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accurate records",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Health, Safety, and Store Readiness",
+            "items": [
+                {
+                    "text": "Identifying common retail hazards",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining clear customer areas",
+                    "level": 0
+                },
+                {
+                    "text": "Safe stock handling",
+                    "level": 0
+                },
+                {
+                    "text": "Emergency awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting incidents",
+                    "level": 0
+                },
+                {
+                    "text": "Employee responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Routine safety checks",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating safety into daily operations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Omnichannel Retail Operations",
+            "items": [
+                {
+                    "text": "Understanding online and store integration",
+                    "level": 0
+                },
+                {
+                    "text": "Click-and-collect",
+                    "level": 0
+                },
+                {
+                    "text": "Store fulfillment",
+                    "level": 0
+                },
+                {
+                    "text": "Returns across channels",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining inventory visibility",
+                    "level": 0
+                },
+                {
+                    "text": "Providing consistent customer information",
+                    "level": 0
+                },
+                {
+                    "text": "Managing digital-to-store customer journeys",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting a unified customer experience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Retail Change",
+            "items": [
+                {
+                    "text": "Introducing new procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Implementing new systems",
+                    "level": 0
+                },
+                {
+                    "text": "Changing store layouts",
+                    "level": 0
+                },
+                {
+                    "text": "Launching new product ranges",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing employees",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating reasons for change",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring adoption",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting implementation gaps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Store Walks",
+            "items": [
+                {
+                    "text": "Observing the store through the customer's eyes",
+                    "level": 0
+                },
+                {
+                    "text": "Checking product availability",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing visual standards",
+                    "level": 0
+                },
+                {
+                    "text": "Observing employee behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Checking operational compliance",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying safety and maintenance issues",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning corrective actions",
+                    "level": 0
+                },
+                {
+                    "text": "Following up systematically",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Solving Retail Operational Problems",
+            "items": [
+                {
+                    "text": "Defining the problem clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying root causes",
+                    "level": 0
+                },
+                {
+                    "text": "Separating recurring from isolated issues",
+                    "level": 0
+                },
+                {
+                    "text": "Generating practical solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Considering customer and commercial impact",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing whether the solution worked",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Retail Management Workshop",
+            "items": [
+                {
+                    "text": "Analyzing a store-performance case",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing retail KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying customer-experience issues",
+                    "level": 0
+                },
+                {
+                    "text": "Diagnosing inventory and merchandising problems",
+                    "level": 0
+                },
+                {
+                    "text": "Planning staff deployment",
+                    "level": 0
+                },
+                {
+                    "text": "Coaching an employee",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to a customer-service issue",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing store-improvement actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Retail Management Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current store strengths and gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying customer-experience priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting sales-performance improvements",
+                    "level": 0
+                },
+                {
+                    "text": "Improving inventory and merchandising discipline",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening team-management practices",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying KPI priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Defining immediate operational actions",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Retail Management Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,453 @@
+{
+    "file": "Writing_Minutes_of_Meeting.docx",
+    "title": "Writing Minutes of Meeting",
+    "duration": "2 Days",
+    "overview": [
+        "Accurate and well-structured meeting minutes provide an essential record of discussions, decisions, responsibilities, and agreed actions. Effective minutes are not a word-for-word transcript; they are a concise, objective, and reliable business document that allows participants and stakeholders to understand what was considered, what was decided, and what must happen next.",
+        "This practical course develops the skills required to prepare for meetings, capture relevant information efficiently, distinguish essential content from unnecessary detail, and transform notes into clear and professional minutes. Participants will learn how to record decisions and action points accurately, use appropriate business language, maintain neutrality, organize information logically, and apply consistent formatting.",
+        "The program also addresses the complete minutes cycle—from preparation and note-taking to drafting, reviewing, approval, distribution, and follow-up. Through realistic meeting scenarios and writing exercises, participants will practice producing concise minutes that support accountability, continuity, and effective organizational communication."
+    ],
+    "audience": [
+        "Executive secretaries, personal assistants, administrative assistants, office administrators, coordinators, committee secretaries, project support staff, and employees responsible for attending meetings, taking notes, preparing minutes, recording decisions, or following up agreed actions."
+    ],
+    "methodology": [
+        "The course uses a highly practical methodology combining short presentations with sample-minute analysis, note-taking exercises, simulated meetings, listening activities, drafting practice, editing exercises, action-tracking activities, and individual and group feedback. Participants will work with realistic meeting situations and progressively convert raw notes into accurate, concise, and professionally structured minutes."
+    ],
+    "competencies": [
+        "Meeting preparation",
+        "Active listening",
+        "Effective note-taking",
+        "Information filtering and summarization",
+        "Accurate recording of decisions",
+        "Action-point documentation",
+        "Professional business writing",
+        "Objective and neutral writing",
+        "Document structuring and formatting",
+        "Proofreading and quality control",
+        "Confidentiality and records handling",
+        "Meeting follow-up"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the purpose, value, and principal characteristics of professional meeting minutes.",
+        "Prepare effectively for different types of meetings before the meeting begins.",
+        "Apply practical listening and note-taking techniques to capture essential information.",
+        "Distinguish decisions, actions, key discussion points, and supporting detail from unnecessary conversation.",
+        "Write concise, objective, and accurate minutes using appropriate business language.",
+        "Record motions, decisions, responsibilities, deadlines, and action points clearly.",
+        "Structure and format minutes so that information can be reviewed and followed easily.",
+        "Edit and proofread draft minutes for clarity, consistency, accuracy, and completeness.",
+        "Manage approval, distribution, confidentiality, and storage of meeting records appropriately.",
+        "Use minutes and action logs as practical tools for accountability and follow-up."
+    ],
+    "outline": [
+        {
+            "title": "Understanding the Purpose and Role of Meeting Minutes",
+            "items": [
+                {
+                    "text": "Why organizations keep formal records of meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Minutes as a record of decisions, commitments, and accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Minutes versus verbatim transcripts and informal meeting notes",
+                    "level": 0
+                },
+                {
+                    "text": "Different levels of detail for different types of meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of effective minutes: accurate, concise, objective, clear, and complete",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the minute taker's role and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining neutrality and avoiding personal interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing confidentiality and sensitivity requirements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Preparing Before the Meeting",
+            "items": [
+                {
+                    "text": "Understanding the purpose and expected outcomes of the meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing the agenda and supporting documents",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing previous minutes and outstanding actions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying participants, roles, and relevant terminology",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing a structured note-taking template",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating agenda items that require decisions or actions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the required format and approval process",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing tools and materials for efficient minute taking",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening and Taking Effective Notes",
+            "items": [
+                {
+                    "text": "Listening for meaning rather than attempting to capture every word",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key discussion points",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing decisions, agreements, and conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing action items, owners, and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Separating facts from opinions and side discussions",
+                    "level": 0
+                },
+                {
+                    "text": "Using abbreviations, symbols, keywords, and structured notes",
+                    "level": 0
+                },
+                {
+                    "text": "Handling fast-moving discussions and multiple speakers",
+                    "level": 0
+                },
+                {
+                    "text": "Seeking clarification appropriately when information is unclear",
+                    "level": 0
+                },
+                {
+                    "text": "Recording changes to agenda items and emerging issues",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining concentration throughout the meeting",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Selecting What to Include in the Minutes",
+            "items": [
+                {
+                    "text": "Determining what information is essential to the official record",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing discussion without reproducing conversation",
+                    "level": 0
+                },
+                {
+                    "text": "Recording decisions accurately and unambiguously",
+                    "level": 0
+                },
+                {
+                    "text": "Recording motions, approvals, recommendations, and resolutions where applicable",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting dissent or differing views when required",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing responsibilities and agreed deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding irrelevant detail and personal commentary",
+                    "level": 0
+                },
+                {
+                    "text": "Managing sensitive or confidential information appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining a consistent level of detail across agenda items",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Clear and Professional Minutes",
+            "items": [
+                {
+                    "text": "Using concise and direct business language",
+                    "level": 0
+                },
+                {
+                    "text": "Writing in a neutral and objective tone",
+                    "level": 0
+                },
+                {
+                    "text": "Converting spoken discussion into professional written language",
+                    "level": 0
+                },
+                {
+                    "text": "Using clear sentence structures and precise wording",
+                    "level": 0
+                },
+                {
+                    "text": "Applying consistent tense and terminology",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding vague expressions and ambiguous references",
+                    "level": 0
+                },
+                {
+                    "text": "Using names, titles, departments, and abbreviations consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Writing concise summaries without losing essential meaning",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring decisions and actions can stand alone and be understood later",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Structuring and Formatting the Minutes",
+            "items": [
+                {
+                    "text": "Essential elements of a professional minutes document",
+                    "level": 0
+                },
+                {
+                    "text": "Recording meeting title, date, time, venue, and attendance",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting apologies, absences, and invited participants where required",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing content according to the meeting agenda",
+                    "level": 0
+                },
+                {
+                    "text": "Structuring discussion summaries, decisions, and action points",
+                    "level": 0
+                },
+                {
+                    "text": "Using headings, numbering, tables, and action columns appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Recording the status of previous action items",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a clear action log",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistent organizational formatting and document control",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recording Decisions and Action Items",
+            "items": [
+                {
+                    "text": "Distinguishing discussion from an actual decision",
+                    "level": 0
+                },
+                {
+                    "text": "Writing decisions in clear and definitive language",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying exactly what action is required",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning clear ownership for each action",
+                    "level": 0
+                },
+                {
+                    "text": "Recording target dates and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unclear actions such as 'follow up' without sufficient detail",
+                    "level": 0
+                },
+                {
+                    "text": "Separating multiple actions arising from one agenda item",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking deferred decisions and matters requiring further information",
+                    "level": 0
+                },
+                {
+                    "text": "Using action registers to support accountability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reviewing, Finalizing and Distributing Minutes",
+            "items": [
+                {
+                    "text": "Reviewing notes immediately after the meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Checking factual accuracy and completeness",
+                    "level": 0
+                },
+                {
+                    "text": "Verifying names, dates, figures, decisions, and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for clarity, conciseness, grammar, and consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Removing duplication and unnecessary wording",
+                    "level": 0
+                },
+                {
+                    "text": "Following the appropriate review and approval process",
+                    "level": 0
+                },
+                {
+                    "text": "Managing corrections and amendments",
+                    "level": 0
+                },
+                {
+                    "text": "Distributing approved minutes to authorized recipients",
+                    "level": 0
+                },
+                {
+                    "text": "Applying confidentiality and document-handling requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Filing and retaining minutes according to organizational procedures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Following Up After the Meeting",
+            "items": [
+                {
+                    "text": "Using minutes as a management and follow-up tool",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining and updating the action log",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring responsibilities and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating reminders professionally",
+                    "level": 0
+                },
+                {
+                    "text": "Carrying outstanding actions forward to subsequent meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing status information for the next agenda",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining continuity between meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting accountability without assuming responsibility for others' actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Minute-Writing Workshop",
+            "items": [
+                {
+                    "text": "Reviewing a sample meeting agenda and supporting documents",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing a note-taking framework",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing information from a simulated meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key discussion points, decisions, and actions",
+                    "level": 0
+                },
+                {
+                    "text": "Converting raw notes into structured draft minutes",
+                    "level": 0
+                },
+                {
+                    "text": "Editing the draft for accuracy, clarity, and conciseness",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing an action log from the meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Peer review against professional minute-writing criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Finalizing a complete set of meeting minutes",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

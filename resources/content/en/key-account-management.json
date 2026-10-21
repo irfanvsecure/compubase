@@ -1,0 +1,637 @@
+{
+    "file": "Key_Account_Management.docx",
+    "title": "Key Account Management",
+    "duration": "3 Days",
+    "overview": [
+        "Key Account Management equips sales and customer-facing professionals to develop profitable, long-term relationships with strategically important customers. The program moves beyond transactional selling to structured account selection, stakeholder understanding, value creation, collaborative planning, and disciplined execution. Participants learn to assess account potential, navigate complex buying groups, protect retention, identify growth opportunities, and monitor account health using practical tools and measurable objectives."
+    ],
+    "audience": [
+        "Key account managers, account executives, and strategic sales representatives.",
+        "Sales managers, business development managers, and commercial team leaders.",
+        "Customer success, client relationship, and corporate account managers.",
+        "Professionals responsible for retaining, growing, or coordinating major customer accounts."
+    ],
+    "methodology": [
+        "Facilitated discussions, account portfolio analysis, stakeholder-mapping workshops, customer scenario studies, role-play negotiations and review meetings, value proposition exercises, account plan development, peer feedback, and a final account strategy simulation."
+    ],
+    "competencies": [
+        "Key account identification, prioritization, and portfolio management.",
+        "Account intelligence, stakeholder mapping, and relationship development.",
+        "Customer needs discovery, consultative selling, and value-based communication.",
+        "Account planning, opportunity development, and cross-functional coordination.",
+        "Commercial negotiation, customer retention, risk management, and performance review."
+    ],
+    "objectivesIntro": [],
+    "objectives": [
+        "Distinguish key account management from general sales and transactional account servicing.",
+        "Select and segment key accounts using strategic fit, value, potential, and risk.",
+        "Map decision makers, influencers, users, and relationship coverage within an account.",
+        "Diagnose customer objectives, challenges, buying processes, and growth opportunities.",
+        "Build differentiated value propositions and joint account development plans.",
+        "Conduct effective executive reviews and coordinate internal account teams.",
+        "Manage renewals, commercial discussions, escalations, and competitive threats.",
+        "Track account performance and prepare a practical 90-day improvement plan."
+    ],
+    "outline": [
+        {
+            "title": "Foundations of Key Account Management",
+            "items": [
+                {
+                    "text": "The purpose and strategic importance of key account management.",
+                    "level": 0
+                },
+                {
+                    "text": "Transactional selling versus relationship-led account development.",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of successful key account partnerships.",
+                    "level": 0
+                },
+                {
+                    "text": "Roles, responsibilities, and expectations of the key account manager.",
+                    "level": 0
+                },
+                {
+                    "text": "Common challenges in managing complex customer relationships.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying and Selecting Key Accounts",
+            "items": [
+                {
+                    "text": "Defining what qualifies an account as strategically important.",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing current revenue, profitability, potential, and strategic fit.",
+                    "level": 0
+                },
+                {
+                    "text": "Considering customer concentration, service costs, and account risk.",
+                    "level": 0
+                },
+                {
+                    "text": "Using objective scoring criteria to prioritize accounts.",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing high-potential accounts with existing major customers.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Account Segmentation and Portfolio Priorities",
+            "items": [
+                {
+                    "text": "Segmenting accounts by value, potential, and relationship maturity.",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating time and resources according to account importance.",
+                    "level": 0
+                },
+                {
+                    "text": "Differentiating service and engagement models across segments.",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing accounts requiring recovery, protection, or investment.",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing and refreshing account classifications over time.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Researching the Customer Organization",
+            "items": [
+                {
+                    "text": "Understanding the customer’s business model and value chain.",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing industry conditions, market forces, and competitive pressures.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the customer’s financial and operational priorities.",
+                    "level": 0
+                },
+                {
+                    "text": "Gathering information through ethical research and customer dialogue.",
+                    "level": 0
+                },
+                {
+                    "text": "Building an account profile and documenting assumptions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Mapping Stakeholders and Buying Influences",
+            "items": [
+                {
+                    "text": "Identifying economic buyers, technical evaluators, users, and gatekeepers.",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping influence, authority, interests, and relationships.",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing formal purchasing processes and informal decision dynamics.",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing current relationship strength and contact gaps.",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a stakeholder engagement and coverage plan.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Trust and Strategic Relationships",
+            "items": [
+                {
+                    "text": "Establishing credibility through reliability and industry understanding.",
+                    "level": 0
+                },
+                {
+                    "text": "Using active listening, empathy, and consultative conversations.",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining appropriate contact across organizational levels.",
+                    "level": 0
+                },
+                {
+                    "text": "Managing commitments, expectations, and communication cadence.",
+                    "level": 0
+                },
+                {
+                    "text": "Developing executive relationships without neglecting operational contacts.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Discovering Customer Needs and Priorities",
+            "items": [
+                {
+                    "text": "Preparing purposeful account discovery meetings.",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring business goals, constraints, and unmet needs.",
+                    "level": 0
+                },
+                {
+                    "text": "Separating stated requests from underlying commercial drivers.",
+                    "level": 0
+                },
+                {
+                    "text": "Using probing questions to understand success criteria.",
+                    "level": 0
+                },
+                {
+                    "text": "Validating priorities and documenting agreed customer outcomes.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Customer Value",
+            "items": [
+                {
+                    "text": "Identifying financial, operational, and strategic value drivers.",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting solutions to cost, revenue, risk, and efficiency outcomes.",
+                    "level": 0
+                },
+                {
+                    "text": "Differentiating tangible and intangible customer benefits.",
+                    "level": 0
+                },
+                {
+                    "text": "Building evidence-based business cases and value narratives.",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unsupported return-on-investment claims.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Key Account Strategy",
+            "items": [
+                {
+                    "text": "Defining an account vision and relationship objectives.",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting a structured account SWOT and competitive review.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying account opportunities, threats, and barriers.",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting defend, develop, recover, or expand strategies.",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning account strategy with company capabilities and priorities.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating a Practical Account Plan",
+            "items": [
+                {
+                    "text": "Documenting account background, priorities, and decision landscape.",
+                    "level": 0
+                },
+                {
+                    "text": "Setting measurable revenue, retention, and relationship goals.",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing initiatives with owners, deadlines, and milestones.",
+                    "level": 0
+                },
+                {
+                    "text": "Defining customer engagement activities and resource requirements.",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing a regular account plan review cycle.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Opportunity Identification and Qualification",
+            "items": [
+                {
+                    "text": "Finding expansion opportunities across departments and locations.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying cross-selling and upselling possibilities responsibly.",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing opportunity size, timing, fit, and buying readiness.",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing genuine customer demand from sales assumptions.",
+                    "level": 0
+                },
+                {
+                    "text": "Building an opportunity pipeline linked to the account plan.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Complex Sales Opportunities",
+            "items": [
+                {
+                    "text": "Understanding multi-stage and multi-stakeholder buying processes.",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning sales actions with customer evaluation milestones.",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating technical, operational, financial, and legal inputs.",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating competitive alternatives and decision delays.",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining opportunity discipline and clear next steps.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating and Presenting Account Value",
+            "items": [
+                {
+                    "text": "Tailoring messages to executives, procurement, and end users.",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting business outcomes instead of product features alone.",
+                    "level": 0
+                },
+                {
+                    "text": "Structuring account review presentations and proposals.",
+                    "level": 0
+                },
+                {
+                    "text": "Using customer evidence, case examples, and performance results.",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming agreement on value and implementation expectations.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Commercial Negotiation with Key Accounts",
+            "items": [
+                {
+                    "text": "Preparing objectives, trade-offs, and negotiation boundaries.",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding procurement pressures and total commercial value.",
+                    "level": 0
+                },
+                {
+                    "text": "Handling price challenges without automatically discounting.",
+                    "level": 0
+                },
+                {
+                    "text": "Negotiating service levels, terms, commitments, and concessions.",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting agreements and protecting long-term relationship value.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Customer Retention and Relationship Health",
+            "items": [
+                {
+                    "text": "Recognizing early indicators of dissatisfaction or disengagement.",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring service quality, adoption, and customer outcomes.",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to complaints and coordinating effective service recovery.",
+                    "level": 0
+                },
+                {
+                    "text": "Developing renewal plans before contract expiration.",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing dependency on a single relationship or contact.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Account Risks and Escalations",
+            "items": [
+                {
+                    "text": "Identifying commercial, operational, reputational, and credit risks.",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing customer concentration and competitor exposure.",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing escalation paths and ownership of critical issues.",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating transparently during service disruptions.",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing contingency and account recovery actions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Coordinating Cross-Functional Account Teams",
+            "items": [
+                {
+                    "text": "Clarifying contributions from sales, operations, finance, and support.",
+                    "level": 0
+                },
+                {
+                    "text": "Creating shared account objectives and accountability.",
+                    "level": 0
+                },
+                {
+                    "text": "Managing handovers and internal customer commitments.",
+                    "level": 0
+                },
+                {
+                    "text": "Resolving competing priorities between internal teams.",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting concise internal account coordination meetings.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Executive Engagement and Business Reviews",
+            "items": [
+                {
+                    "text": "Planning periodic customer business reviews.",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing results against agreed service and business outcomes.",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting achievements, challenges, and improvement proposals.",
+                    "level": 0
+                },
+                {
+                    "text": "Eliciting customer feedback and emerging priorities.",
+                    "level": 0
+                },
+                {
+                    "text": "Converting review discussions into tracked actions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Account Profitability",
+            "items": [
+                {
+                    "text": "Understanding account revenue, margin, and cost-to-serve.",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing unprofitable concessions and service arrangements.",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing growth ambitions with commercial sustainability.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying operational efficiencies and value improvement opportunities.",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing account economics with relevant internal stakeholders.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Account Performance Measures and Dashboards",
+            "items": [
+                {
+                    "text": "Selecting KPIs for revenue, retention, margin, and growth.",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking pipeline coverage, opportunity conversion, and renewal status.",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring relationship coverage and customer satisfaction signals.",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing leading indicators from lagging outcomes.",
+                    "level": 0
+                },
+                {
+                    "text": "Using performance reviews to adjust account priorities.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Account Growth Through Joint Planning",
+            "items": [
+                {
+                    "text": "Exploring shared objectives and opportunities for collaboration.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying innovation, efficiency, and service enhancement projects.",
+                    "level": 0
+                },
+                {
+                    "text": "Developing mutually beneficial growth initiatives.",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing on responsibilities, success measures, and review dates.",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining clear boundaries and realistic commitments.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Digital Tools and Account Intelligence",
+            "items": [
+                {
+                    "text": "Using CRM systems to maintain a reliable account history.",
+                    "level": 0
+                },
+                {
+                    "text": "Recording contacts, opportunities, activities, and commitments.",
+                    "level": 0
+                },
+                {
+                    "text": "Using account dashboards to prioritize follow-up actions.",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting collaboration with shared documents and workflows.",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining data quality, confidentiality, and responsible access.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Key Account Management Simulation",
+            "items": [
+                {
+                    "text": "Analyzing a fictional major customer and account portfolio.",
+                    "level": 0
+                },
+                {
+                    "text": "Building a stakeholder map and diagnosing customer priorities.",
+                    "level": 0
+                },
+                {
+                    "text": "Drafting a value proposition and structured account plan.",
+                    "level": 0
+                },
+                {
+                    "text": "Role-playing an account review and difficult commercial discussion.",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving feedback on strategy, communication, and execution.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Personal Action Planning and Implementation",
+            "items": [
+                {
+                    "text": "Identifying immediate improvements in current account practices.",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing three account development actions for the next 90 days.",
+                    "level": 0
+                },
+                {
+                    "text": "Defining owners, deadlines, and measurable success criteria.",
+                    "level": 0
+                },
+                {
+                    "text": "Planning manager check-ins and progress reviews.",
+                    "level": 0
+                },
+                {
+                    "text": "Transferring course tools into day-to-day account management.",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

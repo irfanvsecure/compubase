@@ -97,7 +97,10 @@ class Catalog
             'en' => $course->title_en,
             'ar' => $course->title_ar,
             'days' => $course->days,
-            'summary' => ['en' => $course->summary_en, 'ar' => $course->summary_ar],
+            'summary' => [
+                'en' => $course->summary_en ?: self::fileOverview($course->slug, false),
+                'ar' => $course->summary_ar ?: self::fileOverview($course->slug, true),
+            ],
             'photo' => $course->photo,
             'slug' => $course->slug,
             'cat' => $category->slug,
@@ -114,8 +117,30 @@ class Catalog
     public static function content(array $course, bool $ar = false): ?array
     {
         $content = Course::where('slug', $course['slug'])->value($ar ? 'content_ar' : 'content_en');
+        if (! is_array($content)) {
+            $content = self::fileDocument($course['slug'], $ar);
+        }
 
         return is_array($content) ? self::normalizeContent($content) : null;
+    }
+
+    /** Course document saved beside the app when the database column is still empty. */
+    private static function fileDocument(string $slug, bool $ar): ?array
+    {
+        $path = resource_path('content/'.($ar ? 'ar' : 'en').'/'.$slug.'.json');
+        if (! is_file($path)) {
+            return null;
+        }
+        $decoded = json_decode(file_get_contents($path), true);
+
+        return is_array($decoded) ? $decoded : null;
+    }
+
+    private static function fileOverview(string $slug, bool $ar): ?string
+    {
+        $overview = self::fileDocument($slug, $ar)['overview'][0] ?? null;
+
+        return is_string($overview) && $overview !== '' ? $overview : null;
     }
 
     /** A course document with every section the course page reads, missing ones empty. */

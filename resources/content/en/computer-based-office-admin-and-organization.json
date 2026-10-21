@@ -1,0 +1,654 @@
+{
+    "file": "Computer_Based_Office_Admin_and_Organization.docx",
+    "title": "Computer Based Office Admin and Organization",
+    "duration": "5 Days",
+    "overview": [
+        "Modern office administration depends on the ability to organize information, documents, communication, schedules, records, and routine workflows efficiently through digital tools. Administrative professionals are increasingly expected to combine strong organizational skills with confident use of computer-based systems to support managers, teams, customers, and daily business operations.",
+        "This practical course develops the essential digital and organizational competencies required for effective office administration. Participants will learn how to structure electronic files, manage documents and correspondence, organize email and calendars, prepare professional office documents, work with basic data and tracking tools, coordinate meetings, maintain records, and improve the flow of routine administrative work.",
+        "The program emphasizes practical application rather than software theory. Participants will work through realistic office tasks using common productivity applications and learn how to create consistent systems for naming, storing, retrieving, updating, sharing, and protecting information. The course also addresses prioritization, confidentiality, workflow control, and administrative quality standards.",
+        "By the end of the program, participants will be able to organize a more efficient computer-based office environment and apply practical systems that improve accuracy, accessibility, communication, follow-up, and productivity."
+    ],
+    "audience": [
+        "Administrative assistants, executive secretaries, office administrators, coordinators, reception and front-office staff, personal assistants, document controllers, junior administrative employees, and professionals whose roles involve computer-based office organization, correspondence, scheduling, records, documentation, and administrative support."
+    ],
+    "methodology": [
+        "The course uses a hands-on methodology combining short demonstrations with guided computer practice, individual exercises, office simulations, document-production tasks, file-management activities, email and calendar exercises, spreadsheet-based tracking activities, case studies, and workflow improvement exercises. Participants will work with realistic administrative scenarios and create practical templates, filing structures, trackers, and organizational systems that can be adapted to their workplace."
+    ],
+    "competencies": [
+        "Digital office administration",
+        "Electronic file and folder management",
+        "Document preparation and formatting",
+        "Business correspondence",
+        "Email and calendar management",
+        "Administrative data organization",
+        "Meeting coordination",
+        "Electronic records management",
+        "Task and workflow organization",
+        "Information retrieval",
+        "Administrative accuracy and quality control",
+        "Confidentiality and information handling"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Organize a structured and efficient computer-based office environment.",
+        "Create logical electronic filing systems that support fast storage and retrieval of information.",
+        "Apply consistent file-naming, version-control, and document-management practices.",
+        "Prepare and format professional office documents and routine business correspondence.",
+        "Manage email, contacts, calendars, appointments, and meeting schedules more effectively.",
+        "Use spreadsheets and simple digital trackers to organize administrative information and follow-up.",
+        "Coordinate meetings and maintain the related digital documentation.",
+        "Apply practical methods for organizing tasks, deadlines, reminders, and recurring administrative work.",
+        "Protect confidential information and apply appropriate access, sharing, backup, and retention practices.",
+        "Develop practical improvements for the organization and efficiency of their own administrative workflow."
+    ],
+    "outline": [
+        {
+            "title": "The Modern Computer-Based Office",
+            "items": [
+                {
+                    "text": "Understanding the role of digital systems in contemporary office administration",
+                    "level": 0
+                },
+                {
+                    "text": "Key responsibilities of the modern administrative professional",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating people, information, documents, schedules, and technology",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing common causes of administrative inefficiency",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the importance of accuracy, consistency, accessibility, and confidentiality",
+                    "level": 0
+                },
+                {
+                    "text": "Creating standardized administrative routines",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying opportunities to reduce duplication and unnecessary manual work",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing current office organization practices",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Organizing the Digital Workspace",
+            "items": [
+                {
+                    "text": "Designing a logical electronic folder structure",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing files by function, department, project, client, or activity",
+                    "level": 0
+                },
+                {
+                    "text": "Creating clear and consistent file-naming conventions",
+                    "level": 0
+                },
+                {
+                    "text": "Using dates, references, and version indicators effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Managing active, reference, and archived files",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding duplicate and uncontrolled document copies",
+                    "level": 0
+                },
+                {
+                    "text": "Creating shortcuts and quick-access locations for frequently used information",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining a clean and manageable digital workspace",
+                    "level": 0
+                },
+                {
+                    "text": "Applying periodic file review and housekeeping routines",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Documents and Versions",
+            "items": [
+                {
+                    "text": "Understanding the document life cycle",
+                    "level": 0
+                },
+                {
+                    "text": "Creating, receiving, reviewing, updating, approving, and storing documents",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing drafts from approved and final versions",
+                    "level": 0
+                },
+                {
+                    "text": "Applying practical version-control methods",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking document changes and revisions",
+                    "level": 0
+                },
+                {
+                    "text": "Using consistent document properties and reference information",
+                    "level": 0
+                },
+                {
+                    "text": "Managing shared documents and avoiding conflicting copies",
+                    "level": 0
+                },
+                {
+                    "text": "Converting and distributing documents in appropriate formats",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining document integrity and traceability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Preparing Professional Office Documents",
+            "items": [
+                {
+                    "text": "Applying consistent page layout and document structure",
+                    "level": 0
+                },
+                {
+                    "text": "Using headings, paragraphs, lists, tables, and page elements effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Creating reusable document templates",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing letters, memos, notices, and internal documents",
+                    "level": 0
+                },
+                {
+                    "text": "Formatting reports and administrative documents professionally",
+                    "level": 0
+                },
+                {
+                    "text": "Using headers, footers, page numbering, and document references",
+                    "level": 0
+                },
+                {
+                    "text": "Working efficiently with tables and structured information",
+                    "level": 0
+                },
+                {
+                    "text": "Applying spelling, grammar, and proofreading tools",
+                    "level": 0
+                },
+                {
+                    "text": "Checking documents for consistency before distribution",
+                    "level": 0
+                },
+                {
+                    "text": "Producing clear and professional final documents",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Business Correspondence",
+            "items": [
+                {
+                    "text": "Understanding the purpose and structure of routine business correspondence",
+                    "level": 0
+                },
+                {
+                    "text": "Writing clear and concise administrative messages",
+                    "level": 0
+                },
+                {
+                    "text": "Using appropriate greetings, openings, closings, and professional tone",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing standard responses and reusable templates",
+                    "level": 0
+                },
+                {
+                    "text": "Managing incoming and outgoing correspondence",
+                    "level": 0
+                },
+                {
+                    "text": "Recording important correspondence for future reference",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing messages according to urgency and importance",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistency in names, dates, references, and attachments",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing correspondence before sending",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Email Organization",
+            "items": [
+                {
+                    "text": "Structuring an efficient email inbox",
+                    "level": 0
+                },
+                {
+                    "text": "Using folders, categories, flags, and search tools",
+                    "level": 0
+                },
+                {
+                    "text": "Creating rules for recurring messages where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Writing clear subject lines and concise email content",
+                    "level": 0
+                },
+                {
+                    "text": "Managing attachments and shared links",
+                    "level": 0
+                },
+                {
+                    "text": "Using CC and BCC appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Managing high email volumes without losing important messages",
+                    "level": 0
+                },
+                {
+                    "text": "Converting emails into tasks or follow-up actions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining professional email etiquette",
+                    "level": 0
+                },
+                {
+                    "text": "Managing confidential and sensitive email communication",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Calendar, Appointment and Schedule Management",
+            "items": [
+                {
+                    "text": "Organizing individual and shared calendars",
+                    "level": 0
+                },
+                {
+                    "text": "Creating appointments, meetings, and recurring events",
+                    "level": 0
+                },
+                {
+                    "text": "Checking availability and avoiding scheduling conflicts",
+                    "level": 0
+                },
+                {
+                    "text": "Managing invitations, confirmations, cancellations, and rescheduling",
+                    "level": 0
+                },
+                {
+                    "text": "Using reminders and notifications effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Scheduling sufficient preparation and travel time",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating appointments for managers and teams",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accurate meeting details and supporting information",
+                    "level": 0
+                },
+                {
+                    "text": "Managing changes while keeping stakeholders informed",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Computer-Based Meeting Administration",
+            "items": [
+                {
+                    "text": "Preparing meeting invitations and agenda documentation",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing meeting folders and supporting files",
+                    "level": 0
+                },
+                {
+                    "text": "Distributing pre-meeting materials electronically",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining attendance and participant information",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing note-taking and minutes templates",
+                    "level": 0
+                },
+                {
+                    "text": "Recording decisions and action items",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining electronic action trackers",
+                    "level": 0
+                },
+                {
+                    "text": "Distributing approved minutes and follow-up documents",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing meeting records for future retrieval",
+                    "level": 0
+                },
+                {
+                    "text": "Carrying outstanding actions into subsequent meetings",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Spreadsheets for Administrative Control",
+            "items": [
+                {
+                    "text": "Understanding practical spreadsheet uses in office administration",
+                    "level": 0
+                },
+                {
+                    "text": "Structuring lists and administrative data clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Entering, editing, and formatting data consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Sorting and filtering information",
+                    "level": 0
+                },
+                {
+                    "text": "Using basic formulas for totals, counts, and simple calculations",
+                    "level": 0
+                },
+                {
+                    "text": "Creating trackers for correspondence, documents, actions, leave, supplies, or requests",
+                    "level": 0
+                },
+                {
+                    "text": "Using dates and status fields for follow-up",
+                    "level": 0
+                },
+                {
+                    "text": "Highlighting overdue or incomplete items",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accurate and current administrative records",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing simple summaries for management review",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Tasks, Priorities and Follow-Up",
+            "items": [
+                {
+                    "text": "Capturing tasks from emails, meetings, calls, and requests",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing urgent, important, routine, and low-priority work",
+                    "level": 0
+                },
+                {
+                    "text": "Creating daily and weekly task lists",
+                    "level": 0
+                },
+                {
+                    "text": "Using digital reminders and task-management features",
+                    "level": 0
+                },
+                {
+                    "text": "Breaking complex administrative assignments into manageable steps",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking deadlines and outstanding responses",
+                    "level": 0
+                },
+                {
+                    "text": "Following up without losing ownership or accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Managing interruptions and competing requests",
+                    "level": 0
+                },
+                {
+                    "text": "Creating recurring task routines",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining visibility over unfinished work",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Electronic Records and Information Retrieval",
+            "items": [
+                {
+                    "text": "Understanding the difference between working files and official records",
+                    "level": 0
+                },
+                {
+                    "text": "Classifying electronic records consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Applying retention and archiving principles",
+                    "level": 0
+                },
+                {
+                    "text": "Creating indexes and reference systems",
+                    "level": 0
+                },
+                {
+                    "text": "Using search functions and metadata effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Retrieving information quickly and accurately",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining continuity when responsibilities are transferred",
+                    "level": 0
+                },
+                {
+                    "text": "Controlling access to sensitive records",
+                    "level": 0
+                },
+                {
+                    "text": "Disposing of obsolete information according to organizational requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting auditability and traceability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Confidentiality, Security and Responsible Information Handling",
+            "items": [
+                {
+                    "text": "Identifying confidential, sensitive, and restricted information",
+                    "level": 0
+                },
+                {
+                    "text": "Applying appropriate access permissions",
+                    "level": 0
+                },
+                {
+                    "text": "Using strong password and account practices",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing risks associated with inappropriate sharing",
+                    "level": 0
+                },
+                {
+                    "text": "Managing removable media and external storage responsibly",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding backup and recovery requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing suspicious messages, links, and attachments",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting information when working in shared or public environments",
+                    "level": 0
+                },
+                {
+                    "text": "Applying clean-desk and clear-screen principles",
+                    "level": 0
+                },
+                {
+                    "text": "Following organizational information-security policies",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Improving Administrative Workflow and Office Efficiency",
+            "items": [
+                {
+                    "text": "Mapping recurring administrative processes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying bottlenecks, duplication, and unnecessary steps",
+                    "level": 0
+                },
+                {
+                    "text": "Standardizing routine procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Using templates and checklists to improve consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Creating simple digital trackers for visibility and control",
+                    "level": 0
+                },
+                {
+                    "text": "Improving handovers between employees and departments",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing dependency on individual memory",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing quality-control checkpoints",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring recurring administrative deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Building a more reliable and efficient office support system",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Office Administration Workshop",
+            "items": [
+                {
+                    "text": "Creating a structured electronic filing system",
+                    "level": 0
+                },
+                {
+                    "text": "Applying a file-naming and version-control standard",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing a professional office document from a template",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing a simulated email inbox",
+                    "level": 0
+                },
+                {
+                    "text": "Scheduling and coordinating a meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing meeting documents and an action tracker",
+                    "level": 0
+                },
+                {
+                    "text": "Building a simple administrative spreadsheet",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing tasks, deadlines, and follow-up actions",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing confidentiality and information-handling requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Developing an improvement plan for the participant's own office workflow",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

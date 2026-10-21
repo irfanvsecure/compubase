@@ -1,0 +1,601 @@
+{
+    "file": "Meeting_Management.docx",
+    "title": "Meeting Management",
+    "duration": "3 Days",
+    "overview": [
+        "Meetings are essential for coordination, decision making, problem solving, planning, and communication, yet poorly managed meetings can consume significant time without producing clear outcomes. Effective meeting management requires more than arranging a time and inviting participants; it requires clear objectives, appropriate preparation, structured facilitation, disciplined participation, accurate documentation, and consistent follow-up.",
+        "This course provides participants with the practical skills required to plan, organize, conduct, and follow up productive meetings. Participants will learn how to determine whether a meeting is necessary, define its purpose and expected outcomes, select the right participants, prepare focused agendas, manage time and discussion, encourage useful participation, handle difficult behaviors, and guide the group toward decisions and actions.",
+        "The program also covers meeting roles, facilitation techniques, decision-making methods, virtual and hybrid meeting practices, minutes and action tracking, and post-meeting evaluation. Through simulations and practical exercises, participants will develop a structured approach that makes meetings more focused, participative, accountable, and results-oriented."
+    ],
+    "audience": [
+        "Managers, supervisors, team leaders, project managers, coordinators, executive secretaries, administrative professionals, committee members, meeting facilitators, and employees who organize, chair, participate in, document, or follow up business meetings."
+    ],
+    "methodology": [
+        "The course uses an interactive and practice-oriented methodology combining short presentations, meeting-planning exercises, agenda-development activities, case studies, facilitation simulations, role plays, decision-making exercises, participant-management scenarios, meeting-minute analysis, action-tracking exercises, and structured feedback. Participants will plan and conduct simulated meetings and evaluate their effectiveness against practical meeting-management criteria."
+    ],
+    "competencies": [
+        "Meeting planning and preparation",
+        "Agenda design",
+        "Meeting facilitation",
+        "Time management",
+        "Participation management",
+        "Business communication",
+        "Group decision making",
+        "Conflict and difficult-behavior management",
+        "Virtual meeting management",
+        "Minutes and action tracking",
+        "Follow-up and accountability",
+        "Meeting evaluation and improvement"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Determine when a meeting is necessary and define clear meeting objectives and expected outcomes.",
+        "Select appropriate participants, roles, formats, and logistical arrangements.",
+        "Prepare focused agendas and supporting materials that enable effective discussion.",
+        "Open, facilitate, and close meetings in a structured and professional manner.",
+        "Manage meeting time while maintaining focus on priorities and outcomes.",
+        "Encourage balanced participation and manage dominant, silent, disruptive, or off-topic behavior.",
+        "Use practical methods to support problem solving, discussion, and group decision making.",
+        "Handle disagreement and conflict constructively during meetings.",
+        "Apply effective practices to virtual and hybrid meetings.",
+        "Document decisions and action items clearly and follow them through to completion.",
+        "Evaluate meeting effectiveness and identify opportunities for continuous improvement."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Effective Meetings",
+            "items": [
+                {
+                    "text": "The purpose and value of meetings in organizations",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when a meeting is necessary and when another communication method is more appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Different types of meetings and their typical objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of productive and unproductive meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Common reasons meetings fail",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the cost of poorly managed meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Defining measurable meeting outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing shared responsibility for meeting effectiveness",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Planning the Meeting",
+            "items": [
+                {
+                    "text": "Clarifying the purpose, scope, and required outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the decisions, information, or actions required",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting the appropriate meeting type and format",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing participants according to their role and contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Determining meeting duration and timing",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting the venue or digital platform",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying required resources, technology, and supporting materials",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating risks, constraints, and potential discussion challenges",
+                    "level": 0
+                },
+                {
+                    "text": "Using a meeting-planning checklist",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Preparing an Effective Agenda",
+            "items": [
+                {
+                    "text": "Translating meeting objectives into agenda items",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing agenda topics",
+                    "level": 0
+                },
+                {
+                    "text": "Sequencing items logically",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating realistic time to each item",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the purpose of each agenda item: information, discussion, decision, or action",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning presenters or discussion leaders",
+                    "level": 0
+                },
+                {
+                    "text": "Including preparation requirements for participants",
+                    "level": 0
+                },
+                {
+                    "text": "Distributing the agenda and supporting documents in advance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overloaded and unfocused agendas",
+                    "level": 0
+                },
+                {
+                    "text": "Using a structured agenda as a meeting-control tool",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Meeting Roles and Responsibilities",
+            "items": [
+                {
+                    "text": "Responsibilities of the meeting chairperson",
+                    "level": 0
+                },
+                {
+                    "text": "The facilitator's role in managing process and participation",
+                    "level": 0
+                },
+                {
+                    "text": "Responsibilities of presenters and subject-matter contributors",
+                    "level": 0
+                },
+                {
+                    "text": "The minute taker's role",
+                    "level": 0
+                },
+                {
+                    "text": "Participant responsibilities before, during, and after the meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying decision-making authority",
+                    "level": 0
+                },
+                {
+                    "text": "Using a timekeeper or action tracker where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing meeting ground rules",
+                    "level": 0
+                },
+                {
+                    "text": "Creating accountability for preparation and participation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Opening and Structuring the Meeting",
+            "items": [
+                {
+                    "text": "Starting on time and creating a professional opening",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming the purpose and expected outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing and agreeing the agenda",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying roles and decision-making methods",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing ground rules and participation expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing previous actions where relevant",
+                    "level": 0
+                },
+                {
+                    "text": "Introducing agenda items clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Creating transitions between topics",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining a visible connection between discussion and objectives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Facilitating Discussion and Participation",
+            "items": [
+                {
+                    "text": "Using open, probing, clarifying, and summarizing questions",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging contributions from all relevant participants",
+                    "level": 0
+                },
+                {
+                    "text": "Listening actively and demonstrating understanding",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing participation without forcing unnecessary contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Managing dominant participants",
+                    "level": 0
+                },
+                {
+                    "text": "Engaging quiet or reluctant participants",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing side conversations and distractions",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping discussion focused on the agenda",
+                    "level": 0
+                },
+                {
+                    "text": "Parking unrelated issues for later consideration",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing discussion before moving forward",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Time and Maintaining Focus",
+            "items": [
+                {
+                    "text": "Using the agenda as a time-management framework",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring progress against allocated time",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when discussion is becoming repetitive or unproductive",
+                    "level": 0
+                },
+                {
+                    "text": "Intervening respectfully to restore focus",
+                    "level": 0
+                },
+                {
+                    "text": "Managing late arrivals and interruptions",
+                    "level": 0
+                },
+                {
+                    "text": "Deciding when to extend, defer, or close a discussion",
+                    "level": 0
+                },
+                {
+                    "text": "Handling unexpected issues without losing control of the meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting time for high-priority agenda items",
+                    "level": 0
+                },
+                {
+                    "text": "Closing agenda items with clear conclusions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Decision Making and Problem Solving in Meetings",
+            "items": [
+                {
+                    "text": "Clarifying what decision must be made",
+                    "level": 0
+                },
+                {
+                    "text": "Separating information gathering from decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Generating and evaluating alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Using agreed criteria to compare options",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing consensus from unanimous agreement",
+                    "level": 0
+                },
+                {
+                    "text": "Using voting appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Managing decisions that require escalation or further information",
+                    "level": 0
+                },
+                {
+                    "text": "Testing understanding before confirming a decision",
+                    "level": 0
+                },
+                {
+                    "text": "Recording the rationale where necessary",
+                    "level": 0
+                },
+                {
+                    "text": "Converting decisions into specific actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Difficult Behaviors and Conflict",
+            "items": [
+                {
+                    "text": "Recognizing behaviors that reduce meeting effectiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Managing excessive talking and repeated points",
+                    "level": 0
+                },
+                {
+                    "text": "Handling negativity and persistent objection",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to personal criticism and emotionally charged comments",
+                    "level": 0
+                },
+                {
+                    "text": "Managing disagreement without suppressing legitimate debate",
+                    "level": 0
+                },
+                {
+                    "text": "Separating people from issues",
+                    "level": 0
+                },
+                {
+                    "text": "Using neutral language to de-escalate tension",
+                    "level": 0
+                },
+                {
+                    "text": "Intervening when discussion becomes disrespectful",
+                    "level": 0
+                },
+                {
+                    "text": "Managing conflicting interests",
+                    "level": 0
+                },
+                {
+                    "text": "Returning the group to facts, objectives, and solutions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Virtual and Hybrid Meetings",
+            "items": [
+                {
+                    "text": "Selecting suitable digital meeting practices",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing participants and technology before the meeting",
+                    "level": 0
+                },
+                {
+                    "text": "Setting expectations for cameras, microphones, chat, and participation",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining engagement in virtual environments",
+                    "level": 0
+                },
+                {
+                    "text": "Managing screen sharing and digital materials",
+                    "level": 0
+                },
+                {
+                    "text": "Using polls, chat, and collaborative tools appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring remote participants are included in hybrid meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Managing technical interruptions",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing multitasking and digital distraction",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting confidentiality in online meetings",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Closing the Meeting Effectively",
+            "items": [
+                {
+                    "text": "Recognizing when sufficient discussion has taken place",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing key conclusions and decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming action items and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing deadlines and required follow-up",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying unresolved issues and next steps",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming any future meeting requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Inviting final essential comments without reopening completed discussions",
+                    "level": 0
+                },
+                {
+                    "text": "Closing on time and reinforcing accountability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Minutes, Action Tracking and Follow-Up",
+            "items": [
+                {
+                    "text": "Understanding the purpose of meeting minutes",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing minutes from verbatim transcripts",
+                    "level": 0
+                },
+                {
+                    "text": "Recording key discussion points, decisions, and actions",
+                    "level": 0
+                },
+                {
+                    "text": "Writing clear and concise action statements",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning action owners and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing and approving minutes",
+                    "level": 0
+                },
+                {
+                    "text": "Distributing minutes to appropriate stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining an action log",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring outstanding actions between meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Carrying unresolved actions forward appropriately",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating and Improving Meeting Effectiveness",
+            "items": [
+                {
+                    "text": "Assessing whether meeting objectives were achieved",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing participation, focus, timing, and decision quality",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying recurring meeting problems",
+                    "level": 0
+                },
+                {
+                    "text": "Collecting participant feedback appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing the quality of agendas and preparation",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating follow-up and completion of actions",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing unnecessary recurring meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Improving meeting formats and processes",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing practical meeting standards for teams",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a personal Meeting Management Improvement Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

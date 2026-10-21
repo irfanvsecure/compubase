@@ -1,0 +1,643 @@
+{
+    "file": "Principles_of_Media_and_Press_Interviews.docx",
+    "title": "Principles of Media & Press Interviews",
+    "duration": "5 Days",
+    "overview": [
+        "This practical program develops the knowledge, preparation techniques and communication skills required to participate effectively in media and press interviews. Participants learn how newsrooms work, how to communicate accurate and relevant messages, and how to respond with composure to challenging questions across print, broadcast and digital channels. The program combines ethical media engagement, interview planning, message discipline, on-camera practice and constructive feedback to strengthen organizational credibility and public trust."
+    ],
+    "audience": [
+        "Public relations, communications and corporate affairs professionals.",
+        "Government and institutional representatives who engage with journalists.",
+        "Executives, managers and subject-matter experts invited to give interviews.",
+        "Press officers, media relations teams and spokesperson support personnel.",
+        "Professionals responsible for public information and reputation management."
+    ],
+    "methodology": [
+        "Facilitator-led discussion, analysis of real-world interview scenarios, newsroom and media-format comparisons, key-message workshops, simulated print and broadcast interviews, recorded on-camera practice, challenging-question drills, peer review, and individual feedback with a practical improvement plan."
+    ],
+    "competencies": [
+        "Media literacy and understanding of journalistic practices.",
+        "Interview planning, preparation and audience analysis.",
+        "Clear, accurate and audience-centered message delivery.",
+        "Active listening, question interpretation and concise responses.",
+        "Composure, nonverbal communication and vocal presence.",
+        "Ethical communication, fact-checking and confidentiality awareness.",
+        "Managing difficult questions and correcting misinformation.",
+        "Evaluating interviews and improving future media engagement."
+    ],
+    "objectivesIntro": [],
+    "objectives": [
+        "Explain the roles, priorities and working practices of journalists and news outlets.",
+        "Differentiate interview expectations across print, radio, television and digital media.",
+        "Assess the purpose, audience, format and risks of a proposed interview.",
+        "Prepare evidence-based key messages and supporting examples.",
+        "Respond to questions clearly while staying relevant and factually accurate.",
+        "Apply bridging and signposting techniques without evading legitimate questions.",
+        "Handle sensitive, unexpected and challenging questions professionally.",
+        "Demonstrate appropriate body language, voice and camera presence.",
+        "Recognize ethical boundaries, confidentiality obligations and approval requirements.",
+        "Evaluate recorded interviews and formulate a personal development plan."
+    ],
+    "outline": [
+        {
+            "title": "Understanding the Media Landscape",
+            "items": [
+                {
+                    "text": "The role of news media in public information and accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Traditional, digital and social media ecosystems",
+                    "level": 0
+                },
+                {
+                    "text": "Differences between reporting, commentary and opinion",
+                    "level": 0
+                },
+                {
+                    "text": "How media narratives influence organizational reputation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing changing audience expectations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "How Journalists and Newsrooms Operate",
+            "items": [
+                {
+                    "text": "News values, editorial priorities and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting workflows and the editorial decision process",
+                    "level": 0
+                },
+                {
+                    "text": "Roles of reporters, producers, editors and presenters",
+                    "level": 0
+                },
+                {
+                    "text": "Why journalists pursue follow-up and verification questions",
+                    "level": 0
+                },
+                {
+                    "text": "Professional cooperation without compromising independence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "The Purpose and Value of Press Interviews",
+            "items": [
+                {
+                    "text": "Common reasons organizations participate in interviews",
+                    "level": 0
+                },
+                {
+                    "text": "Public information, transparency and stakeholder confidence",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing interviews from advertising and promotion",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning interview participation with communication objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying when an interview is or is not appropriate",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Media Formats and Interview Types",
+            "items": [
+                {
+                    "text": "Print and online interviews with quotable responses",
+                    "level": 0
+                },
+                {
+                    "text": "Live and recorded radio interviews",
+                    "level": 0
+                },
+                {
+                    "text": "Studio, remote and field television interviews",
+                    "level": 0
+                },
+                {
+                    "text": "Podcasts, webinars and digital interview formats",
+                    "level": 0
+                },
+                {
+                    "text": "One-to-one interviews, panels and press scrums",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Assessing an Interview Request",
+            "items": [
+                {
+                    "text": "Verifying the outlet, journalist and proposed topic",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying timing, format, duration and intended audience",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding publication, recording and editing conditions",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing subject-matter expertise and authorization",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating high-risk or sensitive requests appropriately",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Audience and Stakeholder Analysis",
+            "items": [
+                {
+                    "text": "Identifying primary and secondary audiences",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding audience concerns and information needs",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting language to public and specialist audiences",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating stakeholder interpretation of statements",
+                    "level": 0
+                },
+                {
+                    "text": "Respecting cultural and contextual sensitivities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Clear Interview Objective",
+            "items": [
+                {
+                    "text": "Defining the information the audience should retain",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing relevance over promotional talking points",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting a realistic number of key messages",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting the objective to verifiable organizational facts",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing a clear and defensible central takeaway",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Key Messages and Supporting Evidence",
+            "items": [
+                {
+                    "text": "Writing concise and understandable message statements",
+                    "level": 0
+                },
+                {
+                    "text": "Using facts, figures and examples responsibly",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing verified facts from estimates and opinions",
+                    "level": 0
+                },
+                {
+                    "text": "Translating technical content into plain language",
+                    "level": 0
+                },
+                {
+                    "text": "Checking claims and sources before the interview",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Structuring Effective Interview Answers",
+            "items": [
+                {
+                    "text": "Answering the question before adding context",
+                    "level": 0
+                },
+                {
+                    "text": "Using a point–evidence–implication response structure",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping answers concise without losing necessary nuance",
+                    "level": 0
+                },
+                {
+                    "text": "Signposting complex information for clarity",
+                    "level": 0
+                },
+                {
+                    "text": "Ending responses with a relevant takeaway",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Preparing for Expected Questions",
+            "items": [
+                {
+                    "text": "Developing a likely-question briefing document",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping questions to messages and evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing accurate responses to common misconceptions",
+                    "level": 0
+                },
+                {
+                    "text": "Rehearsing examples and supporting details",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying information requiring further verification",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening and Interpreting Questions",
+            "items": [
+                {
+                    "text": "Listening to the complete question without interrupting",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing assumptions and multiple-part questions",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for clarification when a question is ambiguous",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing a legitimate challenge from a false premise",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to the underlying information need",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Bridging and Message Discipline",
+            "items": [
+                {
+                    "text": "Using transitions to connect answers to relevant context",
+                    "level": 0
+                },
+                {
+                    "text": "Returning to key messages without sounding scripted",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding repeated slogans and non-answers",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging valid concerns before adding perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining authenticity under follow-up questioning",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Difficult and Leading Questions",
+            "items": [
+                {
+                    "text": "Handling loaded, hypothetical and provocative questions",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting inaccurate premises politely and precisely",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing repeated questions without escalating tension",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding speculation, blame and unsupported assurances",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when to refer a matter to an authorized source",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating During Sensitive Situations",
+            "items": [
+                {
+                    "text": "Separating confirmed information from developing facts",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating empathy without premature conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating uncertainty and next-update commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Respecting privacy, legal obligations and investigations",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating with authorized crisis communication teams",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Ethics, Accuracy and Confidentiality",
+            "items": [
+                {
+                    "text": "Truthfulness and avoidance of misleading omissions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding on-record and background conventions",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting confidential and personal information",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding discriminatory or inflammatory language",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting factual errors through appropriate channels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Language, Tone and Professional Credibility",
+            "items": [
+                {
+                    "text": "Choosing clear and accessible vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding jargon, exaggeration and unsupported claims",
+                    "level": 0
+                },
+                {
+                    "text": "Using respectful, neutral and confident language",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing authority with openness and empathy",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting tone to the seriousness of the topic",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Voice and Verbal Delivery",
+            "items": [
+                {
+                    "text": "Managing pace, volume and articulation",
+                    "level": 0
+                },
+                {
+                    "text": "Using pauses to improve clarity and emphasis",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding fillers and rushed explanations",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating confidence without sounding defensive",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing natural delivery of complex information",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Body Language and Camera Presence",
+            "items": [
+                {
+                    "text": "Posture, facial expression and eye contact",
+                    "level": 0
+                },
+                {
+                    "text": "Gestures that reinforce rather than distract",
+                    "level": 0
+                },
+                {
+                    "text": "Appropriate positioning for studio and remote interviews",
+                    "level": 0
+                },
+                {
+                    "text": "Managing visible signs of stress",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning nonverbal behavior with verbal content",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Television and Video Interview Practice",
+            "items": [
+                {
+                    "text": "Preparing for live versus recorded television",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to short on-air time constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Looking toward the interviewer or camera as directed",
+                    "level": 0
+                },
+                {
+                    "text": "Managing earpieces, delays and remote connections",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing recorded answers for clarity and presence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Radio, Print and Online Interview Practice",
+            "items": [
+                {
+                    "text": "Creating clear verbal imagery for audio-only audiences",
+                    "level": 0
+                },
+                {
+                    "text": "Using precise language for quotable print statements",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the importance of context in quotations",
+                    "level": 0
+                },
+                {
+                    "text": "Checking meaning without demanding editorial control",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting answer length to different publishing formats",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Press Conferences and Group Media Questions",
+            "items": [
+                {
+                    "text": "Understanding the structure of press briefings",
+                    "level": 0
+                },
+                {
+                    "text": "Delivering concise opening remarks",
+                    "level": 0
+                },
+                {
+                    "text": "Managing questions from multiple journalists",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistent factual messages across answers",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating moderator, spokesperson and support roles",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Errors, Misquotes and Follow-Up",
+            "items": [
+                {
+                    "text": "Identifying material inaccuracies in published coverage",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing a factual correction from disagreement",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting corrections professionally with evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Providing promised information after an interview",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting lessons for future media engagement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Interview Preparation and Rehearsal Workshop",
+            "items": [
+                {
+                    "text": "Creating an interview briefing and message sheet",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting a realistic question-and-answer rehearsal",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing difficult questions and interruptions",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing evidence, permissions and sensitive topics",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving structured coaching on clarity and composure",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Simulated Interviews and Personal Action Plan",
+            "items": [
+                {
+                    "text": "Completing a recorded interview simulation",
+                    "level": 0
+                },
+                {
+                    "text": "Applying feedback on messages, answers and delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing accuracy, relevance and audience understanding",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying personal strengths and improvement priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Creating an actionable media interview development plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,617 @@
+{
+    "file": "Public_Relations_and_Social_Media_Campaigns.docx",
+    "title": "Public Relations & Social Media Campaigns",
+    "duration": "3 Days",
+    "overview": [
+        "This practical program develops the skills needed to plan, deliver, and evaluate integrated public relations and social media campaigns. Participants learn to translate organizational objectives into audience-focused messages, coordinate earned, owned, shared, and paid channels, engage journalists and online communities, manage reputational risks, and measure campaign effectiveness. The course emphasizes responsible communication, consistent brand positioning, and hands-on campaign development."
+    ],
+    "audience": [
+        "Public relations officers, specialists, and managers.",
+        "Corporate communications, media relations, and public affairs professionals.",
+        "Social media managers, digital content creators, and community managers.",
+        "Marketing, brand, and campaign coordinators.",
+        "Government and corporate communication teams responsible for public engagement.",
+        "Team leaders overseeing reputation, stakeholder, or digital communication initiatives."
+    ],
+    "methodology": [
+        "Interactive instructor-led sessions combine short briefings, real-world campaign cases, audience mapping workshops, media pitching exercises, message-writing practice, content-calendar development, social listening simulations, group critiques, and campaign performance analysis. Participants work in teams to develop and present an integrated PR and social media campaign plan."
+    ],
+    "competencies": [
+        "Integrated campaign strategy and objective setting.",
+        "Audience research, segmentation, and stakeholder mapping.",
+        "Brand messaging, storytelling, and editorial planning.",
+        "Media relations and press-material preparation.",
+        "Platform-specific social media content and community engagement.",
+        "Campaign coordination, governance, and crisis response.",
+        "Social listening, measurement, reporting, and optimization."
+    ],
+    "objectivesIntro": [],
+    "objectives": [
+        "Define measurable PR and social media campaign objectives aligned with organizational priorities.",
+        "Identify priority audiences and select appropriate channels and communication tactics.",
+        "Develop coherent key messages and compelling content for different stakeholders.",
+        "Prepare media materials and conduct professional journalist outreach.",
+        "Build realistic content calendars, responsibilities, and approval workflows.",
+        "Coordinate organic, earned, influencer, and paid campaign activities responsibly.",
+        "Respond to audience feedback, misinformation, and emerging reputational risks.",
+        "Track meaningful campaign metrics and recommend improvements based on results.",
+        "Present a complete integrated campaign plan with budget, timeline, and evaluation approach."
+    ],
+    "outline": [
+        {
+            "title": "The Strategic Role of Public Relations",
+            "items": [
+                {
+                    "text": "PR as a relationship- and reputation-building discipline",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing PR, marketing, advertising, and corporate communications",
+                    "level": 0
+                },
+                {
+                    "text": "Organizational trust, legitimacy, and public expectations",
+                    "level": 0
+                },
+                {
+                    "text": "The role of digital platforms in modern public relations",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting campaign activity to institutional objectives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding the Integrated Media Environment",
+            "items": [
+                {
+                    "text": "Earned, owned, shared, and paid media channels",
+                    "level": 0
+                },
+                {
+                    "text": "How newsrooms, creators, and online communities interact",
+                    "level": 0
+                },
+                {
+                    "text": "Audience journeys across traditional and digital touchpoints",
+                    "level": 0
+                },
+                {
+                    "text": "Channel strengths, limitations, and coordination opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Building consistent experiences across communication channels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Setting Campaign Goals and Success Criteria",
+            "items": [
+                {
+                    "text": "Defining the communication challenge or opportunity",
+                    "level": 0
+                },
+                {
+                    "text": "Translating business priorities into communication outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "SMART objectives and measurable campaign targets",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing outputs, outtakes, and outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing assumptions, constraints, and baselines",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Researching Audiences and Stakeholders",
+            "items": [
+                {
+                    "text": "Internal and external stakeholder identification",
+                    "level": 0
+                },
+                {
+                    "text": "Audience demographics, motivations, concerns, and behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Stakeholder influence and interest mapping",
+                    "level": 0
+                },
+                {
+                    "text": "Developing practical audience personas",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting research methods and validating assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reputation and Situation Analysis",
+            "items": [
+                {
+                    "text": "Assessing existing awareness, sentiment, and reputation",
+                    "level": 0
+                },
+                {
+                    "text": "Media coverage and social conversation audits",
+                    "level": 0
+                },
+                {
+                    "text": "Competitor and peer communication benchmarking",
+                    "level": 0
+                },
+                {
+                    "text": "SWOT analysis for campaign context",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying opportunities, sensitivities, and risks",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Campaign Positioning and Message Architecture",
+            "items": [
+                {
+                    "text": "Developing a clear campaign proposition",
+                    "level": 0
+                },
+                {
+                    "text": "Core messages, proof points, and calls to action",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting messages without losing brand consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Tone of voice and audience-appropriate language",
+                    "level": 0
+                },
+                {
+                    "text": "Message testing for clarity, credibility, and relevance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "PR Storytelling and Narrative Development",
+            "items": [
+                {
+                    "text": "Finding newsworthy and human-centered story angles",
+                    "level": 0
+                },
+                {
+                    "text": "Turning organizational information into meaningful narratives",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence, examples, and spokesperson quotes",
+                    "level": 0
+                },
+                {
+                    "text": "Story structure for articles, posts, and campaign features",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding exaggeration and unsupported claims",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Media Relations and Journalist Engagement",
+            "items": [
+                {
+                    "text": "Mapping relevant publications and media contacts",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding newsroom needs and editorial deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Developing credible, targeted media pitches",
+                    "level": 0
+                },
+                {
+                    "text": "Managing follow-ups and long-term journalist relationships",
+                    "level": 0
+                },
+                {
+                    "text": "Media etiquette, accuracy, and disclosure standards",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Press Releases and Media Kits",
+            "items": [
+                {
+                    "text": "Press release structure and newsworthiness",
+                    "level": 0
+                },
+                {
+                    "text": "Writing strong headlines, leads, and supporting facts",
+                    "level": 0
+                },
+                {
+                    "text": "Fact sheets, backgrounders, biographies, and visual assets",
+                    "level": 0
+                },
+                {
+                    "text": "Quote approvals and fact-checking workflows",
+                    "level": 0
+                },
+                {
+                    "text": "Media kit distribution and version control",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Press Events and Media Opportunities",
+            "items": [
+                {
+                    "text": "Planning launches, briefings, and press conferences",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing spokespeople and preparing talking points",
+                    "level": 0
+                },
+                {
+                    "text": "Event agendas, logistics, and media invitations",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating interviews and post-event follow-up",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing whether events advance campaign objectives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Social Media Platform Strategy",
+            "items": [
+                {
+                    "text": "Matching platforms to audiences and objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Differences between LinkedIn, Instagram, Facebook, X, and video platforms",
+                    "level": 0
+                },
+                {
+                    "text": "Platform-native formats and audience expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Organic distribution and discoverability principles",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing channels according to capacity and impact",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Content Strategy and Editorial Planning",
+            "items": [
+                {
+                    "text": "Defining content pillars and recurring themes",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing informative, engaging, and action-oriented content",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting static posts, carousels, reels, stories, and articles",
+                    "level": 0
+                },
+                {
+                    "text": "Building editorial calendars and publishing schedules",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accessibility, consistency, and content quality",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Effective Social Media Content",
+            "items": [
+                {
+                    "text": "Audience-focused hooks and concise copywriting",
+                    "level": 0
+                },
+                {
+                    "text": "Captions, headlines, calls to action, and hashtags",
+                    "level": 0
+                },
+                {
+                    "text": "Visual storytelling and creative briefing",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting content across formats and languages",
+                    "level": 0
+                },
+                {
+                    "text": "Editorial review, proofreading, and approval",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Community Management and Public Engagement",
+            "items": [
+                {
+                    "text": "Monitoring comments, messages, and mentions",
+                    "level": 0
+                },
+                {
+                    "text": "Response standards, escalation routes, and service expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Constructive dialogue with supporters and critics",
+                    "level": 0
+                },
+                {
+                    "text": "Moderation principles and handling abusive interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting insights from audience questions and feedback",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Influencer and Partner Collaboration",
+            "items": [
+                {
+                    "text": "Identifying credible creators and institutional partners",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing audience fit, reach, and authenticity",
+                    "level": 0
+                },
+                {
+                    "text": "Developing clear collaboration briefs and deliverables",
+                    "level": 0
+                },
+                {
+                    "text": "Disclosure, sponsorship transparency, and brand safety",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring partner contributions beyond follower counts",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Paid Amplification and Campaign Coordination",
+            "items": [
+                {
+                    "text": "When paid social promotion supports PR goals",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning creative, audiences, budgets, and landing experiences",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating earned coverage with owned and paid content",
+                    "level": 0
+                },
+                {
+                    "text": "Testing message variations and audience segments",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring spend, frequency, and campaign pacing",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Campaign Operations and Governance",
+            "items": [
+                {
+                    "text": "Roles, responsibilities, and stakeholder approvals",
+                    "level": 0
+                },
+                {
+                    "text": "Building a practical campaign timeline and workback plan",
+                    "level": 0
+                },
+                {
+                    "text": "Budgeting production, media, and contingency costs",
+                    "level": 0
+                },
+                {
+                    "text": "Asset libraries, scheduling tools, and version management",
+                    "level": 0
+                },
+                {
+                    "text": "Compliance, privacy, copyright, and organizational policies",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Social Listening and Media Monitoring",
+            "items": [
+                {
+                    "text": "Tracking keywords, hashtags, mentions, and coverage",
+                    "level": 0
+                },
+                {
+                    "text": "Separating volume from sentiment and relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing emerging questions and misinformation",
+                    "level": 0
+                },
+                {
+                    "text": "Using qualitative feedback alongside quantitative metrics",
+                    "level": 0
+                },
+                {
+                    "text": "Turning monitoring findings into campaign decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Crisis Communication in Digital Channels",
+            "items": [
+                {
+                    "text": "Recognizing reputational issues and escalation triggers",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing holding statements and response protocols",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating spokesperson, PR, legal, and social teams",
+                    "level": 0
+                },
+                {
+                    "text": "Responding promptly without speculating or amplifying rumors",
+                    "level": 0
+                },
+                {
+                    "text": "Post-incident review and reputation rebuilding",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Campaign Measurement and Evaluation",
+            "items": [
+                {
+                    "text": "Selecting KPIs for awareness, engagement, trust, and action",
+                    "level": 0
+                },
+                {
+                    "text": "Reach, impressions, engagement, referral traffic, and conversions",
+                    "level": 0
+                },
+                {
+                    "text": "Media quality, message pull-through, and share of voice",
+                    "level": 0
+                },
+                {
+                    "text": "Dashboard design and reporting cadence",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting results against objectives and baselines",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Optimization and Lessons Learned",
+            "items": [
+                {
+                    "text": "Diagnosing underperforming messages and channels",
+                    "level": 0
+                },
+                {
+                    "text": "Using A/B tests and audience feedback responsibly",
+                    "level": 0
+                },
+                {
+                    "text": "Reallocating effort and budget based on evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting insights, risks, and future opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing concise recommendations for decision-makers",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Campaign Planning Workshop",
+            "items": [
+                {
+                    "text": "Drafting a campaign brief and situation summary",
+                    "level": 0
+                },
+                {
+                    "text": "Defining audiences, objectives, messages, and channels",
+                    "level": 0
+                },
+                {
+                    "text": "Developing an editorial calendar and media outreach plan",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating resources, milestones, and accountabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Building a measurement framework and risk register",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Campaign Presentation and Action Planning",
+            "items": [
+                {
+                    "text": "Presenting an integrated PR and social media proposal",
+                    "level": 0
+                },
+                {
+                    "text": "Defending channel and message choices with evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Peer review of creative ideas and implementation feasibility",
+                    "level": 0
+                },
+                {
+                    "text": "Revising plans based on structured feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Creating individual next-step commitments for workplace application",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

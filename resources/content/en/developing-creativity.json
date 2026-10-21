@@ -1,0 +1,882 @@
+{
+    "file": "Developing_Creativity.docx",
+    "title": "Developing Creativity",
+    "duration": "3 Days",
+    "overview": [
+        "Creativity is a practical capability that enables individuals and teams to look beyond habitual solutions, challenge assumptions, connect ideas in new ways, and develop useful alternatives to familiar problems. In professional environments, creativity supports problem solving, service improvement, innovation, communication, planning, and the ability to respond constructively to changing requirements.",
+        "This course develops creativity as a structured and trainable skill. Participants will explore how creative thinking works, identify personal and organizational barriers, strengthen curiosity and observation, practice divergent and convergent thinking, reframe problems, generate ideas using a range of techniques, combine and develop concepts, and evaluate ideas without eliminating promising possibilities too early.",
+        "The program is highly practical and emphasizes application. Participants will work through individual and group creativity challenges, use structured tools such as brainstorming, brainwriting, SCAMPER, mind mapping, forced connections, analogies, reversal, and assumption challenging, and develop a personal approach for applying creative thinking to real workplace situations."
+    ],
+    "audience": [
+        "Managers, supervisors, team leaders, professionals, project personnel, administrators, service-development staff, innovation teams, problem solvers, and employees at all levels who need to generate ideas, improve existing approaches, solve problems creatively, or contribute more effectively to organizational innovation."
+    ],
+    "methodology": [
+        "The course uses an experiential methodology combining short presentations, creativity diagnostics, individual and group challenges, observation exercises, problem-reframing activities, brainstorming and brainwriting, SCAMPER, mind mapping, analogy exercises, forced connections, assumption challenges, idea-development workshops, evaluation activities, and workplace application exercises. Participants will repeatedly move from problem definition through idea generation, development, selection, and practical application."
+    ],
+    "competencies": [
+        "Creative thinking",
+        "Divergent thinking",
+        "Convergent thinking",
+        "Problem reframing",
+        "Curiosity and observation",
+        "Idea generation",
+        "Assumption challenging",
+        "Idea development",
+        "Creative problem solving",
+        "Collaborative creativity",
+        "Idea evaluation",
+        "Creative confidence"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain creativity as a practical and developable professional capability.",
+        "Identify personal, cognitive, and organizational barriers that restrict creative thinking.",
+        "Use observation, curiosity, and questioning to discover new possibilities.",
+        "Reframe problems and challenges to open different solution paths.",
+        "Apply divergent-thinking techniques to generate a wider range of ideas.",
+        "Use structured creativity tools such as brainstorming, brainwriting, SCAMPER, mind mapping, analogies, and forced connections.",
+        "Challenge assumptions and habitual ways of thinking.",
+        "Combine, extend, and improve initial ideas into stronger concepts.",
+        "Apply appropriate criteria to evaluate ideas without suppressing creativity prematurely.",
+        "Contribute effectively to group creativity sessions.",
+        "Develop a practical personal plan for using creativity in everyday work."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Creativity",
+            "items": [
+                {
+                    "text": "Defining creativity in a professional context",
+                    "level": 0
+                },
+                {
+                    "text": "Creativity versus innovation",
+                    "level": 0
+                },
+                {
+                    "text": "Creativity versus artistic ability",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding creativity as a trainable capability",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing different forms of workplace creativity",
+                    "level": 0
+                },
+                {
+                    "text": "The relationship between creativity and problem solving",
+                    "level": 0
+                },
+                {
+                    "text": "How knowledge and experience can both support and restrict creativity",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the value of useful originality",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding How Creative Thinking Works",
+            "items": [
+                {
+                    "text": "Divergent and convergent thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Generating possibilities before selecting solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Associative thinking and making new connections",
+                    "level": 0
+                },
+                {
+                    "text": "The role of curiosity in creative thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Incubation and allowing ideas time to develop",
+                    "level": 0
+                },
+                {
+                    "text": "Pattern recognition and pattern breaking",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing imagination with practical judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing that creative thinking is not always linear",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Barriers to Creativity",
+            "items": [
+                {
+                    "text": "Fear of criticism and failure",
+                    "level": 0
+                },
+                {
+                    "text": "Premature judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Overreliance on familiar solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Assuming there is only one correct answer",
+                    "level": 0
+                },
+                {
+                    "text": "Excessive dependence on rules and precedent",
+                    "level": 0
+                },
+                {
+                    "text": "Time pressure and mental overload",
+                    "level": 0
+                },
+                {
+                    "text": "Group conformity and hierarchy",
+                    "level": 0
+                },
+                {
+                    "text": "Negative language that closes discussion",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing personal habits that limit idea generation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Creative Confidence",
+            "items": [
+                {
+                    "text": "Moving beyond the belief that only certain people are creative",
+                    "level": 0
+                },
+                {
+                    "text": "Becoming comfortable with incomplete ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Separating idea generation from self-criticism",
+                    "level": 0
+                },
+                {
+                    "text": "Taking reasonable creative risks",
+                    "level": 0
+                },
+                {
+                    "text": "Learning from unsuccessful ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Building confidence through repeated practice",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing ideas before they are fully developed",
+                    "level": 0
+                },
+                {
+                    "text": "Responding constructively to feedback",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Strengthening Curiosity and Observation",
+            "items": [
+                {
+                    "text": "Noticing what others overlook",
+                    "level": 0
+                },
+                {
+                    "text": "Asking why existing practices are performed in a particular way",
+                    "level": 0
+                },
+                {
+                    "text": "Looking for unmet needs and frustrations",
+                    "level": 0
+                },
+                {
+                    "text": "Observing patterns and exceptions",
+                    "level": 0
+                },
+                {
+                    "text": "Using questions to explore rather than confirm assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Looking at familiar situations with fresh attention",
+                    "level": 0
+                },
+                {
+                    "text": "Collecting inspiration from different environments",
+                    "level": 0
+                },
+                {
+                    "text": "Turning observations into creative opportunities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Asking Better Creative Questions",
+            "items": [
+                {
+                    "text": "Understanding how questions shape thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from closed to exploratory questions",
+                    "level": 0
+                },
+                {
+                    "text": "Using 'What if?' questions",
+                    "level": 0
+                },
+                {
+                    "text": "Using 'Why?' and 'Why not?' appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Using 'How might we?' questions",
+                    "level": 0
+                },
+                {
+                    "text": "Questioning constraints and assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Changing the level of the question",
+                    "level": 0
+                },
+                {
+                    "text": "Using questions to reveal alternative perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a useful creative challenge statement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reframing Problems and Challenges",
+            "items": [
+                {
+                    "text": "Distinguishing the problem from the first proposed solution",
+                    "level": 0
+                },
+                {
+                    "text": "Looking beyond symptoms",
+                    "level": 0
+                },
+                {
+                    "text": "Changing the perspective from which a problem is viewed",
+                    "level": 0
+                },
+                {
+                    "text": "Rewriting a challenge in multiple ways",
+                    "level": 0
+                },
+                {
+                    "text": "Broadening and narrowing the problem frame",
+                    "level": 0
+                },
+                {
+                    "text": "Reframing from the user or stakeholder perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Turning negative problem statements into opportunity questions",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting a frame that encourages useful exploration",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Challenging Assumptions",
+            "items": [
+                {
+                    "text": "Identifying explicit and hidden assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Separating facts from accepted habits",
+                    "level": 0
+                },
+                {
+                    "text": "Asking what would happen if an assumption were removed",
+                    "level": 0
+                },
+                {
+                    "text": "Reversing assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether a constraint is real or perceived",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying rules that can and cannot be changed",
+                    "level": 0
+                },
+                {
+                    "text": "Using assumption challenges to create new possibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding change merely for the sake of being different",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Brainstorming Effectively",
+            "items": [
+                {
+                    "text": "Understanding the purpose of brainstorming",
+                    "level": 0
+                },
+                {
+                    "text": "Deferring judgment during idea generation",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging quantity before selection",
+                    "level": 0
+                },
+                {
+                    "text": "Building on other people's ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Using prompts to avoid stalled sessions",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing dominant participants from controlling ideation",
+                    "level": 0
+                },
+                {
+                    "text": "Recording ideas visibly",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when brainstorming is and is not the best technique",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from brainstorming to idea development",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Brainwriting for Idea Generation",
+            "items": [
+                {
+                    "text": "Understanding brainwriting as an alternative to verbal brainstorming",
+                    "level": 0
+                },
+                {
+                    "text": "Generating ideas individually before group discussion",
+                    "level": 0
+                },
+                {
+                    "text": "Increasing participation from quieter contributors",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing the effect of hierarchy",
+                    "level": 0
+                },
+                {
+                    "text": "Building on written ideas from others",
+                    "level": 0
+                },
+                {
+                    "text": "Using timed rounds",
+                    "level": 0
+                },
+                {
+                    "text": "Clustering similar ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Combining brainwriting with group discussion",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying SCAMPER",
+            "items": [
+                {
+                    "text": "Substitute: replacing elements, resources, steps, or assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Combine: bringing functions, ideas, or activities together",
+                    "level": 0
+                },
+                {
+                    "text": "Adapt: borrowing and adjusting ideas from elsewhere",
+                    "level": 0
+                },
+                {
+                    "text": "Modify: changing size, form, emphasis, or characteristics",
+                    "level": 0
+                },
+                {
+                    "text": "Put to another use: finding new applications",
+                    "level": 0
+                },
+                {
+                    "text": "Eliminate: removing unnecessary elements",
+                    "level": 0
+                },
+                {
+                    "text": "Reverse or rearrange: changing sequence, roles, or direction",
+                    "level": 0
+                },
+                {
+                    "text": "Using SCAMPER systematically on existing products, services, and processes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Mind Mapping for Creativity",
+            "items": [
+                {
+                    "text": "Starting from a central challenge or idea",
+                    "level": 0
+                },
+                {
+                    "text": "Creating branches around related themes",
+                    "level": 0
+                },
+                {
+                    "text": "Using keywords rather than lengthy sentences",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing unexpected connections to emerge",
+                    "level": 0
+                },
+                {
+                    "text": "Expanding branches without premature evaluation",
+                    "level": 0
+                },
+                {
+                    "text": "Combining related branches",
+                    "level": 0
+                },
+                {
+                    "text": "Using visual organization to stimulate association",
+                    "level": 0
+                },
+                {
+                    "text": "Turning a mind map into potential solutions or actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Analogies and Inspiration",
+            "items": [
+                {
+                    "text": "Looking outside the immediate field for inspiration",
+                    "level": 0
+                },
+                {
+                    "text": "Asking how another industry solves a similar problem",
+                    "level": 0
+                },
+                {
+                    "text": "Using nature, everyday systems, and familiar experiences as analogies",
+                    "level": 0
+                },
+                {
+                    "text": "Separating the principle from the original example",
+                    "level": 0
+                },
+                {
+                    "text": "Transferring useful characteristics to a new context",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding literal copying",
+                    "level": 0
+                },
+                {
+                    "text": "Combining inspiration from several sources",
+                    "level": 0
+                },
+                {
+                    "text": "Using analogies to escape habitual thinking",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Forced Connections",
+            "items": [
+                {
+                    "text": "Connecting unrelated concepts deliberately",
+                    "level": 0
+                },
+                {
+                    "text": "Using random words or objects as creative prompts",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring characteristics of the random stimulus",
+                    "level": 0
+                },
+                {
+                    "text": "Transferring characteristics to the challenge",
+                    "level": 0
+                },
+                {
+                    "text": "Generating unusual combinations",
+                    "level": 0
+                },
+                {
+                    "text": "Suspending judgment long enough to explore weak initial links",
+                    "level": 0
+                },
+                {
+                    "text": "Developing surprising connections into practical possibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Using forced connections when familiar techniques produce predictable ideas",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Reversal and Opposite Thinking",
+            "items": [
+                {
+                    "text": "Reversing the desired outcome",
+                    "level": 0
+                },
+                {
+                    "text": "Asking how to make a problem worse",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying behaviors and conditions revealed by reversal",
+                    "level": 0
+                },
+                {
+                    "text": "Turning negative findings into improvement ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Reversing roles or responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Changing the normal sequence",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring the opposite of accepted practice",
+                    "level": 0
+                },
+                {
+                    "text": "Using reversal to expose hidden assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Combining and Building Ideas",
+            "items": [
+                {
+                    "text": "Moving beyond isolated initial ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying complementary concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Combining partial solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Adding useful features or capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Simplifying overly complex ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening ideas by addressing weaknesses",
+                    "level": 0
+                },
+                {
+                    "text": "Using 'Yes, and...' to extend possibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Creating stronger concepts from several moderate ideas",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Ideas into Concepts",
+            "items": [
+                {
+                    "text": "Clarifying the problem or opportunity addressed",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the intended user or beneficiary",
+                    "level": 0
+                },
+                {
+                    "text": "Describing how the idea would work",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the expected value or benefit",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying important assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Considering resources and capabilities required",
+                    "level": 0
+                },
+                {
+                    "text": "Visualizing the idea through sketches or simple models",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a concise concept statement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Creative Ideas",
+            "items": [
+                {
+                    "text": "Knowing when to shift from divergence to convergence",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding evaluation too early",
+                    "level": 0
+                },
+                {
+                    "text": "Defining relevant evaluation criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing usefulness and potential value",
+                    "level": 0
+                },
+                {
+                    "text": "Considering feasibility and effort",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying risks and constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Using impact-versus-effort thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing ideas fairly",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting ideas for development, testing, or combination",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Collaborative Creativity",
+            "items": [
+                {
+                    "text": "Creating an environment in which people contribute",
+                    "level": 0
+                },
+                {
+                    "text": "Separating status from the value of an idea",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging different perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Listening without immediately defending existing practices",
+                    "level": 0
+                },
+                {
+                    "text": "Building on rather than competing with ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Managing disagreement constructively",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing groupthink",
+                    "level": 0
+                },
+                {
+                    "text": "Using diversity of experience as a creative resource",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining focus while allowing exploration",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating Conditions for Creativity at Work",
+            "items": [
+                {
+                    "text": "Providing clear challenges without prescribing every solution",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing appropriate autonomy",
+                    "level": 0
+                },
+                {
+                    "text": "Creating time for exploration",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging questions and constructive challenge",
+                    "level": 0
+                },
+                {
+                    "text": "Responding appropriately to unsuccessful attempts",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing useful ideas and contributions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unnecessary bureaucracy around early ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Creating channels for ideas to move toward evaluation and action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying Creativity to Workplace Problems",
+            "items": [
+                {
+                    "text": "Selecting a real workplace challenge",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying and reframing the problem",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Generating ideas with multiple techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Combining and strengthening alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting promising ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a practical concept",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the first step for testing or implementation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Personal Creativity Practice",
+            "items": [
+                {
+                    "text": "Identifying personal creative strengths",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing individual barriers and habits",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting creativity techniques suited to different situations",
+                    "level": 0
+                },
+                {
+                    "text": "Creating regular opportunities for idea generation",
+                    "level": 0
+                },
+                {
+                    "text": "Building an inspiration and observation habit",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing curiosity in everyday work",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing and learning from creative attempts",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a Personal Creativity Improvement Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,644 @@
+{
+    "file": "Public_Speaking.docx",
+    "title": "Public Speaking",
+    "duration": "5 Days",
+    "overview": [
+        "This intensive program develops the confidence, structure, delivery skills and audience awareness required to communicate persuasively in professional and public settings. Participants learn to plan purposeful speeches, organize evidence and stories, use voice and body language effectively, manage presentation anxiety, adapt to different audiences, and respond confidently to questions. The program combines practical techniques with repeated speaking exercises, video-supported feedback and a final assessed presentation."
+    ],
+    "audience": [
+        "Managers, supervisors, executives and emerging leaders who address teams or stakeholders.",
+        "Professionals delivering briefings, presentations, proposals, training sessions or public remarks.",
+        "Sales, customer-facing, communications and public relations personnel.",
+        "Subject-matter experts, project managers and technical professionals presenting complex information.",
+        "Anyone seeking greater confidence, clarity and influence when speaking before an audience."
+    ],
+    "methodology": [
+        "Interactive mini-lectures, instructor demonstrations, individual and group speaking exercises, audience analysis workshops, message-mapping activities, storytelling drills, voice and body-language practice, slide critique, impromptu speaking, simulated Q&A sessions, peer feedback, video-supported self-review, and a capstone presentation with an individual improvement plan."
+    ],
+    "competencies": [
+        "Audience analysis and message adaptation.",
+        "Speech planning, structuring and persuasive argumentation.",
+        "Vocal control, articulation, pacing and nonverbal communication.",
+        "Confidence, composure and anxiety management.",
+        "Storytelling, audience engagement and clear explanation of complex ideas.",
+        "Visual aid design and professional presentation delivery.",
+        "Handling questions, interruptions and challenging audience situations.",
+        "Self-evaluation and continuous public-speaking improvement."
+    ],
+    "objectivesIntro": [
+        "By the end of the program, participants will be able to:"
+    ],
+    "objectives": [
+        "Define a clear speaking purpose and analyze audience needs and expectations.",
+        "Develop a focused central message and structure an effective opening, body and conclusion.",
+        "Use evidence, examples and stories to make speeches memorable and credible.",
+        "Control voice, pace, pauses, posture, gestures and eye contact to strengthen delivery.",
+        "Apply practical methods to reduce speaking anxiety and maintain composure.",
+        "Design and use visual aids that support rather than distract from the message.",
+        "Deliver persuasive, informative and impromptu speeches suited to the situation.",
+        "Manage audience questions, objections and unexpected interruptions professionally.",
+        "Assess their own speaking performance and implement a measurable development plan."
+    ],
+    "outline": [
+        {
+            "title": "Foundations of Effective Public Speaking",
+            "items": [
+                {
+                    "text": "Public speaking as a professional leadership skill",
+                    "level": 0
+                },
+                {
+                    "text": "Informative, persuasive, ceremonial and briefing formats",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of credible and memorable speakers",
+                    "level": 0
+                },
+                {
+                    "text": "The relationship between purpose, audience, message and delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Common communication barriers and how to address them",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding the Audience",
+            "items": [
+                {
+                    "text": "Identifying audience interests, knowledge and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing stakeholder roles and decision-making needs",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting terminology, tone and level of detail",
+                    "level": 0
+                },
+                {
+                    "text": "Accounting for cultural and professional differences",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing relevant benefits and examples",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Defining Purpose and Core Message",
+            "items": [
+                {
+                    "text": "Clarifying the desired audience response",
+                    "level": 0
+                },
+                {
+                    "text": "Separating the main message from supporting details",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a concise audience-centered key takeaway",
+                    "level": 0
+                },
+                {
+                    "text": "Setting realistic outcomes for different speaking occasions",
+                    "level": 0
+                },
+                {
+                    "text": "Testing message relevance and clarity",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Planning and Researching a Speech",
+            "items": [
+                {
+                    "text": "Selecting reliable facts, evidence and examples",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing research and verifying important claims",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing essential from optional information",
+                    "level": 0
+                },
+                {
+                    "text": "Planning within the available speaking time",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing an outline and speaker notes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Structuring the Speech",
+            "items": [
+                {
+                    "text": "Designing a logical beginning, middle and ending",
+                    "level": 0
+                },
+                {
+                    "text": "Using chronological, problem–solution and thematic structures",
+                    "level": 0
+                },
+                {
+                    "text": "Grouping supporting ideas into clear sections",
+                    "level": 0
+                },
+                {
+                    "text": "Creating transitions and signposting for listeners",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing explanation, examples and calls to action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating Strong Openings and Conclusions",
+            "items": [
+                {
+                    "text": "Opening with a question, story, fact or relevant scenario",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing credibility without lengthy introductions",
+                    "level": 0
+                },
+                {
+                    "text": "Stating the topic and audience benefit early",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing without repeating the entire speech",
+                    "level": 0
+                },
+                {
+                    "text": "Ending with a memorable message or clear action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Persuasive Arguments",
+            "items": [
+                {
+                    "text": "Combining reasoning, evidence and audience relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Framing benefits and addressing competing priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Using comparisons and concrete illustrations",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating doubts and counterarguments",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding exaggerated claims and misleading persuasion",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Storytelling for Impact",
+            "items": [
+                {
+                    "text": "Building a narrative with context, tension and resolution",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting authentic workplace stories",
+                    "level": 0
+                },
+                {
+                    "text": "Using specific details to make ideas tangible",
+                    "level": 0
+                },
+                {
+                    "text": "Linking stories to the central message",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping anecdotes concise and purposeful",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Explaining Complex Information Clearly",
+            "items": [
+                {
+                    "text": "Translating technical concepts for non-specialists",
+                    "level": 0
+                },
+                {
+                    "text": "Using analogies and practical examples",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting numbers, trends and comparisons accurately",
+                    "level": 0
+                },
+                {
+                    "text": "Breaking explanations into digestible steps",
+                    "level": 0
+                },
+                {
+                    "text": "Checking comprehension without disrupting flow",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Public-Speaking Anxiety",
+            "items": [
+                {
+                    "text": "Recognizing physical and cognitive stress responses",
+                    "level": 0
+                },
+                {
+                    "text": "Using breathing, preparation and rehearsal routines",
+                    "level": 0
+                },
+                {
+                    "text": "Reframing nervousness into focused energy",
+                    "level": 0
+                },
+                {
+                    "text": "Recovering after mistakes or forgotten lines",
+                    "level": 0
+                },
+                {
+                    "text": "Building confidence through graduated practice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Voice and Vocal Variety",
+            "items": [
+                {
+                    "text": "Improving volume, projection and vocal clarity",
+                    "level": 0
+                },
+                {
+                    "text": "Managing speaking rate and articulation",
+                    "level": 0
+                },
+                {
+                    "text": "Using emphasis, pitch and tone to convey meaning",
+                    "level": 0
+                },
+                {
+                    "text": "Applying pauses for attention and comprehension",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding filler words and monotonous delivery",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Body Language and Stage Presence",
+            "items": [
+                {
+                    "text": "Maintaining balanced posture and purposeful movement",
+                    "level": 0
+                },
+                {
+                    "text": "Using natural gestures to reinforce meaning",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing inclusive eye contact",
+                    "level": 0
+                },
+                {
+                    "text": "Managing facial expression and professional presence",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding distracting mannerisms and physical barriers",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Engaging and Retaining Audience Attention",
+            "items": [
+                {
+                    "text": "Creating interaction through questions and reflection",
+                    "level": 0
+                },
+                {
+                    "text": "Using examples relevant to audience challenges",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing attention and disengagement signals",
+                    "level": 0
+                },
+                {
+                    "text": "Varying delivery to sustain interest",
+                    "level": 0
+                },
+                {
+                    "text": "Adjusting in real time while preserving key points",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Visual Aids Effectively",
+            "items": [
+                {
+                    "text": "Deciding when slides, objects or demonstrations add value",
+                    "level": 0
+                },
+                {
+                    "text": "Writing clear slide headlines and minimizing clutter",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting readable charts, images and data displays",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating spoken remarks with visuals",
+                    "level": 0
+                },
+                {
+                    "text": "Handling slide or equipment failure confidently",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Presenting in Meetings and Briefings",
+            "items": [
+                {
+                    "text": "Delivering concise updates and executive summaries",
+                    "level": 0
+                },
+                {
+                    "text": "Structuring progress, risks, decisions and next steps",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting recommendations with supporting rationale",
+                    "level": 0
+                },
+                {
+                    "text": "Speaking confidently to senior stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Managing strict time limits and interruptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Persuasive and Motivational Presentations",
+            "items": [
+                {
+                    "text": "Building a compelling case for change or action",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting the message to shared goals and values",
+                    "level": 0
+                },
+                {
+                    "text": "Using credible evidence and emotional relevance appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Creating urgency without unnecessary pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Ending with a specific, achievable call to action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Impromptu and Extemporaneous Speaking",
+            "items": [
+                {
+                    "text": "Organizing a response with simple speaking frameworks",
+                    "level": 0
+                },
+                {
+                    "text": "Thinking clearly under short preparation times",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing one central point and supporting examples",
+                    "level": 0
+                },
+                {
+                    "text": "Managing silence and maintaining composure",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing spontaneous workplace speaking scenarios",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Questions and Answers",
+            "items": [
+                {
+                    "text": "Listening fully and clarifying the question",
+                    "level": 0
+                },
+                {
+                    "text": "Responding directly and concisely",
+                    "level": 0
+                },
+                {
+                    "text": "Handling unfamiliar questions without guessing",
+                    "level": 0
+                },
+                {
+                    "text": "Bridging back to the main message when appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Closing the Q&A session professionally",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Challenging Audience Situations",
+            "items": [
+                {
+                    "text": "Responding calmly to disagreement or criticism",
+                    "level": 0
+                },
+                {
+                    "text": "Managing interruptions and dominant participants",
+                    "level": 0
+                },
+                {
+                    "text": "Defusing confrontational questions respectfully",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging errors and correcting information",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining authority without becoming defensive",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking Across Cultures and Formats",
+            "items": [
+                {
+                    "text": "Adjusting language and examples for diverse audiences",
+                    "level": 0
+                },
+                {
+                    "text": "Using inclusive and accessible communication",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting in-person delivery for online or hybrid sessions",
+                    "level": 0
+                },
+                {
+                    "text": "Managing camera presence and virtual engagement",
+                    "level": 0
+                },
+                {
+                    "text": "Considering interpretation and multilingual audiences",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Rehearsal and Time Management",
+            "items": [
+                {
+                    "text": "Developing a realistic rehearsal schedule",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing aloud and timing each section",
+                    "level": 0
+                },
+                {
+                    "text": "Using cue cards and notes without reading verbatim",
+                    "level": 0
+                },
+                {
+                    "text": "Planning contingencies for time overruns",
+                    "level": 0
+                },
+                {
+                    "text": "Applying feedback between rehearsal rounds",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Video Review and Constructive Feedback",
+            "items": [
+                {
+                    "text": "Evaluating content, structure and audience relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Observing voice, posture, gestures and eye contact",
+                    "level": 0
+                },
+                {
+                    "text": "Giving specific behavior-based peer feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strengths and priority development areas",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing initial and revised delivery",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Speech Simulation",
+            "items": [
+                {
+                    "text": "Preparing an audience-specific professional presentation",
+                    "level": 0
+                },
+                {
+                    "text": "Delivering an opening, organized argument and conclusion",
+                    "level": 0
+                },
+                {
+                    "text": "Using supporting visuals and evidence appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to simulated audience questions",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving facilitator assessment against agreed criteria",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Personal Public-Speaking Development Plan",
+            "items": [
+                {
+                    "text": "Summarizing individual performance strengths and gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Setting measurable improvement goals",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting practice opportunities in the workplace",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a self-review and feedback routine",
+                    "level": 0
+                },
+                {
+                    "text": "Committing to a realistic follow-up action plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

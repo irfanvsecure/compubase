@@ -1,0 +1,1496 @@
+{
+    "file": "Strategic_Planning_From_Planning_to_Execution.docx",
+    "title": "Strategic Planning From Planning to Execution",
+    "duration": "5 Days",
+    "overview": [
+        "Strategic planning creates value only when it leads to clear choices, coordinated action, measurable results, and disciplined execution. Organizations often invest significant effort in developing strategic plans but struggle to translate broad ambitions into priorities, initiatives, ownership, resources, performance measures, and management routines that sustain implementation.",
+        "This five-day course provides a complete practical framework for moving from strategic analysis and direction setting to execution and performance review. Participants will examine environmental analysis, stakeholder expectations, vision and mission, strategic objectives, strategic choices, scenario thinking, initiative design, prioritization, KPIs, resource alignment, risk, governance, communication, execution discipline, and strategic review.",
+        "The program is workshop-based and enables participants to build the major components of a strategic plan step by step. By the end of the course, participants will understand not only how to formulate strategy, but also how to convert it into an executable roadmap supported by clear accountability, performance measures, review mechanisms, and corrective action."
+    ],
+    "audience": [
+        "Senior managers, directors, department heads, strategy and planning professionals, business-unit leaders, project and program managers, transformation leaders, performance-management professionals, public-sector managers, and professionals responsible for developing, translating, implementing, monitoring, or reviewing organizational strategy."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining short presentations, strategic-analysis exercises, case studies, stakeholder mapping, environmental scanning, SWOT and TOWS analysis, scenario exercises, objective-setting workshops, strategy mapping, initiative prioritization, KPI design, execution planning, risk analysis, performance-review simulations, group discussion, and action planning. Participants progressively develop an integrated strategy-to-execution framework based on realistic organizational challenges."
+    ],
+    "competencies": [
+        "Strategic thinking",
+        "Environmental and stakeholder analysis",
+        "Strategic direction setting",
+        "Strategic objective development",
+        "Strategic choice and prioritization",
+        "Strategy translation",
+        "Initiative portfolio planning",
+        "KPI and performance management",
+        "Resource alignment",
+        "Strategic risk management",
+        "Execution governance",
+        "Strategic review and adaptation"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the strategic planning cycle and the relationship between formulation and execution.",
+        "Analyze internal capabilities, external forces, stakeholders, trends, risks, and opportunities.",
+        "Develop or evaluate vision, mission, values, and strategic direction.",
+        "Formulate clear strategic objectives and identify the choices required to achieve them.",
+        "Use scenario thinking to improve strategic resilience under uncertainty.",
+        "Translate strategy into initiatives, responsibilities, milestones, and implementation roadmaps.",
+        "Design meaningful KPIs and targets linked to strategic objectives.",
+        "Prioritize initiatives and align resources with strategic priorities.",
+        "Establish governance, accountability, communication, and review mechanisms for execution.",
+        "Identify strategic risks and develop appropriate responses.",
+        "Use performance information to review, adapt, and improve strategy execution.",
+        "Develop an integrated strategy-to-execution action plan."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Strategic Planning",
+            "items": [
+                {
+                    "text": "Defining strategy and strategic planning",
+                    "level": 0
+                },
+                {
+                    "text": "Strategy as a set of choices",
+                    "level": 0
+                },
+                {
+                    "text": "Strategic planning versus operational planning",
+                    "level": 0
+                },
+                {
+                    "text": "Long-term direction and short-term execution",
+                    "level": 0
+                },
+                {
+                    "text": "The strategic planning cycle",
+                    "level": 0
+                },
+                {
+                    "text": "Common reasons strategic plans fail",
+                    "level": 0
+                },
+                {
+                    "text": "The relationship between formulation, implementation, and review",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of an executable strategy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Strategic Thinking",
+            "items": [
+                {
+                    "text": "Moving beyond day-to-day operational thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding systems and interdependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing patterns and trends",
+                    "level": 0
+                },
+                {
+                    "text": "Thinking in terms of alternatives and trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing current performance with future positioning",
+                    "level": 0
+                },
+                {
+                    "text": "Challenging assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Considering second-order consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Building strategic perspective into management decisions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Clarifying the Strategic Planning Context",
+            "items": [
+                {
+                    "text": "Defining the scope of the strategy",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the planning horizon",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying organizational mandates and constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying governance requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing existing commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying critical planning assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Determining required stakeholder involvement",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing the strategic planning process",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Stakeholders",
+            "items": [
+                {
+                    "text": "Identifying key internal and external stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding stakeholder needs and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing influence and interest",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing competing stakeholder priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strategic dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Mapping stakeholder relationships",
+                    "level": 0
+                },
+                {
+                    "text": "Determining engagement requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Using stakeholder insight in strategic choices",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Scanning the External Environment",
+            "items": [
+                {
+                    "text": "Understanding macro-environmental forces",
+                    "level": 0
+                },
+                {
+                    "text": "Political and regulatory developments",
+                    "level": 0
+                },
+                {
+                    "text": "Economic trends",
+                    "level": 0
+                },
+                {
+                    "text": "Social and demographic changes",
+                    "level": 0
+                },
+                {
+                    "text": "Technological developments",
+                    "level": 0
+                },
+                {
+                    "text": "Environmental and sustainability factors",
+                    "level": 0
+                },
+                {
+                    "text": "Legal considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying opportunities and threats",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Industry and Competitive Dynamics",
+            "items": [
+                {
+                    "text": "Understanding the competitive environment",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying existing and emerging competitors",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing customer and beneficiary alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing substitute solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding supplier and partner influence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying barriers and structural changes",
+                    "level": 0
+                },
+                {
+                    "text": "Benchmarking strategically rather than mechanically",
+                    "level": 0
+                },
+                {
+                    "text": "Translating competitive insight into strategic implications",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Internal Capabilities",
+            "items": [
+                {
+                    "text": "Reviewing organizational strengths and weaknesses",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing resources and capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating core competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding process performance",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing technology and infrastructure",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing human-capital capability",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying organizational constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Determining capabilities required for future strategy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using SWOT Analysis Effectively",
+            "items": [
+                {
+                    "text": "Distinguishing internal from external factors",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting strategically significant issues",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding generic SWOT lists",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing strengths and weaknesses",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing opportunities and threats",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying relationships between factors",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence to support analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from SWOT to strategic implications",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Moving from SWOT to TOWS",
+            "items": [
+                {
+                    "text": "Using strengths to exploit opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Using strengths to reduce threats",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing weaknesses to capture opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing exposure created by weaknesses and threats",
+                    "level": 0
+                },
+                {
+                    "text": "Generating strategic alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing alternative strategic responses",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying major strategic themes",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting analysis with strategic choice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Trends and Future Drivers",
+            "items": [
+                {
+                    "text": "Identifying relevant trends",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing trends from temporary events",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing emerging drivers of change",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing potential strategic impact",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying early indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring assumptions over time",
+                    "level": 0
+                },
+                {
+                    "text": "Using future insight to strengthen strategy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying Scenario Thinking",
+            "items": [
+                {
+                    "text": "Understanding the purpose of scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying critical uncertainties",
+                    "level": 0
+                },
+                {
+                    "text": "Developing plausible alternative futures",
+                    "level": 0
+                },
+                {
+                    "text": "Testing strategic assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strategies that remain robust",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing scenario-specific risks and opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Developing early warning indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Using scenarios to improve strategic resilience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Defining Vision",
+            "items": [
+                {
+                    "text": "Understanding the role of vision",
+                    "level": 0
+                },
+                {
+                    "text": "Describing the desired future state",
+                    "level": 0
+                },
+                {
+                    "text": "Creating aspiration without vagueness",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring relevance to stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing ambition and credibility",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether the vision provides direction",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating the vision clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting vision with strategic choices",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Defining Mission",
+            "items": [
+                {
+                    "text": "Clarifying organizational purpose",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying who the organization serves",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the value provided",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the organization's distinctive role",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overly broad mission statements",
+                    "level": 0
+                },
+                {
+                    "text": "Testing relevance and clarity",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning mission with mandate and strategy",
+                    "level": 0
+                },
+                {
+                    "text": "Using mission as a decision filter",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Clarifying Organizational Values",
+            "items": [
+                {
+                    "text": "Understanding values as behavioral standards",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing stated values from actual culture",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting values that support strategy",
+                    "level": 0
+                },
+                {
+                    "text": "Defining observable behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying behaviors that contradict values",
+                    "level": 0
+                },
+                {
+                    "text": "Embedding values in leadership and management",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting values with decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Using values during strategic trade-offs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Strategic Issues",
+            "items": [
+                {
+                    "text": "Synthesizing internal and external analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing strategic issues from operational problems",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying gaps between current and desired position",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing major opportunities",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying threats to long-term performance",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding capability gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing issues requiring strategic attention",
+                    "level": 0
+                },
+                {
+                    "text": "Framing strategic questions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Strategic Themes",
+            "items": [
+                {
+                    "text": "Grouping related strategic issues",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying major areas of strategic focus",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting themes with vision and mission",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring themes are distinct and meaningful",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive numbers of strategic themes",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying expected value from each theme",
+                    "level": 0
+                },
+                {
+                    "text": "Testing completeness and balance",
+                    "level": 0
+                },
+                {
+                    "text": "Using themes to organize objectives and initiatives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Formulating Strategic Objectives",
+            "items": [
+                {
+                    "text": "Translating strategic themes into objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Writing outcome-oriented objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing objectives from activities",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring strategic relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Creating clarity and focus",
+                    "level": 0
+                },
+                {
+                    "text": "Considering cause-and-effect relationships",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing short-, medium-, and long-term objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether objectives collectively deliver the strategy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making Strategic Choices",
+            "items": [
+                {
+                    "text": "Understanding strategy as choice",
+                    "level": 0
+                },
+                {
+                    "text": "Deciding where to focus",
+                    "level": 0
+                },
+                {
+                    "text": "Deciding what not to pursue",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating alternative strategic paths",
+                    "level": 0
+                },
+                {
+                    "text": "Considering value, feasibility, and risk",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing opportunity costs",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing competing priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the rationale for strategic choices",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Strategic Options",
+            "items": [
+                {
+                    "text": "Generating alternative ways to achieve objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Considering organic development",
+                    "level": 0
+                },
+                {
+                    "text": "Partnership and collaboration options",
+                    "level": 0
+                },
+                {
+                    "text": "Technology-enabled options",
+                    "level": 0
+                },
+                {
+                    "text": "Process and service-model innovation",
+                    "level": 0
+                },
+                {
+                    "text": "Capability-building options",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating combinations of strategic actions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding premature commitment to the first solution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Strategic Options",
+            "items": [
+                {
+                    "text": "Strategic alignment",
+                    "level": 0
+                },
+                {
+                    "text": "Expected impact",
+                    "level": 0
+                },
+                {
+                    "text": "Feasibility",
+                    "level": 0
+                },
+                {
+                    "text": "Resource requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Risk and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Stakeholder implications",
+                    "level": 0
+                },
+                {
+                    "text": "Time to value",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting options using transparent criteria",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building a Strategy Map",
+            "items": [
+                {
+                    "text": "Understanding cause-and-effect logic",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting capabilities with processes and outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing objectives into a coherent framework",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether the logic is credible",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing missing objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating strategy visually",
+                    "level": 0
+                },
+                {
+                    "text": "Using the strategy map to support execution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Translating Objectives into Strategic Initiatives",
+            "items": [
+                {
+                    "text": "Understanding the role of strategic initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing initiatives from routine operations",
+                    "level": 0
+                },
+                {
+                    "text": "Defining initiative purpose",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting each initiative with strategic objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Defining expected benefits",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying major deliverables",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding initiative overload",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Prioritizing Strategic Initiatives",
+            "items": [
+                {
+                    "text": "Assessing strategic contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating expected impact",
+                    "level": 0
+                },
+                {
+                    "text": "Considering urgency",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing resource requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Considering risk",
+                    "level": 0
+                },
+                {
+                    "text": "Using prioritization criteria consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a balanced initiative portfolio",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Strategic KPIs",
+            "items": [
+                {
+                    "text": "Understanding the purpose of strategic measures",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing KPIs from general metrics",
+                    "level": 0
+                },
+                {
+                    "text": "Linking KPIs with strategic objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting leading and lagging indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Defining clear calculation methods",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying data sources",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning measurement ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive or vanity measures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Setting Strategic Targets",
+            "items": [
+                {
+                    "text": "Understanding the role of targets",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing baselines",
+                    "level": 0
+                },
+                {
+                    "text": "Using benchmarks appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Setting challenging but credible targets",
+                    "level": 0
+                },
+                {
+                    "text": "Defining target timeframes",
+                    "level": 0
+                },
+                {
+                    "text": "Considering staged targets",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning targets across organizational levels",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing targets when assumptions materially change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating an Execution Roadmap",
+            "items": [
+                {
+                    "text": "Sequencing strategic initiatives",
+                    "level": 0
+                },
+                {
+                    "text": "Defining major milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying implementation phases",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning timelines",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying decision points",
+                    "level": 0
+                },
+                {
+                    "text": "Creating visibility of the path from plan to results",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Aligning Resources with Strategy",
+            "items": [
+                {
+                    "text": "Connecting budgets with strategic priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying required people and capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning technology investment",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating management attention",
+                    "level": 0
+                },
+                {
+                    "text": "Managing competing resource demands",
+                    "level": 0
+                },
+                {
+                    "text": "Stopping or reducing low-priority activity",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing critical resource gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing resource alignment during execution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Strategic Risk Management",
+            "items": [
+                {
+                    "text": "Identifying risks to strategic objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding internal and external strategic risks",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing likelihood and impact",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing interconnected risks",
+                    "level": 0
+                },
+                {
+                    "text": "Defining risk responses",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning risk ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying early warning indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating risk review with strategy review",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Establishing Strategy Governance",
+            "items": [
+                {
+                    "text": "Clarifying strategic decision rights",
+                    "level": 0
+                },
+                {
+                    "text": "Defining executive sponsorship",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning objective and initiative owners",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing review forums",
+                    "level": 0
+                },
+                {
+                    "text": "Defining escalation mechanisms",
+                    "level": 0
+                },
+                {
+                    "text": "Managing cross-functional dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring transparent accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding governance that becomes excessive bureaucracy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating the Strategy",
+            "items": [
+                {
+                    "text": "Creating a clear strategic narrative",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining why the strategy matters",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating strategic choices",
+                    "level": 0
+                },
+                {
+                    "text": "Translating strategy for different audiences",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying employee contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Using managers as communication channels",
+                    "level": 0
+                },
+                {
+                    "text": "Creating opportunities for questions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining communication throughout execution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Cascading Strategy Through the Organization",
+            "items": [
+                {
+                    "text": "Translating enterprise objectives into unit objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining alignment during cascading",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding mechanical duplication of corporate objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying departmental contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning team goals",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting individual performance where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Managing cross-functional objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Testing vertical and horizontal alignment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Execution Discipline",
+            "items": [
+                {
+                    "text": "Turning plans into commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Creating regular follow-up",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking milestones and outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing missed commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Removing execution barriers",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining focus amid operational pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing accountability consistently",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Strategic Change",
+            "items": [
+                {
+                    "text": "Identifying the changes required by strategy",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing organizational readiness",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding stakeholder resistance",
+                    "level": 0
+                },
+                {
+                    "text": "Building leadership alignment",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating the case for change",
+                    "level": 0
+                },
+                {
+                    "text": "Developing required capabilities",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing new behaviors and processes",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring adoption as part of execution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Monitoring Strategic Performance",
+            "items": [
+                {
+                    "text": "Using dashboards effectively",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing KPIs and targets",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking initiative progress",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing activity from outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying performance gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding causes rather than symptoms",
+                    "level": 0
+                },
+                {
+                    "text": "Using trend information",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating strategically significant issues",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Strategic Review Meetings",
+            "items": [
+                {
+                    "text": "Preparing relevant performance information",
+                    "level": 0
+                },
+                {
+                    "text": "Focusing discussion on strategic issues",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Examining KPI performance",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing initiative progress",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing risks and dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Making corrective decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Recording accountability and follow-up actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Adapting Strategy During Execution",
+            "items": [
+                {
+                    "text": "Distinguishing poor execution from flawed strategy",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing changes in assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to significant external change",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence to adjust priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Stopping initiatives that no longer create value",
+                    "level": 0
+                },
+                {
+                    "text": "Redirecting resources",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining strategic coherence during adaptation",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting changes and their rationale",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Avoiding Common Strategy Execution Failures",
+            "items": [
+                {
+                    "text": "Too many priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Unclear ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Weak linkage between budgets and strategy",
+                    "level": 0
+                },
+                {
+                    "text": "Poor-quality KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "Initiative overload",
+                    "level": 0
+                },
+                {
+                    "text": "Inadequate communication",
+                    "level": 0
+                },
+                {
+                    "text": "Failure to address capability gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Review processes that report without deciding",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Strategy-to-Execution Workshop",
+            "items": [
+                {
+                    "text": "Analyzing a strategic context",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strategic issues",
+                    "level": 0
+                },
+                {
+                    "text": "Defining strategic themes and objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating strategic options",
+                    "level": 0
+                },
+                {
+                    "text": "Building a strategy map",
+                    "level": 0
+                },
+                {
+                    "text": "Defining initiatives and KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "Creating an execution roadmap",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strategic risks and governance requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting an integrated strategy-to-execution plan",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Strategic Planning and Execution Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current strategic-planning strengths and gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying improvements to strategic analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening strategic choices and priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Improving objective and KPI design",
+                    "level": 0
+                },
+                {
+                    "text": "Defining execution-governance improvements",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening review and accountability mechanisms",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying immediate implementation actions",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a Personal Strategy-to-Execution Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

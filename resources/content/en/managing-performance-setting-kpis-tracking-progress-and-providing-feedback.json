@@ -1,0 +1,1644 @@
+{
+    "file": "Managing_Performance_Setting_KPIs_Tracking_Progress_and_Providing_Feedback.docx",
+    "title": "Managing Performance: Setting KPIs, Tracking Progress and Providing Feedback",
+    "duration": "5 Days",
+    "overview": [
+        "Effective performance management is a continuous management process that connects organizational priorities with individual contribution, establishes clear expectations, measures meaningful results, supports employee development, and addresses performance gaps before they become persistent problems.",
+        "This five-day course provides managers and HR professionals with a practical framework for setting performance objectives, developing relevant KPIs, establishing targets, tracking progress, conducting performance conversations, providing constructive feedback, coaching employees, managing underperformance, and carrying out fair performance reviews.",
+        "The program emphasizes performance management as an ongoing cycle rather than an annual appraisal event. Through KPI design exercises, performance cases, feedback simulations, coaching practice, calibration discussions, and action planning, participants learn how to create greater clarity, accountability, fairness, and improvement in employee performance."
+    ],
+    "audience": [
+        "Managers, supervisors, team leaders, department heads, HR managers and specialists, HR business partners, performance-management professionals, talent-management professionals, and employees responsible for setting objectives, measuring performance, providing feedback, coaching employees, or conducting performance reviews."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining short presentations, performance-management cases, objective-setting workshops, KPI design exercises, target-setting activities, dashboard and progress-review exercises, feedback role plays, coaching simulations, difficult performance conversations, rating and calibration cases, group discussion, and individual action planning."
+    ],
+    "competencies": [
+        "Performance planning",
+        "Objective setting",
+        "KPI development",
+        "Target setting",
+        "Performance monitoring",
+        "Performance analysis",
+        "Constructive feedback",
+        "Coaching for performance",
+        "Performance conversations",
+        "Underperformance management",
+        "Performance appraisal",
+        "Fair and evidence-based evaluation"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the complete performance-management cycle and the responsibilities of managers and employees.",
+        "Translate organizational and departmental priorities into meaningful individual performance objectives.",
+        "Develop relevant KPIs that measure results rather than activity alone.",
+        "Set clear baselines, targets, thresholds, and measurement responsibilities.",
+        "Track performance consistently using appropriate evidence and review routines.",
+        "Diagnose performance gaps and distinguish capability, motivation, clarity, and resource issues.",
+        "Provide timely, specific, balanced, and actionable feedback.",
+        "Use coaching techniques to improve employee capability and ownership.",
+        "Conduct effective progress reviews and difficult performance conversations.",
+        "Manage underperformance using clear expectations, support, documentation, and follow-up.",
+        "Conduct fair performance appraisals and reduce common rating biases.",
+        "Develop a practical approach for improving performance management within their teams."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Performance Management",
+            "items": [
+                {
+                    "text": "Defining performance management",
+                    "level": 0
+                },
+                {
+                    "text": "Performance management versus annual appraisal",
+                    "level": 0
+                },
+                {
+                    "text": "The continuous performance-management cycle",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting organizational, team, and individual performance",
+                    "level": 0
+                },
+                {
+                    "text": "Responsibilities of managers and employees",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing accountability and development",
+                    "level": 0
+                },
+                {
+                    "text": "Creating clarity around expected results and behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Common reasons performance-management systems fail",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating the Conditions for High Performance",
+            "items": [
+                {
+                    "text": "Clarifying purpose and priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring employees understand their roles",
+                    "level": 0
+                },
+                {
+                    "text": "Providing appropriate resources and authority",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing clear standards",
+                    "level": 0
+                },
+                {
+                    "text": "Building trust and accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging ownership of results",
+                    "level": 0
+                },
+                {
+                    "text": "Creating regular communication",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the manager's impact on performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Translating Strategy into Performance Expectations",
+            "items": [
+                {
+                    "text": "Understanding organizational objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying departmental contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Cascading priorities appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying role-specific contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding mechanical cascading",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning individual objectives with team outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Managing shared and cross-functional objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Testing vertical and horizontal alignment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Setting Effective Performance Objectives",
+            "items": [
+                {
+                    "text": "Distinguishing objectives from tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Writing outcome-oriented objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Applying SMART principles appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Defining quality, quantity, cost, and time expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing short- and long-term objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Setting stretch without creating unrealistic expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing objectives collaboratively",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting objectives clearly",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Key Performance Indicators",
+            "items": [
+                {
+                    "text": "Defining KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "KPIs versus general metrics",
+                    "level": 0
+                },
+                {
+                    "text": "Leading and lagging indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Input, process, output, and outcome measures",
+                    "level": 0
+                },
+                {
+                    "text": "Quantitative and qualitative measures",
+                    "level": 0
+                },
+                {
+                    "text": "Efficiency and effectiveness indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Individual, team, and organizational KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of a useful KPI",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing Meaningful KPIs",
+            "items": [
+                {
+                    "text": "Linking KPIs to objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting measures that reflect real performance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding activity-only measures",
+                    "level": 0
+                },
+                {
+                    "text": "Defining calculation formulas",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying units of measurement",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying data sources",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning measurement ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Limiting KPIs to the measures that matter",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing KPI Definitions",
+            "items": [
+                {
+                    "text": "Writing a clear KPI name",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the purpose of the measure",
+                    "level": 0
+                },
+                {
+                    "text": "Specifying the calculation method",
+                    "level": 0
+                },
+                {
+                    "text": "Defining frequency of measurement",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying data sources",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying responsibility for data",
+                    "level": 0
+                },
+                {
+                    "text": "Defining reporting format",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a consistent KPI dictionary",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Setting Baselines and Targets",
+            "items": [
+                {
+                    "text": "Understanding baseline performance",
+                    "level": 0
+                },
+                {
+                    "text": "Using historical data",
+                    "level": 0
+                },
+                {
+                    "text": "Using benchmarks appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Setting realistic and challenging targets",
+                    "level": 0
+                },
+                {
+                    "text": "Defining minimum, expected, and stretch levels",
+                    "level": 0
+                },
+                {
+                    "text": "Considering seasonality and workload variation",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning targets across related roles",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing targets when conditions materially change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Balancing Results and Behavioral Expectations",
+            "items": [
+                {
+                    "text": "Measuring what employees achieve",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing how results are achieved",
+                    "level": 0
+                },
+                {
+                    "text": "Defining behavioral and competency expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting values with performance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding results-at-any-cost behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Using observable evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing outcome and behavior measures",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating competencies into performance discussions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Weighting Performance Objectives and KPIs",
+            "items": [
+                {
+                    "text": "Understanding the purpose of weighting",
+                    "level": 0
+                },
+                {
+                    "text": "Reflecting strategic importance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive complexity",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing multiple objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Managing shared measures",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing distorted incentives",
+                    "level": 0
+                },
+                {
+                    "text": "Testing the effect of weighting choices",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating weighting transparently",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating Individual Performance Plans",
+            "items": [
+                {
+                    "text": "Documenting objectives and KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "Defining targets and standards",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying competencies and behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying development requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing support and resources",
+                    "level": 0
+                },
+                {
+                    "text": "Defining review frequency",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying evidence requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Creating mutual commitment to the plan",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Establishing Performance Monitoring Routines",
+            "items": [
+                {
+                    "text": "Moving from annual review to continuous monitoring",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting appropriate review frequency",
+                    "level": 0
+                },
+                {
+                    "text": "Using one-to-one meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Using team performance reviews",
+                    "level": 0
+                },
+                {
+                    "text": "Creating simple dashboards",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive reporting",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Collecting Reliable Performance Evidence",
+            "items": [
+                {
+                    "text": "Using objective performance data",
+                    "level": 0
+                },
+                {
+                    "text": "Using work outputs",
+                    "level": 0
+                },
+                {
+                    "text": "Using customer or stakeholder evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Using observation",
+                    "level": 0
+                },
+                {
+                    "text": "Using project and system records",
+                    "level": 0
+                },
+                {
+                    "text": "Separating facts from impressions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining appropriate documentation",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring evidence is relevant and current",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Performance Dashboards",
+            "items": [
+                {
+                    "text": "Selecting the right measures",
+                    "level": 0
+                },
+                {
+                    "text": "Displaying target versus actual performance",
+                    "level": 0
+                },
+                {
+                    "text": "Using trends rather than isolated numbers",
+                    "level": 0
+                },
+                {
+                    "text": "Highlighting significant variance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding dashboard overload",
+                    "level": 0
+                },
+                {
+                    "text": "Using visual information to support discussion",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emerging performance risks",
+                    "level": 0
+                },
+                {
+                    "text": "Turning dashboard information into action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Progress Review Meetings",
+            "items": [
+                {
+                    "text": "Preparing for the review",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing objectives and KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing achievements",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying performance gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring obstacles",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing changing priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing corrective or development actions",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting commitments and follow-up",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Performance Gaps",
+            "items": [
+                {
+                    "text": "Defining the expected performance level",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing actual performance",
+                    "level": 0
+                },
+                {
+                    "text": "Measuring the gap",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying recurring patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Separating symptoms from causes",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding environmental constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing employee control over results",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing gaps requiring action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Diagnosing the Causes of Underperformance",
+            "items": [
+                {
+                    "text": "Lack of clarity",
+                    "level": 0
+                },
+                {
+                    "text": "Capability and skill gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Knowledge gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Motivation and commitment issues",
+                    "level": 0
+                },
+                {
+                    "text": "Insufficient resources",
+                    "level": 0
+                },
+                {
+                    "text": "Process or system barriers",
+                    "level": 0
+                },
+                {
+                    "text": "Conflicting priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Management and leadership factors",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding the Role of Feedback",
+            "items": [
+                {
+                    "text": "Feedback as a performance-management tool",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing effective behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting performance early",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting learning and development",
+                    "level": 0
+                },
+                {
+                    "text": "Creating self-awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Building accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing surprises at formal reviews",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a healthy feedback culture",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Providing Effective Positive Feedback",
+            "items": [
+                {
+                    "text": "Recognizing specific performance",
+                    "level": 0
+                },
+                {
+                    "text": "Describing observable behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining positive impact",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting recognition with standards",
+                    "level": 0
+                },
+                {
+                    "text": "Reinforcing repeatable behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Making feedback timely",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding vague praise",
+                    "level": 0
+                },
+                {
+                    "text": "Using recognition appropriately for different employees",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Providing Constructive Feedback",
+            "items": [
+                {
+                    "text": "Preparing evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing the right time and setting",
+                    "level": 0
+                },
+                {
+                    "text": "Describing behavior rather than labeling the person",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining impact",
+                    "level": 0
+                },
+                {
+                    "text": "Listening to the employee's perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying required change",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing practical next steps",
+                    "level": 0
+                },
+                {
+                    "text": "Following up after feedback",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Structured Feedback Models",
+            "items": [
+                {
+                    "text": "Situation-Behavior-Impact approach",
+                    "level": 0
+                },
+                {
+                    "text": "Observation and consequence",
+                    "level": 0
+                },
+                {
+                    "text": "Expectation and gap",
+                    "level": 0
+                },
+                {
+                    "text": "Future-focused feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting a model appropriate to the situation",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping feedback concise",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding scripted or mechanical delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from feedback to commitment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Receiving Employee Reactions to Feedback",
+            "items": [
+                {
+                    "text": "Listening without immediate defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Handling disagreement",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to emotional reactions",
+                    "level": 0
+                },
+                {
+                    "text": "Managing excuses",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying misunderstandings",
+                    "level": 0
+                },
+                {
+                    "text": "Returning discussion to evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining respect and composure",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping focus on future performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Coaching for Improved Performance",
+            "items": [
+                {
+                    "text": "Understanding coaching versus directing",
+                    "level": 0
+                },
+                {
+                    "text": "Using questions to develop thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the desired outcome",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring current reality",
+                    "level": 0
+                },
+                {
+                    "text": "Generating options",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing actions",
+                    "level": 0
+                },
+                {
+                    "text": "Building employee ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Following up on commitments",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using the GROW Coaching Framework",
+            "items": [
+                {
+                    "text": "Defining the Goal",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring Reality",
+                    "level": 0
+                },
+                {
+                    "text": "Generating Options",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing the Way Forward",
+                    "level": 0
+                },
+                {
+                    "text": "Using open questions",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging reflection",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding taking over the employee's problem",
+                    "level": 0
+                },
+                {
+                    "text": "Converting coaching into action",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Employee Capability",
+            "items": [
+                {
+                    "text": "Identifying development needs",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting development with performance gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Using stretch assignments",
+                    "level": 0
+                },
+                {
+                    "text": "On-the-job learning",
+                    "level": 0
+                },
+                {
+                    "text": "Mentoring and peer learning",
+                    "level": 0
+                },
+                {
+                    "text": "Formal training",
+                    "level": 0
+                },
+                {
+                    "text": "Providing practice and feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing development impact",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing High Performers",
+            "items": [
+                {
+                    "text": "Recognizing strong contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding neglect of high performers",
+                    "level": 0
+                },
+                {
+                    "text": "Setting meaningful stretch objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Providing greater responsibility",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting career development",
+                    "level": 0
+                },
+                {
+                    "text": "Managing workload and burnout risk",
+                    "level": 0
+                },
+                {
+                    "text": "Retaining high performers",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing employees for broader roles",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Underperformance",
+            "items": [
+                {
+                    "text": "Addressing issues early",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence rather than assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the performance gap",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding causes",
+                    "level": 0
+                },
+                {
+                    "text": "Restating required standards",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing support and improvement actions",
+                    "level": 0
+                },
+                {
+                    "text": "Setting review dates",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistent follow-up",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Performance Improvement Plan",
+            "items": [
+                {
+                    "text": "Defining specific performance deficiencies",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying expected improvement",
+                    "level": 0
+                },
+                {
+                    "text": "Setting measurable outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying support and resources",
+                    "level": 0
+                },
+                {
+                    "text": "Defining milestones",
+                    "level": 0
+                },
+                {
+                    "text": "Setting a reasonable timeframe",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing progress objectively",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Difficult Performance Conversations",
+            "items": [
+                {
+                    "text": "Preparing the facts",
+                    "level": 0
+                },
+                {
+                    "text": "Managing personal emotions",
+                    "level": 0
+                },
+                {
+                    "text": "Opening the conversation clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Being direct without becoming aggressive",
+                    "level": 0
+                },
+                {
+                    "text": "Listening to the employee",
+                    "level": 0
+                },
+                {
+                    "text": "Handling resistance and defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Ending with specific commitments",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Documenting Performance Appropriately",
+            "items": [
+                {
+                    "text": "Recording objectives and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting significant feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Recording progress discussions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining factual language",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding subjective or inflammatory wording",
+                    "level": 0
+                },
+                {
+                    "text": "Recording agreed actions",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring consistency",
+                    "level": 0
+                },
+                {
+                    "text": "Using documentation to support fairness and continuity",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Preparing for Formal Performance Appraisal",
+            "items": [
+                {
+                    "text": "Reviewing agreed objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Gathering performance evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing progress throughout the period",
+                    "level": 0
+                },
+                {
+                    "text": "Considering changes in context",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing results and behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing examples",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying development themes",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding last-minute judgments",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Performance Fairly",
+            "items": [
+                {
+                    "text": "Applying rating criteria consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Separating potential from current performance",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing effort from results",
+                    "level": 0
+                },
+                {
+                    "text": "Considering factors within employee control",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding favoritism",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring comparable standards",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the rationale for ratings",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Performance Rating Bias",
+            "items": [
+                {
+                    "text": "Halo effect",
+                    "level": 0
+                },
+                {
+                    "text": "Horn effect",
+                    "level": 0
+                },
+                {
+                    "text": "Recency bias",
+                    "level": 0
+                },
+                {
+                    "text": "Primacy bias",
+                    "level": 0
+                },
+                {
+                    "text": "Similarity bias",
+                    "level": 0
+                },
+                {
+                    "text": "Leniency and severity bias",
+                    "level": 0
+                },
+                {
+                    "text": "Central tendency",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence and calibration to reduce bias",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Calibration Discussions",
+            "items": [
+                {
+                    "text": "Understanding the purpose of calibration",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing standards across teams",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence to challenge ratings",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding forced distributions",
+                    "level": 0
+                },
+                {
+                    "text": "Separating calibration from political negotiation",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying inconsistent interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Improving rating fairness",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing lessons for future performance cycles",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting the Performance Appraisal Meeting",
+            "items": [
+                {
+                    "text": "Creating a constructive environment",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing achievements",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing performance gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Inviting employee self-assessment",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing behaviors and competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing development priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying future expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Ending with shared understanding",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Disagreement About Ratings",
+            "items": [
+                {
+                    "text": "Listening to the employee's perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Returning to evidence and criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the rating rationale",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging legitimate information",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding defensive argument",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining review or appeal processes",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining dignity and respect",
+                    "level": 0
+                },
+                {
+                    "text": "Preserving the working relationship",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Linking Performance and Development",
+            "items": [
+                {
+                    "text": "Using performance evidence to identify development needs",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing capability gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Creating individual development plans",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting development with future responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Defining development outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Using multiple learning methods",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing progress",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring development supports organizational capability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Linking Performance with Recognition and Reward",
+            "items": [
+                {
+                    "text": "Understanding the role of recognition",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring reward criteria are clear",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unintended incentives",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing both results and behaviors",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining fairness and transparency",
+                    "level": 0
+                },
+                {
+                    "text": "Using non-financial recognition",
+                    "level": 0
+                },
+                {
+                    "text": "Managing expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping performance discussions broader than reward alone",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Team Performance",
+            "items": [
+                {
+                    "text": "Setting shared team objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Defining collective measures",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying individual contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring team trends",
+                    "level": 0
+                },
+                {
+                    "text": "Managing interdependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing uneven contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Using team reviews",
+                    "level": 0
+                },
+                {
+                    "text": "Creating collective accountability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Performance in Hybrid and Remote Teams",
+            "items": [
+                {
+                    "text": "Focusing on outcomes rather than visibility",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying communication expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Using appropriate digital tracking",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining regular one-to-ones",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding surveillance-based management",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing remote contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying isolation or support needs",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistent standards across work arrangements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building a Performance Culture",
+            "items": [
+                {
+                    "text": "Creating clear expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Normalizing regular feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging ownership",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing poor performance consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing strong performance",
+                    "level": 0
+                },
+                {
+                    "text": "Developing managers' performance skills",
+                    "level": 0
+                },
+                {
+                    "text": "Using performance data constructively",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning leadership behavior with performance standards",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Performance Management Workshop",
+            "items": [
+                {
+                    "text": "Translating a business priority into employee objectives",
+                    "level": 0
+                },
+                {
+                    "text": "Developing relevant KPIs",
+                    "level": 0
+                },
+                {
+                    "text": "Setting targets and thresholds",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing a performance dashboard",
+                    "level": 0
+                },
+                {
+                    "text": "Diagnosing a performance gap",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing constructive feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Coaching an employee",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting a difficult performance conversation",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing an evidence-based performance assessment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Performance Management Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current performance-management practices",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying objective and KPI weaknesses",
+                    "level": 0
+                },
+                {
+                    "text": "Improving monitoring routines",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening feedback frequency and quality",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying coaching priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Improving underperformance management",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening appraisal fairness",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Performance Management Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

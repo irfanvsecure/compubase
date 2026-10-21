@@ -1,0 +1,1089 @@
+{
+    "file": "Competency_Based_Interviewing.docx",
+    "title": "Competency Based Interviewing",
+    "duration": "3 Days",
+    "overview": [
+        "Competency-based interviewing provides a structured method for assessing whether candidates have demonstrated the behaviors, capabilities, and judgment required for successful performance in a role. Rather than relying on general impressions or hypothetical answers alone, the approach uses evidence from candidates’ past behavior and applies consistent criteria to improve the quality, fairness, and defensibility of selection decisions.",
+        "This three-day course equips interviewers with the practical skills required to translate role requirements into competencies, develop behavioral questions, probe effectively, evaluate evidence, take useful interview notes, apply rating standards, reduce bias, and reach evidence-based hiring decisions.",
+        "Through interview simulations, question-design exercises, evidence-rating cases, probing practice, and panel decision activities, participants develop a disciplined interviewing approach that supports better candidate comparison while maintaining a professional candidate experience."
+    ],
+    "audience": [
+        "HR managers and specialists, recruitment and talent-acquisition professionals, hiring managers, department heads, supervisors, interview-panel members, HR business partners, and employees involved in candidate assessment, selection, promotion, or internal appointment interviews."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining short presentations, competency-analysis exercises, behavioral-question design, interview demonstrations, structured probing practice, candidate-response analysis, note-taking exercises, rating and calibration activities, interview simulations, panel decision cases, peer feedback, and action planning."
+    ],
+    "competencies": [
+        "Competency-based interviewing",
+        "Behavioral question design",
+        "Structured probing",
+        "Active listening",
+        "Evidence gathering",
+        "Candidate assessment",
+        "Interview note taking",
+        "Behavioral rating",
+        "Bias awareness",
+        "Selection decision making",
+        "Panel interviewing",
+        "Professional candidate communication"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the principles and benefits of competency-based interviewing.",
+        "Translate job requirements into relevant competencies and behavioral indicators.",
+        "Develop structured behavioral questions linked to specific competencies.",
+        "Use effective probing techniques to obtain complete and relevant evidence.",
+        "Distinguish strong behavioral evidence from vague, theoretical, or unsupported answers.",
+        "Take concise interview notes that support objective evaluation.",
+        "Apply defined rating criteria consistently across candidates.",
+        "Recognize and reduce common interviewer biases.",
+        "Conduct professional, legally and ethically appropriate interviews.",
+        "Coordinate panel interviews and consolidate evidence fairly.",
+        "Make selection recommendations based on demonstrated competency evidence.",
+        "Develop a practical competency-based interview structure for future use."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Competency-Based Interviewing",
+            "items": [
+                {
+                    "text": "Defining competency-based interviewing",
+                    "level": 0
+                },
+                {
+                    "text": "Traditional versus competency-based interviews",
+                    "level": 0
+                },
+                {
+                    "text": "Using past behavior as evidence of capability",
+                    "level": 0
+                },
+                {
+                    "text": "The relationship between competencies and job performance",
+                    "level": 0
+                },
+                {
+                    "text": "Advantages of structured interviewing",
+                    "level": 0
+                },
+                {
+                    "text": "Improving consistency across candidates",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing reliance on intuition and first impressions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the limits of interview evidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Competencies",
+            "items": [
+                {
+                    "text": "Defining knowledge, skills, behaviors, and competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Technical versus behavioral competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Core and role-specific competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Leadership and managerial competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding proficiency levels",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying observable behavioral indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing competencies from personality labels",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting competencies with successful job performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building the Interview from the Job Requirements",
+            "items": [
+                {
+                    "text": "Reviewing the purpose of the role",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying critical responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Determining essential versus desirable requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying competencies that differentiate performance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive competency lists",
+                    "level": 0
+                },
+                {
+                    "text": "Defining the required proficiency level",
+                    "level": 0
+                },
+                {
+                    "text": "Aligning interview content with role requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a clear assessment framework before interviewing",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Behavioral Indicators",
+            "items": [
+                {
+                    "text": "Describing observable behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Defining positive indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Defining negative indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Differentiating proficiency levels",
+                    "level": 0
+                },
+                {
+                    "text": "Using role-relevant language",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding vague descriptions",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring indicators can be assessed in an interview",
+                    "level": 0
+                },
+                {
+                    "text": "Using indicators as the basis for rating",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing Competency-Based Questions",
+            "items": [
+                {
+                    "text": "Asking for specific past examples",
+                    "level": 0
+                },
+                {
+                    "text": "Linking questions to one primary competency",
+                    "level": 0
+                },
+                {
+                    "text": "Using open behavioral questions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding leading questions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding multiple questions at once",
+                    "level": 0
+                },
+                {
+                    "text": "Creating questions suitable for different experience levels",
+                    "level": 0
+                },
+                {
+                    "text": "Developing alternative questions for the same competency",
+                    "level": 0
+                },
+                {
+                    "text": "Building a structured interview question bank",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using the STAR Framework",
+            "items": [
+                {
+                    "text": "Situation",
+                    "level": 0
+                },
+                {
+                    "text": "Task",
+                    "level": 0
+                },
+                {
+                    "text": "Action",
+                    "level": 0
+                },
+                {
+                    "text": "Result",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the purpose of each element",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying missing STAR information",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping focus on the candidate's personal contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Using STAR to organize evidence rather than script the interview",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Probing for Complete Evidence",
+            "items": [
+                {
+                    "text": "Clarifying the context",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the candidate's responsibility",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring specific actions",
+                    "level": 0
+                },
+                {
+                    "text": "Asking what the candidate personally did",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring reasoning and decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying obstacles and constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding results and consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Following up on lessons learned",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Vague and General Answers",
+            "items": [
+                {
+                    "text": "Recognizing theoretical answers",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing excessive use of 'we'",
+                    "level": 0
+                },
+                {
+                    "text": "Redirecting candidates to a specific example",
+                    "level": 0
+                },
+                {
+                    "text": "Separating personal contribution from team contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for sequence and detail",
+                    "level": 0
+                },
+                {
+                    "text": "Testing unsupported claims",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding supplying the answer through the probe",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when evidence remains insufficient",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening for Behavioral Evidence",
+            "items": [
+                {
+                    "text": "Listening for facts rather than impressions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying observable actions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing decision-making evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying interpersonal behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Listening for ownership and accountability",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing measurable outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Noticing contradictions requiring clarification",
+                    "level": 0
+                },
+                {
+                    "text": "Separating confidence of delivery from quality of evidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Taking Effective Interview Notes",
+            "items": [
+                {
+                    "text": "Recording evidence rather than judgments",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing key actions and results",
+                    "level": 0
+                },
+                {
+                    "text": "Using concise factual language",
+                    "level": 0
+                },
+                {
+                    "text": "Separating notes from ratings",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding inappropriate personal comments",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining attention while taking notes",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring notes support later comparison",
+                    "level": 0
+                },
+                {
+                    "text": "Handling interview records appropriately",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Structuring the Interview",
+            "items": [
+                {
+                    "text": "Preparing before the candidate arrives",
+                    "level": 0
+                },
+                {
+                    "text": "Opening the interview professionally",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining the interview structure",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing appropriate rapport",
+                    "level": 0
+                },
+                {
+                    "text": "Managing time across competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Transitioning between questions",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing candidate questions",
+                    "level": 0
+                },
+                {
+                    "text": "Closing the interview clearly and professionally",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Creating a Consistent Candidate Experience",
+            "items": [
+                {
+                    "text": "Using a common interview structure",
+                    "level": 0
+                },
+                {
+                    "text": "Applying comparable core questions",
+                    "level": 0
+                },
+                {
+                    "text": "Providing equivalent opportunity to demonstrate evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining professional neutrality",
+                    "level": 0
+                },
+                {
+                    "text": "Managing interruptions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unnecessary stress techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining next steps",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting the organization's employer reputation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Candidate Evidence",
+            "items": [
+                {
+                    "text": "Comparing evidence with behavioral indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing complexity of the example",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing the candidate's personal contribution",
+                    "level": 0
+                },
+                {
+                    "text": "Considering consistency across examples",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing evidence from claims",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying insufficient evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the basis of the assessment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Rating Scales",
+            "items": [
+                {
+                    "text": "Defining rating levels",
+                    "level": 0
+                },
+                {
+                    "text": "Creating behavioral anchors",
+                    "level": 0
+                },
+                {
+                    "text": "Applying standards consistently",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overly broad rating categories",
+                    "level": 0
+                },
+                {
+                    "text": "Rating each competency separately",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence to justify ratings",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding premature overall judgments",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing ratings after the interview",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Interviewer Bias",
+            "items": [
+                {
+                    "text": "First-impression bias",
+                    "level": 0
+                },
+                {
+                    "text": "Halo effect",
+                    "level": 0
+                },
+                {
+                    "text": "Horn effect",
+                    "level": 0
+                },
+                {
+                    "text": "Similarity bias",
+                    "level": 0
+                },
+                {
+                    "text": "Confirmation bias",
+                    "level": 0
+                },
+                {
+                    "text": "Contrast effect",
+                    "level": 0
+                },
+                {
+                    "text": "Stereotyping",
+                    "level": 0
+                },
+                {
+                    "text": "Using structure and evidence to reduce bias",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Avoiding Common Interviewing Errors",
+            "items": [
+                {
+                    "text": "Talking too much",
+                    "level": 0
+                },
+                {
+                    "text": "Asking leading questions",
+                    "level": 0
+                },
+                {
+                    "text": "Accepting superficial answers",
+                    "level": 0
+                },
+                {
+                    "text": "Judging style instead of evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing one answer to dominate the assessment",
+                    "level": 0
+                },
+                {
+                    "text": "Making decisions too early",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing candidates with each other instead of the criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Using inconsistent standards",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Challenging Interview Situations",
+            "items": [
+                {
+                    "text": "Very brief answers",
+                    "level": 0
+                },
+                {
+                    "text": "Overly long answers",
+                    "level": 0
+                },
+                {
+                    "text": "Candidates who avoid the question",
+                    "level": 0
+                },
+                {
+                    "text": "Candidates who provide rehearsed responses",
+                    "level": 0
+                },
+                {
+                    "text": "Highly nervous candidates",
+                    "level": 0
+                },
+                {
+                    "text": "Candidates who challenge the interviewer",
+                    "level": 0
+                },
+                {
+                    "text": "Insufficient evidence in a competency",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining professionalism under pressure",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Assessing Leadership and Management Competencies",
+            "items": [
+                {
+                    "text": "Leadership judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Decision making",
+                    "level": 0
+                },
+                {
+                    "text": "Delegation",
+                    "level": 0
+                },
+                {
+                    "text": "Performance management",
+                    "level": 0
+                },
+                {
+                    "text": "Influencing",
+                    "level": 0
+                },
+                {
+                    "text": "Conflict management",
+                    "level": 0
+                },
+                {
+                    "text": "Developing others",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting questions to senior-level candidates",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Assessing Communication and Interpersonal Competencies",
+            "items": [
+                {
+                    "text": "Communication effectiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Listening",
+                    "level": 0
+                },
+                {
+                    "text": "Collaboration",
+                    "level": 0
+                },
+                {
+                    "text": "Stakeholder management",
+                    "level": 0
+                },
+                {
+                    "text": "Influence and persuasion",
+                    "level": 0
+                },
+                {
+                    "text": "Customer orientation",
+                    "level": 0
+                },
+                {
+                    "text": "Managing difficult relationships",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating behavior through relevant examples",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Assessing Problem Solving and Decision Making",
+            "items": [
+                {
+                    "text": "Understanding the problem context",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring analysis performed",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying alternatives considered",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding decision criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring risk assessment",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the final decision",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing outcome and learning",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing independent judgment from escalation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Assessing Adaptability and Resilience",
+            "items": [
+                {
+                    "text": "Responding to change",
+                    "level": 0
+                },
+                {
+                    "text": "Working under pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Handling setbacks",
+                    "level": 0
+                },
+                {
+                    "text": "Changing approach when evidence changes",
+                    "level": 0
+                },
+                {
+                    "text": "Learning from mistakes",
+                    "level": 0
+                },
+                {
+                    "text": "Managing competing demands",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining effectiveness during uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing resilience from simple endurance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conducting Panel Interviews",
+            "items": [
+                {
+                    "text": "Clarifying panel roles",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating competencies and questions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining a coordinated interview flow",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding repeated questions",
+                    "level": 0
+                },
+                {
+                    "text": "Ensuring all panel members capture evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Managing follow-up probes",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping individual ratings independent initially",
+                    "level": 0
+                },
+                {
+                    "text": "Consolidating evidence after the interview",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Calibrating Interviewer Ratings",
+            "items": [
+                {
+                    "text": "Comparing evidence against common standards",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing rating differences",
+                    "level": 0
+                },
+                {
+                    "text": "Returning to behavioral indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Challenging unsupported judgments",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding seniority-driven decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Separating evidence from advocacy",
+                    "level": 0
+                },
+                {
+                    "text": "Reaching a reasoned final assessment",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing areas of uncertainty",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making the Selection Decision",
+            "items": [
+                {
+                    "text": "Reviewing competency ratings",
+                    "level": 0
+                },
+                {
+                    "text": "Considering essential requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying strengths and risks",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding simple averaging where critical competencies differ",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing trainable gaps from critical deficiencies",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence to support recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting decision rationale",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistency with the selection criteria",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Legal, Ethical, and Professional Considerations",
+            "items": [
+                {
+                    "text": "Keeping questions job relevant",
+                    "level": 0
+                },
+                {
+                    "text": "Respecting privacy",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding discriminatory questioning",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining confidentiality",
+                    "level": 0
+                },
+                {
+                    "text": "Using consistent assessment criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Handling candidate information responsibly",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining professional conduct",
+                    "level": 0
+                },
+                {
+                    "text": "Following organizational policies and applicable requirements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrating Interviews with Other Selection Methods",
+            "items": [
+                {
+                    "text": "Understanding the limits of interviews",
+                    "level": 0
+                },
+                {
+                    "text": "Using technical assessments",
+                    "level": 0
+                },
+                {
+                    "text": "Using work samples",
+                    "level": 0
+                },
+                {
+                    "text": "Using assessment centers",
+                    "level": 0
+                },
+                {
+                    "text": "Using psychometric tools appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Using reference checks",
+                    "level": 0
+                },
+                {
+                    "text": "Combining evidence from multiple methods",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding double counting the same evidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Competency-Based Interview Simulation",
+            "items": [
+                {
+                    "text": "Reviewing a role profile",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Developing behavioral questions",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting the interview",
+                    "level": 0
+                },
+                {
+                    "text": "Using structured probes",
+                    "level": 0
+                },
+                {
+                    "text": "Capturing evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Rating candidate responses",
+                    "level": 0
+                },
+                {
+                    "text": "Providing interviewer feedback",
+                    "level": 0
+                },
+                {
+                    "text": "Making an evidence-based selection recommendation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Competency-Based Interviewing Action Plan",
+            "items": [
+                {
+                    "text": "Reviewing current interview practices",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying priority competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Improving question banks",
+                    "level": 0
+                },
+                {
+                    "text": "Strengthening probing techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Standardizing rating scales",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing interviewer bias",
+                    "level": 0
+                },
+                {
+                    "text": "Improving panel calibration",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a practical Competency-Based Interviewing Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

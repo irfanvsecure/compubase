@@ -1,0 +1,646 @@
+{
+    "file": "Critical_Thinking.docx",
+    "title": "Critical Thinking",
+    "duration": "3 Days",
+    "overview": [
+        "Critical thinking is the disciplined process of examining information, assumptions, arguments, and evidence before reaching conclusions or making decisions. In modern workplaces, professionals are continuously exposed to large volumes of information, competing viewpoints, incomplete data, persuasive messages, and time-sensitive problems. The ability to think critically helps individuals move beyond first impressions and habitual responses toward more reasoned, evidence-based judgments.",
+        "The Critical Thinking course is designed to strengthen participants’ ability to analyze situations objectively, ask purposeful questions, distinguish facts from assumptions and opinions, evaluate the quality and relevance of evidence, identify weaknesses in reasoning, and construct sound conclusions. Participants will explore practical frameworks that can be applied to everyday workplace problems, discussions, proposals, reports, meetings, and decisions.",
+        "The program also develops awareness of cognitive biases and thinking traps that can distort judgment. Participants will practice recognizing assumptions, considering alternative explanations, testing claims, comparing options, and communicating reasoning clearly and constructively.",
+        "Through case studies, structured questioning, problem-solving exercises, argument analysis, decision scenarios, and reflective activities, participants will develop a practical critical-thinking approach that supports better judgment, stronger problem solving, more effective decision-making, and greater confidence when dealing with complex or ambiguous situations."
+    ],
+    "audience": [
+        "This course is suitable for managers, supervisors, team leaders, professionals, analysts, administrators, project team members, customer-facing employees, and other individuals whose roles require problem solving, evaluation of information, decision-making, or the communication of recommendations. It is particularly beneficial for professionals who need to assess competing viewpoints, work with incomplete or complex information, challenge assumptions constructively, and make well-reasoned decisions in the workplace."
+    ],
+    "methodology": [
+        "The course uses an interactive and application-focused methodology combining short instructor-led presentations with individual thinking exercises, case studies, workplace scenarios, structured questioning, argument analysis, group discussions, problem-solving activities, decision simulations, and reflective assessments. Participants will examine realistic claims and situations, identify assumptions and biases, evaluate evidence, compare alternative interpretations, and practice explaining the reasoning behind their conclusions. The methodology emphasizes practical transfer to workplace decisions and encourages participants to develop a repeatable critical-thinking process that can be used after the course."
+    ],
+    "competencies": [
+        "Analytical thinking",
+        "Logical reasoning",
+        "Evidence evaluation",
+        "Questioning and inquiry",
+        "Problem identification",
+        "Assumption testing",
+        "Cognitive bias awareness",
+        "Argument analysis",
+        "Decision-making",
+        "Problem solving",
+        "Open-mindedness and intellectual flexibility",
+        "Reasoned communication"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the principles and workplace value of critical thinking.",
+        "Distinguish facts, opinions, assumptions, interpretations, and inferences when evaluating information.",
+        "Apply structured questioning techniques to clarify issues and uncover missing information.",
+        "Identify assumptions and test whether they are reasonable and adequately supported.",
+        "Evaluate the credibility, relevance, sufficiency, and consistency of evidence.",
+        "Analyze arguments by identifying claims, reasons, evidence, and conclusions.",
+        "Recognize common logical fallacies, cognitive biases, and thinking traps that can weaken judgment.",
+        "Consider alternative explanations and perspectives before reaching conclusions.",
+        "Apply systematic approaches to define and analyze workplace problems.",
+        "Compare options using explicit criteria and make more defensible decisions.",
+        "Communicate conclusions and recommendations using clear, evidence-based reasoning.",
+        "Develop an individual action plan for applying critical thinking in daily professional situations."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Critical Thinking",
+            "items": [
+                {
+                    "text": "Defining critical thinking and its role in professional effectiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing critical thinking from criticism, negativity, and fault-finding",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the relationship between critical thinking, problem solving, and decision-making",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the characteristics of a critical thinker",
+                    "level": 0
+                },
+                {
+                    "text": "Moving from automatic reactions to deliberate thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the importance of curiosity, intellectual humility, and open-mindedness",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the influence of context on judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing healthy skepticism with practical action",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying situations that require deeper analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the consequences of weak reasoning in the workplace",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Facts, Opinions, Assumptions and Inferences",
+            "items": [
+                {
+                    "text": "Distinguishing facts from opinions and interpretations",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing explicit and implicit assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding how assumptions influence conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Separating observation from interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing inferences and how they are formed",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying unsupported generalizations",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether an assumption is necessary or justified",
+                    "level": 0
+                },
+                {
+                    "text": "Examining the difference between possibility, probability, and certainty",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding premature conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing fact–assumption–inference analysis using workplace examples",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Asking Powerful Critical-Thinking Questions",
+            "items": [
+                {
+                    "text": "Using questions to clarify meaning and purpose",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring what is known, unknown, and uncertain",
+                    "level": 0
+                },
+                {
+                    "text": "Applying open and closed questions appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Using probing questions to uncover underlying issues",
+                    "level": 0
+                },
+                {
+                    "text": "Questioning definitions, assumptions, evidence, and conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Applying the Five Whys to explore underlying causes",
+                    "level": 0
+                },
+                {
+                    "text": "Using Socratic questioning to deepen analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for examples, exceptions, and counterexamples",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying missing information before making judgments",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding leading and loaded questions",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a disciplined questioning habit",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evaluating Information and Evidence",
+            "items": [
+                {
+                    "text": "Determining what counts as relevant evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating the credibility and reliability of information sources",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing primary information from second-hand interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing the accuracy, currency, and completeness of information",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing correlation versus causation",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the importance of sample size and representativeness",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying selective evidence and cherry-picking",
+                    "level": 0
+                },
+                {
+                    "text": "Checking whether evidence genuinely supports a claim",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing conflicting sources of information",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing uncertainty and limitations in available evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Deciding when sufficient evidence is available to act",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Arguments and Reasoning",
+            "items": [
+                {
+                    "text": "Understanding the structure of an argument",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying claims, premises, reasons, evidence, and conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing explanation from argument",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing stated and unstated premises",
+                    "level": 0
+                },
+                {
+                    "text": "Testing whether reasons are relevant to the conclusion",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating whether the evidence is sufficient",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing contradictions and inconsistencies",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing strong arguments from persuasive language",
+                    "level": 0
+                },
+                {
+                    "text": "Constructing clear and logically connected reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Challenging arguments constructively without attacking the person",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing an argument fairly before evaluating it",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognizing Logical Fallacies",
+            "items": [
+                {
+                    "text": "Understanding how fallacies weaken reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing hasty generalization",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying false cause and mistaken causal reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing false dilemma and either-or thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying slippery-slope reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing appeals to authority when expertise is irrelevant or insufficient",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying ad hominem reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing circular reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying straw-man arguments",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing bandwagon and popularity-based reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying emotional appeals that substitute for evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing fallacy detection in workplace statements and discussions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Cognitive Biases and Thinking Traps",
+            "items": [
+                {
+                    "text": "Understanding cognitive bias and its effect on judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing confirmation bias",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying anchoring and adjustment effects",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding availability bias",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing overconfidence",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying status quo bias",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding framing effects",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing halo and horn effects",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying sunk-cost thinking",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding groupthink and conformity pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing attribution errors",
+                    "level": 0
+                },
+                {
+                    "text": "Using deliberate checks to reduce the influence of bias",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Exploring Alternative Perspectives",
+            "items": [
+                {
+                    "text": "Understanding the value of multiple perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Separating disagreement from personal conflict",
+                    "level": 0
+                },
+                {
+                    "text": "Looking for alternative explanations",
+                    "level": 0
+                },
+                {
+                    "text": "Applying devil’s-advocate thinking appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Considering evidence that could disconfirm a preferred view",
+                    "level": 0
+                },
+                {
+                    "text": "Using perspective-taking to understand stakeholder positions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying blind spots created by experience and expertise",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing possibility from plausibility",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing competing hypotheses",
+                    "level": 0
+                },
+                {
+                    "text": "Updating conclusions when stronger evidence becomes available",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining intellectual flexibility without becoming indecisive",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Critical Thinking for Problem Solving",
+            "items": [
+                {
+                    "text": "Defining the real problem before attempting to solve it",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing symptoms from underlying causes",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the desired state and the current state",
+                    "level": 0
+                },
+                {
+                    "text": "Gathering relevant information about the problem",
+                    "level": 0
+                },
+                {
+                    "text": "Using cause-and-effect analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Applying the Five Whys to root-cause exploration",
+                    "level": 0
+                },
+                {
+                    "text": "Breaking complex problems into manageable components",
+                    "level": 0
+                },
+                {
+                    "text": "Generating multiple solution alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Testing proposed solutions against constraints and consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Anticipating unintended consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting solutions based on evidence and defined criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing results and learning from implementation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Critical Thinking for Better Decisions",
+            "items": [
+                {
+                    "text": "Clarifying the decision to be made",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying objectives and decision criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing essential criteria from preferences",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing options systematically",
+                    "level": 0
+                },
+                {
+                    "text": "Considering risks, trade-offs, and opportunity costs",
+                    "level": 0
+                },
+                {
+                    "text": "Testing assumptions behind preferred options",
+                    "level": 0
+                },
+                {
+                    "text": "Considering short-term and long-term consequences",
+                    "level": 0
+                },
+                {
+                    "text": "Using scenario thinking to examine possible outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when additional information is worth obtaining",
+                    "level": 0
+                },
+                {
+                    "text": "Making decisions under uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting the reasoning behind important decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing decisions without hindsight bias",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating Critical Thinking",
+            "items": [
+                {
+                    "text": "Presenting reasoning in a clear and structured manner",
+                    "level": 0
+                },
+                {
+                    "text": "Separating evidence from interpretation when communicating",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining assumptions and limitations transparently",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting recommendations with relevant evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Using questions to challenge ideas respectfully",
+                    "level": 0
+                },
+                {
+                    "text": "Disagreeing constructively",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to objections with reason rather than defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excessive certainty when evidence is limited",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing complex reasoning for different audiences",
+                    "level": 0
+                },
+                {
+                    "text": "Building credibility through balanced analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging critical dialogue within teams",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Your Critical-Thinking Practice",
+            "items": [
+                {
+                    "text": "Assessing personal critical-thinking strengths and improvement areas",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying situations in which thinking becomes reactive or biased",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing personal assumptions and habitual thinking patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a personal checklist for important judgments and decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Building reflection into daily work",
+                    "level": 0
+                },
+                {
+                    "text": "Seeking evidence that challenges preferred conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Using feedback to improve reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing deliberate questioning in meetings and discussions",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing methods for reviewing important decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting priority behaviors for continued development",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a Personal Critical Thinking Improvement Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

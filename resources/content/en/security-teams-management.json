@@ -1,0 +1,585 @@
+{
+    "file": "Security_Teams_Management.docx",
+    "title": "SECURITY TEAMS MANAGEMENT",
+    "duration": "3 Days",
+    "overview": [
+        "This practical course equips security supervisors and managers to lead, deploy, coordinate, and improve physical security teams across facilities, events, and operational sites. Participants develop the leadership, risk-based planning, workforce management, communication, incident command, and performance-monitoring skills needed to deliver professional, lawful, and reliable security operations. Emphasis is placed on clear procedures, proportional responses, staff welfare, coordination with stakeholders, and continuous improvement."
+    ],
+    "audience": [
+        "Security supervisors, shift leaders, site security managers, control room supervisors, facilities and operations managers with security responsibilities, contract security coordinators, and experienced security officers preparing for leadership roles."
+    ],
+    "methodology": [
+        "Facilitated discussions, realistic site-security case studies, team deployment exercises, shift briefing simulations, incident tabletop scenarios, communication drills, supervisor role plays, performance dashboard workshops, and a practical security team improvement plan."
+    ],
+    "competencies": [
+        "Security team leadership and supervision",
+        "Operational deployment, rostering, and resource allocation",
+        "Threat and vulnerability awareness and risk-based prioritization",
+        "Standard operating procedures and compliance oversight",
+        "Incident coordination, escalation, and reporting",
+        "Communication, conflict management, and staff coaching",
+        "Quality assurance, performance measurement, and continuous improvement"
+    ],
+    "objectivesIntro": [],
+    "objectives": [
+        "Define the responsibilities, authority, and ethical obligations of a security team leader.",
+        "Translate site risks and service requirements into practical post orders and staffing plans.",
+        "Organize shifts, patrols, access control, and control-room coverage effectively.",
+        "Deliver concise briefings, maintain accurate records, and coordinate with stakeholders.",
+        "Direct an appropriate initial response to incidents while protecting life and preserving evidence.",
+        "Coach security personnel, manage performance concerns, and reinforce professional conduct.",
+        "Monitor operational KPIs, conduct reviews, and implement measurable improvements."
+    ],
+    "outline": [
+        {
+            "title": "Foundations of Security Team Management",
+            "items": [
+                {
+                    "text": "Purpose and scope of physical security operations",
+                    "level": 0
+                },
+                {
+                    "text": "Core responsibilities of supervisors, team leaders, and officers",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing deterrence, protection, customer service, and continuity",
+                    "level": 0
+                },
+                {
+                    "text": "Security management within the wider organizational structure",
+                    "level": 0
+                },
+                {
+                    "text": "Boundaries of authority and the importance of lawful conduct",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Roles, Accountability, and Command Structure",
+            "items": [
+                {
+                    "text": "Defining roles, reporting lines, and decision rights",
+                    "level": 0
+                },
+                {
+                    "text": "Delegation and accountability across posts and shifts",
+                    "level": 0
+                },
+                {
+                    "text": "Span of control and supervisory coverage",
+                    "level": 0
+                },
+                {
+                    "text": "Escalation thresholds and approval authorities",
+                    "level": 0
+                },
+                {
+                    "text": "Handover arrangements and continuity of command",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding the Security Operating Environment",
+            "items": [
+                {
+                    "text": "Site characteristics, assets, people, and operating hours",
+                    "level": 0
+                },
+                {
+                    "text": "Common threats, vulnerabilities, and exposure points",
+                    "level": 0
+                },
+                {
+                    "text": "Stakeholder expectations and service-level requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Changes in threat posture and operational demand",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating security priorities with business needs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Risk-Based Security Planning",
+            "items": [
+                {
+                    "text": "Identifying and recording security risks",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing likelihood, impact, and existing controls",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing high-consequence locations and activities",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting proportionate preventive and response measures",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing risk assumptions after incidents or site changes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Security Staffing and Resource Allocation",
+            "items": [
+                {
+                    "text": "Matching post coverage to site risk and workload",
+                    "level": 0
+                },
+                {
+                    "text": "Planning staffing levels, relief, and contingency cover",
+                    "level": 0
+                },
+                {
+                    "text": "Rostering shifts, breaks, leave, and overtime",
+                    "level": 0
+                },
+                {
+                    "text": "Managing fatigue and maintaining alertness",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating equipment and specialist capabilities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Post Orders and Standard Operating Procedures",
+            "items": [
+                {
+                    "text": "Writing clear post-specific duties and instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Access control, visitor management, and patrol requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Key, asset, and equipment accountability procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Emergency instructions and escalation contacts",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing and communicating procedural updates",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shift Briefings and Operational Handover",
+            "items": [
+                {
+                    "text": "Structuring pre-shift briefings and task assignments",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating alerts, priorities, and special instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing incidents, defects, and unresolved matters",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining complete and accurate shift logs",
+                    "level": 0
+                },
+                {
+                    "text": "Verifying understanding and readiness before deployment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Patrol Management and Site Coverage",
+            "items": [
+                {
+                    "text": "Designing risk-based patrol routes and frequencies",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing visible presence with unpredictable coverage",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting patrol observations and exceptions",
+                    "level": 0
+                },
+                {
+                    "text": "Checking critical infrastructure and vulnerable points",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to missed patrols and coverage gaps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Access Control and Visitor Operations",
+            "items": [
+                {
+                    "text": "Supervising identity and authorization checks",
+                    "level": 0
+                },
+                {
+                    "text": "Managing visitor, contractor, and delivery processes",
+                    "level": 0
+                },
+                {
+                    "text": "Handling access exceptions and restricted areas",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining privacy and professional interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Auditing access-control compliance and records",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Control Room and Surveillance Coordination",
+            "items": [
+                {
+                    "text": "Control room roles and operating protocols",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring alarms, CCTV, and incident notifications",
+                    "level": 0
+                },
+                {
+                    "text": "Dispatching officers and tracking response status",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining communications and audit trails",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating technical faults and system outages",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Leading and Motivating Security Personnel",
+            "items": [
+                {
+                    "text": "Setting clear expectations and modeling discipline",
+                    "level": 0
+                },
+                {
+                    "text": "Building trust, cohesion, and professional pride",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing good performance and initiative",
+                    "level": 0
+                },
+                {
+                    "text": "Handling low morale and workplace friction",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting supervision to staff capability and experience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communication and Team Coordination",
+            "items": [
+                {
+                    "text": "Using clear radio and telephone communication",
+                    "level": 0
+                },
+                {
+                    "text": "Closed-loop instructions and message confirmation",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating mobile patrols and fixed posts",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating across languages and diverse teams",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining confidentiality and information discipline",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Conflict and Difficult Situations",
+            "items": [
+                {
+                    "text": "Recognizing escalating behavior and warning signs",
+                    "level": 0
+                },
+                {
+                    "text": "Verbal de-escalation and respectful boundary setting",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining officer safety and requesting assistance",
+                    "level": 0
+                },
+                {
+                    "text": "Applying proportionality and approved response protocols",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting interactions and referring serious cases",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Incident Recognition and Initial Response",
+            "items": [
+                {
+                    "text": "Recognizing suspicious activity and security incidents",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing life safety and immediate protective actions",
+                    "level": 0
+                },
+                {
+                    "text": "Securing the scene and controlling access",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating to emergency services and management",
+                    "level": 0
+                },
+                {
+                    "text": "Preserving information and avoiding evidence contamination",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Emergency Preparedness and Team Coordination",
+            "items": [
+                {
+                    "text": "Security roles in evacuation and shelter procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting fire, medical, and severe-weather responses",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning assembly, perimeter, and traffic duties",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting drills and checking response readiness",
+                    "level": 0
+                },
+                {
+                    "text": "Debriefing exercises and closing identified gaps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Working with External and Internal Stakeholders",
+            "items": [
+                {
+                    "text": "Liaison with facilities, reception, HR, and operations",
+                    "level": 0
+                },
+                {
+                    "text": "Cooperation with police, emergency services, and regulators",
+                    "level": 0
+                },
+                {
+                    "text": "Managing contractor and client communication",
+                    "level": 0
+                },
+                {
+                    "text": "Setting clear responsibilities during joint responses",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating incident updates without speculation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Security Documentation and Reporting",
+            "items": [
+                {
+                    "text": "Writing factual, objective incident reports",
+                    "level": 0
+                },
+                {
+                    "text": "Recording timelines, actions, witnesses, and outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining occurrence books and digital logs",
+                    "level": 0
+                },
+                {
+                    "text": "Handling sensitive information and records securely",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing reports for completeness and accuracy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Compliance, Ethics, and Professional Standards",
+            "items": [
+                {
+                    "text": "Respecting legal and organizational requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Privacy, dignity, nondiscrimination, and respectful treatment",
+                    "level": 0
+                },
+                {
+                    "text": "Appropriate use of authority and force limitations",
+                    "level": 0
+                },
+                {
+                    "text": "Conflicts of interest and misconduct reporting",
+                    "level": 0
+                },
+                {
+                    "text": "Supervisory checks, audits, and corrective actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Training, Coaching, and Competency Assurance",
+            "items": [
+                {
+                    "text": "Identifying gaps through observation and incidents",
+                    "level": 0
+                },
+                {
+                    "text": "Induction, refresher training, and post familiarization",
+                    "level": 0
+                },
+                {
+                    "text": "On-the-job coaching and practical demonstrations",
+                    "level": 0
+                },
+                {
+                    "text": "Testing readiness through drills and scenario practice",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting competency and training follow-up",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Performance Management and Service Quality",
+            "items": [
+                {
+                    "text": "Defining measurable security service standards",
+                    "level": 0
+                },
+                {
+                    "text": "Tracking response times, patrol completion, and incidents",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing attendance, readiness, and procedural compliance",
+                    "level": 0
+                },
+                {
+                    "text": "Using feedback, audits, and trend analysis",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing underperformance fairly and consistently",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Operational Problem Solving and Improvement",
+            "items": [
+                {
+                    "text": "Analyzing recurring incidents and process failures",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing immediate fixes from root causes",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing corrective actions by risk and feasibility",
+                    "level": 0
+                },
+                {
+                    "text": "Assigning action owners and completion dates",
+                    "level": 0
+                },
+                {
+                    "text": "Verifying improvements and updating procedures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Security Team Management Simulation",
+            "items": [
+                {
+                    "text": "Preparing a risk-based shift deployment plan",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting a supervisor briefing and handover",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating an evolving security incident scenario",
+                    "level": 0
+                },
+                {
+                    "text": "Producing a concise incident report and debrief",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting a 30-day team improvement action plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

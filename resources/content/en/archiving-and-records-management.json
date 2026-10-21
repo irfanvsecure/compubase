@@ -1,0 +1,567 @@
+{
+    "file": "Archiving_and_Records_Management.docx",
+    "title": "Archiving and Records Management",
+    "duration": "3 Days",
+    "overview": [
+        "Effective records management enables organizations to preserve reliable evidence of their activities, retrieve information quickly, meet operational and accountability requirements, and control the growing volume of physical and electronic information. Poorly organized records can result in lost information, duplication, delayed decisions, unnecessary storage, confidentiality risks, and difficulty demonstrating what occurred and when.",
+        "This course provides participants with a practical understanding of the complete records life cycle, from creation and receipt through classification, use, storage, retrieval, retention, archiving, and final disposition. Participants will learn how to distinguish records from general information, establish logical classification and filing structures, apply consistent indexing and naming practices, manage physical and electronic records, and maintain appropriate controls over access and movement.",
+        "The program also addresses retention schedules, inactive records, archival transfer, secure disposal, vital records, confidentiality, and the transition toward electronic records management. Practical exercises allow participants to design filing structures, classify sample records, create retrieval controls, and develop improvements for their own records-management environment."
+    ],
+    "audience": [
+        "Records officers, document controllers, administrative assistants, executive secretaries, office administrators, coordinators, registry and archive staff, information-management personnel, and employees responsible for creating, receiving, filing, storing, retrieving, protecting, retaining, archiving, or disposing of organizational records."
+    ],
+    "methodology": [
+        "The course uses an applied methodology combining facilitator presentations with classification exercises, filing simulations, case studies, records inventories, indexing activities, retention-schedule exercises, physical and electronic records scenarios, group discussions, and practical system-design tasks. Participants will work with realistic records-management situations and develop structures and controls that can be adapted to their own workplace."
+    ],
+    "competencies": [
+        "Records life-cycle management",
+        "Records classification",
+        "Filing system design",
+        "Indexing and referencing",
+        "Physical records management",
+        "Electronic records organization",
+        "Information retrieval",
+        "Retention and disposition control",
+        "Archival management",
+        "Confidentiality and access control",
+        "Vital records protection",
+        "Records quality and compliance"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain the purpose and organizational value of systematic records and archives management.",
+        "Distinguish official records from working documents, reference material, and non-record information.",
+        "Apply the records life cycle to the creation, use, storage, retention, and disposition of records.",
+        "Develop logical classification, filing, indexing, and referencing systems.",
+        "Organize physical and electronic records to support accurate and timely retrieval.",
+        "Apply appropriate controls for record access, movement, confidentiality, and security.",
+        "Use retention schedules to determine how long different records should be maintained.",
+        "Manage inactive records, archival transfers, and secure disposition appropriately.",
+        "Identify vital records and apply practical protection and continuity measures.",
+        "Assess existing records-management practices and identify opportunities for improvement."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Records and Archives Management",
+            "items": [
+                {
+                    "text": "Defining records, documents, information, and archives",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding why organizations create and maintain records",
+                    "level": 0
+                },
+                {
+                    "text": "Records as evidence of business activities and decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Operational, administrative, financial, historical, and accountability value of records",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing official records from convenience copies and reference material",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the responsibilities of records creators, users, custodians, and administrators",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the risks of ineffective records management",
+                    "level": 0
+                },
+                {
+                    "text": "Characteristics of a reliable and well-managed record",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "The Records Life Cycle",
+            "items": [
+                {
+                    "text": "Creation and receipt of records",
+                    "level": 0
+                },
+                {
+                    "text": "Capture and registration",
+                    "level": 0
+                },
+                {
+                    "text": "Classification and organization",
+                    "level": 0
+                },
+                {
+                    "text": "Active use and maintenance",
+                    "level": 0
+                },
+                {
+                    "text": "Storage and retrieval",
+                    "level": 0
+                },
+                {
+                    "text": "Transition from active to inactive status",
+                    "level": 0
+                },
+                {
+                    "text": "Retention and review",
+                    "level": 0
+                },
+                {
+                    "text": "Transfer to archives or final disposition",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining control throughout the records life cycle",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Records Inventory and Classification",
+            "items": [
+                {
+                    "text": "Identifying the records created and received by a department",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting a basic records inventory",
+                    "level": 0
+                },
+                {
+                    "text": "Grouping records according to business functions and activities",
+                    "level": 0
+                },
+                {
+                    "text": "Developing meaningful record categories",
+                    "level": 0
+                },
+                {
+                    "text": "Functional, subject, alphabetical, numerical, chronological, and geographical classification",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting classification methods appropriate to different record types",
+                    "level": 0
+                },
+                {
+                    "text": "Creating classification codes and references",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overlapping, ambiguous, and inconsistent categories",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining classification structures as organizational needs change",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Designing Effective Filing Systems",
+            "items": [
+                {
+                    "text": "Principles of an effective filing system",
+                    "level": 0
+                },
+                {
+                    "text": "Centralized and decentralized filing approaches",
+                    "level": 0
+                },
+                {
+                    "text": "Designing folder and subfolder structures",
+                    "level": 0
+                },
+                {
+                    "text": "Using standardized file titles and labels",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing file-opening and file-closing rules",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing correspondence, forms, reports, contracts, and supporting documents",
+                    "level": 0
+                },
+                {
+                    "text": "Managing duplicate copies",
+                    "level": 0
+                },
+                {
+                    "text": "Applying cross-references where information relates to more than one category",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining filing consistency across users and departments",
+                    "level": 0
+                },
+                {
+                    "text": "Creating practical filing procedures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Indexing, Referencing and Information Retrieval",
+            "items": [
+                {
+                    "text": "Understanding the purpose of indexing",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting useful indexing terms",
+                    "level": 0
+                },
+                {
+                    "text": "Creating reference numbers and identifiers",
+                    "level": 0
+                },
+                {
+                    "text": "Using names, subjects, dates, locations, and other retrieval points",
+                    "level": 0
+                },
+                {
+                    "text": "Applying metadata to electronic records",
+                    "level": 0
+                },
+                {
+                    "text": "Using registers and indexes to locate records",
+                    "level": 0
+                },
+                {
+                    "text": "Recording the movement and temporary removal of physical files",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing misfiling and retrieval delays",
+                    "level": 0
+                },
+                {
+                    "text": "Testing the effectiveness of a retrieval system",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accurate retrieval controls",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Physical Records",
+            "items": [
+                {
+                    "text": "Selecting appropriate folders, files, cabinets, and storage equipment",
+                    "level": 0
+                },
+                {
+                    "text": "Arranging records for efficient access",
+                    "level": 0
+                },
+                {
+                    "text": "Applying file labels and location references",
+                    "level": 0
+                },
+                {
+                    "text": "Managing file circulation and return",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing unauthorized removal or loss",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting records from physical deterioration",
+                    "level": 0
+                },
+                {
+                    "text": "Managing space efficiently",
+                    "level": 0
+                },
+                {
+                    "text": "Separating active, semi-active, and inactive records",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining clean and orderly records-storage areas",
+                    "level": 0
+                },
+                {
+                    "text": "Conducting periodic file reviews",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Electronic Records",
+            "items": [
+                {
+                    "text": "Applying records-management principles to electronic information",
+                    "level": 0
+                },
+                {
+                    "text": "Designing logical electronic folder structures",
+                    "level": 0
+                },
+                {
+                    "text": "Applying consistent electronic file-naming conventions",
+                    "level": 0
+                },
+                {
+                    "text": "Using dates, references, and version indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Managing drafts, approved versions, and final records",
+                    "level": 0
+                },
+                {
+                    "text": "Controlling duplicate electronic copies",
+                    "level": 0
+                },
+                {
+                    "text": "Applying metadata and search criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Managing shared folders and collaborative environments",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining accessibility and authenticity of electronic records",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating electronic records with established classification structures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Retention Scheduling and Records Disposition",
+            "items": [
+                {
+                    "text": "Understanding the purpose of records retention",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying business, operational, legal, and historical retention considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Grouping records into retention categories",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding retention periods and trigger events",
+                    "level": 0
+                },
+                {
+                    "text": "Developing and applying a records retention schedule",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing records when retention periods expire",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing destruction from archival preservation",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting authorized disposal",
+                    "level": 0
+                },
+                {
+                    "text": "Using secure destruction methods for confidential records",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing unauthorized or premature destruction",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Archives and Inactive Records Management",
+            "items": [
+                {
+                    "text": "Distinguishing archives from general inactive storage",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying records with continuing or long-term value",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing inactive records for transfer",
+                    "level": 0
+                },
+                {
+                    "text": "Creating transfer lists and box inventories",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining archive location controls",
+                    "level": 0
+                },
+                {
+                    "text": "Preserving context and original arrangement where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Retrieving archived records when required",
+                    "level": 0
+                },
+                {
+                    "text": "Controlling access to archived information",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing archived holdings periodically",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting long-term preservation and organizational memory",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Confidentiality, Security and Access Control",
+            "items": [
+                {
+                    "text": "Identifying confidential, sensitive, and restricted records",
+                    "level": 0
+                },
+                {
+                    "text": "Applying access permissions according to roles and responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining confidentiality during filing, storage, retrieval, and transfer",
+                    "level": 0
+                },
+                {
+                    "text": "Controlling physical access to records-storage areas",
+                    "level": 0
+                },
+                {
+                    "text": "Managing electronic access rights",
+                    "level": 0
+                },
+                {
+                    "text": "Recording authorized access where required",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting personal and sensitive information",
+                    "level": 0
+                },
+                {
+                    "text": "Managing confidential records during disposal",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to missing or compromised records",
+                    "level": 0
+                },
+                {
+                    "text": "Promoting responsible records-handling behavior",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Vital Records and Business Continuity",
+            "items": [
+                {
+                    "text": "Defining vital and mission-critical records",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying records essential to continued operations",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing risks to important records",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting records from fire, water, loss, damage, and unauthorized access",
+                    "level": 0
+                },
+                {
+                    "text": "Using backup and duplication appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing off-site or alternative storage where required",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing records for recovery",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining current contact and recovery information",
+                    "level": 0
+                },
+                {
+                    "text": "Integrating vital-records protection with continuity arrangements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Improving Records Management Practices",
+            "items": [
+                {
+                    "text": "Assessing existing filing and records-management arrangements",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying duplication, inconsistency, and retrieval problems",
+                    "level": 0
+                },
+                {
+                    "text": "Standardizing classification and naming practices",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying responsibilities for record creation and maintenance",
+                    "level": 0
+                },
+                {
+                    "text": "Developing simple records-management procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Improving user compliance with filing standards",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing periodic reviews and housekeeping routines",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring retention and disposition activities",
+                    "level": 0
+                },
+                {
+                    "text": "Using practical performance indicators for records management",
+                    "level": 0
+                },
+                {
+                    "text": "Developing an improvement plan for the participant's workplace",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

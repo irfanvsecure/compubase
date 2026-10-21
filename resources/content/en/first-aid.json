@@ -1,0 +1,463 @@
+{
+    "file": "First_Aid.docx",
+    "title": "FIRST AID",
+    "duration": "2 Days",
+    "overview": [
+        "This practical course introduces essential first aid knowledge and skills for responding to common medical emergencies and workplace injuries until qualified emergency services take over. Participants learn to recognize hazards, protect themselves and the casualty, activate the local emergency response system, assess responsiveness and breathing, and provide appropriate initial assistance within their training and organizational procedures. The program emphasizes realistic scenarios, supervised skills practice, clear communication and timely handover. It is an introductory training course; any formal first aid or CPR/AED certification depends on the applicable accrediting body and separate assessment requirements."
+    ],
+    "audience": [
+        "Security personnel, facilities and operations staff, office employees, reception and customer-facing teams, supervisors, health and safety representatives, designated workplace first aiders, and employees who may be required to provide initial assistance during an emergency."
+    ],
+    "methodology": [
+        "Instructor-led demonstrations, guided practice with appropriate training equipment, emergency-response scenarios, casualty-assessment drills, simulated emergency calls, paired skills exercises, group discussions, case studies, and formative practical feedback. CPR and AED skills are practiced using suitable training manikins and devices where available, following the current protocols adopted by the training provider."
+    ],
+    "competencies": [
+        "Scene safety and personal protection",
+        "Early recognition of medical emergencies and prompt activation of emergency services",
+        "Structured primary casualty assessment",
+        "Basic CPR and AED awareness and practice",
+        "Management of choking and severe bleeding",
+        "Initial care for common injuries and sudden illness",
+        "Safe positioning, monitoring and reassurance",
+        "Effective incident communication, documentation and handover"
+    ],
+    "objectivesIntro": [],
+    "objectives": [
+        "Identify hazards, apply basic infection-prevention measures and establish a safe response area.",
+        "Explain the first aider’s role, limitations, consent considerations and when to call emergency services.",
+        "Perform a structured initial assessment of responsiveness and normal breathing.",
+        "Demonstrate CPR and AED use on training equipment in accordance with the course protocol.",
+        "Recognize choking and apply age-appropriate response principles within the scope of training.",
+        "Apply initial measures for severe external bleeding and suspected shock.",
+        "Describe appropriate responses to burns, fractures, head injuries and other common incidents.",
+        "Recognize warning signs of time-critical illnesses and seek urgent professional assistance.",
+        "Monitor and reassure a casualty while preparing an accurate emergency handover."
+    ],
+    "outline": [
+        {
+            "title": "Introduction to First Aid and Emergency Readiness",
+            "items": [
+                {
+                    "text": "Purpose and scope of first aid in workplace and public settings",
+                    "level": 0
+                },
+                {
+                    "text": "Responsibilities, limits of competence and duty-of-care considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Importance of early recognition, rapid escalation and professional assistance",
+                    "level": 0
+                },
+                {
+                    "text": "Overview of emergency response roles and workplace procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Practical expectations for safe, calm and effective assistance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Scene Safety and Personal Protection",
+            "items": [
+                {
+                    "text": "Surveying the environment for traffic, electricity, fire and other hazards",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting the responder, casualty and bystanders",
+                    "level": 0
+                },
+                {
+                    "text": "Using gloves and other available personal protective equipment",
+                    "level": 0
+                },
+                {
+                    "text": "Basic infection-prevention and hygiene practices",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unsafe movement or exposure and requesting specialist support",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Emergency Communication and Activation",
+            "items": [
+                {
+                    "text": "Recognizing when urgent medical help is needed",
+                    "level": 0
+                },
+                {
+                    "text": "Calling the applicable local emergency number promptly",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating location, hazards, casualty condition and number of casualties",
+                    "level": 0
+                },
+                {
+                    "text": "Delegating tasks to bystanders and coordinating with site responders",
+                    "level": 0
+                },
+                {
+                    "text": "Following dispatcher instructions and preparing access for responders",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Primary Assessment of the Casualty",
+            "items": [
+                {
+                    "text": "Approaching safely and checking responsiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Checking for normal breathing using the taught protocol",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying life-threatening bleeding and other immediate priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the difference between normal and abnormal gasping",
+                    "level": 0
+                },
+                {
+                    "text": "Reassessment while waiting for professional help",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Cardiopulmonary Resuscitation Fundamentals",
+            "items": [
+                {
+                    "text": "Recognizing suspected cardiac arrest",
+                    "level": 0
+                },
+                {
+                    "text": "The chain of survival and importance of early action",
+                    "level": 0
+                },
+                {
+                    "text": "Chest compression positioning, rate, depth and recoil principles",
+                    "level": 0
+                },
+                {
+                    "text": "Role of rescue breaths where trained and appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Hands-on CPR practice with feedback on training manikins",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Automated External Defibrillator (AED)",
+            "items": [
+                {
+                    "text": "Purpose and limitations of an AED",
+                    "level": 0
+                },
+                {
+                    "text": "Locating and bringing an AED to the casualty",
+                    "level": 0
+                },
+                {
+                    "text": "Following device prompts and placing training pads correctly",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining safety during analysis and shock delivery",
+                    "level": 0
+                },
+                {
+                    "text": "Continuing CPR and coordinating AED use with other responders",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Unresponsive Casualty Who Is Breathing",
+            "items": [
+                {
+                    "text": "Recognizing an unresponsive but normally breathing casualty",
+                    "level": 0
+                },
+                {
+                    "text": "Calling for help and maintaining airway awareness",
+                    "level": 0
+                },
+                {
+                    "text": "Recovery positioning when appropriate and safe",
+                    "level": 0
+                },
+                {
+                    "text": "Special precautions when serious injury is suspected",
+                    "level": 0
+                },
+                {
+                    "text": "Continuous breathing checks and prompt response to deterioration",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Choking and Airway Obstruction",
+            "items": [
+                {
+                    "text": "Identifying mild versus severe airway obstruction",
+                    "level": 0
+                },
+                {
+                    "text": "Encouraging effective coughing when appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating the taught response for severe choking",
+                    "level": 0
+                },
+                {
+                    "text": "Differences in response for adults, children and infants",
+                    "level": 0
+                },
+                {
+                    "text": "Action if the casualty becomes unresponsive and need for escalation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Severe Bleeding and Wound Care",
+            "items": [
+                {
+                    "text": "Recognizing life-threatening external bleeding",
+                    "level": 0
+                },
+                {
+                    "text": "Applying firm direct pressure and appropriate dressings",
+                    "level": 0
+                },
+                {
+                    "text": "Use of tourniquets or wound-packing only where specifically trained and equipped",
+                    "level": 0
+                },
+                {
+                    "text": "Managing minor cuts and abrasions hygienically",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring for deterioration and arranging urgent medical care",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shock and Circulatory Emergencies",
+            "items": [
+                {
+                    "text": "Recognizing possible signs of shock",
+                    "level": 0
+                },
+                {
+                    "text": "Common causes including blood loss and serious illness",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping the casualty safe, warm and reassured",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unnecessary movement and inappropriate food or drink",
+                    "level": 0
+                },
+                {
+                    "text": "Urgent escalation and ongoing observation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Burns, Scalds and Chemical Exposure",
+            "items": [
+                {
+                    "text": "Recognizing thermal, chemical and electrical burn hazards",
+                    "level": 0
+                },
+                {
+                    "text": "Stopping exposure without putting the responder at risk",
+                    "level": 0
+                },
+                {
+                    "text": "Cooling thermal burns using the taught first aid guidance",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting the injured area and avoiding harmful home remedies",
+                    "level": 0
+                },
+                {
+                    "text": "Seeking urgent help for serious burns and hazardous exposures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Fractures, Sprains and Musculoskeletal Injuries",
+            "items": [
+                {
+                    "text": "Recognizing signs of possible fracture, dislocation or sprain",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting the injured part and minimizing movement",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding attempts to straighten suspected fractures",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to suspected spinal or neck injury with caution",
+                    "level": 0
+                },
+                {
+                    "text": "Escalation criteria and safe assistance until professionals arrive",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Head Injuries, Seizures and Fainting",
+            "items": [
+                {
+                    "text": "Recognizing concerning signs after head injury",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting a person during a seizure without restraint",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding placing objects in the mouth",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to fainting and monitoring recovery",
+                    "level": 0
+                },
+                {
+                    "text": "Knowing when immediate medical evaluation is required",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Recognition of Time-Critical Medical Conditions",
+            "items": [
+                {
+                    "text": "Recognizing possible stroke using a simple screening approach",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing possible heart attack symptoms",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing severe allergic reaction and breathing emergencies",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing low blood sugar symptoms and limits of assistance",
+                    "level": 0
+                },
+                {
+                    "text": "Activating urgent care and supporting the casualty without delaying treatment",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Environmental and Workplace Emergencies",
+            "items": [
+                {
+                    "text": "Initial response to heat-related illness and dehydration",
+                    "level": 0
+                },
+                {
+                    "text": "Awareness of heatstroke warning signs and urgent escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing exposure-related risks in industrial and outdoor settings",
+                    "level": 0
+                },
+                {
+                    "text": "Basic precautions for suspected poisoning and chemical incidents",
+                    "level": 0
+                },
+                {
+                    "text": "Coordination with workplace HSE and emergency response plans",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Casualty Monitoring and Handover",
+            "items": [
+                {
+                    "text": "Observing breathing, responsiveness and changing symptoms",
+                    "level": 0
+                },
+                {
+                    "text": "Providing reassurance and protecting dignity and privacy",
+                    "level": 0
+                },
+                {
+                    "text": "Recording times, observations and actions taken",
+                    "level": 0
+                },
+                {
+                    "text": "Clear structured handover to emergency personnel",
+                    "level": 0
+                },
+                {
+                    "text": "Incident reporting in line with organizational procedures",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Scenarios and Skills Review",
+            "items": [
+                {
+                    "text": "Simulated emergency call and scene-safety assessment",
+                    "level": 0
+                },
+                {
+                    "text": "Primary assessment and CPR/AED station practice",
+                    "level": 0
+                },
+                {
+                    "text": "Choking and bleeding response exercises",
+                    "level": 0
+                },
+                {
+                    "text": "Team coordination during multi-step emergency scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Instructor feedback, key learning review and individual improvement actions",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}

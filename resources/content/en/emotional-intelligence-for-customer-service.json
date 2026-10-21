@@ -1,0 +1,973 @@
+{
+    "file": "Emotional_Intelligence_for_Customer_Service.docx",
+    "title": "Emotional Intelligence for Customer Service",
+    "duration": "3 Days",
+    "overview": [
+        "Customer-service professionals work in an environment where emotions strongly influence communication, judgment, satisfaction, conflict, and the quality of the customer relationship. The ability to recognize and manage one’s own emotional reactions while accurately reading and responding to the emotions of customers is therefore a critical service capability.",
+        "This course applies the principles of emotional intelligence directly to customer-service situations. Participants will strengthen self-awareness, emotional self-management, empathy, social awareness, relationship management, listening, and communication while learning how to remain composed under pressure, respond to emotional customers, manage difficult interactions, recover from service failures, and create more positive customer experiences.",
+        "The program is highly practical and uses customer scenarios, self-assessment, reflection, communication exercises, role plays, and de-escalation practice. Participants will learn how emotional intelligence can be translated into observable service behaviors that improve professionalism, trust, customer satisfaction, and personal resilience."
+    ],
+    "audience": [
+        "Customer-service representatives, front-office employees, call-center and contact-center agents, reception personnel, sales and account-management staff, complaint-handling teams, branch employees, service supervisors, team leaders, and professionals whose roles require frequent interaction with customers, particularly in demanding or emotionally sensitive situations."
+    ],
+    "methodology": [
+        "The course uses an experiential methodology combining short presentations, emotional-intelligence self-assessment, guided reflection, customer-service scenarios, active-listening exercises, empathy practice, emotional-trigger analysis, role plays, de-escalation simulations, complaint-handling activities, peer feedback, group discussion, and personal action planning. The emphasis is on translating emotional-intelligence concepts into practical behaviors that can be applied immediately in customer interactions."
+    ],
+    "competencies": [
+        "Emotional self-awareness",
+        "Emotional self-management",
+        "Empathy",
+        "Social awareness",
+        "Active listening",
+        "Customer communication",
+        "Emotional de-escalation",
+        "Relationship management",
+        "Conflict management",
+        "Service recovery",
+        "Professional resilience",
+        "Customer-focused emotional intelligence"
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Explain emotional intelligence and its relevance to customer-service performance.",
+        "Recognize personal emotional triggers and their effect on customer interactions.",
+        "Apply techniques for maintaining composure and professional judgment under pressure.",
+        "Identify emotional cues in customers through verbal and non-verbal communication.",
+        "Use active listening and empathy to improve understanding and trust.",
+        "Adapt communication to different emotional states and customer behaviors.",
+        "Apply emotionally intelligent techniques to de-escalate difficult interactions.",
+        "Handle complaints and service failures without becoming defensive.",
+        "Use emotional intelligence to strengthen customer relationships and service recovery.",
+        "Protect personal wellbeing and recover effectively after emotionally demanding interactions.",
+        "Develop a practical plan for applying emotional intelligence consistently in customer service."
+    ],
+    "outline": [
+        {
+            "title": "Understanding Emotional Intelligence in Customer Service",
+            "items": [
+                {
+                    "text": "Defining emotional intelligence",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the relationship between emotion and behavior",
+                    "level": 0
+                },
+                {
+                    "text": "The role of emotions in customer expectations and perceptions",
+                    "level": 0
+                },
+                {
+                    "text": "How employee emotions influence the customer experience",
+                    "level": 0
+                },
+                {
+                    "text": "Emotional intelligence versus technical service knowledge",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing emotional intelligence as a practical service capability",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the core emotional-intelligence competencies",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting emotional intelligence with customer satisfaction and trust",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Emotional Self-Awareness",
+            "items": [
+                {
+                    "text": "Recognizing emotions as they occur",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying personal emotional patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the connection between thoughts, emotions, and behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing physical signs of emotional activation",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying situations that trigger frustration or defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding how mood affects tone and judgment",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing personal strengths and vulnerabilities in customer interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Using self-awareness to create a pause before reacting",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Identifying Customer-Service Triggers",
+            "items": [
+                {
+                    "text": "Recognizing repeated customer behaviors that create emotional reactions",
+                    "level": 0
+                },
+                {
+                    "text": "Managing reactions to criticism",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to impatience and pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Managing repeated questions or complaints",
+                    "level": 0
+                },
+                {
+                    "text": "Handling perceived unfairness",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing reactions to aggressive tone or language",
+                    "level": 0
+                },
+                {
+                    "text": "Separating the customer's behavior from personal identity",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing for predictable emotional triggers",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Emotions Under Pressure",
+            "items": [
+                {
+                    "text": "Understanding emotional self-regulation",
+                    "level": 0
+                },
+                {
+                    "text": "Using deliberate pauses before responding",
+                    "level": 0
+                },
+                {
+                    "text": "Managing breathing and physical tension",
+                    "level": 0
+                },
+                {
+                    "text": "Controlling voice, pace, and facial expression",
+                    "level": 0
+                },
+                {
+                    "text": "Reframing unhelpful internal interpretations",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining focus on the service objective",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding emotional contagion",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing a professional response rather than an automatic reaction",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Maintaining Professional Composure",
+            "items": [
+                {
+                    "text": "Remaining calm when customers are not calm",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding defensive language",
+                    "level": 0
+                },
+                {
+                    "text": "Separating facts from emotional assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Managing the urge to argue or prove a point",
+                    "level": 0
+                },
+                {
+                    "text": "Responding consistently under repeated pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining respectful body language",
+                    "level": 0
+                },
+                {
+                    "text": "Using silence appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Preserving professionalism without becoming emotionally detached",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Understanding Customer Emotions",
+            "items": [
+                {
+                    "text": "Recognizing frustration, anger, anxiety, disappointment, and confusion",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding how unmet expectations create emotion",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the effect of uncertainty and lack of control",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing the expressed emotion from the underlying need",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding how previous service experiences influence current behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing emotional escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding assumptions based only on surface behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Using emotional insight to guide the response",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Verbal and Non-Verbal Cues",
+            "items": [
+                {
+                    "text": "Listening to changes in tone, pace, and volume",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing emotionally significant words and phrases",
+                    "level": 0
+                },
+                {
+                    "text": "Observing facial expressions and posture",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing signs of impatience or withdrawal",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding the limits of interpreting non-verbal behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Checking interpretations rather than assuming",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting communication when visual cues are unavailable",
+                    "level": 0
+                },
+                {
+                    "text": "Using combined verbal and contextual information",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing Empathy in Customer Interactions",
+            "items": [
+                {
+                    "text": "Understanding empathy in a service context",
+                    "level": 0
+                },
+                {
+                    "text": "Seeing the situation from the customer's perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging feelings without necessarily agreeing",
+                    "level": 0
+                },
+                {
+                    "text": "Using language that demonstrates understanding",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding mechanical or scripted empathy",
+                    "level": 0
+                },
+                {
+                    "text": "Combining empathy with practical action",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining boundaries while showing concern",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when customers need clarity more than reassurance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practicing Active Listening",
+            "items": [
+                {
+                    "text": "Giving the customer full attention",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding premature interruption",
+                    "level": 0
+                },
+                {
+                    "text": "Listening for facts, feelings, and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Using verbal listening signals",
+                    "level": 0
+                },
+                {
+                    "text": "Paraphrasing to confirm understanding",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing complex situations",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying unclear information",
+                    "level": 0
+                },
+                {
+                    "text": "Using listening to reduce repetition and frustration",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Emotionally Intelligent Questions",
+            "items": [
+                {
+                    "text": "Using open questions to understand the customer's perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Using closed questions to confirm facts",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding questions that sound accusatory",
+                    "level": 0
+                },
+                {
+                    "text": "Asking one question at a time",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the customer's desired outcome",
+                    "level": 0
+                },
+                {
+                    "text": "Exploring the underlying concern",
+                    "level": 0
+                },
+                {
+                    "text": "Using questions to move from emotion toward problem solving",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting questioning when the customer is highly emotional",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating with Emotional Awareness",
+            "items": [
+                {
+                    "text": "Selecting words according to the emotional context",
+                    "level": 0
+                },
+                {
+                    "text": "Using calm and respectful language",
+                    "level": 0
+                },
+                {
+                    "text": "Matching communication pace appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding dismissive or provocative phrases",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining processes without sounding defensive",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating limitations with sensitivity",
+                    "level": 0
+                },
+                {
+                    "text": "Using positive language without creating false expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Checking how the message has been received",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Rapport and Trust",
+            "items": [
+                {
+                    "text": "Creating a professional first impression",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating genuine attention",
+                    "level": 0
+                },
+                {
+                    "text": "Using the customer's name appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Showing reliability through clear commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistency between words and actions",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating honestly when information is uncertain",
+                    "level": 0
+                },
+                {
+                    "text": "Following through on promises",
+                    "level": 0
+                },
+                {
+                    "text": "Using emotional intelligence to strengthen relationship quality",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Adapting to Different Customer Behaviors",
+            "items": [
+                {
+                    "text": "Responding to direct and highly assertive customers",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting hesitant or uncertain customers",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating with highly detailed customers",
+                    "level": 0
+                },
+                {
+                    "text": "Managing impatient customers",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to emotionally expressive customers",
+                    "level": 0
+                },
+                {
+                    "text": "Handling customers who provide limited information",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting without stereotyping",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistent service standards while adjusting communication style",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "De-Escalating Difficult Customer Interactions",
+            "items": [
+                {
+                    "text": "Recognizing early signs of escalation",
+                    "level": 0
+                },
+                {
+                    "text": "Lowering emotional intensity through calm behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Allowing the customer to feel heard",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging the concern before explaining",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding argument and counterattack",
+                    "level": 0
+                },
+                {
+                    "text": "Using neutral and solution-focused language",
+                    "level": 0
+                },
+                {
+                    "text": "Moving gradually from emotion to facts and options",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when further de-escalation requires support",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Angry Customers",
+            "items": [
+                {
+                    "text": "Understanding anger as a response to perceived threat, loss, unfairness, or frustration",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding taking anger personally",
+                    "level": 0
+                },
+                {
+                    "text": "Listening without encouraging abusive behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging the source of frustration",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining an even tone",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying the problem after emotional intensity reduces",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting realistic options",
+                    "level": 0
+                },
+                {
+                    "text": "Setting boundaries when anger becomes unacceptable behavior",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Complaints with Emotional Intelligence",
+            "items": [
+                {
+                    "text": "Receiving complaints without defensiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing the emotional significance of the complaint",
+                    "level": 0
+                },
+                {
+                    "text": "Listening before explaining",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging impact",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying facts and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Taking ownership of the next step",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping the customer informed",
+                    "level": 0
+                },
+                {
+                    "text": "Closing the complaint in a way that restores confidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Applying Emotional Intelligence to Service Recovery",
+            "items": [
+                {
+                    "text": "Understanding the emotional impact of service failure",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging what the customer experienced",
+                    "level": 0
+                },
+                {
+                    "text": "Apologizing appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding excuses and blame",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting the immediate issue",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining next steps clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Following up where appropriate",
+                    "level": 0
+                },
+                {
+                    "text": "Using recovery to rebuild trust",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Saying No with Empathy and Assertiveness",
+            "items": [
+                {
+                    "text": "Understanding the emotional effect of refusal",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging the customer's objective",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining limitations clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding cold or abrupt language",
+                    "level": 0
+                },
+                {
+                    "text": "Offering available alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistency under pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Using assertiveness without aggression",
+                    "level": 0
+                },
+                {
+                    "text": "Closing the conversation respectfully when no further option exists",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Setting Professional Emotional Boundaries",
+            "items": [
+                {
+                    "text": "Distinguishing empathy from emotional absorption",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when customer emotions are affecting personal wellbeing",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining appropriate professional distance",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding overpromising to relieve emotional pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Setting limits on disrespectful behavior",
+                    "level": 0
+                },
+                {
+                    "text": "Using escalation procedures appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Protecting service quality while maintaining boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Remaining caring without carrying the customer's emotions afterward",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Managing Conflict Constructively",
+            "items": [
+                {
+                    "text": "Understanding the emotional dynamics of conflict",
+                    "level": 0
+                },
+                {
+                    "text": "Separating positions from underlying interests",
+                    "level": 0
+                },
+                {
+                    "text": "Keeping discussion focused on the issue",
+                    "level": 0
+                },
+                {
+                    "text": "Using respectful assertiveness",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when to explain, listen, negotiate, or pause",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding blame and personal criticism",
+                    "level": 0
+                },
+                {
+                    "text": "Finding practical areas of agreement",
+                    "level": 0
+                },
+                {
+                    "text": "Moving toward an acceptable resolution",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Using Emotional Intelligence Across Service Channels",
+            "items": [
+                {
+                    "text": "Applying emotional intelligence face to face",
+                    "level": 0
+                },
+                {
+                    "text": "Using vocal cues effectively on the telephone",
+                    "level": 0
+                },
+                {
+                    "text": "Expressing empathy clearly in written communication",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding emotional misinterpretation in email and chat",
+                    "level": 0
+                },
+                {
+                    "text": "Managing response timing",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining consistency across channels",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing when to change channels",
+                    "level": 0
+                },
+                {
+                    "text": "Preserving the emotional context during handoffs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Working with Colleagues to Protect the Customer Experience",
+            "items": [
+                {
+                    "text": "Managing emotions during internal service pressure",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding transferring internal frustration to customers",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating constructively with colleagues",
+                    "level": 0
+                },
+                {
+                    "text": "Handling disagreements about customer cases",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing information without blame",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting colleagues after difficult interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining shared ownership of customer outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Using emotional intelligence in escalations and handoffs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Building Emotional Resilience in Customer Service",
+            "items": [
+                {
+                    "text": "Understanding the cumulative effect of emotionally demanding work",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing early signs of emotional fatigue",
+                    "level": 0
+                },
+                {
+                    "text": "Using short recovery techniques between interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding carrying one customer's emotion into the next interaction",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining realistic personal expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Using reflection without excessive self-criticism",
+                    "level": 0
+                },
+                {
+                    "text": "Seeking appropriate support after serious incidents",
+                    "level": 0
+                },
+                {
+                    "text": "Building sustainable emotional habits",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Learning from Emotional Customer Interactions",
+            "items": [
+                {
+                    "text": "Reviewing difficult interactions objectively",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying personal triggers and effective responses",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing patterns in customer emotions",
+                    "level": 0
+                },
+                {
+                    "text": "Separating individual mistakes from process causes",
+                    "level": 0
+                },
+                {
+                    "text": "Using feedback to improve communication",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying situations that require better preparation",
+                    "level": 0
+                },
+                {
+                    "text": "Turning difficult experiences into professional learning",
+                    "level": 0
+                },
+                {
+                    "text": "Sharing lessons appropriately with the team",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Developing a Personal Emotional Intelligence Action Plan",
+            "items": [
+                {
+                    "text": "Assessing current emotional-intelligence strengths",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying priority development areas",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting techniques for managing personal triggers",
+                    "level": 0
+                },
+                {
+                    "text": "Developing stronger listening and empathy habits",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing language for common difficult situations",
+                    "level": 0
+                },
+                {
+                    "text": "Defining strategies for emotional recovery",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying opportunities for workplace practice",
+                    "level": 0
+                },
+                {
+                    "text": "Creating a Personal Emotional Intelligence for Customer Service Action Plan",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}
