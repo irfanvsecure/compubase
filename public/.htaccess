@@ -17,10 +17,10 @@
     RewriteCond %{HTTP:x-xsrf-token} .
     RewriteRule .* - [E=HTTP_X_XSRF_TOKEN:%{HTTP:X-XSRF-Token}]
 
-    # Redirect trailing slashes on the visible URL, without exposing /public.
-    RewriteCond %{THE_REQUEST} \s/+compubase/(.+?)/+\s [NC]
-    RewriteCond %{THE_REQUEST} !\s/+compubase/public/ [NC]
-    RewriteRule ^ /compubase/%1 [R=301,L,NE]
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
 
     # Send Requests To Front Controller...
     RewriteCond %{REQUEST_FILENAME} !-d
