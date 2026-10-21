@@ -54,8 +54,8 @@
       <h1>Get qualified without taking time off work.</h1>
       <p class="lead">Certification, cyber security, AI and language training in Abu Dhabi — delivered weekday mornings or evenings, in English and Arabic, by our in-house faculty.</p>
       <ul class="points">
-        <li>12 scheduled courses across certification, IT and languages</li>
-        <li>Classroom sessions from 2 days to 1 month, Monday to Friday</li>
+        <li>{{ count(\App\Support\Catalog::courses()) }} scheduled courses across management, certification and IT</li>
+        <li>Classroom sessions from 2 to 5 days, Monday to Friday</li>
         <li>In-house delivery available at your premises across the UAE</li>
       </ul>
       <div class="cta-row">
@@ -242,7 +242,7 @@
       <div class="eyebrow">About our training</div>
       <h1>Professional training courses in Abu Dhabi, built for people already in work</h1>
       <p>CompuBase Training Center is a classroom training provider in Abu Dhabi offering professional certification preparation, IT and cyber security courses, and English and Arabic language training. Every programme runs Monday to Friday with a morning group and an evening group, so a qualification does not have to cost you annual leave.</p>
-      <p>Courses range from a two-day Prompt Engineering workshop to a full month of English language tuition. Whichever you choose, you train in a room with a CompuBase instructor rather than working alone through recorded video.</p>
+      <p>Scheduled courses run for two to five days. Whichever you choose, you train in a room with a CompuBase instructor rather than working alone through recorded video.</p>
       <h3>Certification courses for finance, audit and project professionals</h3>
       <p>Our certification track covers four of the credentials most often asked for in UAE job specifications: PMP for project managers, CIA for internal auditors, CMA for management accountants and CISA for information systems auditors. Each runs as forty classroom hours across a working week, with evening groups for candidates in full-time roles.</p>
       <p>Sessions follow the published exam domains for each credential and include worked questions under exam conditions. Examination fees are paid directly to the awarding body and are not included in the course fee.</p>

@@ -1,0 +1,417 @@
+{
+    "file": "Presentation_Skills_Sales_and_Marketing.docx",
+    "title": "Presentation Skills",
+    "duration": "5 Days",
+    "overview": [
+        "This intensive five-day program equips sales and marketing professionals to design and deliver persuasive, audience-centered presentations that convert insights into action. Participants learn to translate customer needs and market evidence into compelling value propositions, structure sales pitches and campaign proposals, use visuals and storytelling effectively, manage objections and questions, and close with clear next steps. The program combines practical demonstrations, coached rehearsal, and a final presentation assessed against a structured performance rubric."
+    ],
+    "audience": [
+        "Sales executives, account managers, business development professionals, and sales team leaders.",
+        "Marketing executives, brand and product managers, campaign specialists, and marketing team leaders.",
+        "Pre-sales consultants, customer success professionals, and client-facing staff who pitch solutions or present results.",
+        "Professionals seeking to strengthen confidence and influence in commercial presentations."
+    ],
+    "methodology": [
+        "Facilitated discussions and demonstrations of effective commercial presentations.",
+        "Practical exercises in audience analysis, message design, and persuasive storytelling.",
+        "Individual and team simulations involving sales pitches, marketing proposals, and client briefings.",
+        "Video-supported delivery practice, peer feedback, trainer coaching, and iterative improvement.",
+        "Pre-course diagnostic, daily skills checks, and a final assessed presentation."
+    ],
+    "competencies": [
+        "Audience and stakeholder analysis for commercial presentations.",
+        "Clear articulation of customer problems, value propositions, and differentiated benefits.",
+        "Persuasive message structure, business storytelling, and evidence-based argumentation.",
+        "Confident verbal and nonverbal delivery, visual communication, and time management.",
+        "Handling objections, facilitating discussion, and gaining audience commitment.",
+        "Adapting sales and marketing presentations to in-person, virtual, and executive settings."
+    ],
+    "objectivesIntro": [
+        "By the end of the course, participants will be able to:"
+    ],
+    "objectives": [
+        "Identify audience priorities, buying motivations, and desired decisions before designing a presentation.",
+        "Build a concise commercial narrative with a strong opening, relevant proof, and a compelling call to action.",
+        "Communicate product, service, campaign, and market information as benefits and measurable business outcomes.",
+        "Design readable, persuasive slides and data visualizations without overwhelming the audience.",
+        "Deliver presentations with credible presence, vocal variety, effective body language, and confident pacing.",
+        "Respond constructively to questions, concerns, and objections while maintaining rapport.",
+        "Present a polished sales pitch or marketing proposal and incorporate structured feedback."
+    ],
+    "outline": [
+        {
+            "title": "The Commercial Presentation Mindset",
+            "items": [
+                {
+                    "text": "Presentations as decision-making conversations rather than information dumps.",
+                    "level": 0
+                },
+                {
+                    "text": "Differences between sales pitches, marketing proposals, product demos, and performance reviews.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the decision, action, or commitment required from the audience.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Audience Analysis and Stakeholder Mapping",
+            "items": [
+                {
+                    "text": "Understanding buyers, decision-makers, influencers, and end users.",
+                    "level": 0
+                },
+                {
+                    "text": "Assessing audience knowledge, pain points, motivations, and objections.",
+                    "level": 0
+                },
+                {
+                    "text": "Tailoring language, evidence, and level of detail to different stakeholder groups.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Setting Objectives and Defining Success",
+            "items": [
+                {
+                    "text": "Writing a single clear presentation objective and desired outcome.",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting presentation objectives to funnel stages and business goals.",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting measurable indicators of engagement and follow-up.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Crafting a Persuasive Value Proposition",
+            "items": [
+                {
+                    "text": "Distinguishing features, advantages, customer benefits, and outcomes.",
+                    "level": 0
+                },
+                {
+                    "text": "Linking the offer to customer problems and business priorities.",
+                    "level": 0
+                },
+                {
+                    "text": "Building concise, differentiated positioning statements.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Structuring a High-Impact Sales Pitch",
+            "items": [
+                {
+                    "text": "Opening with relevance and a credible customer insight.",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing problem, impact, solution, evidence, and recommendation.",
+                    "level": 0
+                },
+                {
+                    "text": "Creating transitions and a logical path toward commitment.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Structuring a Marketing Proposal",
+            "items": [
+                {
+                    "text": "Explaining the business challenge, target segment, and strategic opportunity.",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting campaign objectives, audience strategy, channels, and creative rationale.",
+                    "level": 0
+                },
+                {
+                    "text": "Linking investment, expected outcomes, and measurement to the recommendation.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Opening with Impact",
+            "items": [
+                {
+                    "text": "Using relevant questions, surprising insights, and brief scenarios.",
+                    "level": 0
+                },
+                {
+                    "text": "Establishing credibility and outlining audience value early.",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding generic introductions and unsupported claims.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Storytelling for Sales and Marketing",
+            "items": [
+                {
+                    "text": "Building a simple challenge–action–result narrative.",
+                    "level": 0
+                },
+                {
+                    "text": "Using customer journeys, use cases, and ethical success stories.",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing emotional engagement with commercial evidence.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Evidence, Proof, and Credibility",
+            "items": [
+                {
+                    "text": "Choosing testimonials, demonstrations, case examples, and performance metrics.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining assumptions and limits behind claims and forecasts.",
+                    "level": 0
+                },
+                {
+                    "text": "Making evidence specific, accurate, and easy to understand.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Presenting Market and Customer Insights",
+            "items": [
+                {
+                    "text": "Translating research and segmentation into audience-relevant findings.",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating trends, competitor positioning, and customer behavior.",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing observations, interpretations, and recommendations.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Presenting Pricing, ROI, and Commercial Value",
+            "items": [
+                {
+                    "text": "Explaining total value, trade-offs, and cost of inaction.",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting pricing options and simple return-on-investment scenarios.",
+                    "level": 0
+                },
+                {
+                    "text": "Handling uncertainty and avoiding overstated financial claims.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Slide Design and Visual Hierarchy",
+            "items": [
+                {
+                    "text": "Applying one-message-per-slide and clear information hierarchy.",
+                    "level": 0
+                },
+                {
+                    "text": "Using readable typography, purposeful imagery, and consistent layouts.",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing clutter and ensuring accessibility of visual content.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Data Visualization for Persuasion",
+            "items": [
+                {
+                    "text": "Selecting charts suited to comparisons, trends, and proportions.",
+                    "level": 0
+                },
+                {
+                    "text": "Writing takeaway headlines that accurately reflect the data.",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding misleading scales, decorative complexity, and unsupported conclusions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Verbal Communication and Voice Control",
+            "items": [
+                {
+                    "text": "Practicing articulation, pacing, pauses, emphasis, and vocal variety.",
+                    "level": 0
+                },
+                {
+                    "text": "Replacing filler language with deliberate transitions.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining technical or marketing terminology in plain language.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Body Language and Professional Presence",
+            "items": [
+                {
+                    "text": "Using posture, eye contact, gestures, and movement intentionally.",
+                    "level": 0
+                },
+                {
+                    "text": "Managing nervous energy and establishing authentic confidence.",
+                    "level": 0
+                },
+                {
+                    "text": "Building rapport across diverse and cross-cultural audiences.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Audience Engagement and Interaction",
+            "items": [
+                {
+                    "text": "Using diagnostic questions and brief participation activities.",
+                    "level": 0
+                },
+                {
+                    "text": "Reading engagement signals and adjusting depth or pace.",
+                    "level": 0
+                },
+                {
+                    "text": "Facilitating interaction without losing presentation focus.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Product Demonstrations and Solution Walkthroughs",
+            "items": [
+                {
+                    "text": "Selecting workflows and features that support customer outcomes.",
+                    "level": 0
+                },
+                {
+                    "text": "Narrating demonstrations around user needs and business value.",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing backups and recovering professionally from technical issues.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Questions and Objections",
+            "items": [
+                {
+                    "text": "Listening, clarifying, acknowledging, and responding with evidence.",
+                    "level": 0
+                },
+                {
+                    "text": "Addressing price, risk, timing, fit, and implementation concerns.",
+                    "level": 0
+                },
+                {
+                    "text": "Managing difficult questions without defensiveness or overpromising.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Presenting to Senior Executives and Clients",
+            "items": [
+                {
+                    "text": "Leading with the recommendation, rationale, and business impact.",
+                    "level": 0
+                },
+                {
+                    "text": "Using concise executive summaries and decision-ready alternatives.",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting to interruptions, limited time, and challenging scrutiny.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Virtual and Hybrid Presentation Skills",
+            "items": [
+                {
+                    "text": "Managing camera presence, screen sharing, and digital interaction.",
+                    "level": 0
+                },
+                {
+                    "text": "Adapting slides, pacing, and engagement to remote audiences.",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing technical checks and contingency plans.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Closing and Securing Next Steps",
+            "items": [
+                {
+                    "text": "Summarizing the customer value and strongest supporting evidence.",
+                    "level": 0
+                },
+                {
+                    "text": "Making a specific, proportionate call to action.",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming decisions, owners, timelines, and follow-up communication.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Rehearsal, Feedback, and Final Presentation",
+            "items": [
+                {
+                    "text": "Rehearsing to a time limit using a delivery checklist.",
+                    "level": 0
+                },
+                {
+                    "text": "Delivering an assessed sales pitch or marketing proposal.",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving rubric-based feedback and drafting an individual improvement plan.",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}
