@@ -303,5 +303,7 @@
   <a class="btn btn-navy" href="{{ route('contact') }}">Register</a>
 </div>
 
+@include('partials.course-print', ['ar' => false])
+
 </div>
 @endsection

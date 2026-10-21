@@ -302,6 +302,7 @@
   <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل</a>
 </div>
 
+@include('partials.course-print', ['ar' => true])
 
 </div>
 @endsection

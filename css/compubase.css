@@ -804,16 +804,101 @@ button.dl-link:hover{text-decoration:underline}
 .legal-also{margin-top:26px!important;padding-top:18px;border-top:1px solid var(--line);font-weight:700}
 @media(max-width:640px){.legal-head h1{font-size:30px}.legal-body{padding:24px 20px}}
 
-/* ---------- Course page: "Download the course outline" prints the whole course document ---------- */
+/* ---------- Course PDF download (print): client sample cover + branded content pages ---------- */
+.course-print{display:none}
 @media print{
-  body.print-outline .utility,body.print-outline header.site,body.print-outline .crumbs,body.print-outline .booking,
-  body.print-outline .tabs,body.print-outline .cs-side,body.print-outline .closing,body.print-outline footer.site,
-  body.print-outline .mobile-bar,body.print-outline .wa-float,body.print-outline .related,body.print-outline .course-photo{display:none!important}
-  body.print-outline{background:#fff;padding:0}
-  body.print-outline .course-hero{background:#fff!important;color:#000;padding:0 0 12px}
-  body.print-outline .course-hero *{color:#000!important}
-  body.print-outline .course-hero .container,body.print-outline .course-body .container{display:block}
-  body.print-outline .tab-panel{display:block!important;break-inside:auto;margin-bottom:18px}
+  /* Cover is full-bleed navy; inner sheets keep side margins via padding */
+  @page{margin:0}
+  body.print-outline .utility,body.print-outline header.site,body.print-outline .crumbs,
+  body.print-outline .course-hero,body.print-outline .course-body,body.print-outline .closing,
+  body.print-outline footer.site,body.print-outline .mobile-bar,body.print-outline .wa-float,
+  body.print-outline .related{display:none!important}
+  body.print-outline{
+    background:#fff!important;padding:0!important;color:#22344E;
+    -webkit-print-color-adjust:exact!important;print-color-adjust:exact!important;color-adjust:exact!important
+  }
+  body.print-outline .course-print,
+  body.print-outline .course-print *{
+    -webkit-print-color-adjust:exact!important;print-color-adjust:exact!important;color-adjust:exact!important
+  }
+  body.print-outline .course-print{display:block!important}
+  body.print-outline .cp-cover{
+    position:relative;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;
+    min-height:100vh;box-sizing:border-box;padding:32px 40px 28px;
+    background:#0A1C39!important;background-image:linear-gradient(#0A1C39,#0A1C39)!important;
+    color:#fff!important;page-break-after:always;break-after:page
+  }
+  body.print-outline .cp-cover-bg{
+    position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;pointer-events:none
+  }
+  body.print-outline .cp-cover-logo,
+  body.print-outline .cp-cover-main,
+  body.print-outline .cp-cover-foot{position:relative;z-index:1}
+  body.print-outline .cp-cover-logo{display:block;width:210px;height:auto;margin:0}
+  body.print-outline .cp-cover-main{flex:1;display:flex;flex-direction:column;justify-content:center;padding:24px 0 18px}
+  body.print-outline .cp-badge{
+    display:inline-block;align-self:flex-start;background:#C4A35A!important;color:#0A1C39!important;
+    font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:6px 12px;margin-bottom:18px
+  }
+  body.print-outline .cp-cover h1{color:#fff!important;font-size:36px;line-height:1.15;margin:0 0 14px;font-weight:800}
+  body.print-outline .cp-lead{color:rgba(255,255,255,.9)!important;font-size:15px;line-height:1.55;max-width:520px;margin:0 0 28px}
+  body.print-outline .cp-meta{display:grid;grid-template-columns:repeat(4,1fr);gap:12px 18px;margin-bottom:28px;max-width:640px}
+  body.print-outline .cp-meta span{display:block;font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#C4A35A!important;margin-bottom:4px}
+  body.print-outline .cp-meta b{color:#fff!important;font-size:14px;font-weight:700}
+  body.print-outline .cp-cover-photo{margin-top:8px;max-width:560px}
+  body.print-outline .cp-cover-photo img{
+    display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;
+    border:10px solid #fff;box-shadow:0 18px 40px rgba(0,0,0,.35)
+  }
+  body.print-outline .cp-cover-foot{
+    text-align:center;font-size:11px;font-weight:700;letter-spacing:.2em;color:rgba(255,255,255,.95)!important;padding-top:18px
+  }
+  body.print-outline .cp-doc{width:100%;border-collapse:collapse}
+  body.print-outline .cp-doc>thead>tr>td,body.print-outline .cp-doc>tbody>tr>td,body.print-outline .cp-doc>tfoot>tr>td{
+    padding:0 14mm;border:0;vertical-align:top
+  }
+  body.print-outline .cp-doc>thead>tr>td{padding-top:12mm}
+  body.print-outline .cp-doc>tfoot>tr>td{padding-bottom:10mm;padding-inline:0}
+  body.print-outline .cp-head{
+    display:flex;justify-content:space-between;align-items:flex-start;gap:20px;
+    padding:0 0 14px;margin-bottom:8px;border-bottom:1px solid #E6E1D6
+  }
+  body.print-outline .cp-head img{display:block;width:170px;height:auto}
+  body.print-outline .cp-head-cat{text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+  [dir="rtl"] body.print-outline .cp-head-cat{text-align:left;align-items:flex-start}
+  body.print-outline .cp-ribbon{
+    display:block;width:28px;height:36px;background:#C4A35A!important;
+    clip-path:polygon(0 0,100% 0,100% 100%,50% 78%,0 100%)
+  }
+  body.print-outline .cp-head-cat b{
+    color:#C4A35A!important;font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;max-width:220px;line-height:1.35
+  }
+  body.print-outline .cp-body{padding:10px 0 18px;color:#22344E}
+  body.print-outline .cp-body h2{color:#0F2851!important;font-size:18px;margin:18px 0 8px;page-break-after:avoid}
+  body.print-outline .cp-body h2:first-child{margin-top:4px}
+  body.print-outline .cp-body h3{color:#0F2851!important;font-size:15px;margin:12px 0 6px;page-break-after:avoid}
+  body.print-outline .cp-body p{margin:0 0 10px;font-size:13px;line-height:1.55;color:#22344E}
+  body.print-outline .cp-body ul{margin:0 0 12px;padding:0;list-style:none}
+  body.print-outline .cp-body li{position:relative;padding-inline-start:18px;margin:0 0 5px;font-size:13px;line-height:1.45}
+  body.print-outline .cp-body li::before{content:"•";position:absolute;inset-inline-start:4px;color:#C4A35A;font-weight:800}
+  body.print-outline .cp-checks{display:grid;grid-template-columns:1fr 1fr;gap:4px 18px;margin:0 0 14px!important}
+  body.print-outline .cp-checks li::before{content:"✓";color:#0F2851}
+  body.print-outline .cp-module{margin:0 0 12px;page-break-inside:avoid}
+  body.print-outline .cp-module ul ul{margin:4px 0 6px;padding-inline-start:8px}
+  body.print-outline .cp-foot{
+    position:relative;overflow:hidden;
+    background:#C4A35A!important;background-image:linear-gradient(#C4A35A,#C4A35A)!important;
+    color:#fff!important;margin:10px 14mm 0;text-align:center;font-size:11px;line-height:1.45
+  }
+  body.print-outline .cp-foot-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
+  body.print-outline .cp-foot-inner{position:relative;z-index:1;padding:12px 14px}
+  body.print-outline .cp-foot-row{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px 8px;color:#fff!important}
+  body.print-outline .cp-foot-social{margin-top:4px}
+  body.print-outline .cp-sep{opacity:.7;font-weight:700}
+  body.print-outline .cp-soc{
+    display:inline-flex;align-items:center;justify-content:center;width:16px;height:16px;border-radius:50%;
+    background:rgba(255,255,255,.28)!important;font-size:9px;font-weight:800;color:#fff!important
+  }
 }
 
 /* ---------- Scrolling category row: faded edges, arrows only where there is more ---------- */

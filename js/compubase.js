@@ -322,11 +322,11 @@ document.querySelectorAll('.catalog').forEach(box=>{
 });
 // Course sidebar: links that open a tab, and the "Read more" toggle on long text.
 document.querySelectorAll('[data-open-tab]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();if(showTab(a.dataset.openTab,true)){const t=document.querySelector('.tabs');if(t)t.scrollIntoView({behavior:'smooth'});}}));
-/* Course page: "Download the course outline" prints every part of the course document (save as PDF from the print window). */
+/* Course page: branded PDF cover + Overview→Outline (Save as PDF in the print dialog). */
 document.querySelectorAll('[data-print-outline]').forEach(b=>b.addEventListener('click',()=>{
  document.body.classList.add('print-outline');
  window.print();
- setTimeout(()=>document.body.classList.remove('print-outline'),500);
+ setTimeout(()=>document.body.classList.remove('print-outline'),800);
 }));
 document.querySelectorAll('.cs-toggle').forEach(b=>{
  const box=b.previousElementSibling;
