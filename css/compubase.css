@@ -674,22 +674,31 @@ html[dir="rtl"] .wa-float{right:auto;left:20px}
 .cs-card .cs-photo{display:block;width:calc(100% + 44px);max-width:none;margin:-22px -22px 18px;height:auto;aspect-ratio:16/9;object-fit:cover}
 
 /* ---------- Home: partner logo slider ---------- */
-.accred{background:var(--paper);padding:56px 0 60px;border-bottom:1px solid var(--line);overflow:hidden;max-width:100%}
+.accred{background:var(--paper);padding:56px 0 60px;border-bottom:1px solid var(--line);overflow:hidden;max-width:100%;width:100%}
 .accred-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:30px}
 .accred-head h2{font-size:30px;margin:6px 0 0}
-/* Static wrap — animated marquee was widening the document and enabling left/right page drag */
-.logo-slider{overflow:hidden;width:100%;max-width:100%}
-.logo-track{display:flex;flex-wrap:wrap;justify-content:center;gap:14px 18px;width:100%;max-width:1200px;margin:0 auto;padding:6px 24px;box-sizing:border-box}
-.logo-track .logo-item[aria-hidden]{display:none}
-.logo-item{flex:0 0 auto;width:160px;height:92px;background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;padding:14px 18px;box-sizing:border-box;transition:border-color .25s,box-shadow .25s,transform .25s}
-.logo-item img{max-width:100%;max-height:56px;width:auto;height:auto;object-fit:contain}
+/* Marquee clipped inside the slider — direction:ltr + transform only (no absolute track) so RTL pages do not grow scrollWidth */
+.logo-slider{overflow:hidden;width:100%;max-width:100%;height:124px;direction:ltr;contain:paint;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.logo-track{display:flex;flex-wrap:nowrap;gap:18px;width:max-content;max-width:none;margin:6px 0 0;padding:0;box-sizing:border-box;animation:logo-scroll 60s linear infinite;will-change:transform}
+.logo-slider:hover .logo-track,.logo-slider:focus-within .logo-track{animation-play-state:paused}
+.logo-track .logo-item[aria-hidden]{display:flex}
+.logo-item{flex:0 0 auto;width:190px;height:104px;background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;padding:16px 22px;box-sizing:border-box;transition:border-color .25s,box-shadow .25s,transform .25s}
+.logo-item img{max-width:100%;max-height:64px;width:auto;height:auto;object-fit:contain}
 .logo-item:hover{border-color:var(--gold);box-shadow:0 12px 26px rgba(10,28,57,.1);transform:translateY(-3px)}
+@keyframes logo-scroll{from{transform:translate3d(0,0,0)}to{transform:translate3d(calc(-50% - 9px),0,0)}}
+[dir="rtl"] .logo-track{animation-name:logo-scroll-rtl}
+@keyframes logo-scroll-rtl{from{transform:translate3d(calc(-50% - 9px),0,0)}to{transform:translate3d(0,0,0)}}
+@media(prefers-reduced-motion:reduce){
+  .logo-slider{-webkit-mask-image:none;mask-image:none;height:auto}
+  .logo-track{animation:none;flex-wrap:wrap;justify-content:center;width:100%;max-width:1200px;margin:0 auto;padding:0 16px;will-change:auto}
+  .logo-track .logo-item[aria-hidden]{display:none}
+}
 @media(max-width:640px){
   .accred{padding:44px 0}
   .accred-head h2{font-size:24px}
-  .logo-track{gap:10px 12px;padding:4px 16px}
-  .logo-item{width:calc(50% - 8px);max-width:150px;height:80px;padding:10px 12px}
-  .logo-item img{max-height:48px}
+  .logo-slider{height:104px}
+  .logo-item{width:150px;height:88px;padding:12px 16px}
+  .logo-item img{max-height:52px}
 }
 
 /* ---------- Partners page ---------- */
