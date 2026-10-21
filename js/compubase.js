@@ -15,21 +15,19 @@ const grid=document.getElementById('courseGrid');
 function renderGrid(list){
   if(!grid) return;
   grid.innerHTML='';
-  list.slice(0,6).forEach(c=>{
+  list.slice(0,6).forEach((c,i)=>{
+    const media=c.photo
+      ?`<img src="${esc(c.photo)}" alt="" loading="lazy">`
+      :`<div class="cp-mark">${esc(c.mark||'?')}</div>`;
     grid.insertAdjacentHTML('beforeend',`
-    <div class="course-card">
-      <div class="head"><span class="tag">${esc(c.catName)}</span><h3>${esc(c.title)}</h3></div>
-      <div class="body">
-        <p>${c.summary?esc(c.summary):'[Course summary from the CompuBase course outline.]'}</p>
-        <div class="meta">
-          <div><span>Duration</span><b>${c.dur}</b></div>
-          <div><span>Timing</span><b>Morning or evening</b></div>
-          <div><span>Days</span><b>Monday to Friday</b></div>
-          <div><span>Next start</span><b style="color:var(--gold-ink)">2026 &amp; 2027</b></div>
-        </div>
-        <a class="btn btn-outline" href="${c.url}">Course details and fees →</a>
+    <a class="cp-card course-card" href="${esc(c.url)}">
+      <div class="cp-photo">${media}<span class="cp-days">${esc(c.dur)}</span><span class="cp-num">${String(i+1).padStart(2,'0')}</span></div>
+      <div class="cp-body">
+        <h3>${esc(c.title)}</h3>
+        <p>${c.summary?esc(c.summary):'Full course outline, dates and fees on the course page.'}</p>
+        <div class="cp-foot"><span>Mon – Fri · Morning or evening</span><b>Details →</b></div>
       </div>
-    </div>`);
+    </a>`);
   });
 }
 /* Scrolling category row: arrows step through it and grey out at either end. Returns a refresh function. */
@@ -249,7 +247,7 @@ document.querySelectorAll('[data-scroll]').forEach(a=>{
 /* ---------------- All Courses and Schedule: category filter and pagination ---------------- */
 document.querySelectorAll('.catalog').forEach(box=>{
  const perPage=+box.dataset.perPage||12;
- const cards=[...box.querySelectorAll('.course-grid>.course-card,.sched tbody>tr')];
+ const cards=[...box.querySelectorAll('.course-grid>.course-card,.course-grid>.cp-card,.sched tbody>tr')];
  const tabs=[...box.querySelectorAll('.feat-groups [data-group]')];
  const chips=[...box.querySelectorAll('.feat-cats [data-cat]')];
  const rail=box.querySelector('.feat-rail'), resetRail=railArrows(rail);

@@ -1,20 +1,31 @@
+{{-- Course card used on home + /courses (same photo layout as category pages). $ar: Arabic. --}}
 @use('App\Support\Catalog')
-@if ($ar ?? false)
-  <div class="course-card" data-cats="{{ implode(' ', $course['cats']) }}" data-title="{{ mb_strtolower($course['en'].' '.$course['ar']) }}" data-days="{{ $course['days'] }}"><div class="head"><span class="tag">{{ $course['catAr'] }}</span><h3>{{ $course['ar'] }}</h3></div>
-    <div class="body"><p>{{ Catalog::summary($course, true) ?? '[ملخص الدورة من مخطط دورات كمبيوبيس.]' }}</p>
-      <div class="meta"><div><span>المدة</span><b>{{ Catalog::duration($course['days'], true) }}</b></div><div><span>التوقيت</span><b>صباحي أو مسائي</b></div><div><span>الأيام</span><b>الاثنين – الجمعة</b></div><div><span>البداية القادمة</span><b style="color:var(--gold-ink)">2026 و2027</b></div></div>
-      <a class="btn btn-outline" href="{{ Catalog::url($course, true) }}">تفاصيل الدورة والرسوم ←</a></div></div>
-@else
-  <div class="course-card" data-cats="{{ implode(' ', $course['cats']) }}" data-title="{{ mb_strtolower($course['en'].' '.$course['ar']) }}" data-days="{{ $course['days'] }}">
-    <div class="head"><span class="tag">{{ $course['catEn'] }}</span><h3>{{ $course['en'] }}</h3></div>
-    <div class="body"><p>{{ Catalog::summary($course) ?? '[Course summary from the CompuBase course outline.]' }}</p>
-      <div class="meta">
-        <div><span>Duration</span><b>{{ Catalog::duration($course['days']) }}</b></div>
-        <div><span>Timing</span><b>Morning or evening</b></div>
-        <div><span>Days</span><b>Monday to Friday</b></div>
-        <div><span>Next start</span><b style="color:var(--gold-ink)">2026 &amp; 2027</b></div>
-      </div>
-      <a class="btn btn-outline" href="{{ Catalog::url($course) }}">Course details and fees →</a>
+@php
+    $ar = $ar ?? false;
+    $photo = Catalog::photo($course);
+    $title = Catalog::title($course, $ar);
+    $mark = mb_strtoupper(mb_substr(preg_replace('/^(the|a|an)\s+/i', '', $course['en']), 0, 1));
+    $n = isset($loop) ? sprintf('%02d', $loop->iteration) : null;
+@endphp
+<a class="cp-card course-card" href="{{ Catalog::url($course, $ar) }}"
+   data-cats="{{ implode(' ', $course['cats']) }}"
+   data-title="{{ mb_strtolower($course['en'].' '.$course['ar']) }}"
+   data-days="{{ $course['days'] }}">
+  <div class="cp-photo">
+    @if ($photo)
+      <img src="{{ $photo }}" alt="" loading="lazy">
+    @else
+      <div class="cp-mark">{{ $mark }}</div>
+    @endif
+    <span class="cp-days">{{ Catalog::duration($course['days'], $ar) }}</span>
+    @if ($n)<span class="cp-num">{{ $n }}</span>@endif
+  </div>
+  <div class="cp-body">
+    <h3>{{ $title }}</h3>
+    <p>{{ Catalog::summary($course, $ar) ?? ($ar ? 'المخطط الكامل للدورة ومواعيدها ورسومها في صفحة الدورة.' : 'Full course outline, dates and fees on the course page.') }}</p>
+    <div class="cp-foot">
+      <span>{{ $ar ? 'الاثنين – الجمعة · صباحي أو مسائي' : 'Mon – Fri · Morning or evening' }}</span>
+      <b>{{ $ar ? 'التفاصيل ←' : 'Details →' }}</b>
     </div>
   </div>
-@endif
+</a>

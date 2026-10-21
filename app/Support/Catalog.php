@@ -222,6 +222,8 @@ class Catalog
             'dur' => self::duration($c['days'], $ar),
             'summary' => self::summary($c, $ar),
             'url' => self::url($c, $ar),
+            'photo' => self::photo($c),
+            'mark' => mb_strtoupper(mb_substr(preg_replace('/^(the|a|an)\s+/i', '', $c['en']), 0, 1)),
         ], self::courses());
     }
 }
