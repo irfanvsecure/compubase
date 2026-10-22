@@ -191,7 +191,14 @@ function bootPage(){
  CURRENT=p;
  if(!KNOWN.has(p))return;
  document.querySelectorAll('.page').forEach(d=>d.classList.toggle('active',d.id==='pg-'+p));
- document.documentElement.lang=p.endsWith('-ar')?'ar':'en';
+ const isArPage=p.endsWith('-ar');
+ document.documentElement.lang=isArPage?'ar':'en';
+ // Keep dir in sync with the real page language (Chrome translate must not leave a mixed EN+RTL header).
+ document.documentElement.dir=isArPage?'rtl':'ltr';
+ // HTML translate IDL is boolean — use the attribute so "no" is not coerced to true.
+ document.documentElement.setAttribute('translate',isArPage?'no':'yes');
+ document.documentElement.translate=!isArPage;
+ document.documentElement.classList.toggle('notranslate',isArPage);
  if(TITLES[p])document.title=TITLES[p];
  document.querySelectorAll('header.site.open').forEach(hd=>hd.classList.remove('open'));
  const go=new URLSearchParams(location.search).get('go');
@@ -345,3 +352,22 @@ document.querySelectorAll('.cat-courses').forEach(box=>{
  input.addEventListener('input',render);
  chips.forEach(b=>b.addEventListener('click',()=>{days=b.dataset.days;chips.forEach(c=>c.classList.toggle('on',c===b));render();}));
 });
+
+/* Back to top — every page via layout button */
+(function(){
+  const btn=document.getElementById('toTop');
+  if(!btn)return;
+  btn.hidden=false;
+  const y=()=>window.pageYOffset||document.documentElement.scrollTop||document.body.scrollTop||0;
+  const sync=()=>btn.classList.toggle('is-on',y()>320);
+  sync();
+  addEventListener('scroll',sync,{passive:true});
+  btn.addEventListener('click',e=>{
+    e.preventDefault();
+    const smooth=!window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    try{window.scrollTo({top:0,left:0,behavior:smooth?'smooth':'auto'});}
+    catch(_){window.scrollTo(0,0);}
+    document.documentElement.scrollTop=0;
+    document.body.scrollTop=0;
+  });
+})();

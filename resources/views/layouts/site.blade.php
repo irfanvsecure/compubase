@@ -1,8 +1,12 @@
 <!DOCTYPE html>
-<html lang="@yield('lang', 'en')" @if (View::getSection('lang') === 'ar') dir="rtl" @endif>
+<html lang="@yield('lang', 'en')" @if (View::getSection('lang') === 'ar') dir="rtl" translate="no" class="notranslate" @endif>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+@if (View::getSection('lang') === 'ar')
+{{-- Dedicated AR pages — block Chrome/Edge auto-translate (it flips labels to EN while keeping RTL and breaks the header buttons). --}}
+<meta name="google" content="notranslate">
+@endif
 @php
     // Each page sets its own title and description; SEO overrides saved for the page win.
     $seo = App\Support\Seo::current();
@@ -39,18 +43,21 @@
 </head>
 <body data-page="@yield('page', 'home')">
 @yield('content')
+<button type="button" class="to-top" id="toTop" aria-label="{{ View::getSection('lang') === 'ar' ? 'العودة إلى الأعلى' : 'Back to top' }}" hidden>
+  <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path fill="currentColor" d="M12 5.5 5.5 12H10v6.5h4V12h4.5L12 5.5Z"/></svg>
+</button>
 <a class="wa-float" href="https://wa.me/971566893378" target="_blank" rel="noopener" aria-label="{{ View::getSection('lang') === 'ar' ? 'راسلنا على واتساب' : 'Chat with us on WhatsApp' }}"><svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true"><path fill="currentColor" d="M16.04 3C8.86 3 3.02 8.83 3.02 16c0 2.3.6 4.54 1.75 6.52L3 29l6.65-1.74A13 13 0 0 0 16.04 29C23.2 29 29.05 23.17 29.05 16S23.2 3 16.04 3Zm0 23.8c-1.96 0-3.88-.53-5.56-1.52l-.4-.24-3.95 1.03 1.05-3.84-.26-.4A10.76 10.76 0 0 1 5.26 16c0-5.95 4.84-10.78 10.78-10.78S26.82 10.05 26.82 16 21.98 26.8 16.04 26.8Zm5.92-8.07c-.32-.16-1.92-.95-2.22-1.06-.3-.11-.51-.16-.73.16-.22.32-.84 1.06-1.03 1.27-.19.22-.38.24-.7.08-.32-.16-1.37-.5-2.6-1.6-.96-.86-1.61-1.92-1.8-2.24-.19-.32-.02-.5.14-.66.15-.14.32-.38.48-.57.16-.19.22-.32.32-.54.11-.22.05-.4-.03-.57-.08-.16-.73-1.75-1-2.4-.26-.63-.53-.54-.73-.55h-.62c-.22 0-.57.08-.86.4-.3.32-1.13 1.1-1.13 2.7 0 1.58 1.16 3.12 1.32 3.33.16.22 2.28 3.48 5.53 4.88.77.33 1.37.53 1.84.68.77.25 1.48.21 2.03.13.62-.09 1.92-.78 2.19-1.54.27-.76.27-1.4.19-1.54-.08-.13-.3-.21-.62-.37Z"/></svg></a>
 <script>
 window.INITIAL_PAGE = document.body.dataset.page || 'home';
 window.APP_BASE = @json(rtrim(url('/'), '/'));
 window.COURSE_DATA = @json(View::getSection('page') === 'home' ? App\Support\Catalog::forScript() : []);
 // Lock horizontal page drag on RTL/LTR (partner strip / tables must not pan the document).
+// Do not call window.scrollTo here — it cancels smooth vertical scrolls (back-to-top).
 (function () {
   var root = document.documentElement;
   function lock() {
-    if (window.scrollX) window.scrollTo(0, window.scrollY);
-    root.scrollLeft = 0;
-    document.body.scrollLeft = 0;
+    if (root.scrollLeft) root.scrollLeft = 0;
+    if (document.body.scrollLeft) document.body.scrollLeft = 0;
   }
   lock();
   addEventListener('scroll', lock, { passive: true });
