@@ -85,17 +85,33 @@
     <p style="max-width:720px">سواء كنت تستعد لامتحان مهني، أو تنقل فريقك إلى مجال الأمن السيبراني والذكاء الاصطناعي، أو تبني مهارات اللغة والأوفيس التي تتطلبها بيئة العمل الإماراتية — فكل دوراتنا مجدولة حول أسبوع عمل كامل.</p>
     <div class="cat-grid">
       @foreach (array_slice(Catalog::categories(), 0, 3, true) as $cat => $category)
-      <div class="cat">
-        <div class="num">{{ sprintf('%02d', $loop->iteration) }} <small>{{ count($category['courses']) }} دورة</small></div>
-        <h3>{{ $category['ar'] }}</h3>
-        <p>{{ count($category['courses']) }} دورة، مدة كل منها من {{ min(array_column($category['courses'], 'days')) }} إلى {{ max(array_column($category['courses'], 'days')) }} أيام، من الاثنين إلى الجمعة في مقر أبوظبي.</p>
-        <table>
-          @foreach (array_slice($category['courses'], 0, 4) as $course)
-          <tr><td>{{ $course['ar'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td></tr>
-          @endforeach
-        </table>
-        <a class="link" href="{{ \App\Support\Catalog::categoryUrl($cat, true) }}">عرض جميع الدورات ←</a>
-      </div>
+      @php
+          $catCourses = array_values($category['courses']);
+          $catPhoto = null;
+          foreach ($catCourses as $c) {
+              if ($catPhoto = Catalog::photo($c)) {
+                  break;
+              }
+          }
+          $catMark = mb_strtoupper(mb_substr($category['en'], 0, 1));
+      @endphp
+      <a class="cat" href="{{ Catalog::categoryUrl($cat, true) }}">
+        <div class="cat-photo">
+          @if ($catPhoto)<img src="{{ $catPhoto }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $catMark }}</div>@endif
+          <span class="cat-photo-num">{{ sprintf('%02d', $loop->iteration) }}</span>
+          <span class="cat-photo-count">{{ count($catCourses) }} دورة</span>
+        </div>
+        <div class="cat-body">
+          <h3>{{ $category['ar'] }}</h3>
+          <p>{{ count($catCourses) }} دورة، مدة كل منها من {{ min(array_column($catCourses, 'days')) }} إلى {{ max(array_column($catCourses, 'days')) }} أيام، من الاثنين إلى الجمعة في مقر أبوظبي.</p>
+          <table>
+            @foreach (array_slice($catCourses, 0, 4) as $course)
+            <tr><td>{{ $course['ar'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td></tr>
+            @endforeach
+          </table>
+          <span class="link">عرض جميع الدورات ←</span>
+        </div>
+      </a>
       @endforeach
     </div>
     <div class="cat-more-btn"><a class="btn btn-navy" href="{{ route('categories-ar') }}">عرض جميع الفئات ({{ count(Catalog::categories()) }}) ←</a></div>

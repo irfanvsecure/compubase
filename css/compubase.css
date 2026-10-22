@@ -149,18 +149,25 @@ nav.main .mega-foot a{font-weight:800;color:var(--navy)}
 /* ---------- Accreditation ---------- */
 
 /* ---------- Categories ---------- */
-.cat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:36px}
-.cat{background:#fff;border:1px solid var(--line);border-top:4px solid var(--gold);padding:30px 28px;display:flex;flex-direction:column}
-.cat .num{font-size:30px;font-weight:800;color:var(--gold);display:flex;justify-content:space-between;align-items:baseline}
-.cat .num small{font-size:12px;letter-spacing:.16em;color:var(--gold-ink);font-weight:700}
-.cat h3{font-size:22px;margin:14px 0 4px}
+.cat-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:36px}
+.cat{background:#fff;border:1px solid var(--line);display:flex;flex-direction:column;text-decoration:none;color:inherit;overflow:hidden;transition:transform .25s,box-shadow .25s,border-color .25s;min-width:0}
+.cat:hover{transform:translateY(-6px);box-shadow:0 22px 44px rgba(10,28,57,.13);border-color:var(--gold)}
+.cat-photo{position:relative;aspect-ratio:16/9;overflow:hidden;background:var(--navy)}
+.cat-photo img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s}
+.cat:hover .cat-photo img{transform:scale(1.06)}
+.cat-photo::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(10,28,57,.7),transparent 60%)}
+.cat-photo .cp-mark{font-size:72px}
+.cat-photo-num{position:absolute;z-index:1;bottom:10px;inset-inline-start:16px;font-size:30px;font-weight:800;color:var(--gold-light);line-height:1}
+.cat-photo-count{position:absolute;z-index:1;top:12px;inset-inline-end:12px;background:var(--gold);color:var(--navy-deep);font-size:13px;font-weight:800;line-height:24px;padding:0 10px;text-transform:uppercase;letter-spacing:.04em}
+.cat-body{padding:22px 24px 24px;display:flex;flex-direction:column;flex:1}
+.cat h3{font-size:22px;margin:0 0 8px;color:var(--navy)}
 .cat .ar{margin-bottom:10px}
-.cat p{font-size:16px;margin-bottom:16px}
-.cat table{width:100%;font-size:15px;border-collapse:collapse;margin-bottom:20px}
+.cat p{font-size:15px;line-height:1.5;margin:0 0 14px;color:var(--text)}
+.cat table{width:100%;font-size:15px;border-collapse:collapse;margin-bottom:18px}
 .cat td{padding:7px 0;border-bottom:1px solid var(--line)}
 .cat td:last-child{text-align:right;color:var(--gold-ink);font-weight:700;white-space:nowrap}
-.cat .link{margin-top:auto;font-weight:700;color:var(--navy)}
-.cat .link:hover{color:var(--gold-ink)}
+.cat .link{margin-top:auto;font-weight:700;color:var(--navy);display:inline-block}
+.cat:hover .link{color:var(--gold-ink)}
 .cat-more-btn{text-align:center;margin-top:34px}
 
 /* ---------- Featured courses ---------- */
@@ -454,11 +461,20 @@ footer.site{background:var(--navy-deep);color:rgba(255,255,255,.8);padding:64px 
 .lang-btn:hover{background:var(--gold);color:var(--navy-deep)}
 .page{display:none}
 .page.active{display:block}
-.page[dir="rtl"]{direction:rtl;text-align:right;font-family:'Cairo','Tajawal',sans-serif}
-.page[dir="rtl"] h1,.page[dir="rtl"] h2,.page[dir="rtl"] h3,.page[dir="rtl"] h4{font-family:'Cairo','Tajawal',sans-serif}
+/* Arabic pages: Tajawal for all text (body, headings, UI) */
+.page[dir="rtl"],
+.page[dir="rtl"] h1,.page[dir="rtl"] h2,.page[dir="rtl"] h3,.page[dir="rtl"] h4,
+.page[dir="rtl"] button,.page[dir="rtl"] input,.page[dir="rtl"] select,.page[dir="rtl"] textarea,
+.page[dir="rtl"] .btn,.page[dir="rtl"] nav,.page[dir="rtl"] .tag,.page[dir="rtl"] .eyebrow{
+  font-family:'Tajawal',sans-serif
+}
+.page[dir="rtl"]{direction:rtl;text-align:right}
 
 /* RTL only on Arabic pages — English stays LTR */
-html[dir="rtl"] body{direction:rtl;text-align:right}
+html[dir="rtl"],html[dir="rtl"] body{direction:rtl;text-align:right;font-family:'Tajawal',sans-serif}
+html[dir="rtl"] h1,html[dir="rtl"] h2,html[dir="rtl"] h3,html[dir="rtl"] h4,
+html[dir="rtl"] button,html[dir="rtl"] input,html[dir="rtl"] select,html[dir="rtl"] textarea,
+html[dir="rtl"] .btn{font-family:'Tajawal',sans-serif}
 .page[dir="rtl"] .utility .left span+span::before{margin:0 10px}
 .page[dir="rtl"] .utility .status::before{margin-right:0;margin-left:6px}
 .page[dir="rtl"] .hero ul.points li{padding-left:0;padding-right:26px}
@@ -477,7 +493,6 @@ html[dir="rtl"] body{direction:rtl;text-align:right}
 .page[dir="rtl"] .outcomes li::before{left:auto;right:0}
 .page[dir="rtl"] .slider .prev{left:auto;right:0}
 .page[dir="rtl"] .slider .next{right:auto;left:0}
-.page[dir="rtl"],.page[dir="rtl"] h1,.page[dir="rtl"] h2,.page[dir="rtl"] h3,.page[dir="rtl"] h4{font-family:'Cairo','Tajawal',sans-serif}
 /* ---------- Course outline (from the course documents) ---------- */
 .course-photo{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;margin-bottom:30px}
 .tabs a{cursor:pointer}
