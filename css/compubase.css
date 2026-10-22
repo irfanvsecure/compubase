@@ -835,20 +835,23 @@ button.dl-link:hover{text-decoration:underline}
   body.print-outline .cp-cover-logo,
   body.print-outline .cp-cover-main,
   body.print-outline .cp-cover-foot{position:relative;z-index:1}
-  body.print-outline .cp-cover-logo{display:block;width:210px;height:auto;margin:0}
-  body.print-outline .cp-cover-main{flex:1;display:flex;flex-direction:column;justify-content:center;padding:24px 0 18px}
+  body.print-outline .cp-cover-logo{display:block;width:210px;height:auto;margin:0 auto 8px}
+  body.print-outline .cp-cover-main{
+    flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;
+    text-align:center;padding:24px 0 18px
+  }
   body.print-outline .cp-badge{
-    display:inline-block;align-self:flex-start;background:#C4A35A!important;color:#0A1C39!important;
+    display:inline-block;align-self:center;background:#C4A35A!important;color:#0A1C39!important;
     font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:6px 12px;margin-bottom:18px
   }
-  body.print-outline .cp-cover h1{color:#fff!important;font-size:36px;line-height:1.15;margin:0 0 14px;font-weight:800}
-  body.print-outline .cp-lead{color:rgba(255,255,255,.9)!important;font-size:15px;line-height:1.55;max-width:520px;margin:0 0 28px}
-  body.print-outline .cp-meta{display:grid;grid-template-columns:repeat(4,1fr);gap:12px 18px;margin-bottom:28px;max-width:640px}
+  body.print-outline .cp-cover h1{color:#fff!important;font-size:36px;line-height:1.15;margin:0 0 14px;font-weight:800;max-width:640px}
+  body.print-outline .cp-lead{color:rgba(255,255,255,.9)!important;font-size:15px;line-height:1.55;max-width:520px;margin:0 auto 28px}
+  body.print-outline .cp-meta{display:grid;grid-template-columns:repeat(4,1fr);gap:12px 18px;margin:0 auto 28px;max-width:640px;width:100%}
   body.print-outline .cp-meta span{display:block;font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#C4A35A!important;margin-bottom:4px}
   body.print-outline .cp-meta b{color:#fff!important;font-size:14px;font-weight:700}
-  body.print-outline .cp-cover-photo{margin-top:8px;max-width:560px}
+  body.print-outline .cp-cover-photo{margin:8px auto 0;max-width:560px;width:100%}
   body.print-outline .cp-cover-photo img{
-    display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;
+    display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;margin:0 auto;
     border:10px solid #fff;box-shadow:0 18px 40px rgba(0,0,0,.35)
   }
   body.print-outline .cp-cover-foot{
@@ -859,7 +862,7 @@ button.dl-link:hover{text-decoration:underline}
     padding:0 14mm;border:0;vertical-align:top
   }
   body.print-outline .cp-doc>thead>tr>td{padding-top:12mm}
-  body.print-outline .cp-doc>tfoot>tr>td{padding-bottom:10mm;padding-inline:0}
+  body.print-outline .cp-doc>tfoot>tr>td{padding-bottom:10mm;padding-inline:14mm}
   body.print-outline .cp-head{
     display:flex;justify-content:space-between;align-items:flex-start;gap:20px;
     padding:0 0 14px;margin-bottom:8px;border-bottom:1px solid #E6E1D6
@@ -887,19 +890,11 @@ button.dl-link:hover{text-decoration:underline}
   body.print-outline .cp-module{margin:0 0 12px;page-break-inside:avoid}
   body.print-outline .cp-module ul ul{margin:4px 0 6px;padding-inline-start:8px}
   body.print-outline .cp-foot{
-    position:relative;overflow:hidden;
-    background:#C4A35A!important;background-image:linear-gradient(#C4A35A,#C4A35A)!important;
-    color:#fff!important;margin:10px 14mm 0;text-align:center;font-size:11px;line-height:1.45
+    display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:8px;
+    margin:14px 0 0;padding:10px 0 0;border-top:1px solid #E6E1D6;
+    text-align:center;font-size:12px;line-height:1.45;color:#0F2851!important;background:none!important
   }
-  body.print-outline .cp-foot-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
-  body.print-outline .cp-foot-inner{position:relative;z-index:1;padding:12px 14px}
-  body.print-outline .cp-foot-row{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px 8px;color:#fff!important}
-  body.print-outline .cp-foot-social{margin-top:4px}
-  body.print-outline .cp-sep{opacity:.7;font-weight:700}
-  body.print-outline .cp-soc{
-    display:inline-flex;align-items:center;justify-content:center;width:16px;height:16px;border-radius:50%;
-    background:rgba(255,255,255,.28)!important;font-size:9px;font-weight:800;color:#fff!important
-  }
+  body.print-outline .cp-foot .cp-sep{opacity:.45;font-weight:700}
 }
 
 /* ---------- Scrolling category row: faded edges, arrows only where there is more ---------- */

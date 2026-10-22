@@ -120,24 +120,9 @@
     <tfoot>
       <tr><td>
         <div class="cp-foot">
-          <img class="cp-foot-bg" src="{{ asset('images/print-footer-gold.png') }}" alt="" aria-hidden="true">
-          <div class="cp-foot-inner">
-            <div class="cp-foot-row">
-              <span>{{ $ar ? 'هاتف' : 'Tel' }}: +971 2 677 1117</span>
-              <span class="cp-sep">I</span>
-              <span>{{ $ar ? 'فاكس' : 'Fax' }}: +971 2 676 6081</span>
-              <span class="cp-sep">I</span>
-              <span>Email: info@compubasetraining.ae</span>
-            </div>
-            <div class="cp-foot-row cp-foot-social">
-              <span class="cp-soc" aria-hidden="true">f</span>
-              <span class="cp-soc" aria-hidden="true">𝕏</span>
-              <span class="cp-soc" aria-hidden="true">◎</span>
-              <span>@CompubaseTC</span>
-              <span class="cp-sep">I</span>
-              <span>www.compubasetraining.ae</span>
-            </div>
-          </div>
+          <span>www.compubasetraining.ae</span>
+          <span class="cp-sep">·</span>
+          <span>+971 2 677 1117</span>
         </div>
       </td></tr>
     </tfoot>
