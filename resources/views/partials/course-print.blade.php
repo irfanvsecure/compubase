@@ -110,9 +110,9 @@
                 </div>
               @endforeach
             @endif
-          @else
+          @elseif ($printSummary)
             <h2>{{ $ar ? 'نبذة عن الدورة' : 'Course overview' }}</h2>
-            <p>{{ $printSummary ?? ($ar ? '[وصف الدورة من مخطط دورات كمبيوبيس.]' : '[Course description from the CompuBase course outline.]') }}</p>
+            <p>{{ $printSummary }}</p>
           @endif
         </div>
       </td></tr>

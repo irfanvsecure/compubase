@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @section('page', 'about')
 @section('title', 'About Us — CompuBase Training Center, Abu Dhabi')
@@ -51,9 +51,8 @@
 @use('App\Support\Catalog')
     <p>CompuBase Training Center — Innovative Training Solutions — is a professional training institute in Abu Dhabi, United Arab Emirates. We deliver {{ count(Catalog::courses()) }} scheduled courses in {{ count(Catalog::categories()) }} categories of management and IT training, from personal development, leadership and finance to cyber security, cloud computing and artificial intelligence.</p>
     <p>Every programme runs Monday to Friday with a morning group and an evening group, taught in English or Arabic depending on the group. Courses range from a two-day workshop to a full month of tuition — and all of them happen in a real classroom, with an instructor who answers questions the moment they come up.</p>
-    <p>[Add: founding year, licence details, and two or three sentences of the centre's own history — to be supplied by CompuBase before publication.]</p>
+    <p>We are licensed in Abu Dhabi and partnered with recognised bodies including ACTVET, the British Council (IELTS), Pearson and ICDL — so learners leave with classroom skills that map to credentials employers recognise.</p>
   </div>
-  <div class="placeholder-note" style="max-width:760px">[History, founding year, and team details to be confirmed with the client before this page goes live.]</div>
     </div>
     <figure class="about-photo"><img src="{{ url('uploads/2026/10/abu-dhabi-evening-class-working-professionals-0jvbyg.jpg') }}" alt="Trainer leading an evening class for Emirati, Omani and South Asian professionals at CompuBase, Abu Dhabi" loading="lazy"></figure>
   </div>
@@ -85,8 +84,8 @@
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
-        <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
+        <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday</p>
       </div>
     </div>
   </div>

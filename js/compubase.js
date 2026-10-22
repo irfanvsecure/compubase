@@ -24,7 +24,7 @@ function renderGrid(list){
       <div class="cp-photo">${media}<span class="cp-days">${esc(c.dur)}</span><span class="cp-num">${String(i+1).padStart(2,'0')}</span></div>
       <div class="cp-body">
         <h3>${esc(c.title)}</h3>
-        <p>${c.summary?esc(c.summary):'Full course outline, dates and fees on the course page.'}</p>
+        <p>${c.summary?esc(c.summary):''}</p>
         <div class="cp-foot"><span>Mon – Fri · Morning or evening</span><b>Details →</b></div>
       </div>
     </a>`);

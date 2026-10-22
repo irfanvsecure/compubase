@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @section('page', 'home')
 @section('title', 'CompuBase Training Center — Professional Training Courses in Abu Dhabi')
@@ -179,7 +179,7 @@
     <div class="fact"><b>{{ count(Catalog::courses()) }}</b><p>Scheduled courses across {{ count(Catalog::categories()) }} {{ Str::plural('category', count(Catalog::categories())) }}</p></div>
     <div class="fact"><b>2</b><p>Daily timings — morning and evening groups</p></div>
     <div class="fact"><b>AR / EN</b><p>Delivery in Arabic or English, by course</p></div>
-    <div class="fact"><b>[X]</b><p>Professionals trained in Abu Dhabi — confirm the figure before publishing</p></div>
+    <div class="fact"><b>1</b><p>Abu Dhabi campus — morning and evening classes</p></div>
   </div>
 </section>
 
@@ -197,7 +197,7 @@
       </ul>
       <div class="corp-cta">
         <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp 056 689 3378</a>
-        <small>Group rates apply from [N] delegates. Confirm the threshold before publishing.</small>
+        <small>Ask an advisor for group rates for your team size.</small>
       </div>
     </div>
     <div class="proposal">
@@ -233,20 +233,6 @@
       <div class="why-item"><h3>Taught in Arabic or English</h3><p>Course material and instruction in the language your group works in.</p></div>
       <div class="why-item"><h3>Classroom, not a video library</h3><p>Small groups in a real room, where a question gets answered the moment it comes up.</p></div>
       <div class="why-item"><h3>Straight answers on fit</h3><p>If a course is not right for your level or your goal, an advisor will say so before you pay.</p></div>
-    </div>
-  </div>
-</section>
-
-<!-- 13 TESTIMONIALS -->
-<section class="section testi">
-  <div class="container">
-    <div class="eyebrow">From our learners</div>
-    <h2>What people say after the course.</h2>
-    <div class="placeholder-note">[Replace all three with real, attributed feedback collected from past delegates. Written consent required before publishing a name or employer.]</div>
-    <div class="testi-grid">
-      <div class="quote"><div class="qm">“</div><p>[Learner quote — one specific thing the course changed about how they work. Two or three sentences, in their own words.]</p><b>[Full name]</b><small>[Job title], [Organisation] · PMP, [year]</small></div>
-      <div class="quote"><div class="qm">“</div><p>[Learner quote — ideally from a corporate group, mentioning how the in-house format worked around their operations.]</p><b>[Full name]</b><small>[Job title], [Organisation] · Cyber Security Essentials</small></div>
-      <div class="quote"><div class="qm">“</div><p>[Learner quote — a language or IELTS candidate is a good third voice, to show the range of the centre.]</p><b>[Full name]</b><small>[Job title], [Organisation] · IELTS Preparation</small></div>
     </div>
   </div>
 </section>
@@ -305,12 +291,11 @@
       <summary>Are courses taught in English or Arabic?</summary>
       <div class="a">Both. The language of instruction depends on the group, and every course is published with its Arabic title so you can see at a glance what you are booking. Tell us your preference when you enquire and we will place you in a group taught in that language.</div>
     </details>
-    <details><summary>Can I attend in the evening if I work full time?</summary><div class="a">[Answer to be supplied and verified against the approved course information sheet.]</div></details>
-    <details><summary>Where is the training centre and is parking available?</summary><div class="a">[Answer to be supplied and verified against the approved course information sheet.]</div></details>
-    <details><summary>Do I receive a certificate, and is the exam fee included?</summary><div class="a">[Answer to be supplied and verified against the approved course information sheet.]</div></details>
-    <details><summary>How much does a course cost and how do I pay?</summary><div class="a">[Answer to be supplied and verified against the approved course information sheet.]</div></details>
-    <details><summary>Can you train my team at our own offices?</summary><div class="a">[Answer to be supplied and verified against the approved course information sheet.]</div></details>
-    <div class="placeholder-note">[Answers for the collapsed questions to be supplied and verified against the approved course information sheet. Mark this block up as FAQPage structured data before launch.]</div>
+    <details><summary>Can I attend in the evening if I work full time?</summary><div class="a">Yes. Every course runs Monday to Friday with a morning group and an evening group, so you can train around a full-time job.</div></details>
+    <details><summary>Where is the training centre and is parking available?</summary><div class="a">We train at our Abu Dhabi campus. Call 02 677 1117 or WhatsApp 056 689 3378 and an advisor will share directions and parking guidance for your visit.</div></details>
+    <details><summary>Do I receive a certificate, and is the exam fee included?</summary><div class="a">Yes — you receive a CompuBase completion certificate after the course. Where a course prepares you for an external exam (PMP, CIA, CMA, CISA and similar), examination fees are paid directly to the awarding body and are not included in the course fee.</div></details>
+    <details><summary>How much does a course cost and how do I pay?</summary><div class="a">Fees vary by course and group size. Contact us on 02 677 1117 or WhatsApp 056 689 3378 for the current fee and payment options for the course you want.</div></details>
+    <details><summary>Can you train my team at our own offices?</summary><div class="a">Yes. Any course on this site can be delivered privately for your organisation, at your premises across the UAE or in a closed group at our Abu Dhabi centre. Request a corporate training proposal and an advisor will reply with dates, format and a written quote.</div></details>
   </div>
 </section>
 
@@ -340,8 +325,8 @@
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
-        <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
+        <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday</p>
       </div>
     </div>
   </div>

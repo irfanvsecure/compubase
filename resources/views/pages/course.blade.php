@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @use('App\Support\Catalog')
 @php
@@ -8,7 +8,7 @@
     $photo = Catalog::photo($course);
     $summary = Catalog::summary($course);
     $hasObjectives = $content && ($content['competencies'] || $content['objectives'] || $content['objectivesIntro']);
-    $hasAudience = ! $content || $content['audience'];
+    $hasAudience = $content && $content['audience'];
     // An outline-only document has nothing for the Overview tab, so the page opens on the outline.
     $tabPhotos = config('course_tab_photos.'.$course['slug'], []);
     $tabPhoto = fn ($k) => ! empty($tabPhotos[$k]) && is_file(base_path($tabPhotos[$k])) ? asset($tabPhotos[$k]) : null;
@@ -61,7 +61,7 @@
     <div>
       <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:5px 12px">{{ $course['catEn'] }}</span>
       <h1>{{ $title }}</h1>
-      @if ($summary || ! $content)<p class="lead">{{ $summary ?? '[Course summary from the CompuBase course outline.]' }}</p>@endif
+      @if ($summary)<p class="lead">{{ $summary }}</p>@endif
       <div class="hero-meta">
         <div><span>Duration</span><b>{{ $duration }}</b></div>
         <div><span>Days</span><b>Monday to Friday</b></div>
@@ -73,9 +73,9 @@
       <div class="eyebrow">Next group</div>
       <div class="date">2026 &amp; 2027</div>
       <dl>
-        <div><dt>Course fee</dt><dd>[AED X,XXX]</dd></div>
+        <div><dt>Course fee</dt><dd>Contact us</dd></div>
         <div><dt>Duration</dt><dd>{{ $duration }}</dd></div>
-        <div><dt>Group rate</dt><dd>From [N] delegates</dd></div>
+        <div><dt>Group rate</dt><dd>Ask an advisor</dd></div>
       </dl>
       <a class="btn btn-navy" href="{{ route('contact') }}">Register for this course →</a>
       <a class="btn btn-wa" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">@include('partials.wa-icon')Ask a question on WhatsApp</a>
@@ -127,9 +127,6 @@
           @if ($kind === 'p')<p>{{ $value }}</p>@else<ul class="outcomes">@foreach ($value as $item)<li>{{ $item }}</li>@endforeach</ul>@endif
         @endforeach
         @endforeach
-        @else
-        <h2>What this course covers</h2>
-        <div class="placeholder-note">[Course description from the CompuBase course outline.]</div>
         @endif
       </div>
       @endif
@@ -175,9 +172,7 @@
           </div></div>
         @endforeach
         @else
-        @for ($day = 1; $day <= $course['days']; $day++)
-          <div class="day"><div class="d">Day {{ $day }}</div><div><b>[Day {{ $day }} topic]</b><p>[Session detail from the course outline.]</p></div></div>
-        @endfor
+        <p>Contact us for the detailed day-by-day outline for this course.</p>
         @endif
       </div>
 
@@ -216,8 +211,6 @@
         @if ($content)
           <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{{ $para }}</p>@endforeach</div>
           <button type="button" class="cs-more cs-toggle" data-more="Read more →" data-less="Show less ↑">Read more →</button>
-        @else
-        <div class="placeholder-note" style="margin-top:0">[Target audience from the CompuBase course outline.]</div>
         @endif
       </div>
       @endif
@@ -285,8 +278,8 @@
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
-        <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
+        <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday</p>
       </div>
     </div>
   </div>

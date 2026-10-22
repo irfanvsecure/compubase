@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @use('App\Support\Catalog')
 @php
@@ -8,7 +8,7 @@
     $photo = Catalog::photo($course);
     $summary = Catalog::summary($course, true);
     $hasObjectives = $content && ($content['competencies'] || $content['objectives'] || $content['objectivesIntro']);
-    $hasAudience = ! $content || $content['audience'];
+    $hasAudience = $content && $content['audience'];
     // An outline-only document has nothing for the Overview tab, so the page opens on the outline.
     $tabPhotos = config('course_tab_photos.'.$course['slug'], []);
     $tabPhoto = fn ($k) => ! empty($tabPhotos[$k]) && is_file(base_path($tabPhotos[$k])) ? asset($tabPhotos[$k]) : null;
@@ -65,7 +65,7 @@
     <div>
       <span style="display:inline-block;background:var(--gold);color:var(--navy-deep);font-size:12px;font-weight:800;letter-spacing:.02em;padding:5px 12px">{{ $course['catAr'] }}</span>
       <h1>{{ $title }}</h1>
-      @if ($summary || ! $content)<p class="lead">{{ $summary ?? '[ملخص الدورة من مخطط دورات كمبيوبيس.]' }}</p>@endif
+      @if ($summary)<p class="lead">{{ $summary }}</p>@endif
       <div class="hero-meta">
         <div><span>المدة</span><b>{{ $duration }}</b></div>
         <div><span>الأيام</span><b>الاثنين – الجمعة</b></div>
@@ -77,9 +77,9 @@
       <div class="eyebrow">المجموعة القادمة</div>
       <div class="date">2026 و2027</div>
       <dl>
-        <div><dt>رسوم الدورة</dt><dd>[X,XXX درهم]</dd></div>
+        <div><dt>رسوم الدورة</dt><dd>تواصل معنا</dd></div>
         <div><dt>المدة</dt><dd>{{ $duration }}</dd></div>
-        <div><dt>سعر المجموعات</dt><dd>ابتداءً من [العدد] متدربين</dd></div>
+        <div><dt>سعر المجموعات</dt><dd>اسأل المستشار</dd></div>
       </dl>
       <a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل في هذه الدورة ←</a>
       <a class="btn btn-wa" style="width:100%;margin-top:10px" href="https://wa.me/971566893378">@include('partials.wa-icon')اسأل عبر واتساب</a>
@@ -131,9 +131,6 @@
           @if ($kind === 'p')<p>{{ $value }}</p>@else<ul class="outcomes">@foreach ($value as $item)<li>{{ $item }}</li>@endforeach</ul>@endif
         @endforeach
         @endforeach
-        @else
-        <h2>ماذا تغطي هذه الدورة</h2>
-        <div class="placeholder-note">[وصف الدورة من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
       @endif
@@ -154,9 +151,6 @@
           @foreach ($content['objectives'] as $item)<li>{{ $item }}</li>@endforeach
         </ul>
         @endif
-        @else
-        <h2>بنهاية الدورة ستكون قادراً على</h2>
-        <div class="placeholder-note">[مخرجات التعلّم من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
 
@@ -182,9 +176,7 @@
           </div></div>
         @endforeach
         @else
-        @for ($day = 1; $day <= $course['days']; $day++)
-          <div class="day"><div class="d">اليوم {{ $day }}</div><div><b>[موضوع اليوم {{ $day }}]</b><p>[تفاصيل الجلسة من مخطط الدورة.]</p></div></div>
-        @endfor
+        <p>تواصل معنا للحصول على المخطط التفصيلي لهذه الدورة.</p>
         @endif
       </div>
     </div>
@@ -222,8 +214,6 @@
         @if ($content)
           <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{{ $para }}</p>@endforeach</div>
           <button type="button" class="cs-more cs-toggle" data-more="اقرأ المزيد ←" data-less="عرض أقل ↑">اقرأ المزيد ←</button>
-        @else
-        <div class="placeholder-note" style="margin-top:0">[الفئة المستهدفة من مخطط دورات كمبيوبيس.]</div>
         @endif
       </div>
       @endif
@@ -283,8 +273,8 @@
       </div>
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
-        <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>
+        <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس</p>
       </div>
     </div>
   </div>

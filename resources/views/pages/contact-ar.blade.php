@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @section('page', 'contact-ar')
 @section('title', 'اتصل بنا — مركز كمبيوبيس للتدريب، أبوظبي')
@@ -62,13 +62,13 @@
       <p><b style="color:var(--navy)">الهاتف</b><br><a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">واتساب</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">البريد الإلكتروني</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">العنوان</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">ساعات الدوام</b><br>الأحد – الخميس · [ساعات الدوام]</p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">العنوان</b><br>أبوظبي، الإمارات العربية المتحدة</p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">ساعات الدوام</b><br>الأحد – الخميس</p>
       <a class="btn btn-wa" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">@include('partials.wa-icon')راسلنا على واتساب الآن</a>
     </div>
     <div class="side-box">
-      <h4>خريطة الموقع</h4>
-      <div class="trainer-photo" style="min-height:220px">📍 &nbsp;تُدرج خريطة جوجل هنا بعد تأكيد العنوان.</div>
+      <h4>كيف تصل إلينا</h4>
+      <p>مركز كمبيوبيس للتدريب، أبوظبي. اتصل على <a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a> للحصول على الاتجاهات إلى المقر.</p>
     </div>
   </aside>
 </div></section>
@@ -88,8 +88,8 @@
       </div>
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
-        <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>
+        <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس</p>
       </div>
     </div>
   </div>

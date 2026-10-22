@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @section('page', 'corporate-ar')
 @section('title', 'التدريب المؤسسي — مركز كمبيوبيس للتدريب، أبوظبي')
@@ -58,11 +58,11 @@
       <li style="color:var(--text)"><b style="color:var(--navy)">التدريب في مقرّكم في جميع أنحاء الإمارات</b><span style="color:#6b7688">أو في مجموعة خاصة بمقرّنا في أبوظبي — أيهما يوفّر وقت فريقكم أكثر.</span></li>
       <li style="color:var(--text)"><b style="color:var(--navy)">محتوى مصمّم حسب أدواركم الوظيفية</b><span style="color:#6b7688">حالات عملية وتمارين وأمثلة تُعاد صياغتها حول العمل الفعلي لموظفيكم.</span></li>
       <li style="color:var(--text)"><b style="color:var(--navy)">سجلات حضور وشهادات إتمام</b><span style="color:#6b7688">وثائق جاهزة لإدارات الموارد البشرية والامتثال دون متابعة منكم.</span></li>
-      <li style="color:var(--text)"><b style="color:var(--navy)">أسعار المجموعات</b><span style="color:#6b7688">ابتداءً من [العدد] متدربين — يؤكَّد الحد مع مستشار التدريب.</span></li>
+      <li style="color:var(--text)"><b style="color:var(--navy)">أسعار المجموعات</b><span style="color:#6b7688">اسأل مستشار التدريب عن الأسعار حسب حجم فريقك.</span></li>
     </ul>
     <div class="steps-grid" style="margin-top:40px;grid-template-columns:1fr">
       <div class="step"><div class="eyebrow">الخطوة 01</div><h3>أخبرنا بالفريق والهدف</h3><p>ستة حقول في النموذج — أو رسالة واحدة على واتساب.</p></div>
-      <div class="step"><div class="eyebrow">الخطوة 02</div><h3>استلم عرضاً مكتوباً</h3><p>المواعيد والصيغة والمكان وعرض السعر، عادةً خلال [عدد] أيام عمل.</p></div>
+      <div class="step"><div class="eyebrow">الخطوة 02</div><h3>استلم عرضاً مكتوباً</h3><p>المواعيد والصيغة والمكان وعرض السعر، عادةً خلال أيام عمل قليلة.</p></div>
       <div class="step"><div class="eyebrow">الخطوة 03</div><h3>تدرّبوا وفق جدولكم</h3><p>حصص موقّتة حول المناوبات والعمليات وساعات العمل.</p></div>
     </div>
   </div>
@@ -88,8 +88,8 @@
       </div>
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
-        <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>[العنوان الكامل]<br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس · [ساعات الدوام]</p>
+        <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس</p>
       </div>
     </div>
   </div>

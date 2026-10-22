@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @section('page', 'corporate')
 @section('title', 'Corporate Training — CompuBase Training Center, Abu Dhabi')
@@ -50,11 +50,11 @@
       <li style="color:var(--text)"><b style="color:var(--navy)">Delivered at your premises across the UAE</b><span style="color:#6b7688">Or in a private group at the Abu Dhabi centre, whichever costs your team less time.</span></li>
       <li style="color:var(--text)"><b style="color:var(--navy)">Content mapped to your roles</b><span style="color:#6b7688">Case material, exercises and examples rewritten around the work your people actually do.</span></li>
       <li style="color:var(--text)"><b style="color:var(--navy)">Attendance records and completion certificates</b><span style="color:#6b7688">Documentation your HR and compliance teams can file without chasing us for it.</span></li>
-      <li style="color:var(--text)"><b style="color:var(--navy)">Group rates</b><span style="color:#6b7688">From [N] delegates — confirm the threshold with an advisor.</span></li>
+      <li style="color:var(--text)"><b style="color:var(--navy)">Group rates</b><span style="color:#6b7688">Ask an advisor for pricing based on your team size.</span></li>
     </ul>
     <div class="steps-grid" style="margin-top:40px;grid-template-columns:1fr">
       <div class="step"><div class="eyebrow">Step 01</div><h3>Tell us the team and the outcome</h3><p>Six fields on the form — or one WhatsApp message.</p></div>
-      <div class="step"><div class="eyebrow">Step 02</div><h3>Receive a written proposal</h3><p>Dates, format, venue and a quote, usually within [X] working days.</p></div>
+      <div class="step"><div class="eyebrow">Step 02</div><h3>Receive a written proposal</h3><p>Dates, format, venue and a quote, usually within a few working days.</p></div>
       <div class="step"><div class="eyebrow">Step 03</div><h3>Train on your schedule</h3><p>Sessions timed around shifts, operations and business hours.</p></div>
     </div>
   </div>
@@ -77,8 +77,8 @@
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
-        <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
+        <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday</p>
       </div>
     </div>
   </div>

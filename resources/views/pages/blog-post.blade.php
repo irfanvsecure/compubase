@@ -14,7 +14,7 @@
 @include('partials.site-header')
 
 @unless ($post->isLive())
-<div class="placeholder-note" style="margin:0;text-align:center">{{ $ar ? 'معاينة: هذا المقال غير منشور.' : 'Preview: this article is not published.' }}</div>
+<div class="draft-note" style="margin:0;text-align:center">{{ $ar ? 'معاينة: هذا المقال غير منشور.' : 'Preview: this article is not published.' }}</div>
 @endunless
 
 <div class="crumbs"><div class="container"><a href="{{ route($ar ? 'home-ar' : 'home') }}">{{ $ar ? 'الرئيسية' : 'Home' }}</a><span>/</span><a href="{{ route($ar ? 'blog-ar' : 'blog') }}">{{ $ar ? 'المدونة' : 'Blog' }}</a><span>/</span><b style="color:var(--navy)">{{ $post->title }}</b></div></div>

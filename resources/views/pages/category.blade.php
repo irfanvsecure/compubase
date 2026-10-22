@@ -110,7 +110,7 @@
         </div>
         <div class="cp-body">
           <h3>{{ Catalog::title($course, $ar) }}</h3>
-          <p>{{ Catalog::summary($course, $ar) ?? $t('Full course outline, dates and fees on the course page.', 'المخطط الكامل للدورة ومواعيدها ورسومها في صفحة الدورة.') }}</p>
+          @if ($sum = Catalog::summary($course, $ar))<p>{{ $sum }}</p>@endif
           <div class="cp-foot"><span>{{ $t('Mon – Fri · Morning or evening', 'الاثنين – الجمعة · صباحي أو مسائي') }}</span><b>{{ $t('Details →', 'التفاصيل ←') }}</b></div>
         </div>
       </a>

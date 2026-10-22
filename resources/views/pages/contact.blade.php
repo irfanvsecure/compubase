@@ -1,4 +1,4 @@
-@extends('layouts.site')
+﻿@extends('layouts.site')
 
 @section('page', 'contact')
 @section('title', 'Contact Us — CompuBase Training Center, Abu Dhabi')
@@ -54,13 +54,13 @@
       <p><b style="color:var(--navy)">Phone</b><br><a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">WhatsApp</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Email</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">Address</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">Office hours</b><br>Sunday to Thursday · [opening hours]</p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">Address</b><br>Abu Dhabi, United Arab Emirates</p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">Office hours</b><br>Sunday to Thursday</p>
       <a class="btn btn-wa" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp us now</a>
     </div>
     <div class="side-box">
-      <h4>Location map</h4>
-      <div class="trainer-photo" style="min-height:220px">📍 &nbsp;Google Maps embed goes here once the street address is confirmed.</div>
+      <h4>Find us</h4>
+      <p>CompuBase Training Center, Abu Dhabi. Call <a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a> for directions to campus.</p>
     </div>
   </aside>
 </div></section>
@@ -77,8 +77,8 @@
       </div>
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
-        <p><b style="color:#fff">CompuBase Training Center</b><br>[Full street address]<br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday · [opening hours]</p>
+        <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday</p>
       </div>
     </div>
   </div>
