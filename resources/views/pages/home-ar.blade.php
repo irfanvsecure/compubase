@@ -1,24 +1,26 @@
 ﻿@extends('layouts.site')
 
 @section('page', 'home-ar')
-@section('title', 'مركز كمبيوبيس للتدريب — دورات تدريبية احترافية في أبوظبي')
+@section('title', 'دورات تدريبية في الإمارات | كمبيوبيس أبوظبي')
 @section('lang', 'ar')
-@section('description', 'مركز كمبيوبيس للتدريب في أبوظبي. دورات الشهادات المهنية والأمن السيبراني واللغات.')
+@section('description', 'معهد تدريب في أبوظبي مرخّص من ACTVET يقدّم '.count(\App\Support\Catalog::courses()).' دورة في القيادة وتقنية المعلومات والمالية والسلامة وإدارة المشاريع في جميع أنحاء الإمارات. سجّل اليوم.')
 
 @section('content')
 <div class="page active" id="pg-home-ar" dir="rtl" lang="ar">
 
+<!-- 01 UTILITY BAR -->
 <div class="utility">
   <div class="container">
-    <div class="left"><span>مقرّنا في أبوظبي</span><span>من الاثنين إلى الجمعة</span><span>دوام صباحي ومسائي</span></div>
+    <div class="left"><span>مقرّنا في أبوظبي</span><span>أيام الأسبوع، من الاثنين إلى الجمعة</span><span>حصص صباحية ومسائية</span></div>
     <div class="right">
       <a href="tel:+97126771117">📞 02 677 1117</a>
-      <a href="{{ route('home') }}" style="font-weight:700">EN</a>
+      <a href="{{ route('home') }}" title="English version" style="font-weight:700">EN</a>
       <span class="status">التسجيل مفتوح</span>
     </div>
   </div>
 </div>
 
+<!-- 02 HEADER -->
 <header class="site">
   <div class="container">
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
@@ -41,63 +43,204 @@
   </div>
 </header>
 
-<!-- HERO + SLIDER -->
-<section class="hero-2col">
-  <div class="container">
-    <div>
-      <div class="eyebrow on-dark">مركز كمبيوبيس للتدريب · أبوظبي</div>
-      <h1>احصل على مؤهلك المهني دون التوقف عن العمل.</h1>
-      <p class="lead">دورات الشهادات المهنية والأمن السيبراني والذكاء الاصطناعي واللغات في أبوظبي — صباحاً أو مساءً خلال أيام الأسبوع، وبالعربية أو الإنجليزية، بإشراف كادرنا التدريبي.</p>
-      <ul class="points">
-        <li>{{ count(\App\Support\Catalog::courses()) }} دورة مجدولة في الإدارة والشهادات المهنية وتقنية المعلومات</li>
-        <li>حصص صفية من يومين إلى خمسة أيام، من الاثنين إلى الجمعة</li>
-        <li>تدريب داخلي متاح في مقر منشأتك في جميع أنحاء الإمارات</li>
-      </ul>
-      <div class="cta-row">
-        <a class="btn btn-gold" href="{{ route('schedule-ar') }}">سجّل في الدفعة القادمة ←</a>
-        <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب 056 689 3378</a>
+<!-- ================= HOMEPAGE ================= -->
+@use('App\Support\Catalog')
+@php
+    $courseCount = count(Catalog::courses());
+    $catCount = count(Catalog::categories());
+    $course = fn (string $slug) => url('ar/course/'.$slug);
+    $cat = fn (string $slug) => Catalog::categoryUrl($slug, true);
+    $t = fn (string $slug) => Catalog::title(Catalog::find($slug), true);
+    $faqs = [
+        ['هل مركز كمبيوبيس للتدريب مرخّص؟', 'نعم. مركز كمبيوبيس للتدريب مرخّص من مؤسسة أبوظبي للتعليم والتدريب التقني والمهني (ACTVET) بترخيص رقم 725.'],
+        ['كم عدد الدورات التي يقدّمها مركز كمبيوبيس؟', "يقدّم مركز كمبيوبيس {$courseCount} دورة في {$catCount} فئة، موزّعة بين الإدارة وتقنية المعلومات."],
+        ['كم تستغرق دورات كمبيوبيس؟', 'تمتد معظم دورات كمبيوبيس من ثلاثة إلى خمسة أيام، وتعرض صفحة كل دورة عدد أيامها بالضبط.'],
+        ['هل يمكنني حضور دورة في كمبيوبيس باللغة العربية؟', 'نعم. يقدّم مركز كمبيوبيس دوراته بالعربية والإنجليزية، فتختار اللغة التي تفضّلها عند الاستفسار.'],
+        ['هل يدرّب مركز كمبيوبيس فرق الشركات خارج أبوظبي؟', 'نعم. يمكن لمدرّبي كمبيوبيس تقديم جلسات داخلية في مكاتب العملاء في دبي وبقية الإمارات.'],
+        ['كيف أحجز دورة في كمبيوبيس؟', 'اتصل بكمبيوبيس أو راسلنا عبر واتساب على ‎+971 56 689 3378، أو أرسل نموذج الاستفسار من صفحة أي دورة، وسيؤكّد لك الفريق أقرب موعد متاح.'],
+    ];
+    $faqSchema = [
+        '@context' => 'https://schema.org',
+        '@type' => 'FAQPage',
+        'inLanguage' => 'ar',
+        'mainEntity' => array_map(fn ($f) => ['@type' => 'Question', 'name' => $f[0], 'acceptedAnswer' => ['@type' => 'Answer', 'text' => $f[1]]], $faqs),
+    ];
+    $arrow = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
+@endphp
+<link rel="stylesheet" href="{{ asset('css/home.css') }}?v={{ filemtime(base_path('css/home.css')) }}">
+<div class="nx-progress" aria-hidden="true"><span></span></div>
+<div id="page-home" class="nx">
+
+<!-- HERO -->
+<section class="nx-hero">
+  <div class="nx-aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="nx-grid-bg" aria-hidden="true"></div>
+  <div class="container nx-hero-in">
+    <div class="nx-hero-copy">
+      <span class="nx-pill"><span class="nx-live-dot"></span>مرخّص من ACTVET · ترخيص رقم 725</span>
+      <h1>دورات تدريبية احترافية في أبوظبي و<span class="nx-grad">جميع أنحاء الإمارات</span></h1>
+      <p class="nx-lead">مركز كمبيوبيس للتدريب معهد تدريب في أبوظبي مرخّص من مؤسسة أبوظبي للتعليم والتدريب التقني والمهني (ACTVET) بترخيص رقم 725. نقدّم {{ $courseCount }} دورة في الإدارة وتقنية المعلومات.</p>
+      <div class="nx-cta">
+        <a class="nx-btn nx-btn-gold" href="{{ route('courses-ar') }}">تصفّح جميع الدورات ({{ $courseCount }}) {!! $arrow !!}</a>
+        <a class="nx-btn nx-btn-glass" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب 056 689 3378</a>
       </div>
+      <dl class="nx-hero-stats">
+        <div><dt data-count="{{ $courseCount }}">{{ $courseCount }}</dt><dd>دورة</dd></div>
+        <div><dt data-count="{{ $catCount }}">{{ $catCount }}</dt><dd>فئة</dd></div>
+        <div><dt>ع·EN</dt><dd>لغتان</dd></div>
+      </dl>
     </div>
-    <div class="hero-box hero-slider">
-      <div class="hs-slide active"><img class="bg" src="{{ url('uploads/2026/10/abu-dhabi-classroom-training-session-j5htjt.jpg') }}" alt="مدرّب يقود حصة صفية لمهنيين إماراتيين ومن جنوب آسيا في مركز كمبيوبيس أبوظبي"><div class="cap">حصص صفية من الاثنين إلى الجمعة — مجموعات صباحية ومسائية</div></div>
-      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/abu-dhabi-certification-exam-preparation-e2zzvs.jpg') }}" alt="مهنيون يستعدون لامتحانات الشهادات المهنية بالكتب ومع مدرّبة في أبوظبي"><div class="cap">التحضير لامتحانات إدارة المشاريع والتدقيق والمحاسبة مع كادرنا الداخلي</div></div>
-      <div class="hs-slide"><img class="bg" src="{{ url('uploads/2026/10/uae-cyber-security-ai-workshop-lab-ywxc18.jpg') }}" alt="متدربون إماراتيون ومن جنوب آسيا في مختبر عملي للأمن السيبراني والذكاء الاصطناعي مع مدرّبهم"><div class="cap">ورش عملية في الأمن السيبراني والاختراق الأخلاقي والذكاء الاصطناعي</div></div>
-      <div class="hs-arrows"><button class="hs-prev" aria-label="السابق">›</button><button class="hs-next" aria-label="التالي">‹</button></div>
-      <div class="hs-dots"></div>
+    <div class="nx-collage" data-parallax>
+      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/abu-dhabi-classroom-training-session-j5htjt.jpg') }}" alt="مدرّب يقود حصة صفية في مركز كمبيوبيس أبوظبي"></figure>
+      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/uae-cyber-security-ai-workshop-lab-ywxc18.jpg') }}" alt="متدربون في مختبر عملي للأمن السيبراني والذكاء الاصطناعي"></figure>
+      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/abu-dhabi-evening-class-working-professionals-0jvbyg.jpg') }}" alt="موظفون في حصة مسائية في أبوظبي"></figure>
+      <div class="nx-float nx-float-1"><span class="nx-float-ico">☀</span><div><b>صباحاً أو مساءً</b><small>اختر المجموعة التي تناسب عملك</small></div></div>
+      <div class="nx-float nx-float-2"><span class="nx-float-ico">✓</span><div><b>ACTVET رقم 725</b><small>مرخّص في أبوظبي</small></div></div>
     </div>
   </div>
 </section>
 
 <!-- COURSE FINDER -->
-<div class="container">
+<div class="container nx-finder">
   @include('partials.course-finder', ['ar' => true])
 </div>
 
 <!-- ACCREDITATION -->
 @include('partials.accreditation', ['ar' => true])
 
-<!-- CATEGORIES -->
-<section class="section" id="courses">
+<!-- WHO COMES TO US -->
+<section class="nx-sec nx-people">
+  <div class="container nx-people-in">
+    <div class="nx-people-head" data-reveal>
+      <span class="nx-kicker">من يأتي إلينا</span>
+      <h2 class="nx-h2">يأتينا الناس <em>لأسباب كثيرة ومختلفة.</em></h2>
+      <p>نُدرّس بالعربية أو الإنجليزية، ويمكنك اختيار مجموعة صباحية أو مسائية حتى لا يتأثر عملك.</p>
+      <div class="nx-toggles" aria-hidden="true">
+        <span class="nx-toggle"><b class="on">عربي</b><b>EN</b></span>
+        <span class="nx-toggle"><b class="on">صباحاً</b><b>مساءً</b></span>
+      </div>
+    </div>
+    <div class="nx-chat">
+      <div class="nx-bubble" data-reveal><span class="nx-avatar">م</span><p>مشرف جديد يريد أن يتوقف عن الشعور بالضياع في الاجتماعات.</p></div>
+      <div class="nx-bubble nx-bubble-r" data-reveal><span class="nx-avatar">ح</span><p>محاسب يحتاج إلى تحديث معارفه قبل التدقيق.</p></div>
+      <div class="nx-bubble" data-reveal><span class="nx-avatar">HR</span><p>وأحياناً يحتاج مدير الموارد البشرية إلى تدريب فريق كامل، وبسرعة.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- PROGRAMMES: sticky visual + scrolling chapters -->
+<section class="nx-sec nx-story" id="programmes">
   <div class="container">
-    <div class="eyebrow">فئات الدورات</div>
-    @use('App\Support\Catalog')
-    <h2>{{ count(Catalog::courses()) }} دورة، ومقرّ واحد في أبوظبي.</h2>
-    <p style="max-width:720px">سواء كنت تستعد لامتحان مهني، أو تنقل فريقك إلى مجال الأمن السيبراني والذكاء الاصطناعي، أو تبني مهارات اللغة والأوفيس التي تتطلبها بيئة العمل الإماراتية — فكل دوراتنا مجدولة حول أسبوع عمل كامل.</p>
+    <nav class="nx-story-nav" aria-label="مجالات البرامج">
+      <a href="#ch-management" class="on" data-i="0"><span>01</span>الإدارة والقيادة</a>
+      <a href="#ch-it" data-i="1"><span>02</span>تقنية المعلومات والبيانات والأمن</a>
+      <a href="#ch-finance" data-i="2"><span>03</span>المالية والمشاريع والسلامة</a>
+    </nav>
+    <div class="nx-story-grid">
+      <div class="nx-stage" aria-hidden="true">
+        <div class="nx-stage-card on" data-i="0">
+          <img src="{{ url('uploads/2026/10/managing-self-leading-others-objectives-dk5drg.jpg') }}" alt="" loading="lazy">
+          <div class="nx-stage-glass"><small>دورات الإدارة لـ</small><div class="nx-chips"><span>الموارد البشرية</span><span>المبيعات</span><span>المشتريات</span><span>الجودة</span></div></div>
+        </div>
+        <div class="nx-stage-card" data-i="1">
+          <img src="{{ url('uploads/2026/10/artificial-intelligence-using-python-fgrzgk.jpg') }}" alt="" loading="lazy">
+          <div class="nx-stage-glass"><small>المسارات</small><div class="nx-chips"><span>الحوسبة السحابية</span><span>البيانات</span><span>الذكاء الاصطناعي</span><span>الأمن السيبراني</span></div></div>
+        </div>
+        <div class="nx-stage-card" data-i="2">
+          <img src="{{ url('uploads/2026/10/agile-project-manager-sprint-planning-oy5dbc.jpg') }}" alt="" loading="lazy">
+          <div class="nx-stage-glass"><small>البرامج</small><div class="nx-chips"><span>المالية</span><span>المشاريع</span><span>السلامة</span></div></div>
+        </div>
+        <div class="nx-stage-count"><b>01</b>/03</div>
+      </div>
+
+      <div class="nx-chapters">
+        <article class="nx-chapter" id="ch-management" data-i="0">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/managing-self-leading-others-objectives-dk5drg.jpg') }}" alt="دورة إدارة الذات وقيادة الآخرين في كمبيوبيس" loading="lazy">
+          <span class="nx-kicker">01 — الإدارة والقيادة</span>
+          <h2 class="nx-h2">سجّل في دورات الإدارة والقيادة</h2>
+          <figure class="nx-quote">
+            <figcaption>عبارة نسمعها كثيراً.</figcaption>
+            <blockquote>«تمّت ترقيتي، ولم يخبرني أحد كيف أدير الناس.»</blockquote>
+          </figure>
+          <p>هذا أمر طبيعي، وهو بالضبط سبب وجود <a href="{{ $cat('leadership-and-management') }}">دورات القيادة في الإمارات</a> لدينا. فبرامج مثل <a href="{{ $course('managing-self-and-leading-others') }}">{{ $t('managing-self-and-leading-others') }}</a> تتناول الجوانب الصعبة من العمل، كتقديم ملاحظات صريحة أو حلّ خلاف بين زميلين.</p>
+          <p>تمنحك دورة إدارة الأعمال في الإمارات الصورة الأشمل، إذ توضّح كيف ترتبط الأهداف والخطط والقرارات في أنحاء الشركة. كما نقدّم دورات إدارية في الإمارات لموظفي الموارد البشرية والمبيعات والمشتريات والجودة، فالمشتري ومسؤول التوظيف لا يواجهان المشكلات نفسها. اطّلع على <a href="{{ $cat('leadership-and-management') }}">برامج القيادة والإدارة</a> لدينا لترى ما نقدّمه.</p>
+          <div class="nx-linkrow">
+            <a href="{{ $cat('human-resources-management') }}">الموارد البشرية</a><a href="{{ $cat('sales-and-marketing') }}">المبيعات</a><a href="{{ $cat('procurement-and-supply-chain-management') }}">المشتريات</a><a href="{{ $cat('quality-management') }}">الجودة</a>
+          </div>
+          <a class="nx-btn nx-btn-dark" href="{{ $cat('leadership-and-management') }}">استكشف برامج القيادة {!! $arrow !!}</a>
+        </article>
+
+        <article class="nx-chapter" id="ch-it" data-i="1">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/artificial-intelligence-using-python-fgrzgk.jpg') }}" alt="دورة الذكاء الاصطناعي باستخدام Python في كمبيوبيس" loading="lazy">
+          <span class="nx-kicker">02 — تقنية المعلومات والبيانات والأمن</span>
+          <h2 class="nx-h2">احجز مقعدك في دورات تقنية المعلومات والبيانات والأمن</h2>
+          <p>تشمل <a href="{{ route('categories-ar') }}">دورات تقنية المعلومات في الإمارات</a> لدينا الحوسبة السحابية والبرمجة وإدارة خدمات تقنية المعلومات وغيرها. وتُعدّ دورة <a href="{{ $course('aws-certified-cloud-practitioner') }}">{{ $t('aws-certified-cloud-practitioner') }}</a> نقطة انطلاق شائعة.</p>
+          <p>البيانات هي المجال الذي يرغب كثيرون في التطوّر فيه الآن. فإن كانت التقارير ولوحات المعلومات جزءاً من يومك، فإن دورة محلل البيانات في الإمارات تبني لك هذا الأساس. أما دورة علم البيانات في الإمارات فتذهب أبعد من ذلك، مع خيارات مثل <a href="{{ $course('artificial-intelligence-using-python') }}">{{ $t('artificial-intelligence-using-python') }}</a> و<a href="{{ $course('apache-pyspark-using-databricks') }}">{{ $t('apache-pyspark-using-databricks') }}</a>. ستجدها جميعاً في <a href="{{ $cat('ai-and-data-science') }}">فئة الذكاء الاصطناعي وعلوم البيانات</a>.</p>
+          <p>تأتي دورات الأمن في الإمارات لدينا في مسارين.</p>
+          <div class="nx-tracks">
+            <a class="nx-track nx-spot" href="{{ $cat('cyber-security') }}">
+              <span class="nx-ico"><svg viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 4.5-3.4 8.3-8 9-4.6-.7-8-4.5-8-9V6l8-3z"/><path d="M9 12l2 2 4-4"/></svg></span>
+              <b>الأمن السيبراني</b>
+              <span>دورات شهادات مثل الهاكر الأخلاقي المعتمد (CEH) وشهادة CISM.</span>
+            </a>
+            <a class="nx-track nx-spot" href="{{ $cat('physical-security-management') }}">
+              <span class="nx-ico"><svg viewBox="0 0 24 24"><path d="M3 21h18M5 21V8l7-5 7 5v13"/><path d="M10 21v-6h4v6"/></svg></span>
+              <b>إدارة الأمن المادي</b>
+              <span>للمسؤولين عن حماية المباني والمواقع.</span>
+            </a>
+          </div>
+          <div class="nx-linkrow">
+            <a href="{{ $course('certified-ethical-hacker-ceh-ec-council') }}">الهاكر الأخلاقي المعتمد (CEH)</a><a href="{{ $course('certified-information-security-manager-cism-isaca') }}">CISM</a><a href="{{ $cat('cloud-computing') }}">الحوسبة السحابية</a>
+          </div>
+        </article>
+
+        <article class="nx-chapter" id="ch-finance" data-i="2">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/agile-project-manager-sprint-planning-oy5dbc.jpg') }}" alt="تدريب إدارة المشاريع الرشيقة في كمبيوبيس" loading="lazy">
+          <span class="nx-kicker">03 — المالية والمشاريع والسلامة</span>
+          <h2 class="nx-h2">سجّل في برامج المالية والمشاريع والسلامة</h2>
+          <div class="nx-stack">
+            <div class="nx-stack-item">
+              <h3>المالية ليست للمحاسبين وحدهم.</h3>
+              <p>تتضمّن <a href="{{ $cat('accounting-and-finance') }}">دورات المالية في الإمارات</a> لدينا دورة <a href="{{ $course('accounting-for-non-accountants') }}">{{ $t('accounting-for-non-accountants') }}</a>، التي يلتحق بها كثير من المديرين ليتمكّنوا من قراءة الميزانية دون تخمين.</p>
+            </div>
+            <div class="nx-stack-item">
+              <h3>نادراً ما تتعثّر المشاريع في لحظة واحدة كبيرة.</h3>
+              <p>بل تنزلق قليلاً كل أسبوع. تعلّمك <a href="{{ $cat('project-management') }}">دورات إدارة المشاريع في الإمارات</a> لدينا، ومنها <a href="{{ $course('agile-project-management') }}">{{ $t('agile-project-management') }}</a>، كيف تحدّد النطاق، وتبني جدولاً زمنياً واقعياً، وتكتشف المشكلات مبكراً.</p>
+            </div>
+            <div class="nx-stack-item">
+              <h3>السلامة أمر مختلف.</h3>
+              <p>أي خطأ فيها قد يؤدي إلى إصابة أحدهم. تتضمّن دورات السلامة في الإمارات لدينا، ضمن <a href="{{ $cat('health-safety-and-environment') }}">برامج الصحة والسلامة والبيئة</a>، دورتي <a href="{{ $course('behavior-based-safety') }}">{{ $t('behavior-based-safety') }}</a> و<a href="{{ $course('emergency-response-planning-crisis-management-for-hazardous-environments') }}">التخطيط للاستجابة في حالات الطوارئ</a> للمشرفين وفرق المواقع.</p>
+            </div>
+          </div>
+          <p class="nx-aside">إن كنت تبحث عن دورات إدارة الفعاليات في الإمارات، فاطّلع على <a href="{{ $cat('public-relations-and-media-training') }}">دورات العلاقات العامة والإعلام</a> لدينا، فهي تغطي جوانب التخطيط والرسائل في عمليات الإطلاق والفعاليات العامة.</p>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CATEGORIES -->
+<section class="section nx-cats" id="courses">
+  <div class="container">
+    <div class="nx-head-row" data-reveal>
+      <div><span class="nx-kicker">فئات الدورات</span><h2 class="nx-h2">{{ $courseCount }} دورة في {{ $catCount }} فئة.</h2></div>
+      <a class="nx-btn nx-btn-dark" href="{{ route('categories-ar') }}">عرض جميع الفئات ({{ $catCount }}) {!! $arrow !!}</a>
+    </div>
     <div class="cat-grid">
-      @foreach (array_slice(Catalog::categories(), 0, 3, true) as $cat => $category)
+      @foreach (array_slice(Catalog::categories(), 0, 3, true) as $catSlug => $category)
       @php
           $catCourses = array_values($category['courses']);
-          $catPhoto = null;
+          $photo = null;
           foreach ($catCourses as $c) {
-              if ($catPhoto = Catalog::photo($c)) {
+              if ($photo = Catalog::photo($c)) {
                   break;
               }
           }
           $catMark = mb_strtoupper(mb_substr($category['en'], 0, 1));
       @endphp
-      <a class="cat" href="{{ Catalog::categoryUrl($cat, true) }}">
+      <a class="cat" href="{{ Catalog::categoryUrl($catSlug, true) }}" data-reveal>
         <div class="cat-photo">
-          @if ($catPhoto)<img src="{{ $catPhoto }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $catMark }}</div>@endif
+          @if ($photo)<img src="{{ $photo }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $catMark }}</div>@endif
           <span class="cat-photo-num">{{ sprintf('%02d', $loop->iteration) }}</span>
           <span class="cat-photo-count">{{ count($catCourses) }} دورة</span>
         </div>
@@ -105,198 +248,190 @@
           <h3>{{ $category['ar'] }}</h3>
           <p>{{ count($catCourses) }} دورة، مدة كل منها من {{ min(array_column($catCourses, 'days')) }} إلى {{ max(array_column($catCourses, 'days')) }} أيام، من الاثنين إلى الجمعة في مقر أبوظبي.</p>
           <table>
-            @foreach (array_slice($catCourses, 0, 4) as $course)
-            <tr><td>{{ $course['ar'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td></tr>
+            @foreach (array_slice($catCourses, 0, 4) as $c)
+            <tr><td>{{ $c['ar'] }}</td><td>{{ Catalog::duration($c['days'], true) }}</td></tr>
             @endforeach
           </table>
-          <span class="link">عرض جميع الدورات ←</span>
+          <span class="link">عرض جميع الدورات ({{ count($catCourses) }}) ←</span>
         </div>
       </a>
       @endforeach
     </div>
-    <div class="cat-more-btn"><a class="btn btn-navy" href="{{ route('categories-ar') }}">عرض جميع الفئات ({{ count(Catalog::categories()) }}) ←</a></div>
   </div>
 </section>
 
-<!-- FEATURED -->
-<section class="section featured" id="featured">
+<!-- FEATURED COURSES -->
+<section class="section featured nx-featured" id="featured">
   <div class="container">
-    <div class="eyebrow">دورات هذه الدفعة</div>
-    <h2>الدورات الأكثر طلباً لدى جهات العمل في أبوظبي.</h2>
-    <p style="max-width:720px">تُعقد كل دورة من الاثنين إلى الجمعة في مقرّنا بأبوظبي، مع مجموعات صباحية ومسائية لتتمكن من التدرّب دون ترك عملك. تُخصّص المقاعد حسب أسبقية الاستفسار.</p>
-    <div class="course-grid">
-      @foreach (array_slice(Catalog::courses(), 0, 6) as $course)
-        @include('partials.course-card', ['ar' => true])
-      @endforeach
+    <span class="nx-kicker">دورات هذه الدفعة</span>
+    <h2 class="nx-h2">الدورات التي تحجزها جهات العمل في أبوظبي الآن.</h2>
+    <div class="feat-filter">
+      <div class="feat-groups" id="featGroups">
+        <button type="button" class="active" data-g="all">جميع الدورات <span></span></button>
+        <button type="button" data-g="management">الإدارة والمهارات المهنية <span></span></button>
+        <button type="button" data-g="it">تقنية المعلومات والتكنولوجيا <span></span></button>
+      </div>
+      <div class="feat-rail" id="featRail" hidden>
+        <button type="button" class="rail-arrow prev" aria-label="الفئات السابقة"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="feat-cats" id="filterTabs">
+          @foreach (Catalog::categories() as $catSlug => $category)
+          <button type="button" data-f="{{ $catSlug }}" data-g="{{ $category['group'] }}" data-name="{{ $category['ar'] }}">{{ $category['ar'] }} <span>{{ count($category['courses']) }}</span></button>
+          @endforeach
+        </div>
+        <button type="button" class="rail-arrow next" aria-label="الفئات التالية"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+      </div>
     </div>
-    <p class="foot"><a href="{{ route('courses-ar') }}">تصفّح جميع الدورات ({{ count(Catalog::courses()) }})</a> أو اتصل بمستشار التدريب على <a href="tel:+97126771117">02 677 1117</a></p>
+    <div class="course-grid" id="courseGrid"></div>
+    <div class="feat-more" id="featMore"><a class="btn btn-outline" href="{{ route('courses-ar') }}">عرض جميع الدورات &larr;</a></div>
   </div>
 </section>
 
-<!-- SCHEDULE -->
-<section class="section schedule" id="schedule">
+<!-- SHORT COURSES AND FLEXIBLE LEARNING (bento) -->
+<section class="nx-sec nx-flex" id="flexible">
+  <div class="container">
+    <div class="nx-center-head" data-reveal>
+      <span class="nx-kicker">الدورات القصيرة والتعلّم المرن</span>
+      <h2 class="nx-h2">سجّل في الدورات القصيرة والتعلّم المرن</h2>
+    </div>
+    <div class="nx-bento">
+      <div class="nx-tile nx-tile-days nx-spot" data-reveal>
+        <div class="nx-week" aria-hidden="true"><span>الاثنين</span><span>الثلاثاء</span><span>الأربعاء</span><span>الخميس</span><span>الجمعة</span></div>
+        <div class="nx-bignum">3–5 <small>أيام</small></div>
+        <p>معظم الناس لا يستطيعون التغيّب عن العمل لأسابيع. لذلك تمتد دوراتنا القصيرة في الإمارات عادةً من ثلاثة إلى خمسة أيام، فتتعلّم مهارة واحدة ثم تعود إلى مكتبك. ويعرض <a href="{{ route('courses-ar') }}">دليل الدورات الكامل</a> محتوى كل دورة ومدتها، لتقارن قبل أن تقرّر.</p>
+      </div>
+      <div class="nx-tile nx-tile-live nx-spot" data-reveal>
+        <div class="nx-call" aria-hidden="true"><i></i><i></i><i></i><i></i><span class="nx-rec"><span class="nx-live-dot"></span>مباشر</span></div>
+        <h3>حصة افتراضية مباشرة</h3>
+        <p>نتلقّى أيضاً اتصالات حول الدورات عبر الإنترنت في الإمارات. إن كان فريقك موزّعاً على مكاتب مختلفة، فاسأل إن كان بالإمكان تقديم دورتك كحصة افتراضية مباشرة. وغالباً ما تكون المواد التقنية مثل <a href="{{ $cat('ai-and-data-science') }}">الذكاء الاصطناعي</a> و<a href="{{ $cat('cloud-computing') }}">الحوسبة السحابية</a> و<a href="{{ $cat('coding-and-programming') }}">البرمجة</a> أفضل الدورات عبر الإنترنت في الإمارات بهذه الصيغة، لأن العمل فيها يجري أصلاً على الشاشة.</p>
+      </div>
+      <div class="nx-tile nx-tile-cal" id="calendar" data-reveal>
+        <span class="nx-kicker">تقويم الدورات</span>
+        <h3>احصل على جميع مواعيد البدء في ملف PDF</h3>
+        <p>جميع الدورات بمددها وتوقيتاتها في صفحة واحدة — مفيد عند طلب موافقة مديرك.</p>
+        <div class="side-box calendar">@include('partials.enquiry-form', ['type' => 'calendar', 'ar' => true])</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- INTAKE SCHEDULE -->
+<section class="section schedule nx-schedule" id="schedule">
   <div class="container">
     <div class="sched-head">
       <div>
-        <div class="eyebrow">الدفعات القادمة</div>
-        <h2>جميع مواعيد البدء في جدول واحد.</h2>
-        <p style="max-width:640px">دفعات مؤكدة في مقر أبوظبي. إن لم يناسبك موعد، أخبرنا بالأسبوع الذي تفضّله وسنضمّك إلى المجموعة التالية.</p>
+        <span class="nx-kicker">الدفعات القادمة</span>
+        <h2 class="nx-h2">جميع مواعيد البدء في جدول واحد.</h2>
       </div>
-      <a class="btn btn-outline" href="{{ route('contact-ar') }}">⤓ تحميل تقويم الدورات</a>
+      <a class="btn btn-outline" href="{{ route('home-ar', ['go' => 'calendar']) }}" data-scroll="calendar">⤓ تحميل تقويم الدورات</a>
     </div>
     <div class="table-wrap">
       <table class="sched">
         <caption>المجموعات المؤكدة القادمة</caption>
         <thead><tr><th>الدورة</th><th>الفئة</th><th>المدة</th><th>التوقيت</th><th>تبدأ في</th><th>المقعد</th></tr></thead>
-        <tbody>
-          @foreach (array_slice(Catalog::courses(), 0, 8) as $course)
-          <tr><td><b style="color:var(--navy)">{{ $course['ar'] }}</b></td><td>{{ $course['catAr'] }}</td><td>{{ Catalog::duration($course['days'], true) }}</td><td>صباحي أو مسائي</td><td>2026 و2027</td><td><a href="{{ Catalog::url($course, true) }}">سجّل</a></td></tr>
-          @endforeach
-        </tbody>
+        <tbody id="schedBody"></tbody>
       </table>
     </div>
-    <p class="sched-note">يعرض الجدول {{ min(8, count(Catalog::courses())) }} دورات من أصل {{ count(Catalog::courses()) }}. تُعقد جميع المجموعات من الاثنين إلى الجمعة في مقر أبوظبي.</p>
-  </div>
-</section>
-
-<!-- FACTS -->
-<section class="facts">
-  <div class="container">
-    <div class="fact"><b>{{ count(Catalog::courses()) }}</b><p>دورة مجدولة في {{ count(Catalog::categories()) }} فئة</p></div>
-    <div class="fact"><b>2</b><p>توقيتان يومياً — مجموعات صباحية ومسائية</p></div>
-    <div class="fact"><b>ع / إ</b><p>التدريس بالعربية أو الإنجليزية حسب الدورة</p></div>
-    <div class="fact"><b>1</b><p>مقرّ في أبوظبي — حصص صباحية ومسائية</p></div>
+    <p class="sched-note">يعرض الجدول {{ min(8, $courseCount) }} دورات من أصل {{ $courseCount }}. <a href="{{ route('schedule-ar') }}" style="font-weight:700;text-decoration:underline">اطّلع على الجدول الكامل</a></p>
   </div>
 </section>
 
 <!-- CORPORATE -->
-<section class="section corporate" id="corporate">
-  <div class="container">
-    <div>
-      <div class="eyebrow on-dark">التدريب المؤسسي والداخلي</div>
-      <h2>درّب فريقك كاملاً. في مقرّك أو مقرّنا.</h2>
-      <p class="lead">يمكن تقديم أي دورة على هذا الموقع بشكل خاص لمنشأة واحدة، مع تكييف المحتوى وفق أنظمتكم وسياساتكم وقطاعكم. أخبرنا بالفريق والهدف، ونحن نبني الجدول حول سير عملكم.</p>
-      <ul class="corp-points">
-        <li><b>التدريب في مقرّكم في جميع أنحاء الإمارات</b><span>أو في مجموعة خاصة بمقرّنا في أبوظبي — أيهما يوفّر وقت فريقكم أكثر.</span></li>
-        <li><b>محتوى مصمّم حسب أدواركم الوظيفية</b><span>حالات عملية وتمارين وأمثلة تُعاد صياغتها حول العمل الفعلي لموظفيكم.</span></li>
-        <li><b>سجلات حضور وشهادات إتمام</b><span>وثائق جاهزة لإدارات الموارد البشرية والامتثال دون متابعة منكم.</span></li>
-      </ul>
-      <div class="corp-cta">
-        <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب 056 689 3378</a>
-        <small>اسأل مستشار التدريب عن أسعار المجموعات حسب حجم فريقك.</small>
-      </div>
+<section class="nx-sec nx-corp" id="corporate">
+  <div class="nx-aurora nx-aurora-soft" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="container nx-corp-in">
+    <div class="nx-corp-copy" data-reveal>
+      <span class="nx-kicker nx-kicker-light">التدريب المؤسسي والداخلي</span>
+      <h2 class="nx-h2">اطلب عرض سعر للتدريب المؤسسي الداخلي</h2>
+      <p>تبيعك كثير من شركات التدريب المؤسسي في الإمارات باقة جاهزة. أما نحن فنفضّل أن نسمع أولاً ما الذي لا يسير على ما يرام في فريقك، ثم نبني الدورة حول ذلك. ويمكن لمدرّبينا الحضور إلى مكتبك في أبوظبي أو دبي أو أي إمارة أخرى.</p>
+      <ol class="nx-timeline">
+        <li data-reveal><span>1</span><div><b>الملخّص</b><p>املأ ملخّصاً قصيراً في <a href="{{ route('corporate-ar') }}">صفحة التدريب المؤسسي</a>.</p></div></li>
+        <li data-reveal><span>2</span><div><b>العرض</b><p>نرسل إليك عرضاً يوضّح المحتوى والمدة والتكلفة.</p></div></li>
+        <li data-reveal><span>3</span><div><b>المقارنة</b><p>وهذا يسهّل مقارنتنا بأفضل شركات التدريب الأخرى في الإمارات.</p></div></li>
+      </ol>
     </div>
-    <div class="proposal">
+    <div class="nx-form-card proposal" data-reveal>
       <h3>اطلب عرضاً تدريبياً</h3>
-      <p class="sub">ستة حقول فقط. يردّ عليك مستشار التدريب بالمواعيد والصيغة وعرض سعر مكتوب.</p>
+      <p class="sub">أخبرنا عن فريقك، ونردّ عليك بالمحتوى والمدة والتكلفة.</p>
       @include('partials.enquiry-form', ['type' => 'proposal', 'ar' => true])
     </div>
   </div>
 </section>
 
-<!-- STEPS -->
-<section class="section">
+<!-- WHY COMPUBASE (bento) -->
+<section class="nx-sec nx-why">
   <div class="container">
-    <div class="eyebrow">خطوات التسجيل</div>
-    <h2>ثلاث خطوات تفصلك عن مقعدك.</h2>
-    <div class="steps-grid">
-      <div class="step"><div class="eyebrow">الخطوة 01</div><h3>اختر الدورة والتوقيت</h3><p>استخدم أداة البحث عن الدورات أو اتصل بنا. سنخبرك بصراحة إن كانت الدورة تناسب مستواك، وسنقترح غيرها إن لم تكن كذلك.</p></div>
-      <div class="step"><div class="eyebrow">الخطوة 02</div><h3>أكّد مقعدك</h3><p>أكمل نموذج التسجيل وسدّد الرسوم. تصلك رسالة تأكيد مكتوبة بالمكان وتاريخ البدء والتوقيت اليومي.</p></div>
-      <div class="step"><div class="eyebrow">الخطوة 03</div><h3>احضر واحصل على شهادتك</h3><p>تدرّب من الاثنين إلى الجمعة في مجموعتك، ثم استلم شهادة الإتمام من كمبيوبيس مع إرشادات الامتحان إن كانت الدورة تؤدي إليه.</p></div>
+    <div class="nx-center-head" data-reveal>
+      <span class="nx-kicker">لماذا كمبيوبيس</span>
+      <h2 class="nx-h2">لماذا يختار المتدربون كمبيوبيس</h2>
+      <p>أمامك الكثير من معاهد التدريب في الإمارات للاختيار بينها. وهذه بعض الأسباب التي تجعل الناس يختاروننا:</p>
     </div>
-    @include('partials.class-feature', ['ar' => true])
-  </div>
-</section>
-
-<!-- WHY -->
-<section class="section why">
-  <div class="container">
-    <div class="eyebrow">لماذا كمبيوبيس</div>
-    <h2>مركز تدريب مصمّم حول أسبوع العمل.</h2>
-    <p style="max-width:700px">يعمل مركز كمبيوبيس للتدريب من مقرّ واحد في أبوظبي. كل دورة على هذا الموقع تُدرَّس في قاعاتنا، بكادرنا التدريبي، وبجدول مصمّم لمن لا يستطيع التوقف عن العمل من أجل الدراسة.</p>
-    <div class="why-grid">
-      <div class="why-item"><h3>مجموعات صباحية ومسائية</h3><p>المنهج نفسه مرتين يومياً، حتى لا يكون نظام مناوباتك سبباً لتأجيل مؤهلك.</p></div>
-      <div class="why-item"><h3>التدريس بالعربية أو الإنجليزية</h3><p>المادة التدريبية والشرح باللغة التي يعمل بها فريقك.</p></div>
-      <div class="why-item"><h3>قاعة حقيقية، لا مكتبة فيديو</h3><p>مجموعات صغيرة في قاعة فعلية، حيث يُجاب عن سؤالك لحظة طرحه.</p></div>
-      <div class="why-item"><h3>إجابات صريحة حول الملاءمة</h3><p>إن لم تكن الدورة مناسبة لمستواك أو هدفك، سيخبرك المستشار بذلك قبل الدفع.</p></div>
-    </div>
-  </div>
-</section>
-
-<!-- ABOUT / SEO CONTENT -->
-<section class="section seo-content" id="about">
-  <div class="container">
-    <div>
-      <div class="eyebrow">عن تدريبنا</div>
-      <h1>دورات تدريبية احترافية في أبوظبي، مصمّمة لمن هم على رأس عملهم</h1>
-      <p>مركز كمبيوبيس للتدريب هو مزوّد تدريب صفّي في أبوظبي يقدّم التحضير للشهادات المهنية، ودورات تقنية المعلومات والأمن السيبراني، وتدريب اللغتين الإنجليزية والعربية. يُعقد كل برنامج من الاثنين إلى الجمعة بمجموعة صباحية وأخرى مسائية، حتى لا يكلّفك المؤهل إجازتك السنوية.</p>
-      <p>تمتد الدورات المجدولة من يومين إلى خمسة أيام. وأياً كان اختيارك، فأنت تتدرّب في قاعة مع مدرّب من كمبيوبيس، لا وحدك أمام مقاطع مسجّلة.</p>
-      <h3>دورات الشهادات لمحترفي المالية والتدقيق والمشاريع</h3>
-      <p>يغطي مسار الشهادات أربعة من أكثر الاعتمادات طلباً في الوصف الوظيفي الإماراتي: إدارة المشاريع الاحترافية لمديري المشاريع، والمدقق الداخلي المعتمد، والمحاسب الإداري المعتمد، ومدقق نظم المعلومات المعتمد. تمتد كل دورة أربعين ساعة صفّية خلال أسبوع عمل، مع مجموعات مسائية للموظفين بدوام كامل. تُدفع رسوم الامتحان مباشرة للجهة المانحة وليست ضمن رسوم الدورة.</p>
-      <h3>تدريب الأمن السيبراني والذكاء الاصطناعي لفرق العمل الإماراتية</h3>
-      <p>تُطالَب المنشآت في أبوظبي اليوم بإثبات وعيها الأمني واستخدامها المسؤول للذكاء الاصطناعي. ومسارنا التقني يلبّي الأمرين: أساسيات الأمن السيبراني للموظفين، والاختراق الأخلاقي للفرق التقنية، وورشتا أساسيات الذكاء الاصطناعي وهندسة الأوامر النصية القصيرتان لبقية الموظفين — قصيرتان عمداً لتُحجزا لقسم كامل دون تعطيل شهر من العمل.</p>
-      <h3>الإنجليزية والعربية ومهارات الأوفيس</h3>
-      <p>اللغة هي الأساس تحت كل مؤهل آخر على هذا الموقع. ندرّس الإنجليزية العامة على مدى شهر، والتحضير للآيلتس خلال أسبوعين لمن حجز موعد امتحانه، والعربية لغير الناطقين بها للمقيمين الراغبين في عمل وحياة أكثر ثقة في الإمارات. وإلى جانبها، تغطي دورة أوفيس مع كوبايلوت برامج إكسل وورد وباوربوينت وآوتلوك بمستوى مهني.</p>
-      <h3>تدريب مؤسسي في جميع أنحاء الإمارات</h3>
-      <p>يمكن تقديم أي دورة مذكورة هنا بشكل خاص لمنشأة واحدة، في مقرّكم أو في مجموعة مغلقة بمقرّنا في أبوظبي. اطلب عرضاً تدريبياً وسيوافيك مستشارنا بالمواعيد والصيغة وعرض سعر مكتوب.</p>
-    </div>
-    <aside>
-      <div class="side-box">
-        <h4>الدورات الأكثر طلباً</h4>
-        <ul>
-          @foreach (array_slice(Catalog::courses(), 0, 6) as $course)
-          <li><a href="{{ Catalog::url($course, true) }}">{{ $course['ar'] }}</a></li>
-          @endforeach
-        </ul>
+    <div class="nx-bento nx-bento-why">
+      <div class="nx-tile nx-tile-hero nx-spot" data-reveal>
+        <div class="nx-bignum"><span data-count="{{ $courseCount }}">{{ $courseCount }}</span></div>
+        <p>{{ $courseCount }} دورة، من القيادة والمالية إلى الأمن السيبراني والذكاء الاصطناعي</p>
+        <div class="nx-orbit" aria-hidden="true"><span>القيادة</span><span>المالية</span><span>الأمن السيبراني</span><span>الذكاء الاصطناعي</span></div>
       </div>
-      <div class="side-box calendar" id="calendar">
-        <h4>تقويم الدورات</h4>
-        <h3>احصل على جميع مواعيد البدء في ملف واحد</h3>
-        <p>جميع الدورات بمددها وتوقيتاتها في صفحة واحدة — مفيد عند طلب موافقة مديرك.</p>
-        @include('partials.enquiry-form', ['type' => 'calendar', 'ar' => true])
+      <div class="nx-tile nx-spot" data-reveal>
+        <div class="nx-doc" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+        <p>محتوى واضح لكل دورة، لتعرف ما الذي تدفع مقابله</p>
       </div>
-    </aside>
+      <div class="nx-tile nx-spot" data-reveal>
+        <div class="nx-switch" aria-hidden="true"><span>حصة عامة</span><span>خاصة</span></div>
+        <p>حصص عامة للأفراد، أو جلسات خاصة لشركة واحدة</p>
+      </div>
+      <div class="nx-tile nx-tile-wide nx-spot" data-reveal>
+        <div class="nx-places" aria-hidden="true"><span>أبوظبي</span><span>دبي</span><span>الشارقة</span><span>عجمان</span><span>أم القيوين</span><span>رأس الخيمة</span><span>الفجيرة</span></div>
+        <p>مدرّبون مستعدّون للانتقال إلى موقعك حين يكون ذلك أسهل</p>
+      </div>
+    </div>
   </div>
 </section>
 
 <!-- FAQ -->
-<section class="section faq">
-  <div class="container">
-    <div class="head-row">
-      <div>
-        <div class="eyebrow">أسئلة شائعة</div>
-        <h2>قبل أن تسجّل.</h2>
-        <p>إن لم تجد سؤالك هنا، سيجيبك مستشار التدريب مباشرة.</p>
+<section class="nx-sec nx-faq">
+  <div class="container nx-faq-in">
+    <div class="nx-faq-side" data-reveal>
+      <span class="nx-kicker">أسئلة شائعة</span>
+      <h2 class="nx-h2">الأسئلة الشائعة</h2>
+      <div class="nx-faq-card">
+        <b>هل لديك سؤال آخر؟</b>
+        <p>اتصل على 02 677 1117 أو راسلنا عبر واتساب.</p>
+        <a class="nx-btn nx-btn-gold" href="https://wa.me/971566893378">@include('partials.wa-icon')اسأل عبر واتساب</a>
       </div>
-      <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')اسأل عبر واتساب</a>
     </div>
-    <details open>
-      <summary>هل تُدرَّس الدورات بالإنجليزية أم بالعربية؟</summary>
-      <div class="a">باللغتين. تعتمد لغة التدريس على المجموعة. أخبرنا بلغتك المفضلة عند الاستفسار وسنضمّك إلى مجموعة تُدرَّس بها.</div>
-    </details>
-    <details><summary>هل يمكنني الحضور مساءً إذا كنت أعمل بدوام كامل؟</summary><div class="a">نعم. تُعقد كل دورة من الاثنين إلى الجمعة بمجموعة صباحية وأخرى مسائية، لتتمكّن من التدرّب مع دوامك الكامل.</div></details>
-    <details><summary>أين يقع مركز التدريب وهل تتوفر مواقف سيارات؟</summary><div class="a">نتدرّب في مقرّنا بأبوظبي. اتصل على 02 677 1117 أو راسلنا على واتساب 056 689 3378 ليشاركك المستشار الاتجاهات وإرشادات المواقف.</div></details>
-    <details><summary>هل أحصل على شهادة، وهل رسوم الامتحان مشمولة؟</summary><div class="a">نعم — تستلم شهادة إتمام من كمبيوبيس بعد الدورة. وحين تؤهّل الدورة لامتحان خارجي (مثل إدارة المشاريع أو التدقيق)، تُدفع رسوم الامتحان مباشرة للجهة المانحة وليست ضمن رسوم الدورة.</div></details>
-    <details><summary>كم تبلغ رسوم الدورة وكيف أدفع؟</summary><div class="a">تختلف الرسوم حسب الدورة وحجم المجموعة. اتصل على 02 677 1117 أو واتساب 056 689 3378 لمعرفة الرسوم الحالية وخيارات الدفع.</div></details>
-    <details><summary>هل تدرّبون فريقنا في مكاتبنا؟</summary><div class="a">نعم. يمكن تقديم أي دورة على هذا الموقع بشكل خاص لمؤسستك، في مقرّكم في الإمارات أو في مجموعة مغلقة بمقرّنا بأبوظبي. اطلب عرضاً تدريبياً وسيردّ عليك المستشار بالمواعيد والصيغة وعرض سعر مكتوب.</div></details>
+    <div class="nx-acc">
+      @foreach ($faqs as [$q, $a])
+      <details class="nx-acc-item" data-reveal @if ($loop->first) open @endif>
+        <summary><span class="nx-acc-n">{{ sprintf('%02d', $loop->iteration) }}</span>{{ $q }}<i aria-hidden="true"></i></summary>
+        <div class="nx-acc-body"><p>{{ $a }}</p></div>
+      </details>
+      @endforeach
+    </div>
   </div>
+  <script type="application/ld+json">{!! json_encode($faqSchema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}</script>
 </section>
 
-<!-- CLOSING -->
-<section class="closing" id="contact">
+<!-- CONTACT -->
+<section class="nx-sec nx-end" id="contact">
   <div class="container">
-    <div>
-      <h2>التسجيل مفتوح الآن. حصص صباحية ومسائية متاحة.</h2>
-      <p>مركز كمبيوبيس للتدريب، أبوظبي. اتصل على 02 677 1117 أو راسلنا على واتساب 056 689 3378.</p>
-    </div>
-    <div class="actions">
-      <a class="btn btn-navy" href="{{ route('schedule-ar') }}">سجّل الآن</a>
-      <a class="btn btn-outline" href="tel:+97126771117">02 677 1117</a>
+    <div class="nx-end-card" data-reveal>
+      <div class="nx-aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+      <div class="nx-end-copy">
+        <h2 class="nx-h2">تواصل معنا لحجز تدريبك</h2>
+        <p>لديك سؤال، أو مستعد للحجز؟ أرسل إلينا رسالة عبر <a href="{{ route('contact-ar') }}">صفحة التواصل</a>. أخبرنا بالدورة التي تريدها، وعدد المشاركين، والموعد الذي يناسبك، وسنردّ عليك بأقرب حصة متاحة.</p>
+      </div>
+      <div class="nx-end-actions">
+        <a class="nx-btn nx-btn-gold" href="{{ route('contact-ar') }}">أرسل لنا رسالة {!! $arrow !!}</a>
+        <a class="nx-btn nx-btn-glass" href="tel:+97126771117">اتصل على 02 677 1117</a>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- FOOTER -->
+<script src="{{ asset('js/home.js') }}?v={{ filemtime(base_path('js/home.js')) }}" defer></script>
+</div><!-- /page-home -->
+
+<!-- 18 FOOTER -->
 <footer class="site">
   <div class="container">
     <div class="foot-grid">
@@ -307,7 +442,7 @@
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>من الأحد إلى الخميس</p>
       </div>
     </div>
   </div>
@@ -319,6 +454,7 @@
   </div>
 </footer>
 
+<!-- Mobile fixed contact bar -->
 <div class="mobile-bar">
   <a class="btn call" href="tel:+97126771117">📞</a>
   <a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a>

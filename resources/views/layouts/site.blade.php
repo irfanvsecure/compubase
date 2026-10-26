@@ -50,7 +50,7 @@
 <script>
 window.INITIAL_PAGE = document.body.dataset.page || 'home';
 window.APP_BASE = @json(rtrim(url('/'), '/'));
-window.COURSE_DATA = @json(View::getSection('page') === 'home' ? App\Support\Catalog::forScript() : []);
+window.COURSE_DATA = @json(in_array(View::getSection('page'), ['home', 'home-ar']) ? App\Support\Catalog::forScript(View::getSection('page') === 'home-ar') : []);
 // Lock horizontal page drag on RTL/LTR (partner strip / tables must not pan the document).
 // Do not call window.scrollTo here — it cancels smooth vertical scrolls (back-to-top).
 (function () {

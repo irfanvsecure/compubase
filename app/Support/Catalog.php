@@ -212,6 +212,44 @@ class Catalog
         };
     }
 
+    /**
+     * The written copy of a category page (SEO title, description, sections, picks, FAQ),
+     * from resources/content/categories/{en,ar}/{slug}.php, or null when none is written yet.
+     */
+    public static function categoryContent(string $slug, bool $ar = false): ?array
+    {
+        $path = resource_path('content/categories/'.($ar ? 'ar' : 'en').'/'.$slug.'.php');
+        $content = is_file($path) ? require $path : null;
+
+        return is_array($content) ? $content : null;
+    }
+
+    /**
+     * Escape a line of category copy and turn its link markers into links:
+     * [[course-slug]] or [[course-slug|text]], [[cat:slug|text]], [[page:route|text]].
+     */
+    public static function richText(string $text, bool $ar = false): string
+    {
+        return preg_replace_callback('/\[\[(?:(cat|page):)?([a-z0-9-]+)(?:\|([^\]]+))?\]\]/', function ($m) use ($ar) {
+            [$kind, $target, $label] = [$m[1], $m[2], $m[3] ?? ''];
+            if ($kind === 'cat') {
+                $href = self::categoryUrl($target, $ar);
+                $label = $label !== '' ? $label : e(self::categories()[$target][$ar ? 'ar' : 'en'] ?? $target);
+            } elseif ($kind === 'page') {
+                $href = route($ar && $target !== 'home' ? $target.'-ar' : ($ar ? 'home-ar' : $target));
+            } else {
+                $course = self::find($target);
+                if (! $course) {
+                    return $label !== '' ? $label : $target;
+                }
+                $href = self::url($course, $ar);
+                $label = $label !== '' ? $label : e(self::title($course, $ar));
+            }
+
+            return '<a href="'.e($href).'">'.$label.'</a>';
+        }, e($text, false));
+    }
+
     /** The catalogue as the home page script needs it. */
     public static function forScript(bool $ar = false): array
     {

@@ -1,0 +1,51 @@
+/* Category pages only — loaded from pages/category.blade.php on top of home.css. Prefix: cx- */
+.cx-hero .nx-hero-copy h1{max-width:640px}
+.cx-mark{display:grid;place-items:center;background:linear-gradient(135deg,var(--navy),var(--ink))}
+.cx-mark span{font-size:140px;font-weight:800;color:var(--gold-light)}
+
+/* Where to start: copy + popular picks */
+.cx-start{background:#fff}
+.cx-start-in{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:clamp(40px,6vw,90px);align-items:start}
+.cx-start-copy p{font-size:17px;margin-bottom:16px}
+.cx-callout{padding:22px 26px;border-radius:var(--r);background:var(--paper);border-inline-start:4px solid var(--gold);font-size:19px!important;font-weight:700;color:var(--navy);line-height:1.55}
+.cx-picks{display:flex;flex-direction:column;gap:10px;position:sticky;top:110px}
+.cx-picks-head{display:flex;justify-content:space-between;gap:14px;padding:0 18px 6px;font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-ink)}
+.cx-picks-head span:last-child{display:none}
+.cx-pick{display:grid;grid-template-columns:44px minmax(0,1fr) 76px;grid-template-rows:auto auto;column-gap:14px;row-gap:2px;align-items:center;padding:16px 18px;border-radius:18px;background:var(--paper);border:1px solid var(--line);transition:transform .4s var(--ease),box-shadow .4s,border-color .3s}
+.cx-pick:hover{transform:translateY(-4px);box-shadow:var(--shadow);border-color:var(--gold)}
+.cx-pick-n{grid-row:span 2;display:grid;place-items:center;width:44px;height:44px;border-radius:14px;background:var(--navy);color:var(--gold-light);font-weight:800;font-size:14px}
+.cx-pick b{font-size:17px;color:var(--navy);line-height:1.3}
+.cx-pick-days{grid-row:span 2;justify-self:end;padding:6px 12px;border-radius:999px;background:#fff;border:1px solid var(--line);font-size:13px;font-weight:800;color:var(--navy);white-space:nowrap}
+.cx-pick small{grid-column:2;font-size:14px;color:#5d6b82}
+
+/* Courses section heading */
+.cx .cat-courses-head .nx-h2{margin-bottom:0}
+
+/* Guide: centred chapters under the sticky pill nav */
+.cx-guide .cx-chapters{max-width:860px;margin:0 auto;gap:clamp(56px,8vh,96px);padding-bottom:0}
+.cx-guide .nx-chapter{min-height:0}
+.cx-choose{position:relative;overflow:hidden;max-width:980px;margin:clamp(56px,8vw,96px) auto 0;padding:clamp(32px,4vw,56px);border-radius:32px;background:var(--ink);color:#fff}
+.cx-choose>*{position:relative;z-index:1}
+.cx-choose .nx-h2{color:#fff}
+.cx-choose p{font-size:18px;color:rgba(255,255,255,.78)}
+.cx-choose p a{color:#fff!important}
+
+/* Why tiles */
+.cx-why .nx-tile{justify-content:flex-start}
+.cx-why .nx-tile h3{font-size:20px;color:var(--navy)}
+.cx-why .nx-bento-why .nx-tile p{font-size:15px;font-weight:400;color:#4a5a73}
+.cx-why-n{font-size:44px;font-weight:800;line-height:1;color:var(--gold)}
+
+/* More categories */
+.cx .cat-more-top{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
+
+@media(max-width:1024px){
+  .cx-start-in{grid-template-columns:1fr}
+  .cx-picks{position:static}
+}
+@media(max-width:640px){
+  .cx-pick{grid-template-columns:38px minmax(0,1fr);column-gap:12px}
+  .cx-pick-n{width:38px;height:38px}
+  .cx-pick-days{grid-row:auto;grid-column:2;justify-self:start;margin-top:6px}
+  .cx-picks-head span:nth-child(2){display:none}
+}

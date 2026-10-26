@@ -8,6 +8,7 @@ function pageUrl(slug){
 
 /* ---------------- Course data (from config/courses.php) ---------------- */
 const COURSES = window.COURSE_DATA || [];
+const AR = String(window.INITIAL_PAGE || '').endsWith('-ar');
 const esc=s=>String(s).replace(/[&<>"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]));
 
 /* ---------------- Render featured cards ---------------- */
@@ -25,7 +26,7 @@ function renderGrid(list){
       <div class="cp-body">
         <h3>${esc(c.title)}</h3>
         <p>${c.summary?esc(c.summary):''}</p>
-        <div class="cp-foot"><span>Mon – Fri · Morning or evening</span><b>Details →</b></div>
+        <div class="cp-foot"><span>${AR?'الاثنين – الجمعة · صباحاً أو مساءً':'Mon – Fri · Morning or evening'}</span><b>${AR?'التفاصيل ←':'Details →'}</b></div>
       </div>
     </a>`);
   });
@@ -56,20 +57,25 @@ if(grid && featGroups && filterTabs){
   const groupOf={};chips.forEach(b=>groupOf[b.dataset.f]=b.dataset.g);
   const inGroup=g=>g==='all'?COURSES:COURSES.filter(c=>c.cats.some(k=>groupOf[k]===g));
   featGroups.querySelectorAll('button').forEach(b=>b.querySelector('span').textContent=inGroup(b.dataset.g).length);
-  const coursesUrl=pageUrl('courses');
+  const coursesUrl=pageUrl(AR?'courses-ar':'courses');
   const resetRail=railArrows(featRail);
   function show(list,label,href){
     renderGrid(list);
     const a=featMore.querySelector('a');
-    a.textContent=list.length>6?`View all ${list.length} ${label} →`:'Browse the full catalogue →';
+    a.textContent=list.length>6
+      ?(AR?`عرض جميع ${label} (${list.length}) ←`:`View all ${list.length} ${label} →`)
+      :(AR?'تصفّح دليل الدورات الكامل ←':'Browse the full catalogue →');
     a.href=href;
   }
+  const groupLabel=g=>AR
+    ?(g==='all'?'الدورات':g==='it'?'دورات تقنية المعلومات':'دورات الإدارة')
+    :(g==='all'?'courses':g==='it'?'IT courses':'management courses');
   function pickGroup(g){
     featGroups.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.g===g));
     chips.forEach(b=>{b.hidden=b.dataset.g!==g;b.classList.remove('active')});
     featRail.hidden=g==='all';
     resetRail();
-    show(inGroup(g),g==='all'?'courses':g==='it'?'IT courses':'management courses',coursesUrl);
+    show(inGroup(g),groupLabel(g),coursesUrl);
   }
   featGroups.addEventListener('click',e=>{const b=e.target.closest('button');if(b)pickGroup(b.dataset.g)});
   filterTabs.addEventListener('click',e=>{
@@ -77,7 +83,7 @@ if(grid && featGroups && filterTabs){
     if(b.classList.contains('active')){pickGroup(b.dataset.g);return}
     chips.forEach(x=>x.classList.remove('active'));
     b.classList.add('active');
-    show(COURSES.filter(c=>c.cats.includes(b.dataset.f)),b.dataset.name+' courses',coursesUrl+'?go='+encodeURIComponent(b.dataset.f));
+    show(COURSES.filter(c=>c.cats.includes(b.dataset.f)),AR?'دورات '+b.dataset.name:b.dataset.name+' courses',coursesUrl+'?go='+encodeURIComponent(b.dataset.f));
   });
   pickGroup('all');
 }
@@ -87,7 +93,9 @@ const schedBody=document.getElementById('schedBody');
 if(schedBody){
 COURSES.slice(0,8).forEach(c=>{
   schedBody.insertAdjacentHTML('beforeend',
-   `<tr><td><b style="color:var(--navy)">${esc(c.title)}</b></td><td>${esc(c.catName)}</td><td>${c.dur}</td><td>Morning or evening</td><td>2026 &amp; 2027</td><td><a href="${c.url}">Register</a></td></tr>`);
+   AR
+   ?`<tr><td><b style="color:var(--navy)">${esc(c.title)}</b></td><td>${esc(c.catName)}</td><td>${c.dur}</td><td>صباحي أو مسائي</td><td>2026 و2027</td><td><a href="${c.url}">سجّل</a></td></tr>`
+   :`<tr><td><b style="color:var(--navy)">${esc(c.title)}</b></td><td>${esc(c.catName)}</td><td>${c.dur}</td><td>Morning or evening</td><td>2026 &amp; 2027</td><td><a href="${c.url}">Register</a></td></tr>`);
 });}
 
 /* ---------------- Course search helpers (home finder and All Courses) ---------------- */
@@ -158,7 +166,7 @@ document.querySelectorAll('.finder-form').forEach(form=>{
 
 
 
-const TITLES={"home":"CompuBase Training Center — Professional Training Courses in Abu Dhabi","about":"About Us — CompuBase Training Center, Abu Dhabi","contact":"Contact Us — CompuBase Training Center, Abu Dhabi","courses":"All Courses — CompuBase Training Center, Abu Dhabi","schedule":"Course Schedule — CompuBase Training Center, Abu Dhabi","corporate":"Corporate Training — CompuBase Training Center, Abu Dhabi","home-ar":"مركز كمبيوبيس للتدريب — دورات تدريبية احترافية في أبوظبي","about-ar":"من نحن — مركز كمبيوبيس للتدريب، أبوظبي","contact-ar":"اتصل بنا — مركز كمبيوبيس للتدريب، أبوظبي","courses-ar":"جميع الدورات — مركز كمبيوبيس للتدريب، أبوظبي","schedule-ar":"جدول الدورات — مركز كمبيوبيس للتدريب، أبوظبي","corporate-ar":"التدريب المؤسسي — مركز كمبيوبيس للتدريب، أبوظبي"};
+const TITLES={"home":"Training Courses in the UAE | CompuBase Abu Dhabi","about":"About Us — CompuBase Training Center, Abu Dhabi","contact":"Contact Us — CompuBase Training Center, Abu Dhabi","courses":"All Courses — CompuBase Training Center, Abu Dhabi","schedule":"Course Schedule — CompuBase Training Center, Abu Dhabi","corporate":"Corporate Training — CompuBase Training Center, Abu Dhabi","home-ar":"دورات تدريبية في الإمارات | كمبيوبيس أبوظبي","about-ar":"من نحن — مركز كمبيوبيس للتدريب، أبوظبي","contact-ar":"اتصل بنا — مركز كمبيوبيس للتدريب، أبوظبي","courses-ar":"جميع الدورات — مركز كمبيوبيس للتدريب، أبوظبي","schedule-ar":"جدول الدورات — مركز كمبيوبيس للتدريب، أبوظبي","corporate-ar":"التدريب المؤسسي — مركز كمبيوبيس للتدريب، أبوظبي"};
 const KNOWN=new Set(["home","about","contact","courses","schedule","corporate","home-ar","about-ar","contact-ar","courses-ar","schedule-ar","corporate-ar"]);
 let CURRENT='home';
 function scrollSec(sec){
