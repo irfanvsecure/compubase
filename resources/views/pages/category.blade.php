@@ -19,7 +19,8 @@
     $number = array_search($slug, $slugs) + 1;
     $siblings = array_filter($categories, fn ($c, $s) => $s !== $slug && $c['group'] === $category['group'], ARRAY_FILTER_USE_BOTH);
     $others = array_filter($categories, fn ($c) => $c['group'] !== $category['group']);
-    $photos = array_slice(array_values(array_filter(array_map(fn ($c) => Catalog::photo($c), $courses))), 0, 3);
+    $shots = array_slice(array_values(array_filter(array_map(fn ($c) => ['src' => Catalog::photo($c), 'alt' => Catalog::title($c, $ar)], $courses), fn ($s) => $s['src'])), 0, 3);
+    $photos = array_column($shots, 'src');
     $range = $minDays === $maxDays ? Catalog::duration($minDays, $ar) : ($ar ? 'من '.$minDays.' إلى '.Catalog::duration($maxDays, true) : $minDays.' to '.$maxDays.' days');
     $alt = Catalog::categoryUrl($slug, ! $ar);
     $initial = fn (string $title) => mb_strtoupper(mb_substr(preg_replace('/^(the|a|an)\s+/i', '', $title), 0, 1));
@@ -91,8 +92,8 @@
       </dl>
     </div>
     <div class="nx-collage" data-parallax>
-      @forelse ($photos as $photo)
-      <figure class="nx-shot nx-shot-{{ ['a', 'b', 'c'][$loop->index] }}"><img src="{{ $photo }}" alt="" loading="{{ $loop->first ? 'eager' : 'lazy' }}"></figure>
+      @forelse ($shots as $shot)
+      <figure class="nx-shot nx-shot-{{ ['a', 'b', 'c'][$loop->index] }}"><img src="{{ $shot['src'] }}" alt="{{ $shot['alt'] }}" loading="{{ $loop->first ? 'eager' : 'lazy' }}"></figure>
       @empty
       <figure class="nx-shot nx-shot-a cx-mark"><span>{{ $initial($category['en']) }}</span></figure>
       @endforelse
@@ -172,7 +173,7 @@
       @php($photo = Catalog::photo($course))
       <a class="cp-card" href="{{ Catalog::url($course, $ar) }}" data-title="{{ mb_strtolower($course['en'].' '.$course['ar']) }}" data-days="{{ $course['days'] }}">
         <div class="cp-photo">
-          @if ($photo)<img src="{{ $photo }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $initial($course['en']) }}</div>@endif
+          @if ($photo)<img src="{{ $photo }}" alt="{{ Catalog::title($course, $ar) }}" loading="lazy">@else<div class="cp-mark">{{ $initial($course['en']) }}</div>@endif
           <span class="cp-days">{{ Catalog::duration($course['days'], $ar) }}</span>
           <span class="cp-num">{{ sprintf('%02d', $loop->iteration) }}</span>
         </div>
