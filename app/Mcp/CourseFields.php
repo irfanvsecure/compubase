@@ -15,7 +15,8 @@ class CourseFields
         .'overview (paragraphs), audience (paragraphs, "Who should attend"), methodology (paragraphs), competencies (bullet points), '
         .'objectivesIntro (paragraphs before the objectives, e.g. "By the end of the course, participants will be able to:"), objectives (bullet points), '
         .'outline (modules: [{"title": "Module title", "items": [{"level": 0, "text": "Topic"}, {"level": 1, "text": "Sub-topic of the topic above"}]}]). '
-        .'Send the whole document: it replaces the current one. Send null to remove it. Read the current one with get_course first.';
+        .'Send the whole document: it replaces the current one. Send null to remove it. Read the current one with get_course first. '
+        .'Any paragraph, bullet or outline item may contain links. '.Catalog::LINK_HELP;
 
     /** Validation rules; $required makes the fields create_course needs required. */
     public static function rules(bool $required): array

@@ -104,11 +104,11 @@
         @if ($content)
         @if ($content['overview'])
         <h2>نبذة عن الدورة</h2>
-        @foreach ($content['overview'] as $para)<p>{{ $para }}</p>@endforeach
+        @foreach ($content['overview'] as $para)<p>{!! Catalog::richText($para, true) !!}</p>@endforeach
         @endif
         @if ($content['methodology'])
         <h2>منهجية التدريب</h2>
-        @foreach ($content['methodology'] as $para)<p>{{ $para }}</p>@endforeach
+        @foreach ($content['methodology'] as $para)<p>{!! Catalog::richText($para, true) !!}</p>@endforeach
         @endif
         @foreach ($content['extra'] ?? [] as $section)
         <h2>{{ $section['title'] }}</h2>
@@ -128,7 +128,7 @@
             }
         @endphp
         @foreach ($blocks as [$kind, $value])
-          @if ($kind === 'p')<p>{{ $value }}</p>@else<ul class="outcomes">@foreach ($value as $item)<li>{{ $item }}</li>@endforeach</ul>@endif
+          @if ($kind === 'p')<p>{!! Catalog::richText($value, true) !!}</p>@else<ul class="outcomes">@foreach ($value as $item)<li>{!! Catalog::richText($item, true) !!}</li>@endforeach</ul>@endif
         @endforeach
         @endforeach
         @endif
@@ -141,14 +141,14 @@
         @if ($content['competencies'])
         <h2>الكفاءات المستهدفة</h2>
         <ul class="outcomes">
-          @foreach ($content['competencies'] as $item)<li>{{ $item }}</li>@endforeach
+          @foreach ($content['competencies'] as $item)<li>{!! Catalog::richText($item, true) !!}</li>@endforeach
         </ul>
         @endif
         @if ($content['objectives'] || $content['objectivesIntro'])
         <h2>أهداف الدورة</h2>
-        @foreach ($content['objectivesIntro'] as $para)<p>{{ $para }}</p>@endforeach
+        @foreach ($content['objectivesIntro'] as $para)<p>{!! Catalog::richText($para, true) !!}</p>@endforeach
         <ul class="outcomes">
-          @foreach ($content['objectives'] as $item)<li>{{ $item }}</li>@endforeach
+          @foreach ($content['objectives'] as $item)<li>{!! Catalog::richText($item, true) !!}</li>@endforeach
         </ul>
         @endif
         @endif
@@ -164,10 +164,10 @@
             @foreach ($module['items'] as $item)
               @if ($item['level'] === 0)
                 @if (! $loop->first)</li>@endif
-                <li>{{ $item['text'] }}
+                <li>{!! Catalog::richText($item['text'], true) !!}
               @else
                 @if ($loop->first || $module['items'][$loop->index - 1]['level'] === 0)<ul>@endif
-                <li>{{ $item['text'] }}</li>
+                <li>{!! Catalog::richText($item['text'], true) !!}</li>
                 @if ($loop->last || $module['items'][$loop->index + 1]['level'] === 0)</ul>@endif
               @endif
               @if ($loop->last)</li>@endif
@@ -201,7 +201,7 @@
       <div class="cs-card">
         <h4>ستتمكّن من</h4>
         <ul class="cs-list">
-          @foreach (array_slice($wins, 0, 3) as $item)<li>{{ $item }}</li>@endforeach
+          @foreach (array_slice($wins, 0, 3) as $item)<li>{!! Catalog::richText($item, true) !!}</li>@endforeach
         </ul>
         @if ($hasObjectives && count($wins) > 3)<a class="cs-more" href="#objectives" data-open-tab="objectives">عرض الأهداف كاملة ({{ count($wins) }}) ←</a>@endif
       </div>
@@ -212,7 +212,7 @@
         @if ($tabPhoto('audience'))<img class="cs-photo" src="{{ $tabPhoto('audience') }}" alt="{{ $title }}" loading="lazy">@endif
         <h4>لمن هذه الدورة</h4>
         @if ($content)
-          <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{{ $para }}</p>@endforeach</div>
+          <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{!! Catalog::richText($para, true) !!}</p>@endforeach</div>
           <button type="button" class="cs-more cs-toggle" data-more="اقرأ المزيد ←" data-less="عرض أقل ↑">اقرأ المزيد ←</button>
         @endif
       </div>

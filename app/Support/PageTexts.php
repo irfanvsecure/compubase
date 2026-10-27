@@ -49,52 +49,81 @@ class PageTexts
     public static function apply(string $html, iterable $texts): string
     {
         foreach ($texts as $text) {
-            $html = self::replace($html, $text->find, $text->replace, $text->is_html)[0];
+            $html = self::replace($html, $text->find, $text->replace, $text->is_html, $text->link)[0];
         }
 
         return $html;
     }
 
+    /** Elements a link must not be put inside. */
+    private const NO_LINK_INSIDE = 'a|button|label|title|option|select|textarea|summary';
+
     /**
-     * Replace one text in a page's HTML.
+     * Replace one text in a page's HTML. With a link (a path on this site, #id or
+     * a full URL), the first place the text appears outside a link, button or
+     * label also becomes a link.
      *
-     * @return array{0: string, 1: int} the new HTML and how many places changed
+     * @return array{0: string, 1: int, 2: bool} the new HTML, how many places changed, and whether a link was added
      */
-    public static function replace(string $html, string $find, string $replace, bool $isHtml = false): array
+    public static function replace(string $html, string $find, string $replace, bool $isHtml = false, ?string $link = null): array
     {
         if ($find === '') {
-            return [$html, 0];
+            return [$html, 0, false];
         }
         if ($isHtml) {
             $count = substr_count($html, $find);
 
-            return [str_replace($find, $replace, $html), $count];
+            return [str_replace($find, $replace, $html), $count, false];
         }
 
         $escaped = e($find);
         $json = fn (string $s) => substr(json_encode($s, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE), 1, -1);
+        $anchor = $link !== null ? '<a href="'.e(self::href($link)).'"'.(self::isExternal($link) ? ' target="_blank" rel="noopener"' : '').'>'.e($replace).'</a>' : null;
         $total = 0;
+        $linked = false;
+        $blocked = 0;
         $parts = preg_split('#(<script\b[^>]*>.*?</script>|<style\b[^>]*>.*?</style>|<!--.*?-->|<[^>]*>)#is', $html, -1, PREG_SPLIT_DELIM_CAPTURE);
         foreach ($parts as $i => $part) {
             if ($i % 2 === 0) {
                 // Text between tags. Blade escapes what it prints; text written into a view is as-is.
-                $count = substr_count($part, $escaped);
-                $part = str_replace($escaped, e($replace), $part);
-                if ($escaped !== $find) {
-                    $count += substr_count($part, $find);
-                    $part = str_replace($find, e($replace), $part);
+                $count = 0;
+                foreach (array_unique([$escaped, $find]) as $needle) {
+                    $count += substr_count($part, $needle);
+                    if ($anchor !== null && ! $linked && $blocked === 0 && ($at = strpos($part, $needle)) !== false) {
+                        $part = substr($part, 0, $at)."\0".substr($part, $at + strlen($needle));
+                        $linked = true;
+                    }
+                    $part = str_replace($needle, e($replace), $part);
                 }
+                $part = str_replace("\0", (string) $anchor, $part);
             } elseif (preg_match('#^<script\b[^>]*application/ld\+json#i', $part)) {
                 $count = substr_count($part, $json($find));
                 $part = str_replace($json($find), $json($replace), $part);
             } else {
+                if (preg_match('#^<('.self::NO_LINK_INSIDE.')\b#i', $part) && ! str_ends_with($part, '/>')) {
+                    $blocked++;
+                } elseif (preg_match('#^</('.self::NO_LINK_INSIDE.')\s*>#i', $part)) {
+                    $blocked = max(0, $blocked - 1);
+                }
+
                 continue;
             }
             $parts[$i] = $part;
             $total += $count;
         }
 
-        return [implode('', $parts), $total];
+        return [implode('', $parts), $total, $linked];
+    }
+
+    /** Where a link points: a path on this site becomes a full URL. */
+    public static function href(string $link): string
+    {
+        return str_starts_with($link, '/') ? url($link) : $link;
+    }
+
+    private static function isExternal(string $link): bool
+    {
+        return preg_match('#^https?://#', $link) && ! str_starts_with($link, url('/'));
     }
 
     /**
@@ -147,7 +176,13 @@ class PageTexts
                 continue;
             }
             $seen[$key] = true;
-            $items[] = ['tag' => $tag === 'img' ? 'img alt' : $tag, 'area' => $area, 'text' => mb_strimwidth($text, 0, 600, '…')];
+            $item = ['tag' => $tag === 'img' ? 'img alt' : $tag, 'area' => $area, 'text' => mb_strimwidth($text, 0, 600, '…')];
+            if ($tag === 'a') {
+                $item['href'] = $node->getAttribute('href');
+            } elseif ($links = iterator_to_array($xpath->query('.//a[@href]', $node))) {
+                $item['links'] = array_map(fn ($a) => ['text' => trim(preg_replace('/\s+/u', ' ', $a->textContent)), 'href' => $a->getAttribute('href')], $links);
+            }
+            $items[] = $item;
             if (count($items) >= $limit) {
                 break;
             }

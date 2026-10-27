@@ -16,8 +16,7 @@ class CategoryCopyFields
 
     public const FIELDS = ['title', 'description', 'h1', 'intro', 'start', 'sections', 'team', 'choose', 'faq', 'contact'];
 
-    public const HELP = 'Text may link with markers: [[course-slug|link text]] to a course, [[cat:category-slug|text]] to a category, '
-        .'[[page:contact|text]] or [[page:corporate|text]] to a main page. Plain text otherwise (no HTML or Markdown).';
+    public const HELP = Catalog::LINK_HELP.' Plain text otherwise (no HTML or Markdown).';
 
     public static function rules(): array
     {

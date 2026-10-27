@@ -16,7 +16,7 @@
     <div class="cp-cover-main">
       <span class="cp-badge">{{ $printCat }}</span>
       <h1>{{ $printTitle }}</h1>
-      @if ($printSummary)<p class="cp-lead">{{ $printSummary }}</p>@endif
+      @if ($printSummary)<p class="cp-lead">{!! \App\Support\Catalog::richText($printSummary, $ar) !!}</p>@endif
       <div class="cp-meta">
         <div><span>{{ $ar ? 'المدة' : 'Duration' }}</span><b>{{ $printDuration }}</b></div>
         <div><span>{{ $ar ? 'الأيام' : 'Days' }}</span><b>{{ $ar ? 'الاثنين – الجمعة' : 'Monday to Friday' }}</b></div>
@@ -49,11 +49,11 @@
           @if ($content)
             @if ($content['overview'])
               <h2>{{ $ar ? 'نبذة عن الدورة' : 'Course overview' }}</h2>
-              @foreach ($content['overview'] as $para)<p>{{ $para }}</p>@endforeach
+              @foreach ($content['overview'] as $para)<p>{!! \App\Support\Catalog::richText($para, $ar) !!}</p>@endforeach
             @endif
             @if ($content['methodology'])
               <h2>{{ $ar ? 'منهجية التدريب' : 'Training methodology' }}</h2>
-              @foreach ($content['methodology'] as $para)<p>{{ $para }}</p>@endforeach
+              @foreach ($content['methodology'] as $para)<p>{!! \App\Support\Catalog::richText($para, $ar) !!}</p>@endforeach
             @endif
             @foreach ($content['extra'] ?? [] as $section)
               <h2>{{ $ar ? $section['title'] : ucfirst(strtolower($section['title'])) }}</h2>
@@ -72,21 +72,21 @@
                   }
               @endphp
               @foreach ($blocks as [$kind, $value])
-                @if ($kind === 'p')<p>{{ $value }}</p>
-                @else<ul>@foreach ($value as $item)<li>{{ $item }}</li>@endforeach</ul>@endif
+                @if ($kind === 'p')<p>{!! \App\Support\Catalog::richText($value, $ar) !!}</p>
+                @else<ul>@foreach ($value as $item)<li>{!! \App\Support\Catalog::richText($item, $ar) !!}</li>@endforeach</ul>@endif
               @endforeach
             @endforeach
             @if ($content['competencies'])
               <h2>{{ $ar ? 'الكفاءات المستهدفة' : 'Target competencies' }}</h2>
               <ul class="cp-checks">
-                @foreach ($content['competencies'] as $item)<li>{{ $item }}</li>@endforeach
+                @foreach ($content['competencies'] as $item)<li>{!! \App\Support\Catalog::richText($item, $ar) !!}</li>@endforeach
               </ul>
             @endif
             @if ($content['objectives'] || $content['objectivesIntro'])
               <h2>{{ $ar ? 'أهداف الدورة' : 'Course objectives' }}</h2>
-              @foreach ($content['objectivesIntro'] as $para)<p>{{ $para }}</p>@endforeach
+              @foreach ($content['objectivesIntro'] as $para)<p>{!! \App\Support\Catalog::richText($para, $ar) !!}</p>@endforeach
               <ul class="cp-checks">
-                @foreach ($content['objectives'] as $item)<li>{{ $item }}</li>@endforeach
+                @foreach ($content['objectives'] as $item)<li>{!! \App\Support\Catalog::richText($item, $ar) !!}</li>@endforeach
               </ul>
             @endif
             @if ($content['outline'])
@@ -98,10 +98,10 @@
                   @foreach ($module['items'] as $item)
                     @if ($item['level'] === 0)
                       @if (! $loop->first)</li>@endif
-                      <li>{{ $item['text'] }}
+                      <li>{!! \App\Support\Catalog::richText($item['text'], $ar) !!}
                     @else
                       @if ($loop->first || $module['items'][$loop->index - 1]['level'] === 0)<ul>@endif
-                      <li>{{ $item['text'] }}</li>
+                      <li>{!! \App\Support\Catalog::richText($item['text'], $ar) !!}</li>
                       @if ($loop->last || $module['items'][$loop->index + 1]['level'] === 0)</ul>@endif
                     @endif
                     @if ($loop->last)</li>@endif
@@ -112,7 +112,7 @@
             @endif
           @elseif ($printSummary)
             <h2>{{ $ar ? 'نبذة عن الدورة' : 'Course overview' }}</h2>
-            <p>{{ $printSummary }}</p>
+            <p>{!! \App\Support\Catalog::richText($printSummary, $ar) !!}</p>
           @endif
         </div>
       </td></tr>

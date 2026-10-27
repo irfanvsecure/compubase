@@ -5,7 +5,9 @@ namespace App\Support;
 use App\Models\Category;
 use App\Models\CategoryCopy;
 use App\Models\Course;
+use App\Models\Post;
 use Illuminate\Database\QueryException;
+use Illuminate\Support\Facades\Route;
 
 /**
  * Reads the course catalogue from the database and shapes it for the views.
@@ -243,19 +245,47 @@ class Catalog
         return is_array($content) ? $content : null;
     }
 
+    /** The link markers richText() understands, for tool descriptions. */
+    public const LINK_HELP = 'Link with markers: [[course-slug|text]] to a course, [[cat:category-slug|text]] to a category, [[post:post-slug|text]] to a blog post, '
+        .'[[page:contact|text]] to a main page (home, about, courses, schedule, corporate, contact, blog), [[/any/path|text]] to any page of this site (e.g. [[/ar/about|…]] or [[/course/pmp#outline|…]]), '
+        .'[[#section-id|text]] to a place on the same page, or [[https://example.com|text]] to another website. A marker that points nowhere shows as plain text.';
+
     /**
-     * Escape a line of category copy and turn its link markers into links:
-     * [[course-slug]] or [[course-slug|text]], [[cat:slug|text]], [[page:route|text]].
+     * Escape a line of copy and turn its link markers into links: [[course-slug]] or
+     * [[course-slug|text]], [[cat:slug|text]], [[post:slug|text]], [[page:route|text]],
+     * [[/path|text]], [[#id|text]] and [[https://…|text]].
      */
     public static function richText(string $text, bool $ar = false): string
     {
-        return preg_replace_callback('/\[\[(?:(cat|page):)?([a-z0-9-]+)(?:\|([^\]]+))?\]\]/', function ($m) use ($ar) {
-            [$kind, $target, $label] = [$m[1], $m[2], $m[3] ?? ''];
+        return preg_replace_callback('~\[\[(?:(cat|page|post):([a-z0-9-]+)|([a-z0-9-]+)|(/[^\]|\s]*|#[^\]|\s]+|https?://[^\]|\s]+))(?:\|([^\]]+))?\]\]~', function ($m) use ($ar) {
+            [$kind, $target, $label] = [$m[1], $m[2] !== '' ? $m[2] : $m[3], $m[5] ?? ''];
+            $address = html_entity_decode($m[4] ?? '', ENT_QUOTES | ENT_HTML5);
+            $plain = fn () => $label !== '' ? $label : e($address !== '' ? $address : $target);
+            if ($address !== '') {
+                $external = str_starts_with($address, 'http') && ! str_starts_with($address, url('/'));
+                $href = $address[0] === '/' ? url($address) : $address;
+
+                return '<a href="'.e($href).'"'.($external ? ' target="_blank" rel="noopener"' : '').'>'.$plain().'</a>';
+            }
             if ($kind === 'cat') {
+                if (! isset(self::categories()[$target])) {
+                    return $plain();
+                }
                 $href = self::categoryUrl($target, $ar);
-                $label = $label !== '' ? $label : e(self::categories()[$target][$ar ? 'ar' : 'en'] ?? $target);
+                $label = $label !== '' ? $label : e(self::categories()[$target][$ar ? 'ar' : 'en']);
             } elseif ($kind === 'page') {
-                $href = route($ar && $target !== 'home' ? $target.'-ar' : ($ar ? 'home-ar' : $target));
+                $route = $ar && $target !== 'home' ? $target.'-ar' : ($ar ? 'home-ar' : $target);
+                if (! Route::has($route)) {
+                    return $plain();
+                }
+                $href = route($route);
+            } elseif ($kind === 'post') {
+                $post = Post::where(['slug' => $target, 'locale' => $ar ? 'ar' : 'en'])->first() ?? Post::where('slug', $target)->first();
+                if (! $post?->isLive()) {
+                    return $plain();
+                }
+                $href = $post->url();
+                $label = $label !== '' ? $label : e($post->title);
             } else {
                 $course = self::find($target);
                 if (! $course) {

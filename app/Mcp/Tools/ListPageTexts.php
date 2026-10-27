@@ -28,6 +28,7 @@ class ListPageTexts extends SiteTool
             'path' => $t->path,
             'find' => $t->find,
             'replace' => $t->replace,
+            'link' => $t->link,
             'html' => $t->is_html,
             'updated_at' => $t->updated_at?->toIso8601String(),
         ])->all());

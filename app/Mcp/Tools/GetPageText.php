@@ -12,7 +12,7 @@ use Laravel\Mcp\Server\Attributes\Description;
 use Laravel\Mcp\Server\Tools\Annotations\IsReadOnly;
 
 #[IsReadOnly]
-#[Description('Read the text of any page as visitors see it: every heading (h1-h6), paragraph, list item, link, button, label and image alt text in order, with the area it sits in (header, main, footer). Header and footer text is the same on every page. With search, also returns the raw HTML around that text, for HTML changes. Use before update_page_text.')]
+#[Description('Read the text of any page as visitors see it: every heading (h1-h6), paragraph, list item, link (with its href), button, label and image alt text in order, with the area it sits in (header, main, footer); paragraphs and items list the links inside them. Header and footer text is the same on every page. With search, also returns the raw HTML around that text, for HTML changes. Use before update_page_text.')]
 class GetPageText extends SiteTool
 {
     protected string $name = 'get_page_text';
@@ -34,7 +34,7 @@ class GetPageText extends SiteTool
             'url' => url($path),
             'tip' => $isCategory ? "The main copy of this page is easier to change with get_category_content / update_category_content (slug \"{$m[2]}\")."
                 : ($isCourse ? "The course title, summary and document are changed with get_course / update_course (slug \"{$c[2]}\")." : null),
-            'changes' => PageText::whereIn('path', [$path, PageText::ALL_PAGES])->orderBy('id')->get(['id', 'path', 'find', 'replace', 'is_html']),
+            'changes' => PageText::whereIn('path', [$path, PageText::ALL_PAGES])->orderBy('id')->get(['id', 'path', 'find', 'replace', 'link', 'is_html']),
             'html_around_search' => $search !== '' ? PageTexts::snippets($html, $search) : null,
             'text' => PageTexts::outline($html),
         ]);

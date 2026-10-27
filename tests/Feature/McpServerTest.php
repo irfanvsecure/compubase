@@ -290,4 +290,41 @@ class McpServerTest extends TestCase
         }
         $this->get('/contact')->assertSee('Prefer to just call?')->assertSee('All rights reserved.');
     }
+
+    public function test_internal_links_can_be_added_to_any_page(): void
+    {
+        $this->tool(Tools\CreatePost::class, ['title' => 'PMP Tips', 'slug' => 'pmp-tips', 'body' => 'Study.', 'status' => 'published'])->assertOk();
+
+        // Category copy: every kind of marker, and markers that point nowhere stay plain text.
+        $this->tool(Tools\UpdateCategoryContent::class, ['slug' => 'personal-development', 'intro' => [
+            'See [[/about|who we are]], [[post:pmp-tips|our PMP tips]], [[cat:leadership-and-management|leadership]], [[#cat-courses|the list]], '
+            .'[[https://actvet.gov.ae|ACTVET]], [[page:schedule|the calendar]], [[page:nope|a missing page]] and [[post:nope|a missing post]].',
+        ]])->assertOk();
+        $this->get('/course-category/personal-development')->assertOk()
+            ->assertSee('<a href="'.url('/about').'">who we are</a>', false)
+            ->assertSee('<a href="'.url('/blog/pmp-tips').'">our PMP tips</a>', false)
+            ->assertSee('<a href="'.url('/course-category/leadership-and-management').'">leadership</a>', false)
+            ->assertSee('<a href="#cat-courses">the list</a>', false)
+            ->assertSee('<a href="https://actvet.gov.ae" target="_blank" rel="noopener">ACTVET</a>', false)
+            ->assertSee('<a href="'.route('schedule').'">the calendar</a>', false)
+            ->assertSee('a missing page and a missing post', false);
+
+        // Course documents take the same markers.
+        $this->tool(Tools\UpdateCourse::class, ['slug' => 'emotional-intelligence', 'content_en' => ['overview' => ['Questions? [[/contact|Contact us]].']]])->assertOk();
+        $this->get('/course/emotional-intelligence')->assertSee('<a href="'.url('/contact').'">Contact us</a>', false);
+
+        // Any other page: link existing words, once, never inside another link.
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/about', 'find' => 'working week', 'link' => '/schedule'])
+            ->assertOk()->assertSee(url('/schedule'));
+        $this->get('/about')->assertSee('<a href="'.url('/schedule').'">working week</a>', false);
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/about', 'find' => 'working week', 'link' => url('/courses').'#all'])->assertOk();
+        $this->assertSame('/courses#all', PageText::value('link'));
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/about', 'find' => 'working week', 'link' => '/no-such-page'])->assertOk()->assertSee('status 404');
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/about', 'find' => 'info@compubasetraining.ae', 'link' => '/contact'])->assertHasErrors();
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/about', 'find' => 'working week', 'link' => 'javascript:alert(1)'])->assertHasErrors();
+        $this->tool(Tools\GetPageText::class, ['path' => '/about'])->assertOk()->assertSee('"href": "'.url('/no-such-page').'"', false);
+
+        $this->tool(Tools\DeletePageText::class, ['id' => PageText::value('id')])->assertOk();
+        $this->get('/about')->assertDontSee('<a href="'.url('/no-such-page').'"', false);
+    }
 }

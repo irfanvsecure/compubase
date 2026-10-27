@@ -21,6 +21,8 @@ Images: upload_image first (from a URL or base64), then use the returned path fo
 
 Page text: every page's wording can be changed. Category pages (/course-category/{slug}) have structured copy — H1, intro, H2 sections, popular picks, FAQs (which drive the FAQPage schema) — read with get_category_content and changed with update_category_content, per language. Any other text on any page (home, about, contact, corporate, schedule, headings, buttons, header and footer lines) is read with get_page_text and changed with update_page_text: copy the current text exactly, and use html: true to change markup such as a heading level or an image alt, or all_pages: true for header and footer text. list_page_texts and delete_page_text show and undo those changes. Arabic pages are separate paths (/ar/...): change both languages unless told otherwise.
 
+Internal links: in category copy and course documents write link markers — [[course-slug|text]], [[cat:category-slug|text]], [[post:post-slug|text]], [[page:contact|text]], [[/any/path|text]], [[#section-id|text]] or [[https://…|text]]. On any other page, update_page_text with link turns existing words into a link. get_page_text shows every link and where it points. Link Arabic pages to Arabic paths (/ar/...).
+
 SEO: list_pages gives every page path; get_seo shows what a page shows search engines now; update_seo overrides it. The whole site is hidden from search engines until the "robots" setting is "index, follow" (update_settings) — only change it when the owner asks.
 
 Website forms (course enquiries, corporate proposal requests, calendar requests) are saved and emailed to the "enquiry_email" setting; list_enquiries shows them.

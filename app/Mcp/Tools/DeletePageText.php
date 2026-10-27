@@ -21,7 +21,7 @@ class DeletePageText extends SiteTool
             return $this->fail('No text change with id '.$request->get('id').'. Use list_page_texts.');
         }
         $text->delete();
-        Activity::log('delete_page_text', "page:{$text->path}", "Undid a text change on {$text->path}", $text->only(['find', 'replace', 'is_html']));
+        Activity::log('delete_page_text', "page:{$text->path}", "Undid a text change on {$text->path}", $text->only(['find', 'replace', 'link', 'is_html']));
 
         return $this->result(['deleted' => $text->id, 'path' => $text->path, 'restored_text' => $text->find]);
     }
