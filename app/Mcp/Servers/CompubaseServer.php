@@ -9,7 +9,7 @@ use Laravel\Mcp\Server\Attributes\Name;
 use Laravel\Mcp\Server\Attributes\Version;
 
 #[Name('CompuBase Website')]
-#[Version('1.0.0')]
+#[Version('1.1.0')]
 #[Instructions(<<<'TEXT'
 Manage the website of CompuBase Training Center, a training institute in Abu Dhabi. Every change goes live immediately.
 
@@ -18,6 +18,8 @@ The site is bilingual: each course has an English and an Arabic title, summary a
 Courses belong to one or more categories; categories belong to the "management" or "it" group. Read before you write: use get_course before update_course, and get_post before update_post, so you keep what is already there. Course documents (content_en / content_ar) are replaced as a whole.
 
 Images: upload_image first (from a URL or base64), then use the returned path for a course photo, post cover or SEO image, or its markdown snippet inside a blog post.
+
+Page text: every page's wording can be changed. Category pages (/course-category/{slug}) have structured copy — H1, intro, H2 sections, popular picks, FAQs (which drive the FAQPage schema) — read with get_category_content and changed with update_category_content, per language. Any other text on any page (home, about, contact, corporate, schedule, headings, buttons, header and footer lines) is read with get_page_text and changed with update_page_text: copy the current text exactly, and use html: true to change markup such as a heading level or an image alt, or all_pages: true for header and footer text. list_page_texts and delete_page_text show and undo those changes. Arabic pages are separate paths (/ar/...): change both languages unless told otherwise.
 
 SEO: list_pages gives every page path; get_seo shows what a page shows search engines now; update_seo overrides it. The whole site is hidden from search engines until the "robots" setting is "index, follow" (update_settings) — only change it when the owner asks.
 
@@ -35,6 +37,12 @@ class CompubaseServer extends Server
         Tools\CreateCategory::class,
         Tools\UpdateCategory::class,
         Tools\DeleteCategory::class,
+        Tools\GetCategoryContent::class,
+        Tools\UpdateCategoryContent::class,
+        Tools\GetPageText::class,
+        Tools\UpdatePageText::class,
+        Tools\ListPageTexts::class,
+        Tools\DeletePageText::class,
         Tools\ListCourses::class,
         Tools\GetCourse::class,
         Tools\CreateCourse::class,

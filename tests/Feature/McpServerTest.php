@@ -7,6 +7,7 @@ use App\Mcp\Tools;
 use App\Models\ActivityLog;
 use App\Models\Course;
 use App\Models\Media;
+use App\Models\PageText;
 use App\Models\Post;
 use App\Models\Redirect;
 use App\Models\SeoMeta;
@@ -228,5 +229,65 @@ class McpServerTest extends TestCase
         $this->assertSame('index, follow', Settings::get('robots'));
         $this->get('/')->assertSee('<meta name="robots" content="index, follow">', false)->assertSee('G-TEST1234');
         $this->tool(Tools\UpdateSettings::class, ['google_analytics_id' => '<script>'])->assertHasErrors();
+    }
+
+    public function test_category_copy_can_be_read_changed_and_reset(): void
+    {
+        $this->tool(Tools\GetCategoryContent::class, ['slug' => 'personal-development'])
+            ->assertOk()->assertSee('"source": "default"', false)->assertSee('Who are these courses for?');
+
+        $this->tool(Tools\UpdateCategoryContent::class, [
+            'slug' => 'personal-development',
+            'h1' => 'Personal Development Training in Abu Dhabi',
+            'faq' => [['question' => 'Is there an exam?', 'answer' => 'No, there’s no exam.']],
+        ])->assertOk()->assertSee('"changed"', false);
+
+        $this->get('/course-category/personal-development')->assertOk()
+            ->assertSee('Personal Development Training in Abu Dhabi')
+            ->assertSee('"name":"Is there an exam?"', false)
+            ->assertDontSee('Who are these courses for?')
+            ->assertSee('Enroll in Courses That Fit Real Work');
+        $this->get('/ar/course-category/personal-development')->assertOk()->assertSee('دورات تنمية المهارات الشخصية في أبوظبي');
+
+        $this->tool(Tools\UpdateCategoryContent::class, ['slug' => 'personal-development', 'start' => ['heading' => 'Start here', 'text' => ['See [[no-such-course|this]].'], 'picks' => []]])
+            ->assertOk()->assertSee('no-such-course');
+        $this->tool(Tools\UpdateCategoryContent::class, ['slug' => 'personal-development', 'faq' => [['question' => 'Only a question']]])->assertHasErrors();
+        $this->tool(Tools\UpdateCategoryContent::class, ['slug' => 'nope', 'h1' => 'x'])->assertHasErrors();
+
+        $this->tool(Tools\UpdateCategoryContent::class, ['slug' => 'personal-development', 'reset' => true])->assertOk();
+        $this->get('/course-category/personal-development')->assertSee('Who are these courses for?')->assertDontSee('Is there an exam?');
+    }
+
+    public function test_any_text_on_any_page_can_be_changed_and_undone(): void
+    {
+        $this->tool(Tools\GetPageText::class, ['path' => '/contact', 'search' => 'Prefer to just call?'])
+            ->assertOk()->assertSee('Prefer to just call?')->assertSee('<h2>Prefer to just call?</h2>', false);
+
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/contact', 'find' => 'Prefer to just call?', 'replace' => 'Rather talk to someone?'])->assertOk();
+        $this->get('/contact')->assertSee('Rather talk to someone?')->assertDontSee('Prefer to just call?');
+        $this->get('/about')->assertDontSee('Rather talk to someone?');
+
+        // Sending the same find again edits that change instead of adding another.
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/contact', 'find' => 'Prefer to just call?', 'replace' => 'Rather talk to us?'])->assertOk();
+        $this->assertSame(1, PageText::count());
+        $this->get('/contact')->assertSee('Rather talk to us?');
+
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/contact', 'find' => '<h2>Rather talk to us?</h2>', 'replace' => '<h3>Rather talk to us?</h3>', 'html' => true])->assertOk();
+        $this->get('/contact')->assertSee('<h3>Rather talk to us?</h3>', false);
+
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/', 'find' => 'All rights reserved.', 'replace' => 'Every right reserved.', 'all_pages' => true])->assertOk();
+        $this->get('/about')->assertSee('Every right reserved.');
+
+        // Plain text never touches tags or attributes, and the text must be on the page.
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/contact', 'find' => 'nx-btn', 'replace' => 'x'])->assertHasErrors();
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/contact', 'find' => 'Not on this page', 'replace' => 'x'])->assertHasErrors();
+        $this->tool(Tools\UpdatePageText::class, ['path' => '/mcp', 'find' => 'x', 'replace' => 'y'])->assertHasErrors();
+
+        $this->assertSame($this->admin->id, ActivityLog::where('action', 'update_page_text')->latest('id')->value('user_id'));
+        $this->tool(Tools\ListPageTexts::class, ['path' => '/contact'])->assertOk()->assertSee('Every right reserved.');
+        foreach (PageText::all() as $text) {
+            $this->tool(Tools\DeletePageText::class, ['id' => $text->id])->assertOk();
+        }
+        $this->get('/contact')->assertSee('Prefer to just call?')->assertSee('All rights reserved.');
     }
 }

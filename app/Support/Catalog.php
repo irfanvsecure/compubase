@@ -3,6 +3,7 @@
 namespace App\Support;
 
 use App\Models\Category;
+use App\Models\CategoryCopy;
 use App\Models\Course;
 
 /**
@@ -217,6 +218,18 @@ class Catalog
      * from resources/content/categories/{en,ar}/{slug}.php, or null when none is written yet.
      */
     public static function categoryContent(string $slug, bool $ar = false): ?array
+    {
+        // Copy edited through the MCP server (update_category_content) wins over the file.
+        $saved = CategoryCopy::where(['slug' => $slug, 'locale' => $ar ? 'ar' : 'en'])->value('content');
+        if ($saved !== null) {
+            return is_array($saved) ? $saved : json_decode($saved, true);
+        }
+
+        return self::categoryContentFile($slug, $ar);
+    }
+
+    /** The copy a category page ships with, from resources/content/categories. */
+    public static function categoryContentFile(string $slug, bool $ar = false): ?array
     {
         $path = resource_path('content/categories/'.($ar ? 'ar' : 'en').'/'.$slug.'.php');
         $content = is_file($path) ? require $path : null;

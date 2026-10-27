@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Middleware\ApplyPageTexts;
 use App\Models\Redirect;
 use App\Support\Seo;
 use Illuminate\Foundation\Application;
@@ -15,7 +16,7 @@ return Application::configure(basePath: dirname(__DIR__))
         health: '/up',
     )
     ->withMiddleware(function (Middleware $middleware): void {
-        //
+        $middleware->web(append: [ApplyPageTexts::class]);
     })
     ->withExceptions(function (Exceptions $exceptions): void {
         // Before showing "not found", follow any redirect saved for the address.
