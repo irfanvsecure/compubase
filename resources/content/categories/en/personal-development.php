@@ -13,7 +13,7 @@ return [
     'start' => [
         'heading' => 'Enroll in Courses That Fit Real Work',
         'text' => [
-            'Don’t expect a motivational speech. Our courses are practical. You’ll try things out in class, hear what worked and what didn’t, then try again. A lot of people begin with [[emotional-intelligence|Emotional Intelligence]], usually because a conversation got heated and they wish they’d handled it better. Others choose [[conflict-resolution-and-adaptability|Conflict Resolution and Adaptability]]. Classes run in English or Arabic, mornings or evenings.',
+            'Don’t expect a motivational speech. Our courses are practical. You’ll try things out in class, hear what worked and what didn’t, then try again. A lot of people begin with Emotional Intelligence, usually because a conversation got heated and they wish they’d handled it better. Others choose [[conflict-resolution-and-adaptability|Conflict Resolution and Adaptability]]. Classes run in English or Arabic, mornings or evenings.',
         ],
         'picks' => [
             ['emotional-intelligence', 'Emotional Intelligence', 'Staying calm and reading people'],
@@ -29,22 +29,22 @@ return [
             'heading' => 'Book Short Courses Around Your Schedule',
             'text' => [
                 'Why three days? Because most people can’t disappear from work for longer. Personal development short courses also stick better. You learn something this week and use it the next.',
-                'Always running out of hours? Start with [[time-management-and-stress-control|Time Management and Stress Control]]. The first thing it does is show you where your day actually goes. Most people are surprised.',
+                'Always running out of hours? Start with Time Management and Stress Control. The first thing it does is show you where your day actually goes. Most people are surprised.',
             ],
         ],
         [
             'heading' => 'Register for Communication Classes',
             'text' => [
                 'So much of this category comes back to how we talk to each other. Our personal development classes here go from [[interpersonal-communication-skills|Interpersonal Communication Skills]], which covers the everyday stuff, to [[advanced-communication-skills|Advanced Communication Skills]] for people who already speak well and want more punch.',
-                'Presenting deserves its own mention. Plenty of smart, capable people would happily skip it forever. [[presentation-design-and-delivery|Presentation Design and Delivery]] helps you plan a talk that makes sense and then deliver it without reading off the screen. Negotiating is similar. You don’t feel like a negotiator until a supplier refuses to budge. [[win-win-negotiation-skills|Win-Win Negotiation Skills]] gives you a way to get a fair result and still keep things friendly.',
+                'Presenting deserves its own mention. Plenty of smart, capable people would happily skip it forever. Presentation Design and Delivery helps you plan a talk that makes sense and then deliver it without reading off the screen. Negotiating is similar. You don’t feel like a negotiator until a supplier refuses to budge. Win-Win Negotiation Skills gives you a way to get a fair result and still keep things friendly.',
             ],
         ],
         [
             'heading' => 'Sign Up to Build Confidence and Influence',
             'text' => [
-                'Vague advice is useless. Self-improvement courses only help when they get specific. “Be more confident” means nothing on a Monday morning. Knowing how to make your point in a meeting without rehearsing it ten times? That helps. It’s the approach behind [[the-power-of-positive-attitude|The Power of Positive Attitude]] and [[social-skills-in-the-workplace|Social Skills in the Workplace]].',
+                'Vague advice is useless. Self-improvement courses only help when they get specific. “Be more confident” means nothing on a Monday morning. Knowing how to make your point in a meeting without rehearsing it ten times? That helps. It’s the approach behind [[the-power-of-positive-attitude|The Power of Positive Attitude]] and Social Skills in the Workplace.',
                 'Did you search self-improvement classes near me and land here? If you’re in Abu Dhabi, we run sessions in the morning and the evening. Same if you looked up personal development workshops near me. It’s hands-on, with group work and real examples. Hardly any lecturing.',
-                'Some people ask us about women’s personal development courses. Our classes are mixed. Still, women stepping into management may find [[emotional-intelligence|Emotional Intelligence]] or [[negotiating-for-success|Negotiating for Success]] especially useful.',
+                'Some people ask us about women’s personal development courses. Our classes are mixed. Still, women stepping into management may find Emotional Intelligence or [[negotiating-for-success|Negotiating for Success]] especially useful.',
                 'If you’re looking for online self-improvement courses, ask us before you book whether your chosen course can run as a live virtual class.',
             ],
         ],
@@ -52,13 +52,13 @@ return [
     'team' => [
         'heading' => 'Request a Quote for Team Training',
         'text' => [
-            'Companies send whole teams too. [[high-performance-teams|High Performance Teams]] and [[happiness-sustaining-a-motivating-work-culture|Happiness: Sustaining a Motivating Work Culture]] are two that suit a department. We’ll come to your office in Abu Dhabi, Dubai, or any other emirate. Fill in a few details on the [[page:corporate|corporate training page]], and we’ll send a proposal with content, days, and cost.',
+            'Companies send whole teams too. [[high-performance-teams|High Performance Teams]] and Happiness: Sustaining a Motivating Work Culture are two that suit a department. We’ll come to your office in Abu Dhabi, Dubai, or any other emirate. Fill in a few details on the [[page:corporate|corporate training page]], and we’ll send a proposal with content, days, and cost.',
         ],
     ],
     'choose' => [
         'heading' => 'How to Choose the Right Course',
         'text' => [
-            'We’re sometimes asked for the best personal development courses. There’s no single answer, really. Picture the work situation you’d most like to dodge. If it’s about people, go for communication or emotional intelligence. If it’s about time, pick time management. New to leading a team? Try [[managing-self-and-leading-others|Managing Self and Leading Others]]. The best self-improvement courses are simply the ones you still use a month on.',
+            'We’re sometimes asked for the best personal development courses. There’s no single answer, really. Picture the work situation you’d most like to dodge. If it’s about people, go for communication or emotional intelligence. If it’s about time, pick time management. New to leading a team? Try Managing Self and Leading Others. The best self-improvement courses are simply the ones you still use a month on.',
         ],
     ],
     'faq' => [

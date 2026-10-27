@@ -90,7 +90,7 @@
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الاثنين – الجمعة</p>
       </div>
     </div>
   </div>

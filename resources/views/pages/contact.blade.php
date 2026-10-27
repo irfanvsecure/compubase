@@ -55,7 +55,7 @@
       <p style="margin-top:12px"><b style="color:var(--navy)">WhatsApp</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Email</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Address</b><br>Abu Dhabi, United Arab Emirates</p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">Office hours</b><br>Sunday to Thursday</p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">Office hours</b><br>Monday to Friday</p>
       <a class="btn btn-wa" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp us now</a>
     </div>
     <div class="side-box">
@@ -66,7 +66,7 @@
 </div></section>
 <style>@media(max-width:1024px){#contactGrid{grid-template-columns:1fr!important}}</style>
 <section class="closing"><div class="container">
-  <div><h2>Prefer to just call?</h2><p>An advisor answers Sunday to Thursday during office hours.</p></div>
+  <div><h2>Prefer to just call?</h2><p>An advisor answers Monday to Friday during office hours.</p></div>
   <div class="actions"><a class="btn btn-navy" href="tel:+97126771117">Call 02 677 1117</a></div>
 </div></section><footer class="site">
   <div class="container">
@@ -78,7 +78,7 @@
       @include('partials.footer-courses')
       <div><h4>Contact</h4>
         <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Sunday to Thursday</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Monday to Friday</p>
       </div>
     </div>
   </div>

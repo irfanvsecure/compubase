@@ -63,7 +63,7 @@
       <p style="margin-top:12px"><b style="color:var(--navy)">واتساب</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">البريد الإلكتروني</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">العنوان</b><br>أبوظبي، الإمارات العربية المتحدة</p>
-      <p style="margin-top:12px"><b style="color:var(--navy)">ساعات الدوام</b><br>الأحد – الخميس</p>
+      <p style="margin-top:12px"><b style="color:var(--navy)">ساعات الدوام</b><br>الاثنين – الجمعة</p>
       <a class="btn btn-wa" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">@include('partials.wa-icon')راسلنا على واتساب الآن</a>
     </div>
     <div class="side-box">
@@ -75,7 +75,7 @@
 <style>@media(max-width:1024px){#contactGrid{grid-template-columns:1fr!important}}</style>
 
 <section class="closing"><div class="container">
-  <div><h2>تفضّل الاتصال مباشرة؟</h2><p>يجيب المستشار من الأحد إلى الخميس خلال ساعات الدوام.</p></div>
+  <div><h2>تفضّل الاتصال مباشرة؟</h2><p>يجيب المستشار من الاثنين إلى الجمعة خلال ساعات الدوام.</p></div>
   <div class="actions"><a class="btn btn-navy" href="tel:+97126771117">اتصل على 02 677 1117</a></div>
 </div></section>
 <!-- FOOTER -->
@@ -89,7 +89,7 @@
       @include('partials.footer-courses', ['ar' => true])
       <div><h4>اتصل بنا</h4>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
-        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الأحد – الخميس</p>
+        <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الاثنين – الجمعة</p>
       </div>
     </div>
   </div>
