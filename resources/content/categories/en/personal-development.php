@@ -7,13 +7,13 @@ return [
     'description' => '25 personal development and self-improvement courses in Abu Dhabi. Three-day classes in communication, confidence, and time management. Enroll today.',
     'h1' => 'Personal Development Courses in Abu Dhabi',
     'intro' => [
-        'Personal development training focuses on skills that make your job easier, even though they’re rarely in the job description. Think communication, staying calm under pressure, managing your time, negotiating, and speaking up. CompuBase Training Center is an ACTVET-licensed institute in Abu Dhabi (licence No. 725). We have 25 courses in this category, and most of them take three days.',
+        'Personal development training focuses on skills that make your job easier, even though they’re rarely in your job description. Think communication, staying calm under pressure, managing your time, negotiating, and speaking up. CompuBase Training Center is an ACTVET-licensed institute in Abu Dhabi (licence No. 725). We have 25 courses in this category, and most of them take three days.',
         'Be honest. When did work last feel harder than it should have? It probably wasn’t the technical side. More likely it was a meeting that went sideways, a boss you couldn’t figure out, or a week when everything hit at once. That’s what these courses are for.',
     ],
     'start' => [
         'heading' => 'Enroll in Courses That Fit Real Work',
         'text' => [
-            'Don’t expect a motivational speaker. You’ll try things out in class, hear what worked and what didn’t, then try again. A lot of people begin with [[emotional-intelligence|Emotional Intelligence]], usually because a conversation got heated and they wish they’d handled it better. Others choose [[conflict-resolution-and-adaptability|Conflict Resolution and Adaptability]]. Classes run in English or Arabic, mornings or evenings.',
+            'Don’t expect a motivational speech. Our courses are practical. You’ll try things out in class, hear what worked and what didn’t, then try again. A lot of people begin with [[emotional-intelligence|Emotional Intelligence]], usually because a conversation got heated and they wish they’d handled it better. Others choose [[conflict-resolution-and-adaptability|Conflict Resolution and Adaptability]]. Classes run in English or Arabic, mornings or evenings.',
         ],
         'picks' => [
             ['emotional-intelligence', 'Emotional Intelligence', 'Staying calm and reading people'],
@@ -44,8 +44,8 @@ return [
             'text' => [
                 'Vague advice is useless. Self-improvement courses only help when they get specific. “Be more confident” means nothing on a Monday morning. Knowing how to make your point in a meeting without rehearsing it ten times? That helps. It’s the approach behind [[the-power-of-positive-attitude|The Power of Positive Attitude]] and [[social-skills-in-the-workplace|Social Skills in the Workplace]].',
                 'Did you search self-improvement classes near me and land here? If you’re in Abu Dhabi, we run sessions in the morning and the evening. Same if you looked up personal development workshops near me. It’s hands-on, with group work and real examples. Hardly any lecturing.',
-                'Some people ask us about women’s personal development courses. Our classes are mixed. Still, women stepping into management might get a lot out of [[emotional-intelligence|Emotional Intelligence]] or [[negotiating-for-success|Negotiating for Success]].',
-                'Can’t get to a classroom? Before you book, ask whether your course is offered among our online self-improvement courses.',
+                'Some people ask us about women’s personal development courses. Our classes are mixed. Still, women stepping into management may find [[emotional-intelligence|Emotional Intelligence]] or [[negotiating-for-success|Negotiating for Success]] especially useful.',
+                'If you’re looking for online self-improvement courses, ask us before you book whether your chosen course can run as a live virtual class.',
             ],
         ],
     ],
