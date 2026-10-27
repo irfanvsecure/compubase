@@ -5,6 +5,7 @@ namespace App\Support;
 use App\Models\Category;
 use App\Models\CategoryCopy;
 use App\Models\Course;
+use Illuminate\Database\QueryException;
 
 /**
  * Reads the course catalogue from the database and shapes it for the views.
@@ -220,7 +221,12 @@ class Catalog
     public static function categoryContent(string $slug, bool $ar = false): ?array
     {
         // Copy edited through the MCP server (update_category_content) wins over the file.
-        $saved = CategoryCopy::where(['slug' => $slug, 'locale' => $ar ? 'ar' : 'en'])->value('content');
+        try {
+            $saved = CategoryCopy::where(['slug' => $slug, 'locale' => $ar ? 'ar' : 'en'])->value('content');
+        } catch (QueryException $e) {
+            report($e); // e.g. php artisan migrate has not run yet: show the default copy instead of failing
+            $saved = null;
+        }
         if ($saved !== null) {
             return is_array($saved) ? $saved : json_decode($saved, true);
         }
