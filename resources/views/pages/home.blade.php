@@ -90,9 +90,9 @@
       </dl>
     </div>
     <div class="nx-collage" data-parallax>
-      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/cb-trainer-presenting-to-professionals-abu-dhabi.jpg') }}" alt="Trainer presenting to professionals in a CompuBase classroom overlooking Abu Dhabi"></figure>
-      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/cb-emirati-trainees-it-computer-lab.jpg') }}" alt="Emirati trainees working at computers in a CompuBase IT lab"></figure>
-      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/cb-emirati-professionals-group-discussion-laptops.jpg') }}" alt="Emirati professionals in a small-group discussion with laptops"></figure>
+      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/trainer-presenting-to-professionals-abu-dhabi-zymcwu.jpg') }}" alt="Trainer presenting to professionals in a CompuBase classroom overlooking Abu Dhabi"></figure>
+      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/emirati-trainees-it-computer-lab-r0o03n.jpg') }}" alt="Emirati trainees working at computers in a CompuBase IT lab"></figure>
+      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/emirati-professionals-group-discussion-laptops-yh21uf.jpg') }}" alt="Emirati professionals in a small-group discussion with laptops"></figure>
       <div class="nx-float nx-float-1"><span class="nx-float-ico">☀</span><div><b>Morning or evening</b><small>Pick the group that fits work</small></div></div>
       <div class="nx-float nx-float-2"><span class="nx-float-ico">✓</span><div><b>ACTVET No. 725</b><small>Licensed in Abu Dhabi</small></div></div>
     </div>
@@ -158,7 +158,7 @@
     <div class="nx-story-grid">
       <div class="nx-stage" aria-hidden="true">
         <div class="nx-stage-card on" data-i="0">
-          <img src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/women-leadership-team-coaching-session-wlsqz7.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>Management courses for</small><div class="nx-chips"><span>HR</span><span>Sales</span><span>Procurement</span><span>Quality</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="1">
@@ -166,7 +166,7 @@
           <div class="nx-stage-glass"><small>Tracks</small><div class="nx-chips"><span>Cloud</span><span>Data</span><span>AI</span><span>Cyber</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="2">
-          <img src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/pmp-preparation-course-skyline-gaxznz.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>Programmes</small><div class="nx-chips"><span>Finance</span><span>Projects</span><span>Safety</span></div></div>
         </div>
         <div class="nx-stage-count"><b>01</b>/03</div>
@@ -174,7 +174,7 @@
 
       <div class="nx-chapters">
         <article class="nx-chapter" id="ch-management" data-i="0">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="Women professionals in a leadership coaching session at CompuBase" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/women-leadership-team-coaching-session-wlsqz7.jpg') }}" alt="Women professionals in a leadership coaching session at CompuBase" loading="lazy">
           <span class="nx-kicker">01 — Management &amp; leadership</span>
           <h2 class="nx-h2">Enrol in Management and Leadership Training</h2>
           <figure class="nx-quote">
@@ -214,7 +214,7 @@
         </article>
 
         <article class="nx-chapter" id="ch-finance" data-i="2">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="PMP preparation course in a CompuBase classroom" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/pmp-preparation-course-skyline-gaxznz.jpg') }}" alt="PMP preparation course in a CompuBase classroom" loading="lazy">
           <span class="nx-kicker">03 — Finance, projects &amp; safety</span>
           <h2 class="nx-h2">Register for Finance, Project and Safety Programmes</h2>
           <div class="nx-stack">
