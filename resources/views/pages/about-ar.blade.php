@@ -67,7 +67,7 @@
     <p><b>التزامنا واضح: أن نزوّد الناس بالمهارات التي يحتاجونها اليوم، والقدرات التي تمكّنهم من النجاح غداً.</b></p>
   </div>
     </div>
-    <figure class="about-photo"><img src="{{ url('uploads/2026/10/cb-abu-dhabi-skyline-training-hall-group-work.jpg') }}" alt="مهنيون يعملون في مجموعات داخل قاعة تدريب في كمبيوبيس مطلّة على أبوظبي" loading="lazy"></figure>
+    <figure class="about-photo"><img src="{{ url('uploads/2026/10/abu-dhabi-skyline-training-hall-group-work-q4i42l.jpg') }}" alt="مهنيون يعملون في مجموعات داخل قاعة تدريب في كمبيوبيس مطلّة على أبوظبي" loading="lazy"></figure>
   </div>
 </div></section>
 
@@ -88,7 +88,7 @@
     <div class="why-item"><h3>5. بيئة تعلّم تفاعلية وداعمة</h3><p>نصمّم تجارب تعلّم تفاعلية تشجّع على المشاركة والنقاش والتعاون، ويساعدك نهجنا المتمحور حول المتدرب على البقاء متفاعلاً، وطرح الأسئلة، وبناء ثقتك طوال رحلتك التدريبية.</p></div>
     <div class="why-item"><h3>6. فرص تعلّم متنوعة</h3><p>من الذكاء الاصطناعي وتقنية المعلومات إلى إدارة الأعمال والقيادة والشهادات المهنية واللغات، تساعدك برامجنا المتنوعة على تطوير القدرات اللازمة للنجاح في عالم مهني دائم التغيّر.</p></div>
   </div>
-  <div class="steps-photo"><img src="{{ url('uploads/2026/10/cb-collaborative-workshop-sticky-notes.jpg') }}" alt="مدرّب يدير ورشة عمل تفاعلية مع المتدربين في كمبيوبيس" loading="lazy"></div>
+  <div class="steps-photo"><img src="{{ url('uploads/2026/10/collaborative-workshop-sticky-notes-f1z3dh.jpg') }}" alt="مدرّب يدير ورشة عمل تفاعلية مع المتدربين في كمبيوبيس" loading="lazy"></div>
 </div></section>
 
 <section class="closing"><div class="container">

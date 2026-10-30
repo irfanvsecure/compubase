@@ -91,9 +91,9 @@
       </dl>
     </div>
     <div class="nx-collage" data-parallax>
-      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/cb-trainer-presenting-to-professionals-abu-dhabi.jpg') }}" alt="مدرّب يقدّم عرضاً لمهنيين في قاعة كمبيوبيس المطلّة على أبوظبي"></figure>
-      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/cb-emirati-trainees-it-computer-lab.jpg') }}" alt="متدربون إماراتيون يعملون على الحواسيب في مختبر تقنية المعلومات بكمبيوبيس"></figure>
-      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/cb-emirati-professionals-group-discussion-laptops.jpg') }}" alt="مهنيون إماراتيون في نقاش ضمن مجموعة صغيرة"></figure>
+      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/trainer-presenting-to-professionals-abu-dhabi-zymcwu.jpg') }}" alt="مدرّب يقدّم عرضاً لمهنيين في قاعة كمبيوبيس المطلّة على أبوظبي"></figure>
+      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/emirati-trainees-it-computer-lab-r0o03n.jpg') }}" alt="متدربون إماراتيون يعملون على الحواسيب في مختبر تقنية المعلومات بكمبيوبيس"></figure>
+      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/emirati-professionals-group-discussion-laptops-yh21uf.jpg') }}" alt="مهنيون إماراتيون في نقاش ضمن مجموعة صغيرة"></figure>
       <div class="nx-float nx-float-1"><span class="nx-float-ico">☀</span><div><b>صباحاً أو مساءً</b><small>اختر المجموعة التي تناسب عملك</small></div></div>
       <div class="nx-float nx-float-2"><span class="nx-float-ico">✓</span><div><b>ACTVET رقم 725</b><small>مرخّص في أبوظبي</small></div></div>
     </div>
@@ -159,7 +159,7 @@
     <div class="nx-story-grid">
       <div class="nx-stage" aria-hidden="true">
         <div class="nx-stage-card on" data-i="0">
-          <img src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/women-leadership-team-coaching-session-wlsqz7.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>دورات الإدارة لـ</small><div class="nx-chips"><span>الموارد البشرية</span><span>المبيعات</span><span>المشتريات</span><span>الجودة</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="1">
@@ -167,7 +167,7 @@
           <div class="nx-stage-glass"><small>المسارات</small><div class="nx-chips"><span>الحوسبة السحابية</span><span>البيانات</span><span>الذكاء الاصطناعي</span><span>الأمن السيبراني</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="2">
-          <img src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/pmp-preparation-course-skyline-gaxznz.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>البرامج</small><div class="nx-chips"><span>المالية</span><span>المشاريع</span><span>السلامة</span></div></div>
         </div>
         <div class="nx-stage-count"><b>01</b>/03</div>
@@ -175,7 +175,7 @@
 
       <div class="nx-chapters">
         <article class="nx-chapter" id="ch-management" data-i="0">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="مهنيات في جلسة تدريب على القيادة في كمبيوبيس" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/women-leadership-team-coaching-session-wlsqz7.jpg') }}" alt="مهنيات في جلسة تدريب على القيادة في كمبيوبيس" loading="lazy">
           <span class="nx-kicker">01 — الإدارة والقيادة</span>
           <h2 class="nx-h2">سجّل في دورات الإدارة والقيادة</h2>
           <figure class="nx-quote">
@@ -215,7 +215,7 @@
         </article>
 
         <article class="nx-chapter" id="ch-finance" data-i="2">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="دورة التحضير لشهادة PMP في إحدى قاعات كمبيوبيس" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/pmp-preparation-course-skyline-gaxznz.jpg') }}" alt="دورة التحضير لشهادة PMP في إحدى قاعات كمبيوبيس" loading="lazy">
           <span class="nx-kicker">03 — المالية والمشاريع والسلامة</span>
           <h2 class="nx-h2">سجّل في برامج المالية والمشاريع والسلامة</h2>
           <div class="nx-stack">

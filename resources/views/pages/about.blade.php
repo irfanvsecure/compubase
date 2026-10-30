@@ -60,7 +60,7 @@
     <p><b>Our commitment is simple: to equip people with the skills they need today and the capabilities they need to succeed tomorrow.</b></p>
   </div>
     </div>
-    <figure class="about-photo"><img src="{{ url('uploads/2026/10/cb-abu-dhabi-skyline-training-hall-group-work.jpg') }}" alt="Professionals working in groups in a CompuBase training hall overlooking Abu Dhabi" loading="lazy"></figure>
+    <figure class="about-photo"><img src="{{ url('uploads/2026/10/abu-dhabi-skyline-training-hall-group-work-q4i42l.jpg') }}" alt="Professionals working in groups in a CompuBase training hall overlooking Abu Dhabi" loading="lazy"></figure>
   </div>
 </div></section>
 @include('partials.accreditation')
@@ -79,7 +79,7 @@
     <div class="why-item"><h3>5. An Engaging, Supportive Learning Environment</h3><p>We create interactive learning experiences that encourage participation, discussion, and collaboration. Our learner-focused approach helps you stay engaged, ask questions, and build confidence throughout your training journey.</p></div>
     <div class="why-item"><h3>6. Diverse Learning Opportunities</h3><p>From Artificial Intelligence and IT to Business, Leadership, Professional Certifications, and Languages, our wide range of programs helps you develop the capabilities needed to succeed in an ever-changing professional world.</p></div>
   </div>
-  <div class="steps-photo"><img src="{{ url('uploads/2026/10/cb-collaborative-workshop-sticky-notes.jpg') }}" alt="Trainer guiding an interactive workshop with learners at CompuBase" loading="lazy"></div>
+  <div class="steps-photo"><img src="{{ url('uploads/2026/10/collaborative-workshop-sticky-notes-f1z3dh.jpg') }}" alt="Trainer guiding an interactive workshop with learners at CompuBase" loading="lazy"></div>
 </div></section>
 <section class="closing"><div class="container">
   <div><div class="h2">Invest in Skills. Unlock Opportunities.</div><p>Your next career milestone begins with the right knowledge, practical skills, and the confidence to move forward.</p></div>
