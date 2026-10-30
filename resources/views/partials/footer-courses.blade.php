@@ -15,7 +15,7 @@
         : ['Company', [route('about') => 'About', route('contact') => 'Contact', route('partners') => 'Partners']];
 @endphp
 @foreach (array_slice($columns, 0, 3) as [$heading, $links])
-      <div><h4>{{ $heading }}</h4><ul>
+      <div><div class="h4">{{ $heading }}</div><ul>
         @foreach ($links as $href => $label)<li><a href="{{ $href }}">{{ $label }}</a></li>@endforeach
       </ul></div>
 @endforeach

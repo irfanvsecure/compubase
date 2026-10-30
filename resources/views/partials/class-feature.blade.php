@@ -21,14 +21,14 @@
   </div>
   <div class="class-copy">
     <div class="eyebrow">{{ $ar ? 'داخل القاعة' : 'Inside the classroom' }}</div>
-    <h3>{{ $ar ? 'هكذا يبدو يومك التدريبي في كمبيوبيس.' : 'What a day at CompuBase looks like.' }}</h3>
+    <div class="h3">{{ $ar ? 'هكذا يبدو يومك التدريبي في كمبيوبيس.' : 'What a day at CompuBase looks like.' }}</div>
     <ul class="class-points">
       @foreach ($points as [$title, $text])
       <li><span class="tick" aria-hidden="true">✓</span><div><b>{{ $title }}</b><p>{{ $text }}</p></div></li>
       @endforeach
     </ul>
     <div class="class-stats">
-      <div><b>{{ count(Catalog::courses()) }}</b><span>{{ $ar ? 'دورة' : 'courses' }}</span></div>
+      <div><b dir="ltr">+500</b><span>{{ $ar ? 'دورة' : 'courses' }}</span></div>
       <div><b>{{ count(Catalog::categories()) }}</b><span>{{ $ar ? 'فئة' : 'categories' }}</span></div>
       <div><b>2</b><span>{{ $ar ? 'مجموعتان يومياً' : 'groups a day' }}</span></div>
     </div>

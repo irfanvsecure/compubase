@@ -32,7 +32,7 @@
 
 /* Why tiles */
 .cx-why .nx-tile{justify-content:flex-start}
-.cx-why .nx-tile h3{font-size:20px;color:var(--navy)}
+.cx-why .nx-tile h3,.cx-why .nx-tile .h3{font-size:20px;color:var(--navy)}
 .cx-why .nx-bento-why .nx-tile p{font-size:15px;font-weight:400;color:#4a5a73}
 .cx-why-n{font-size:44px;font-weight:800;line-height:1;color:var(--gold)}
 

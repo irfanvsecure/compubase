@@ -2,7 +2,7 @@
 
 @section('page', 'home')
 @section('title', 'Training Courses in the UAE | CompuBase Abu Dhabi')
-@section('description', 'ACTVET-licensed Abu Dhabi institute with '.count(\App\Support\Catalog::courses()).' courses in leadership, IT, finance, safety, and project management across the UAE. Enroll today.')
+@section('description', 'ACTVET-licensed Abu Dhabi institute with +500 courses in leadership, IT, finance, safety, and project management across the UAE. Enroll today.')
 
 @section('content')
 <div class="page active" id="pg-home" lang="en">
@@ -27,6 +27,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home') }}">Home</a></li>
         @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
@@ -53,7 +54,6 @@
     $cat = fn (string $slug) => Catalog::categoryUrl($slug);
     $faqs = [
         ['Is CompuBase Training Centre licensed?', 'Yes. CompuBase Training Centre is licensed by ACTVET in Abu Dhabi under licence No. 725.'],
-        ['How many courses does CompuBase offer?', "CompuBase offers {$courseCount} courses in {$catCount} categories, split between management and IT."],
         ['How long are CompuBase courses?', 'Most CompuBase courses run for three to five days. Each course page shows the exact number of days.'],
         ['Can I take a CompuBase course in Arabic?', 'Yes. CompuBase runs its courses in both Arabic and English, so you can choose the language you prefer when you enquire.'],
         ['Does CompuBase train company teams outside Abu Dhabi?', 'Yes. CompuBase trainers can deliver in-house sessions at client offices in Dubai and the other emirates.'],
@@ -78,21 +78,21 @@
     <div class="nx-hero-copy">
       <span class="nx-pill"><span class="nx-live-dot"></span>ACTVET licensed · Licence No. 725</span>
       <h1>Professional Training Courses in Abu Dhabi and <span class="nx-grad">Across the UAE</span></h1>
-      <p class="nx-lead">CompuBase Training is an Abu Dhabi training institute licensed by ACTVET under licence No. 725. We offer {{ $courseCount }} courses in management and IT.</p>
+      <p class="nx-lead">CompuBase Training is an Abu Dhabi training institute licensed by ACTVET under licence No. 725. We offer +500 courses in management, IT and languages.</p>
       <div class="nx-cta">
-        <a class="nx-btn nx-btn-gold" href="{{ route('courses') }}">Browse all {{ $courseCount }} courses {!! $arrow !!}</a>
+        <a class="nx-btn nx-btn-gold" href="{{ route('courses') }}">Browse all courses {!! $arrow !!}</a>
         <a class="nx-btn nx-btn-glass" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp 056 689 3378</a>
       </div>
       <dl class="nx-hero-stats">
-        <div><dt data-count="{{ $courseCount }}">{{ $courseCount }}</dt><dd>courses</dd></div>
+        <div><dt data-count="500" data-prefix="+">+500</dt><dd>courses</dd></div>
         <div><dt data-count="{{ $catCount }}">{{ $catCount }}</dt><dd>categories</dd></div>
         <div><dt>EN·AR</dt><dd>languages</dd></div>
       </dl>
     </div>
     <div class="nx-collage" data-parallax>
-      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/abu-dhabi-classroom-training-session-j5htjt.jpg') }}" alt="Trainer leading a classroom session at CompuBase Abu Dhabi"></figure>
-      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/uae-cyber-security-ai-workshop-lab-ywxc18.jpg') }}" alt="Trainees in a hands-on cyber security and AI lab"></figure>
-      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/abu-dhabi-evening-class-working-professionals-0jvbyg.jpg') }}" alt="Working professionals in an evening class in Abu Dhabi"></figure>
+      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/cb-trainer-presenting-to-professionals-abu-dhabi.jpg') }}" alt="Trainer presenting to professionals in a CompuBase classroom overlooking Abu Dhabi"></figure>
+      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/cb-emirati-trainees-it-computer-lab.jpg') }}" alt="Emirati trainees working at computers in a CompuBase IT lab"></figure>
+      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/cb-emirati-professionals-group-discussion-laptops.jpg') }}" alt="Emirati professionals in a small-group discussion with laptops"></figure>
       <div class="nx-float nx-float-1"><span class="nx-float-ico">☀</span><div><b>Morning or evening</b><small>Pick the group that fits work</small></div></div>
       <div class="nx-float nx-float-2"><span class="nx-float-ico">✓</span><div><b>ACTVET No. 725</b><small>Licensed in Abu Dhabi</small></div></div>
     </div>
@@ -107,22 +107,42 @@
 <!-- ACCREDITATION -->
 @include('partials.accreditation')
 
-<!-- WHO COMES TO US -->
-<section class="nx-sec nx-people">
-  <div class="container nx-people-in">
-    <div class="nx-people-head" data-reveal>
-      <span class="nx-kicker">Who comes to us</span>
-      <h2 class="nx-h2">People come to us for <em>all sorts of reasons.</em></h2>
-      <p>We teach in English or Arabic, and you can pick a morning or evening group so work doesn’t suffer.</p>
-      <div class="nx-toggles" aria-hidden="true">
-        <span class="nx-toggle"><b class="on">EN</b><b>AR</b></span>
-        <span class="nx-toggle"><b class="on">AM</b><b>PM</b></span>
-      </div>
+<!-- CATEGORIES -->
+<section class="section nx-cats" id="courses">
+  <div class="container">
+    <div class="nx-head-row" data-reveal>
+      <div><span class="nx-kicker">Course categories</span><h2 class="nx-h2">+500 courses in {{ $catCount }} categories.</h2></div>
+      <a class="nx-btn nx-btn-dark" href="{{ route('categories') }}">View all {{ $catCount }} categories {!! $arrow !!}</a>
     </div>
-    <div class="nx-chat">
-      <div class="nx-bubble" data-reveal><span class="nx-avatar">S</span><p>A new supervisor wants to stop feeling lost in meetings.</p></div>
-      <div class="nx-bubble nx-bubble-r" data-reveal><span class="nx-avatar">A</span><p>An accountant needs to brush up before an audit.</p></div>
-      <div class="nx-bubble" data-reveal><span class="nx-avatar">HR</span><p>Sometimes an HR manager needs a whole team trained, and fast.</p></div>
+    <div class="cat-grid cat-grid-sm">
+      @foreach (array_slice(Catalog::categories(), 0, 8, true) as $catSlug => $category)
+      @php
+          $catCourses = array_values($category['courses']);
+          $photo = null;
+          foreach ($catCourses as $c) {
+              if ($photo = Catalog::photo($c)) {
+                  break;
+              }
+          }
+          $catMark = mb_strtoupper(mb_substr($category['en'], 0, 1));
+      @endphp
+      <a class="cat" href="{{ Catalog::categoryUrl($catSlug) }}" data-reveal>
+        <div class="cat-photo">
+          @if ($photo)<img src="{{ $photo }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $catMark }}</div>@endif
+          <span class="cat-photo-num">{{ sprintf('%02d', $loop->iteration) }}</span>
+          <span class="cat-photo-count">{{ count($catCourses) }} courses</span>
+        </div>
+        <div class="cat-body">
+          <h3>{{ $category['en'] }}</h3>
+          <table>
+            @foreach (array_slice($catCourses, 0, 3) as $c)
+            <tr><td>{{ $c['en'] }}</td><td>{{ Catalog::duration($c['days']) }}</td></tr>
+            @endforeach
+          </table>
+          <span class="link">View all {{ count($catCourses) }} courses →</span>
+        </div>
+      </a>
+      @endforeach
     </div>
   </div>
 </section>
@@ -138,7 +158,7 @@
     <div class="nx-story-grid">
       <div class="nx-stage" aria-hidden="true">
         <div class="nx-stage-card on" data-i="0">
-          <img src="{{ url('uploads/2026/10/managing-self-leading-others-objectives-dk5drg.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>Management courses for</small><div class="nx-chips"><span>HR</span><span>Sales</span><span>Procurement</span><span>Quality</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="1">
@@ -146,7 +166,7 @@
           <div class="nx-stage-glass"><small>Tracks</small><div class="nx-chips"><span>Cloud</span><span>Data</span><span>AI</span><span>Cyber</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="2">
-          <img src="{{ url('uploads/2026/10/agile-project-manager-sprint-planning-oy5dbc.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>Programmes</small><div class="nx-chips"><span>Finance</span><span>Projects</span><span>Safety</span></div></div>
         </div>
         <div class="nx-stage-count"><b>01</b>/03</div>
@@ -154,7 +174,7 @@
 
       <div class="nx-chapters">
         <article class="nx-chapter" id="ch-management" data-i="0">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/managing-self-leading-others-objectives-dk5drg.jpg') }}" alt="Managing Self and Leading Others course at CompuBase" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="Women professionals in a leadership coaching session at CompuBase" loading="lazy">
           <span class="nx-kicker">01 — Management &amp; leadership</span>
           <h2 class="nx-h2">Enrol in Management and Leadership Training</h2>
           <figure class="nx-quote">
@@ -194,7 +214,7 @@
         </article>
 
         <article class="nx-chapter" id="ch-finance" data-i="2">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/agile-project-manager-sprint-planning-oy5dbc.jpg') }}" alt="Agile project management training at CompuBase" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="PMP preparation course in a CompuBase classroom" loading="lazy">
           <span class="nx-kicker">03 — Finance, projects &amp; safety</span>
           <h2 class="nx-h2">Register for Finance, Project and Safety Programmes</h2>
           <div class="nx-stack">
@@ -218,52 +238,11 @@
   </div>
 </section>
 
-<!-- CATEGORIES -->
-<section class="section nx-cats" id="courses">
-  <div class="container">
-    <div class="nx-head-row" data-reveal>
-      <div><span class="nx-kicker">Course categories</span><h2 class="nx-h2">{{ $courseCount }} courses in {{ $catCount }} categories.</h2></div>
-      <a class="nx-btn nx-btn-dark" href="{{ route('categories') }}">View all {{ $catCount }} categories {!! $arrow !!}</a>
-    </div>
-    <div class="cat-grid">
-      @foreach (array_slice(Catalog::categories(), 0, 3, true) as $catSlug => $category)
-      @php
-          $catCourses = array_values($category['courses']);
-          $photo = null;
-          foreach ($catCourses as $c) {
-              if ($photo = Catalog::photo($c)) {
-                  break;
-              }
-          }
-          $catMark = mb_strtoupper(mb_substr($category['en'], 0, 1));
-      @endphp
-      <a class="cat" href="{{ Catalog::categoryUrl($catSlug) }}" data-reveal>
-        <div class="cat-photo">
-          @if ($photo)<img src="{{ $photo }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $catMark }}</div>@endif
-          <span class="cat-photo-num">{{ sprintf('%02d', $loop->iteration) }}</span>
-          <span class="cat-photo-count">{{ count($catCourses) }} courses</span>
-        </div>
-        <div class="cat-body">
-          <h3>{{ $category['en'] }}</h3>
-          <p>{{ count($catCourses) }} courses of {{ min(array_column($catCourses, 'days')) }} to {{ max(array_column($catCourses, 'days')) }} days, Monday to Friday at the Abu Dhabi centre.</p>
-          <table>
-            @foreach (array_slice($catCourses, 0, 4) as $c)
-            <tr><td>{{ $c['en'] }}</td><td>{{ Catalog::duration($c['days']) }}</td></tr>
-            @endforeach
-          </table>
-          <span class="link">View all {{ count($catCourses) }} courses →</span>
-        </div>
-      </a>
-      @endforeach
-    </div>
-  </div>
-</section>
-
 <!-- FEATURED COURSES -->
 <section class="section featured nx-featured" id="featured">
   <div class="container">
     <span class="nx-kicker">Featured this intake</span>
-    <h2 class="nx-h2">The courses Abu Dhabi employers are booking now.</h2>
+    <div class="h2 nx-h2">The courses Abu Dhabi employers are booking now.</div>
     <div class="feat-filter">
       <div class="feat-groups" id="featGroups">
         <button type="button" class="active" data-g="all">All courses <span></span></button>
@@ -285,6 +264,26 @@
   </div>
 </section>
 
+<!-- WHO COMES TO US -->
+<section class="nx-sec nx-people">
+  <div class="container nx-people-in">
+    <div class="nx-people-head" data-reveal>
+      <span class="nx-kicker">Who comes to us</span>
+      <div class="h2 nx-h2">People come to us for <em>all sorts of reasons.</em></div>
+      <p>We teach in English or Arabic, and you can pick a morning or evening group so work doesn’t suffer.</p>
+      <div class="nx-toggles" aria-hidden="true">
+        <span class="nx-toggle"><b class="on">EN</b><b>AR</b></span>
+        <span class="nx-toggle"><b class="on">AM</b><b>PM</b></span>
+      </div>
+    </div>
+    <div class="nx-chat">
+      <div class="nx-bubble" data-reveal><span class="nx-avatar">S</span><p>A new supervisor wants to stop feeling lost in meetings.</p></div>
+      <div class="nx-bubble nx-bubble-r" data-reveal><span class="nx-avatar">A</span><p>An accountant needs to brush up before an audit.</p></div>
+      <div class="nx-bubble" data-reveal><span class="nx-avatar">HR</span><p>Sometimes an HR manager needs a whole team trained, and fast.</p></div>
+    </div>
+  </div>
+</section>
+
 <!-- SHORT COURSES AND FLEXIBLE LEARNING (bento) -->
 <section class="nx-sec nx-flex" id="flexible">
   <div class="container">
@@ -300,12 +299,12 @@
       </div>
       <div class="nx-tile nx-tile-live nx-spot" data-reveal>
         <div class="nx-call" aria-hidden="true"><i></i><i></i><i></i><i></i><span class="nx-rec"><span class="nx-live-dot"></span>Live</span></div>
-        <h3>Live virtual class</h3>
+        <div class="h3">Live virtual class</div>
         <p>We also get calls about online courses in the UAE. If your team sits in different offices, ask whether your course can run as a live virtual class. Technical subjects such as <a href="{{ $cat('ai-and-data-science') }}">AI</a>, <a href="{{ $cat('cloud-computing') }}">cloud</a> and <a href="{{ $cat('coding-and-programming') }}">programming</a> are often the best online courses in the UAE for this format, because the work already happens on a screen.</p>
       </div>
       <div class="nx-tile nx-tile-cal" id="calendar" data-reveal>
         <span class="nx-kicker">Course calendar</span>
-        <h3>Get every start date as a PDF</h3>
+        <div class="h3">Get every start date as a PDF</div>
         <p>Every course, with durations and timings, on one page — useful when you need approval from a manager.</p>
         <div class="side-box calendar">@include('partials.enquiry-form', ['type' => 'calendar'])</div>
       </div>
@@ -319,7 +318,7 @@
     <div class="sched-head">
       <div>
         <span class="nx-kicker">Upcoming intakes</span>
-        <h2 class="nx-h2">Every start date, in one table.</h2>
+        <div class="h2 nx-h2">Every start date, in one table.</div>
       </div>
       <a class="btn btn-outline" href="{{ route('home', ['go' => 'calendar']) }}" data-scroll="calendar">⤓ Download the course calendar</a>
     </div>
@@ -330,7 +329,7 @@
         <tbody id="schedBody"></tbody>
       </table>
     </div>
-    <p class="sched-note">Showing {{ min(8, $courseCount) }} of {{ $courseCount }} courses. <a href="{{ route('schedule') }}" style="font-weight:700;text-decoration:underline">See the full schedule</a></p>
+    <p class="sched-note">Showing the next {{ min(8, $courseCount) }} courses. <a href="{{ route('schedule') }}" style="font-weight:700;text-decoration:underline">See the full schedule</a></p>
   </div>
 </section>
 
@@ -349,7 +348,7 @@
       </ol>
     </div>
     <div class="nx-form-card proposal" data-reveal>
-      <h3>Request a training proposal</h3>
+      <div class="h3">Request a training proposal</div>
       <p class="sub">Tell us about your team. We reply with content, duration and cost.</p>
       @include('partials.enquiry-form', ['type' => 'proposal'])
     </div>
@@ -366,8 +365,8 @@
     </div>
     <div class="nx-bento nx-bento-why">
       <div class="nx-tile nx-tile-hero nx-spot" data-reveal>
-        <div class="nx-bignum"><span data-count="{{ $courseCount }}">{{ $courseCount }}</span></div>
-        <p>{{ $courseCount }} courses, from leadership and finance to cyber security and AI</p>
+        <div class="nx-bignum"><span data-count="500" data-prefix="+">+500</span></div>
+        <p>+500 courses, from leadership and finance to cyber security and AI</p>
         <div class="nx-orbit" aria-hidden="true"><span>Leadership</span><span>Finance</span><span>Cyber</span><span>AI</span></div>
       </div>
       <div class="nx-tile nx-spot" data-reveal>
@@ -439,7 +438,7 @@
         <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
-      <div><h4>Contact</h4>
+      <div><div class="h4">Contact</div>
         <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Monday to Friday</p>
       </div>

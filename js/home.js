@@ -73,7 +73,7 @@
     const t0 = performance.now(), dur = 1600;
     const tick = t => {
       const k = Math.min(1, (t - t0) / dur);
-      el.textContent = Math.round(end * (1 - Math.pow(1 - k, 4)));
+      el.textContent = (el.dataset.prefix || '') + Math.round(end * (1 - Math.pow(1 - k, 4)));
       if (k < 1) requestAnimationFrame(tick);
     };
     requestAnimationFrame(tick);

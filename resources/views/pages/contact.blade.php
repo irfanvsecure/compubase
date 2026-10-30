@@ -20,6 +20,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home') }}">Home</a></li>
         @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
@@ -44,13 +45,13 @@
 </div></section>
 <section class="section"><div class="container" style="display:grid;grid-template-columns:1fr 380px;gap:56px;align-items:start" id="contactGrid">
   <div class="proposal" style="border:1px solid var(--line)">
-    <h3>Registration and enquiry form</h3>
+    <div class="h3">Registration and enquiry form</div>
     <p class="sub">Tell us the course and your preferred timing — we reply with the next start date and the fee.</p>
     @include('partials.enquiry-form', ['type' => 'contact'])
   </div>
   <aside>
     <div class="side-box">
-      <h4>Reach us directly</h4>
+      <div class="h4">Reach us directly</div>
       <p><b style="color:var(--navy)">Phone</b><br><a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">WhatsApp</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">Email</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
@@ -59,14 +60,14 @@
       <a class="btn btn-wa" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp us now</a>
     </div>
     <div class="side-box">
-      <h4>Find us</h4>
+      <div class="h4">Find us</div>
       <p>CompuBase Training Center, Abu Dhabi. Call <a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a> for directions to campus.</p>
     </div>
   </aside>
 </div></section>
 <style>@media(max-width:1024px){#contactGrid{grid-template-columns:1fr!important}}</style>
 <section class="closing"><div class="container">
-  <div><h2>Prefer to just call?</h2><p>An advisor answers Monday to Friday during office hours.</p></div>
+  <div><div class="h2">Prefer to just call?</div><p>An advisor answers Monday to Friday during office hours.</p></div>
   <div class="actions"><a class="btn btn-navy" href="tel:+97126771117">Call 02 677 1117</a></div>
 </div></section><footer class="site">
   <div class="container">
@@ -76,7 +77,7 @@
         <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
-      <div><h4>Contact</h4>
+      <div><div class="h4">Contact</div>
         <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Monday to Friday</p>
       </div>

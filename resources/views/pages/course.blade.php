@@ -37,6 +37,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home') }}">Home</a></li>
         @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
@@ -184,7 +185,7 @@
           $wins = $content ? ($content['objectives'] ?: $content['competencies']) : [];
       @endphp
       <div class="cs-card">
-        <h4>Course at a glance</h4>
+        <div class="h4">Course at a glance</div>
         <div class="cs-glance">
           <div><span>Duration</span><b>{{ $duration }}</b></div>
           @if ($modules)<div><span>Modules</span><b>{{ $modules }}</b></div>@else<div><span>Days</span><b>Mon–Fri</b></div>@endif
@@ -196,7 +197,7 @@
 
       @if ($wins)
       <div class="cs-card">
-        <h4>You'll be able to</h4>
+        <div class="h4">You'll be able to</div>
         <ul class="cs-list">
           @foreach (array_slice($wins, 0, 3) as $item)<li>{!! Catalog::richText($item) !!}</li>@endforeach
         </ul>
@@ -207,7 +208,7 @@
       @if ($hasAudience)
       <div class="cs-card" id="attend-side">
         @if ($tabPhoto('audience'))<img class="cs-photo" src="{{ $tabPhoto('audience') }}" alt="{{ $title }}" loading="lazy">@endif
-        <h4>Who should attend</h4>
+        <div class="h4">Who should attend</div>
         @if ($content)
           <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{!! Catalog::richText($para) !!}</p>@endforeach</div>
           <button type="button" class="cs-more cs-toggle" data-more="Read more →" data-less="Show less ↑">Read more →</button>
@@ -216,15 +217,15 @@
       @endif
 
       <div class="cs-card cs-team">
-        <h4>Training a team?</h4>
-        <h3>Run this course at your offices</h3>
+        <div class="h4">Training a team?</div>
+        <div class="h3">Run this course at your offices</div>
         <p>We deliver it in-house across the UAE, on dates that fit your operations.</p>
         <a class="btn btn-gold" href="{{ route('corporate') }}">Get an in-house quote →</a>
       </div>
 
       @if (count($catCourses) > 1)
       <div class="cs-card">
-        <h4>More in {{ Catalog::category($course) }}</h4>
+        <div class="h4">More in {{ Catalog::category($course) }}</div>
         <ul class="cs-rel">
           @foreach (Catalog::related($course, 4) as $other)
           <li><a href="{{ Catalog::url($other) }}">{{ Catalog::title($other) }}</a><small>{{ Catalog::duration($other['days']) }}</small></li>
@@ -235,7 +236,7 @@
       @endif
 
       <div class="cs-card">
-        <h4>Need help choosing?</h4>
+        <div class="h4">Need help choosing?</div>
         <p>Talk to an advisor about level, timing and fit.</p>
         <div class="cs-help"><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a><a class="btn btn-outline" href="tel:+97126771117">Call us</a></div>
       </div>
@@ -245,7 +246,7 @@
 
 <section class="related">
   <div class="container">
-    <h2>Learners who took {{ $title }} also considered</h2>
+    <div class="h2">Learners who took {{ $title }} also considered</div>
     <div class="rel-grid">
       @foreach (Catalog::related($course) as $other)
       <div class="rel-card"><div class="eyebrow">{{ $other['catEn'] }}</div><h3>{{ $other['en'] }}</h3>
@@ -259,7 +260,7 @@
 <section class="closing">
   <div class="container">
     <div>
-      <h2>Registration is now open.</h2>
+      <div class="h2">Registration is now open.</div>
       <p>Morning and evening classes are available. CompuBase Training Center, Abu Dhabi.</p>
     </div>
     <div class="actions">
@@ -277,7 +278,7 @@
         <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
-      <div><h4>Contact</h4>
+      <div><div class="h4">Contact</div>
         <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Monday to Friday</p>
       </div>

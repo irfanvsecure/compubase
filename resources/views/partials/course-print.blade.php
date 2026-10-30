@@ -15,7 +15,7 @@
     <img class="cp-cover-logo" src="{{ asset('images/logo-light.png') }}" alt="CompuBase" width="280" height="107">
     <div class="cp-cover-main">
       <span class="cp-badge">{{ $printCat }}</span>
-      <h1>{{ $printTitle }}</h1>
+      <div class="cp-title">{{ $printTitle }}</div>
       @if ($printSummary)<p class="cp-lead">{!! \App\Support\Catalog::richText($printSummary, $ar) !!}</p>@endif
       <div class="cp-meta">
         <div><span>{{ $ar ? 'المدة' : 'Duration' }}</span><b>{{ $printDuration }}</b></div>
@@ -48,15 +48,15 @@
         <div class="cp-body">
           @if ($content)
             @if ($content['overview'])
-              <h2>{{ $ar ? 'نبذة عن الدورة' : 'Course overview' }}</h2>
+              <div class="h2">{{ $ar ? 'نبذة عن الدورة' : 'Course overview' }}</div>
               @foreach ($content['overview'] as $para)<p>{!! \App\Support\Catalog::richText($para, $ar) !!}</p>@endforeach
             @endif
             @if ($content['methodology'])
-              <h2>{{ $ar ? 'منهجية التدريب' : 'Training methodology' }}</h2>
+              <div class="h2">{{ $ar ? 'منهجية التدريب' : 'Training methodology' }}</div>
               @foreach ($content['methodology'] as $para)<p>{!! \App\Support\Catalog::richText($para, $ar) !!}</p>@endforeach
             @endif
             @foreach ($content['extra'] ?? [] as $section)
-              <h2>{{ $ar ? $section['title'] : ucfirst(strtolower($section['title'])) }}</h2>
+              <div class="h2">{{ $ar ? $section['title'] : ucfirst(strtolower($section['title'])) }}</div>
               @php
                   $blocks = [];
                   $paras = $section['paras'];
@@ -77,23 +77,23 @@
               @endforeach
             @endforeach
             @if ($content['competencies'])
-              <h2>{{ $ar ? 'الكفاءات المستهدفة' : 'Target competencies' }}</h2>
+              <div class="h2">{{ $ar ? 'الكفاءات المستهدفة' : 'Target competencies' }}</div>
               <ul class="cp-checks">
                 @foreach ($content['competencies'] as $item)<li>{!! \App\Support\Catalog::richText($item, $ar) !!}</li>@endforeach
               </ul>
             @endif
             @if ($content['objectives'] || $content['objectivesIntro'])
-              <h2>{{ $ar ? 'أهداف الدورة' : 'Course objectives' }}</h2>
+              <div class="h2">{{ $ar ? 'أهداف الدورة' : 'Course objectives' }}</div>
               @foreach ($content['objectivesIntro'] as $para)<p>{!! \App\Support\Catalog::richText($para, $ar) !!}</p>@endforeach
               <ul class="cp-checks">
                 @foreach ($content['objectives'] as $item)<li>{!! \App\Support\Catalog::richText($item, $ar) !!}</li>@endforeach
               </ul>
             @endif
             @if ($content['outline'])
-              <h2>{{ $ar ? 'محاور الدورة' : 'Course outline' }}</h2>
+              <div class="h2">{{ $ar ? 'محاور الدورة' : 'Course outline' }}</div>
               @foreach ($content['outline'] as $module)
                 <div class="cp-module">
-                  <h3>{{ $module['title'] }}</h3>
+                  <div class="h3">{{ $module['title'] }}</div>
                   <ul>
                   @foreach ($module['items'] as $item)
                     @if ($item['level'] === 0)
@@ -111,7 +111,7 @@
               @endforeach
             @endif
           @elseif ($printSummary)
-            <h2>{{ $ar ? 'نبذة عن الدورة' : 'Course overview' }}</h2>
+            <div class="h2">{{ $ar ? 'نبذة عن الدورة' : 'Course overview' }}</div>
             <p>{!! \App\Support\Catalog::richText($printSummary, $ar) !!}</p>
           @endif
         </div>

@@ -40,6 +40,7 @@
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home-ar') }}">الرئيسية</a></li>
         @include('partials.nav-courses', ['ar' => true])
         <li><a href="{{ route('corporate-ar') }}">التدريب المؤسسي</a></li>
         <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
@@ -187,7 +188,7 @@
           $wins = $content ? ($content['objectives'] ?: $content['competencies']) : [];
       @endphp
       <div class="cs-card">
-        <h4>الدورة في لمحة</h4>
+        <div class="h4">الدورة في لمحة</div>
         <div class="cs-glance">
           <div><span>المدة</span><b>{{ $duration }}</b></div>
           @if ($modules)<div><span>الوحدات</span><b>{{ $modules }}</b></div>@else<div><span>الأيام</span><b>الاثنين–الجمعة</b></div>@endif
@@ -199,7 +200,7 @@
 
       @if ($wins)
       <div class="cs-card">
-        <h4>ستتمكّن من</h4>
+        <div class="h4">ستتمكّن من</div>
         <ul class="cs-list">
           @foreach (array_slice($wins, 0, 3) as $item)<li>{!! Catalog::richText($item, true) !!}</li>@endforeach
         </ul>
@@ -210,7 +211,7 @@
       @if ($hasAudience)
       <div class="cs-card" id="attend-side">
         @if ($tabPhoto('audience'))<img class="cs-photo" src="{{ $tabPhoto('audience') }}" alt="{{ $title }}" loading="lazy">@endif
-        <h4>لمن هذه الدورة</h4>
+        <div class="h4">لمن هذه الدورة</div>
         @if ($content)
           <div class="cs-clamp">@foreach ($content['audience'] as $para)<p>{!! Catalog::richText($para, true) !!}</p>@endforeach</div>
           <button type="button" class="cs-more cs-toggle" data-more="اقرأ المزيد ←" data-less="عرض أقل ↑">اقرأ المزيد ←</button>
@@ -219,15 +220,15 @@
       @endif
 
       <div class="cs-card cs-team">
-        <h4>تدريب فريق؟</h4>
-        <h3>نقدّم هذه الدورة في مقر مؤسستك</h3>
+        <div class="h4">تدريب فريق؟</div>
+        <div class="h3">نقدّم هذه الدورة في مقر مؤسستك</div>
         <p>ننفّذها داخل مؤسستك في أنحاء الإمارات، في مواعيد تناسب سير عملك.</p>
         <a class="btn btn-gold" href="{{ route('corporate-ar') }}">اطلب عرض سعر ←</a>
       </div>
 
       @if (count($catCourses) > 1)
       <div class="cs-card">
-        <h4>المزيد في {{ Catalog::category($course, true) }}</h4>
+        <div class="h4">المزيد في {{ Catalog::category($course, true) }}</div>
         <ul class="cs-rel">
           @foreach (Catalog::related($course, 4) as $other)
           <li><a href="{{ Catalog::url($other, true) }}">{{ Catalog::title($other, true) }}</a><small>{{ Catalog::duration($other['days'], true) }}</small></li>
@@ -238,7 +239,7 @@
       @endif
 
       <div class="cs-card">
-        <h4>تحتاج مساعدة في الاختيار؟</h4>
+        <div class="h4">تحتاج مساعدة في الاختيار؟</div>
         <p>تحدّث مع مستشار حول المستوى والتوقيت ومدى ملاءمة الدورة.</p>
         <div class="cs-help"><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a><a class="btn btn-outline" href="tel:+97126771117">اتصل بنا</a></div>
       </div>
@@ -248,7 +249,7 @@
 
 <section class="related">
   <div class="container">
-    <h2>من درسوا هذه الدورة اطّلعوا أيضاً على</h2>
+    <div class="h2">من درسوا هذه الدورة اطّلعوا أيضاً على</div>
     <div class="rel-grid">
     @foreach (Catalog::related($course) as $other)
     <div class="rel-card"><div class="eyebrow">{{ $other['catAr'] }}</div><h3>{{ $other['ar'] }}</h3><p>{{ Catalog::duration($other['days'], true) }} · صباحي أو مسائي</p><a href="{{ Catalog::url($other, true) }}">تفاصيل الدورة ←</a></div>
@@ -259,7 +260,7 @@
 
 <section class="closing">
   <div class="container">
-    <div><h2>التسجيل مفتوح الآن.</h2><p>حصص صباحية ومسائية متاحة. مركز كمبيوبيس للتدريب، أبوظبي.</p></div>
+    <div><div class="h2">التسجيل مفتوح الآن.</div><p>حصص صباحية ومسائية متاحة. مركز كمبيوبيس للتدريب، أبوظبي.</p></div>
     <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a></div>
   </div>
 </section>
@@ -272,7 +273,7 @@
         <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وتقنية المعلومات، والأمن السيبراني، والذكاء الاصطناعي. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
-      <div><h4>اتصل بنا</h4>
+      <div><div class="h4">اتصل بنا</div>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الاثنين – الجمعة</p>
       </div>

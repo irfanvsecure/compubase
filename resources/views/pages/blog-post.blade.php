@@ -33,7 +33,7 @@
     </article>
     <aside>
       <div class="side-box">
-        <h4>{{ $ar ? 'تصفّح الدورات' : 'Explore courses' }}</h4>
+        <div class="h4">{{ $ar ? 'تصفّح الدورات' : 'Explore courses' }}</div>
         <ul>
           @foreach (array_slice(App\Support\Catalog::categories(), 0, 8, true) as $cat => $category)
           <li><a href="{{ route($ar ? 'courses-ar' : 'courses', ['go' => $cat]) }}">{{ $ar ? $category['ar'] : $category['en'] }}</a></li>
@@ -41,8 +41,8 @@
         </ul>
       </div>
       <div class="side-box calendar">
-        <h4>{{ $ar ? 'سجّل الآن' : 'Register now' }}</h4>
-        <h3>{{ $ar ? 'مجموعات صباحية ومسائية' : 'Morning and evening groups' }}</h3>
+        <div class="h4">{{ $ar ? 'سجّل الآن' : 'Register now' }}</div>
+        <div class="h3">{{ $ar ? 'مجموعات صباحية ومسائية' : 'Morning and evening groups' }}</div>
         <p>{{ $ar ? 'من الاثنين إلى الجمعة في أبوظبي.' : 'Monday to Friday in Abu Dhabi.' }}</p>
         <a class="btn btn-gold" href="{{ route($ar ? 'contact-ar' : 'contact') }}">{{ $ar ? 'تواصل معنا' : 'Contact us' }}</a>
       </div>

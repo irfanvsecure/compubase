@@ -3,7 +3,7 @@
 @section('page', 'home-ar')
 @section('title', 'دورات تدريبية في الإمارات | كمبيوبيس أبوظبي')
 @section('lang', 'ar')
-@section('description', 'معهد تدريب في أبوظبي مرخّص من ACTVET يقدّم '.count(\App\Support\Catalog::courses()).' دورة في القيادة وتقنية المعلومات والمالية والسلامة وإدارة المشاريع في جميع أنحاء الإمارات. سجّل اليوم.')
+@section('description', 'معهد تدريب في أبوظبي مرخّص من ACTVET يقدّم أكثر من 500 دورة في القيادة وتقنية المعلومات والمالية والسلامة وإدارة المشاريع في جميع أنحاء الإمارات. سجّل اليوم.')
 
 @section('content')
 <div class="page active" id="pg-home-ar" dir="rtl" lang="ar">
@@ -26,6 +26,7 @@
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home-ar') }}">الرئيسية</a></li>
         @include('partials.nav-courses', ['ar' => true])
         <li><a href="{{ route('corporate-ar') }}">التدريب المؤسسي</a></li>
         <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
@@ -53,7 +54,6 @@
     $t = fn (string $slug) => Catalog::title(Catalog::find($slug), true);
     $faqs = [
         ['هل مركز كمبيوبيس للتدريب مرخّص؟', 'نعم. مركز كمبيوبيس للتدريب مرخّص من مؤسسة أبوظبي للتعليم والتدريب التقني والمهني (ACTVET) بترخيص رقم 725.'],
-        ['كم عدد الدورات التي يقدّمها مركز كمبيوبيس؟', "يقدّم مركز كمبيوبيس {$courseCount} دورة في {$catCount} فئة، موزّعة بين الإدارة وتقنية المعلومات."],
         ['كم تستغرق دورات كمبيوبيس؟', 'تمتد معظم دورات كمبيوبيس من ثلاثة إلى خمسة أيام، وتعرض صفحة كل دورة عدد أيامها بالضبط.'],
         ['هل يمكنني حضور دورة في كمبيوبيس باللغة العربية؟', 'نعم. يقدّم مركز كمبيوبيس دوراته بالعربية والإنجليزية، فتختار اللغة التي تفضّلها عند الاستفسار.'],
         ['هل يدرّب مركز كمبيوبيس فرق الشركات خارج أبوظبي؟', 'نعم. يمكن لمدرّبي كمبيوبيس تقديم جلسات داخلية في مكاتب العملاء في دبي وبقية الإمارات.'],
@@ -79,21 +79,21 @@
     <div class="nx-hero-copy">
       <span class="nx-pill"><span class="nx-live-dot"></span>مرخّص من ACTVET · ترخيص رقم 725</span>
       <h1>دورات تدريبية احترافية في أبوظبي و<span class="nx-grad">جميع أنحاء الإمارات</span></h1>
-      <p class="nx-lead">مركز كمبيوبيس للتدريب معهد تدريب في أبوظبي مرخّص من مؤسسة أبوظبي للتعليم والتدريب التقني والمهني (ACTVET) بترخيص رقم 725. نقدّم {{ $courseCount }} دورة في الإدارة وتقنية المعلومات.</p>
+      <p class="nx-lead">مركز كمبيوبيس للتدريب معهد تدريب في أبوظبي مرخّص من مؤسسة أبوظبي للتعليم والتدريب التقني والمهني (ACTVET) بترخيص رقم 725. نقدّم أكثر من 500 دورة في الإدارة وتقنية المعلومات واللغات.</p>
       <div class="nx-cta">
-        <a class="nx-btn nx-btn-gold" href="{{ route('courses-ar') }}">تصفّح جميع الدورات ({{ $courseCount }}) {!! $arrow !!}</a>
+        <a class="nx-btn nx-btn-gold" href="{{ route('courses-ar') }}">تصفّح جميع الدورات {!! $arrow !!}</a>
         <a class="nx-btn nx-btn-glass" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب 056 689 3378</a>
       </div>
       <dl class="nx-hero-stats">
-        <div><dt data-count="{{ $courseCount }}">{{ $courseCount }}</dt><dd>دورة</dd></div>
+        <div><dt data-count="500" data-prefix="+" dir="ltr">+500</dt><dd>دورة</dd></div>
         <div><dt data-count="{{ $catCount }}">{{ $catCount }}</dt><dd>فئة</dd></div>
-        <div><dt>ع·EN</dt><dd>لغتان</dd></div>
+        <div><dt dir="ltr">AR·EN</dt><dd>العربية والإنجليزية</dd></div>
       </dl>
     </div>
     <div class="nx-collage" data-parallax>
-      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/abu-dhabi-classroom-training-session-j5htjt.jpg') }}" alt="مدرّب يقود حصة صفية في مركز كمبيوبيس أبوظبي"></figure>
-      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/uae-cyber-security-ai-workshop-lab-ywxc18.jpg') }}" alt="متدربون في مختبر عملي للأمن السيبراني والذكاء الاصطناعي"></figure>
-      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/abu-dhabi-evening-class-working-professionals-0jvbyg.jpg') }}" alt="موظفون في حصة مسائية في أبوظبي"></figure>
+      <figure class="nx-shot nx-shot-a"><img src="{{ url('uploads/2026/10/cb-trainer-presenting-to-professionals-abu-dhabi.jpg') }}" alt="مدرّب يقدّم عرضاً لمهنيين في قاعة كمبيوبيس المطلّة على أبوظبي"></figure>
+      <figure class="nx-shot nx-shot-b"><img src="{{ url('uploads/2026/10/cb-emirati-trainees-it-computer-lab.jpg') }}" alt="متدربون إماراتيون يعملون على الحواسيب في مختبر تقنية المعلومات بكمبيوبيس"></figure>
+      <figure class="nx-shot nx-shot-c"><img src="{{ url('uploads/2026/10/cb-emirati-professionals-group-discussion-laptops.jpg') }}" alt="مهنيون إماراتيون في نقاش ضمن مجموعة صغيرة"></figure>
       <div class="nx-float nx-float-1"><span class="nx-float-ico">☀</span><div><b>صباحاً أو مساءً</b><small>اختر المجموعة التي تناسب عملك</small></div></div>
       <div class="nx-float nx-float-2"><span class="nx-float-ico">✓</span><div><b>ACTVET رقم 725</b><small>مرخّص في أبوظبي</small></div></div>
     </div>
@@ -108,22 +108,42 @@
 <!-- ACCREDITATION -->
 @include('partials.accreditation', ['ar' => true])
 
-<!-- WHO COMES TO US -->
-<section class="nx-sec nx-people">
-  <div class="container nx-people-in">
-    <div class="nx-people-head" data-reveal>
-      <span class="nx-kicker">من يأتي إلينا</span>
-      <h2 class="nx-h2">يأتينا الناس <em>لأسباب كثيرة ومختلفة.</em></h2>
-      <p>نُدرّس بالعربية أو الإنجليزية، ويمكنك اختيار مجموعة صباحية أو مسائية حتى لا يتأثر عملك.</p>
-      <div class="nx-toggles" aria-hidden="true">
-        <span class="nx-toggle"><b class="on">عربي</b><b>EN</b></span>
-        <span class="nx-toggle"><b class="on">صباحاً</b><b>مساءً</b></span>
-      </div>
+<!-- CATEGORIES -->
+<section class="section nx-cats" id="courses">
+  <div class="container">
+    <div class="nx-head-row" data-reveal>
+      <div><span class="nx-kicker">فئات الدورات</span><h2 class="nx-h2">أكثر من 500 دورة في {{ $catCount }} فئة.</h2></div>
+      <a class="nx-btn nx-btn-dark" href="{{ route('categories-ar') }}">عرض جميع الفئات ({{ $catCount }}) {!! $arrow !!}</a>
     </div>
-    <div class="nx-chat">
-      <div class="nx-bubble" data-reveal><span class="nx-avatar">م</span><p>مشرف جديد يريد أن يتوقف عن الشعور بالضياع في الاجتماعات.</p></div>
-      <div class="nx-bubble nx-bubble-r" data-reveal><span class="nx-avatar">ح</span><p>محاسب يحتاج إلى تحديث معارفه قبل التدقيق.</p></div>
-      <div class="nx-bubble" data-reveal><span class="nx-avatar">HR</span><p>وأحياناً يحتاج مدير الموارد البشرية إلى تدريب فريق كامل، وبسرعة.</p></div>
+    <div class="cat-grid cat-grid-sm">
+      @foreach (array_slice(Catalog::categories(), 0, 8, true) as $catSlug => $category)
+      @php
+          $catCourses = array_values($category['courses']);
+          $photo = null;
+          foreach ($catCourses as $c) {
+              if ($photo = Catalog::photo($c)) {
+                  break;
+              }
+          }
+          $catMark = mb_strtoupper(mb_substr($category['en'], 0, 1));
+      @endphp
+      <a class="cat" href="{{ Catalog::categoryUrl($catSlug, true) }}" data-reveal>
+        <div class="cat-photo">
+          @if ($photo)<img src="{{ $photo }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $catMark }}</div>@endif
+          <span class="cat-photo-num">{{ sprintf('%02d', $loop->iteration) }}</span>
+          <span class="cat-photo-count">{{ count($catCourses) }} دورة</span>
+        </div>
+        <div class="cat-body">
+          <h3>{{ $category['ar'] }}</h3>
+          <table>
+            @foreach (array_slice($catCourses, 0, 3) as $c)
+            <tr><td>{{ $c['ar'] }}</td><td>{{ Catalog::duration($c['days'], true) }}</td></tr>
+            @endforeach
+          </table>
+          <span class="link">عرض جميع الدورات ({{ count($catCourses) }}) ←</span>
+        </div>
+      </a>
+      @endforeach
     </div>
   </div>
 </section>
@@ -139,7 +159,7 @@
     <div class="nx-story-grid">
       <div class="nx-stage" aria-hidden="true">
         <div class="nx-stage-card on" data-i="0">
-          <img src="{{ url('uploads/2026/10/managing-self-leading-others-objectives-dk5drg.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>دورات الإدارة لـ</small><div class="nx-chips"><span>الموارد البشرية</span><span>المبيعات</span><span>المشتريات</span><span>الجودة</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="1">
@@ -147,7 +167,7 @@
           <div class="nx-stage-glass"><small>المسارات</small><div class="nx-chips"><span>الحوسبة السحابية</span><span>البيانات</span><span>الذكاء الاصطناعي</span><span>الأمن السيبراني</span></div></div>
         </div>
         <div class="nx-stage-card" data-i="2">
-          <img src="{{ url('uploads/2026/10/agile-project-manager-sprint-planning-oy5dbc.jpg') }}" alt="" loading="lazy">
+          <img src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="" loading="lazy">
           <div class="nx-stage-glass"><small>البرامج</small><div class="nx-chips"><span>المالية</span><span>المشاريع</span><span>السلامة</span></div></div>
         </div>
         <div class="nx-stage-count"><b>01</b>/03</div>
@@ -155,7 +175,7 @@
 
       <div class="nx-chapters">
         <article class="nx-chapter" id="ch-management" data-i="0">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/managing-self-leading-others-objectives-dk5drg.jpg') }}" alt="دورة إدارة الذات وقيادة الآخرين في كمبيوبيس" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-women-leadership-team-coaching-session.jpg') }}" alt="مهنيات في جلسة تدريب على القيادة في كمبيوبيس" loading="lazy">
           <span class="nx-kicker">01 — الإدارة والقيادة</span>
           <h2 class="nx-h2">سجّل في دورات الإدارة والقيادة</h2>
           <figure class="nx-quote">
@@ -195,7 +215,7 @@
         </article>
 
         <article class="nx-chapter" id="ch-finance" data-i="2">
-          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/agile-project-manager-sprint-planning-oy5dbc.jpg') }}" alt="تدريب إدارة المشاريع الرشيقة في كمبيوبيس" loading="lazy">
+          <img class="nx-chapter-img" src="{{ url('uploads/2026/10/cb-pmp-preparation-course-skyline.jpg') }}" alt="دورة التحضير لشهادة PMP في إحدى قاعات كمبيوبيس" loading="lazy">
           <span class="nx-kicker">03 — المالية والمشاريع والسلامة</span>
           <h2 class="nx-h2">سجّل في برامج المالية والمشاريع والسلامة</h2>
           <div class="nx-stack">
@@ -219,52 +239,11 @@
   </div>
 </section>
 
-<!-- CATEGORIES -->
-<section class="section nx-cats" id="courses">
-  <div class="container">
-    <div class="nx-head-row" data-reveal>
-      <div><span class="nx-kicker">فئات الدورات</span><h2 class="nx-h2">{{ $courseCount }} دورة في {{ $catCount }} فئة.</h2></div>
-      <a class="nx-btn nx-btn-dark" href="{{ route('categories-ar') }}">عرض جميع الفئات ({{ $catCount }}) {!! $arrow !!}</a>
-    </div>
-    <div class="cat-grid">
-      @foreach (array_slice(Catalog::categories(), 0, 3, true) as $catSlug => $category)
-      @php
-          $catCourses = array_values($category['courses']);
-          $photo = null;
-          foreach ($catCourses as $c) {
-              if ($photo = Catalog::photo($c)) {
-                  break;
-              }
-          }
-          $catMark = mb_strtoupper(mb_substr($category['en'], 0, 1));
-      @endphp
-      <a class="cat" href="{{ Catalog::categoryUrl($catSlug, true) }}" data-reveal>
-        <div class="cat-photo">
-          @if ($photo)<img src="{{ $photo }}" alt="" loading="lazy">@else<div class="cp-mark">{{ $catMark }}</div>@endif
-          <span class="cat-photo-num">{{ sprintf('%02d', $loop->iteration) }}</span>
-          <span class="cat-photo-count">{{ count($catCourses) }} دورة</span>
-        </div>
-        <div class="cat-body">
-          <h3>{{ $category['ar'] }}</h3>
-          <p>{{ count($catCourses) }} دورة، مدة كل منها من {{ min(array_column($catCourses, 'days')) }} إلى {{ max(array_column($catCourses, 'days')) }} أيام، من الاثنين إلى الجمعة في مقر أبوظبي.</p>
-          <table>
-            @foreach (array_slice($catCourses, 0, 4) as $c)
-            <tr><td>{{ $c['ar'] }}</td><td>{{ Catalog::duration($c['days'], true) }}</td></tr>
-            @endforeach
-          </table>
-          <span class="link">عرض جميع الدورات ({{ count($catCourses) }}) ←</span>
-        </div>
-      </a>
-      @endforeach
-    </div>
-  </div>
-</section>
-
 <!-- FEATURED COURSES -->
 <section class="section featured nx-featured" id="featured">
   <div class="container">
     <span class="nx-kicker">دورات هذه الدفعة</span>
-    <h2 class="nx-h2">الدورات التي تحجزها جهات العمل في أبوظبي الآن.</h2>
+    <div class="h2 nx-h2">الدورات التي تحجزها جهات العمل في أبوظبي الآن.</div>
     <div class="feat-filter">
       <div class="feat-groups" id="featGroups">
         <button type="button" class="active" data-g="all">جميع الدورات <span></span></button>
@@ -286,6 +265,26 @@
   </div>
 </section>
 
+<!-- WHO COMES TO US -->
+<section class="nx-sec nx-people">
+  <div class="container nx-people-in">
+    <div class="nx-people-head" data-reveal>
+      <span class="nx-kicker">من يأتي إلينا</span>
+      <div class="h2 nx-h2">يأتينا الناس <em>لأسباب كثيرة ومختلفة.</em></div>
+      <p>نُدرّس بالعربية أو الإنجليزية، ويمكنك اختيار مجموعة صباحية أو مسائية حتى لا يتأثر عملك.</p>
+      <div class="nx-toggles" aria-hidden="true">
+        <span class="nx-toggle"><b class="on">عربي</b><b>EN</b></span>
+        <span class="nx-toggle"><b class="on">صباحاً</b><b>مساءً</b></span>
+      </div>
+    </div>
+    <div class="nx-chat">
+      <div class="nx-bubble" data-reveal><span class="nx-avatar">م</span><p>مشرف جديد يريد أن يتوقف عن الشعور بالضياع في الاجتماعات.</p></div>
+      <div class="nx-bubble nx-bubble-r" data-reveal><span class="nx-avatar">ح</span><p>محاسب يحتاج إلى تحديث معارفه قبل التدقيق.</p></div>
+      <div class="nx-bubble" data-reveal><span class="nx-avatar">HR</span><p>وأحياناً يحتاج مدير الموارد البشرية إلى تدريب فريق كامل، وبسرعة.</p></div>
+    </div>
+  </div>
+</section>
+
 <!-- SHORT COURSES AND FLEXIBLE LEARNING (bento) -->
 <section class="nx-sec nx-flex" id="flexible">
   <div class="container">
@@ -301,12 +300,12 @@
       </div>
       <div class="nx-tile nx-tile-live nx-spot" data-reveal>
         <div class="nx-call" aria-hidden="true"><i></i><i></i><i></i><i></i><span class="nx-rec"><span class="nx-live-dot"></span>مباشر</span></div>
-        <h3>حصة افتراضية مباشرة</h3>
+        <div class="h3">حصة افتراضية مباشرة</div>
         <p>نتلقّى أيضاً اتصالات حول الدورات عبر الإنترنت في الإمارات. إن كان فريقك موزّعاً على مكاتب مختلفة، فاسأل إن كان بالإمكان تقديم دورتك كحصة افتراضية مباشرة. وغالباً ما تكون المواد التقنية مثل <a href="{{ $cat('ai-and-data-science') }}">الذكاء الاصطناعي</a> و<a href="{{ $cat('cloud-computing') }}">الحوسبة السحابية</a> و<a href="{{ $cat('coding-and-programming') }}">البرمجة</a> أفضل الدورات عبر الإنترنت في الإمارات بهذه الصيغة، لأن العمل فيها يجري أصلاً على الشاشة.</p>
       </div>
       <div class="nx-tile nx-tile-cal" id="calendar" data-reveal>
         <span class="nx-kicker">تقويم الدورات</span>
-        <h3>احصل على جميع مواعيد البدء في ملف PDF</h3>
+        <div class="h3">احصل على جميع مواعيد البدء في ملف PDF</div>
         <p>جميع الدورات بمددها وتوقيتاتها في صفحة واحدة — مفيد عند طلب موافقة مديرك.</p>
         <div class="side-box calendar">@include('partials.enquiry-form', ['type' => 'calendar', 'ar' => true])</div>
       </div>
@@ -320,7 +319,7 @@
     <div class="sched-head">
       <div>
         <span class="nx-kicker">الدفعات القادمة</span>
-        <h2 class="nx-h2">جميع مواعيد البدء في جدول واحد.</h2>
+        <div class="h2 nx-h2">جميع مواعيد البدء في جدول واحد.</div>
       </div>
       <a class="btn btn-outline" href="{{ route('home-ar', ['go' => 'calendar']) }}" data-scroll="calendar">⤓ تحميل تقويم الدورات</a>
     </div>
@@ -331,7 +330,7 @@
         <tbody id="schedBody"></tbody>
       </table>
     </div>
-    <p class="sched-note">يعرض الجدول {{ min(8, $courseCount) }} دورات من أصل {{ $courseCount }}. <a href="{{ route('schedule-ar') }}" style="font-weight:700;text-decoration:underline">اطّلع على الجدول الكامل</a></p>
+    <p class="sched-note">يعرض الجدول أقرب {{ min(8, $courseCount) }} دورات. <a href="{{ route('schedule-ar') }}" style="font-weight:700;text-decoration:underline">اطّلع على الجدول الكامل</a></p>
   </div>
 </section>
 
@@ -350,7 +349,7 @@
       </ol>
     </div>
     <div class="nx-form-card proposal" data-reveal>
-      <h3>اطلب عرضاً تدريبياً</h3>
+      <div class="h3">اطلب عرضاً تدريبياً</div>
       <p class="sub">أخبرنا عن فريقك، ونردّ عليك بالمحتوى والمدة والتكلفة.</p>
       @include('partials.enquiry-form', ['type' => 'proposal', 'ar' => true])
     </div>
@@ -367,8 +366,8 @@
     </div>
     <div class="nx-bento nx-bento-why">
       <div class="nx-tile nx-tile-hero nx-spot" data-reveal>
-        <div class="nx-bignum"><span data-count="{{ $courseCount }}">{{ $courseCount }}</span></div>
-        <p>{{ $courseCount }} دورة، من القيادة والمالية إلى الأمن السيبراني والذكاء الاصطناعي</p>
+        <div class="nx-bignum"><span data-count="500" data-prefix="+" dir="ltr">+500</span></div>
+        <p>أكثر من 500 دورة، من القيادة والمالية إلى الأمن السيبراني والذكاء الاصطناعي</p>
         <div class="nx-orbit" aria-hidden="true"><span>القيادة</span><span>المالية</span><span>الأمن السيبراني</span><span>الذكاء الاصطناعي</span></div>
       </div>
       <div class="nx-tile nx-spot" data-reveal>
@@ -440,7 +439,7 @@
         <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وتقنية المعلومات، والأمن السيبراني، والذكاء الاصطناعي. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
-      <div><h4>اتصل بنا</h4>
+      <div><div class="h4">اتصل بنا</div>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>من الاثنين إلى الجمعة</p>
       </div>

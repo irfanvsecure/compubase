@@ -1,7 +1,7 @@
 ﻿{{-- Closing call to action, footer and mobile bar, as on the other pages. $ar: Arabic; $alt: the same page in the other language. --}}
 @if ($ar)
 <section class="closing"><div class="container">
-  <div><h2>التسجيل مفتوح الآن.</h2><p>حصص صباحية ومسائية متاحة.</p></div>
+  <div><div class="h2">التسجيل مفتوح الآن.</div><p>حصص صباحية ومسائية متاحة.</p></div>
   <div class="actions"><a class="btn btn-navy" href="{{ route('contact-ar') }}">سجّل الآن</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')واتساب</a></div>
 </div></section>
 <footer class="site">
@@ -12,7 +12,7 @@
         <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وتقنية المعلومات، والأمن السيبراني، والذكاء الاصطناعي. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
-      <div><h4>اتصل بنا</h4>
+      <div><div class="h4">اتصل بنا</div>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الاثنين – الجمعة</p>
       </div>
@@ -32,7 +32,7 @@
 </div>
 @else
 <section class="closing"><div class="container">
-  <div><h2>Registration is now open.</h2><p>Morning and evening classes are available.</p></div>
+  <div><div class="h2">Registration is now open.</div><p>Morning and evening classes are available.</p></div>
   <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Register now</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a></div>
 </div></section>
 <footer class="site">
@@ -43,7 +43,7 @@
         <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
-      <div><h4>Contact</h4>
+      <div><div class="h4">Contact</div>
         <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Monday to Friday</p>
       </div>

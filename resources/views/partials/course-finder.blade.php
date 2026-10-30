@@ -20,8 +20,8 @@
 <div class="finder">
   <div class="finder-head">
     <div><div class="eyebrow">{{ $ar ? 'البحث عن دورة' : 'Course finder' }}</div>
-      <h3>{{ $ar ? 'ابحث عن الدورة المناسبة لك' : 'Find the right course' }}</h3></div>
-    <p class="finder-meta">{{ $ar ? count($data).' دورة في '.count($categories).' فئة' : count($data).' courses in '.count($categories).' categories' }}</p>
+      <div class="h3">{{ $ar ? 'ابحث عن الدورة المناسبة لك' : 'Find the right course' }}</div></div>
+    <p class="finder-meta">{{ $ar ? count($categories).' فئة' : count($categories).' categories' }}</p>
   </div>
   <form class="finder-form" action="{{ route($ar ? 'courses-ar' : 'courses') }}" method="get" autocomplete="off"
     data-show="{{ $ar ? 'عرض {n} دورة ←' : 'Show {n} courses →' }}" data-one="{{ $ar ? 'فتح الدورة ←' : 'Open the course →' }}" data-none="{{ $ar ? 'لا توجد نتائج' : 'No courses found' }}">
