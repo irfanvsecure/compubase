@@ -11,7 +11,6 @@
         'it' => [$t('IT & Technology', 'تقنية المعلومات'), $t('Cyber security, AI, cloud, governance, infrastructure and the technical skills behind every modern organisation.', 'الأمن السيبراني والذكاء الاصطناعي والحوسبة السحابية والحوكمة والبنية التحتية، والمهارات التقنية وراء كل مؤسسة حديثة.')],
     ];
     $inGroup = fn ($group) => array_filter($categories, fn ($c) => $c['group'] === $group);
-    $courseCount = count(Catalog::courses());
     $alt = route($ar ? 'categories' : 'categories-ar');
     $range = function (array $courses) use ($ar) {
         $days = array_column($courses, 'days');
@@ -35,7 +34,7 @@
 @section('page', $ar ? 'categories-ar' : 'categories')
 @section('title', $t('All Course Categories — CompuBase Training Center, Abu Dhabi', 'جميع فئات الدورات — مركز كمبيوبيس للتدريب، أبوظبي'))
 @if ($ar)@section('lang', 'ar')@endif
-@section('description', $t(count($categories).' course categories and '.$courseCount.' courses at CompuBase Training Center, Abu Dhabi: management, leadership, HR, finance, project management, IT, cyber security and AI.', count($categories).' فئة و'.$courseCount.' دورة في مركز كمبيوبيس للتدريب بأبوظبي: الإدارة والقيادة والموارد البشرية والمالية وإدارة المشاريع وتقنية المعلومات والأمن السيبراني والذكاء الاصطناعي.'))
+@section('description', $t(count($categories).' course categories and +500 courses at CompuBase Training Center, Abu Dhabi: management, leadership, HR, finance, project management, IT, cyber security and AI.', count($categories).' فئة وأكثر من 500 دورة في مركز كمبيوبيس للتدريب بأبوظبي: الإدارة والقيادة والموارد البشرية والمالية وإدارة المشاريع وتقنية المعلومات والأمن السيبراني والذكاء الاصطناعي.'))
 
 @section('content')
 <div class="page active" id="pg-categories" @if ($ar) dir="rtl" lang="ar" @else lang="en" @endif>
@@ -48,13 +47,13 @@
     <div class="cat-hero-text">
       <div class="eyebrow on-dark">{{ $t('Course categories', 'فئات الدورات') }}</div>
       <h1>{{ $t('Find the right category for you.', 'اختر الفئة المناسبة لك.') }}</h1>
-      <p class="lead">{{ $t($courseCount.' classroom courses in '.count($categories).' categories — all at our Abu Dhabi campus, Monday to Friday, in morning or evening groups.', $courseCount.' دورة صفّية في '.count($categories).' فئة — جميعها في مقرّنا بأبوظبي، من الاثنين إلى الجمعة، بمجموعات صباحية أو مسائية.') }}</p>
+      <p class="lead">{{ $t('+500 classroom courses in '.count($categories).' categories — all at our Abu Dhabi campus, Monday to Friday, in morning or evening groups.', 'أكثر من 500 دورة صفّية في '.count($categories).' فئة — جميعها في مقرّنا بأبوظبي، من الاثنين إلى الجمعة، بمجموعات صباحية أو مسائية.') }}</p>
     </div>
     <div class="cats-jump">
       @foreach ($groups as $group => [$name, $intro])
-      <a href="#{{ $group }}" data-scroll="{{ $group }}"><b>{{ count($inGroup($group)) }}</b><span>{{ $name }}<small>{{ $t(array_sum(array_map(fn ($c) => count($c['courses']), $inGroup($group))).' courses', array_sum(array_map(fn ($c) => count($c['courses']), $inGroup($group))).' دورة') }}</small></span><i aria-hidden="true">{{ $ar ? '←' : '→' }}</i></a>
+      <a href="#{{ $group }}" data-scroll="{{ $group }}"><span>{{ $name }}<small>{{ $t('See the categories', 'عرض الفئات') }}</small></span><i aria-hidden="true">{{ $ar ? '←' : '→' }}</i></a>
       @endforeach
-      <a href="{{ route($ar ? 'courses-ar' : 'courses') }}"><b>{{ $courseCount }}</b><span>{{ $t('Every course, A to Z', 'كل الدورات في مكان واحد') }}<small>{{ $t('Search the full catalogue', 'ابحث في الكتالوج كاملاً') }}</small></span><i aria-hidden="true">{{ $ar ? '←' : '→' }}</i></a>
+      <a href="{{ route($ar ? 'courses-ar' : 'courses') }}"><span>{{ $t('Every course, A to Z', 'كل الدورات في مكان واحد') }}<small>{{ $t('Search the full catalogue', 'ابحث في الكتالوج كاملاً') }}</small></span><i aria-hidden="true">{{ $ar ? '←' : '→' }}</i></a>
     </div>
   </div>
 </section>

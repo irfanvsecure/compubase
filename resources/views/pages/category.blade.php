@@ -228,13 +228,13 @@
   <div class="container">
     <div class="nx-center-head" data-reveal>
       <span class="nx-kicker">{{ $t('Why learn with CompuBase', 'لماذا تتعلّم مع كمبيوبيس') }}</span>
-      <h2 class="nx-h2">{{ $t('Built around a full working week.', 'مصمَّمة حول أسبوع العمل الكامل.') }}</h2>
+      <div class="h2 nx-h2">{{ $t('Built around a full working week.', 'مصمَّمة حول أسبوع العمل الكامل.') }}</div>
     </div>
     <div class="nx-bento nx-bento-why">
-      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">01</b><h3>{{ $t('Licensed in Abu Dhabi', 'مرخّص في أبوظبي') }}</h3><p>{{ $t('A training centre licensed by ACTVET, with official test centre and vendor partnerships.', 'مركز تدريب مرخّص من ACTVET، مع شراكات رسمية لمراكز الاختبار ومزوّدي التقنية.') }}</p></div>
-      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">02</b><h3>{{ $t('Morning or evening', 'صباحاً أو مساءً') }}</h3><p>{{ $t('Every course runs Monday to Friday, with a morning group and an evening group to fit around work.', 'تُعقد كل دورة من الاثنين إلى الجمعة، بمجموعة صباحية وأخرى مسائية تناسب مواعيد عملك.') }}</p></div>
-      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">03</b><h3>{{ $t('Completion certificate', 'شهادة إتمام') }}</h3><p>{{ $t('Finish the course and collect your CompuBase completion certificate, with exam guidance where the course leads to one.', 'أكمل الدورة واستلم شهادة الإتمام من كمبيوبيس، مع إرشادات الامتحان حين تؤهّل الدورة له.') }}</p></div>
-      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">04</b><h3>{{ $t('In-house for teams', 'تدريب داخلي للفرق') }}</h3><p>{{ $t('Any course here can be delivered privately for your organisation, at our campus or yours.', 'يمكن تقديم أي دورة هنا بشكل خاص لمؤسستك، في مقرّنا أو في مقرّكم.') }}</p></div>
+      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">01</b><div class="h3">{{ $t('Licensed in Abu Dhabi', 'مرخّص في أبوظبي') }}</div><p>{{ $t('A training centre licensed by ACTVET, with official test centre and vendor partnerships.', 'مركز تدريب مرخّص من ACTVET، مع شراكات رسمية لمراكز الاختبار ومزوّدي التقنية.') }}</p></div>
+      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">02</b><div class="h3">{{ $t('Morning or evening', 'صباحاً أو مساءً') }}</div><p>{{ $t('Every course runs Monday to Friday, with a morning group and an evening group to fit around work.', 'تُعقد كل دورة من الاثنين إلى الجمعة، بمجموعة صباحية وأخرى مسائية تناسب مواعيد عملك.') }}</p></div>
+      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">03</b><div class="h3">{{ $t('Completion certificate', 'شهادة إتمام') }}</div><p>{{ $t('Finish the course and collect your CompuBase completion certificate, with exam guidance where the course leads to one.', 'أكمل الدورة واستلم شهادة الإتمام من كمبيوبيس، مع إرشادات الامتحان حين تؤهّل الدورة له.') }}</p></div>
+      <div class="nx-tile nx-spot" data-reveal><b class="cx-why-n">04</b><div class="h3">{{ $t('In-house for teams', 'تدريب داخلي للفرق') }}</div><p>{{ $t('Any course here can be delivered privately for your organisation, at our campus or yours.', 'يمكن تقديم أي دورة هنا بشكل خاص لمؤسستك، في مقرّنا أو في مقرّكم.') }}</p></div>
     </div>
   </div>
 </section>
@@ -256,7 +256,7 @@
       </ol>
     </div>
     <div class="nx-form-card proposal" data-reveal>
-      <h3>{{ $t('Request a training proposal', 'اطلب عرضاً تدريبياً') }}</h3>
+      <div class="h3">{{ $t('Request a training proposal', 'اطلب عرضاً تدريبياً') }}</div>
       <p class="sub">{{ $t('Tell us about your team. We reply with content, duration and cost.', 'أخبرنا عن فريقك، ونردّ عليك بالمحتوى والمدة والتكلفة.') }}</p>
       @include('partials.enquiry-form', ['type' => 'proposal', 'ar' => $ar])
     </div>
@@ -293,7 +293,7 @@
     <div class="nx-end-card" data-reveal>
       <div class="nx-aurora" aria-hidden="true"><i></i><i></i><i></i></div>
       <div class="nx-end-copy">
-        <h2 class="nx-h2">{{ $contact['heading'] }}</h2>
+        <div class="h2 nx-h2">{{ $contact['heading'] }}</div>
         @foreach ($contact['text'] as $line)
         <p>{!! $rich($line) !!}</p>
         @endforeach
@@ -310,15 +310,15 @@
 <section class="section cat-more">
   <div class="container">
     <span class="nx-kicker">{{ $t('Keep exploring', 'واصل الاستكشاف') }}</span>
-    <div class="cat-more-top"><h2 class="nx-h2">{{ $t('More categories', 'فئات أخرى') }}</h2><a class="nx-btn nx-btn-dark" href="{{ route($ar ? 'categories-ar' : 'categories') }}">{{ $t('All categories', 'جميع الفئات') }} {!! $arrow !!}</a></div>
+    <div class="cat-more-top"><div class="h2 nx-h2">{{ $t('More categories', 'فئات أخرى') }}</div><a class="nx-btn nx-btn-dark" href="{{ route($ar ? 'categories-ar' : 'categories') }}">{{ $t('All categories', 'جميع الفئات') }} {!! $arrow !!}</a></div>
     @foreach (array_filter([$groupName => $siblings, ($groupNames[$category['group'] === 'it' ? 'management' : 'it'] ?? '') => $others]) as $heading => $list)
-    <h3 class="cat-more-group">{{ $heading }}</h3>
+    <div class="h3 cat-more-group">{{ $heading }}</div>
     <div class="cat-more-grid">
       @foreach ($list as $s => $c)
       @php($cd = array_column($c['courses'], 'days'))
       <a class="cat-tile" href="{{ Catalog::categoryUrl($s, $ar) }}">
         <span class="n">{{ sprintf('%02d', array_search($s, $slugs) + 1) }}</span>
-        <h4>{{ $ar ? $c['ar'] : $c['en'] }}</h4>
+        <span class="h4">{{ $ar ? $c['ar'] : $c['en'] }}</span>
         <span class="m">{{ $t(count($c['courses']).' courses', count($c['courses']).' دورة') }}@if ($cd) · {{ min($cd) === max($cd) ? Catalog::duration(min($cd), $ar) : ($ar ? min($cd).' – '.Catalog::duration(max($cd), true) : min($cd).' – '.max($cd).' days') }}@endif</span>
         <span class="go" aria-hidden="true">{{ $ar ? '←' : '→' }}</span>
       </a>

@@ -8,7 +8,7 @@
     <div class="accred-head">
       <div>
         <div class="eyebrow">{{ $ar ? 'شركاؤنا واعتماداتنا' : 'Our partners and accreditations' }}</div>
-        <h2>{{ $ar ? 'معتمدون من '.count($partners).' جهة عالمية ومحلية' : 'Accredited and authorised by '.count($partners).' leading names' }}</h2>
+        <div class="h2">{{ $ar ? 'معتمدون من '.count($partners).' جهة عالمية ومحلية' : 'Accredited and authorised by '.count($partners).' leading names' }}</div>
       </div>
       <a class="btn btn-outline" href="{{ route($ar ? 'partners-ar' : 'partners') }}">{{ $ar ? 'جميع الشركاء ←' : 'View all partners →' }}</a>
     </div>

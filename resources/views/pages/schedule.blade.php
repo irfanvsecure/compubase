@@ -20,6 +20,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home') }}">Home</a></li>
         @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
@@ -72,7 +73,7 @@
  <p class="sched-note">All groups run Monday to Friday at the Abu Dhabi centre. Start dates to be confirmed — call <a href="tel:+97126771117" style="font-weight:700;text-decoration:underline">02 677 1117</a> for the nearest intake.</p>
 </div></section>
 <section class="closing"><div class="container">
- <div><h2>Registration is now open.</h2><p>Morning and evening classes are available.</p></div>
+ <div><div class="h2">Registration is now open.</div><p>Morning and evening classes are available.</p></div>
  <div class="actions"><a class="btn btn-navy" href="{{ route('contact') }}">Register now</a><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp</a></div>
 </div></section>
 <footer class="site">
@@ -83,7 +84,7 @@
         <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
-      <div><h4>Contact</h4>
+      <div><div class="h4">Contact</div>
         <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Monday to Friday</p>
       </div>

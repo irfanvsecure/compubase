@@ -20,6 +20,7 @@
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="CompuBase — Innovative Training Solutions" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home') }}">Home</a></li>
         @include('partials.nav-courses', ['ar' => false])
         <li><a href="{{ route('corporate') }}">Corporate training</a></li>
         <li><a href="{{ route('partners') }}">Partners</a></li>
@@ -59,14 +60,14 @@
     </div>
   </div>
   <div class="proposal" style="border:1px solid var(--line)">
-    <h3>Request a training proposal</h3>
+    <div class="h3">Request a training proposal</div>
     <p class="sub">Six fields. An advisor replies with dates, format and a written quote.</p>
     @include('partials.enquiry-form', ['type' => 'proposal'])
   </div>
 </div></section>
 <style>@media(max-width:1024px){#corpGrid{grid-template-columns:1fr!important}}</style>
 <section class="closing"><div class="container">
-  <div><h2>Faster by phone.</h2><p>WhatsApp 056 689 3378 with the course name and team size — we take it from there.</p></div>
+  <div><div class="h2">Faster by phone.</div><p>WhatsApp 056 689 3378 with the course name and team size — we take it from there.</p></div>
   <div class="actions"><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')WhatsApp us</a></div>
 </div></section><footer class="site">
   <div class="container">
@@ -76,7 +77,7 @@
         <p style="font-size:15px">Classroom training in personal development, leadership and management, HR, finance, project and quality management, health and safety, IT, cyber security and AI. One campus in Abu Dhabi, morning and evening groups, Monday to Friday.</p>
       </div>
       @include('partials.footer-courses')
-      <div><h4>Contact</h4>
+      <div><div class="h4">Contact</div>
         <p><b style="color:#fff">CompuBase Training Center</b><br>Abu Dhabi, United Arab Emirates</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>Monday to Friday</p>
       </div>

@@ -35,10 +35,15 @@ class Post extends Model
         return url(($this->locale === 'ar' ? 'ar/' : '').'blog/'.$this->slug);
     }
 
-    /** The body, written in Markdown, as HTML. Raw HTML in the body is stripped. */
+    /**
+     * The body, written in Markdown, as HTML. Raw HTML in the body is stripped.
+     * Headings are kept to h2 and h3: the page title is the only h1, and the site uses no h4 to h6.
+     */
     public function html(): string
     {
-        return Str::markdown($this->body, ['html_input' => 'strip', 'allow_unsafe_links' => false]);
+        $html = Str::markdown($this->body, ['html_input' => 'strip', 'allow_unsafe_links' => false]);
+
+        return preg_replace(['#<(/?)h1\b#i', '#<(/?)h[4-6]\b#i'], ['<$1h2', '<$1h3'], $html);
     }
 
     public function isLive(): bool

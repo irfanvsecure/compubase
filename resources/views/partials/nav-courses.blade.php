@@ -13,7 +13,7 @@
     <div class="container">
       @foreach ($navGroups as $group => $groupName)
       <div class="mega-group">
-        <h4>{{ $groupName }}</h4>
+        <div class="h4">{{ $groupName }}</div>
         <ul>
           @foreach ($navCats as $slug => $category)
             @continue($category['group'] !== $group)

@@ -24,6 +24,7 @@
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home-ar') }}">الرئيسية</a></li>
         @include('partials.nav-courses', ['ar' => true])
         <li><a href="{{ route('corporate-ar') }}">التدريب المؤسسي</a></li>
         <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
@@ -67,7 +68,7 @@
     </div>
   </div>
   <div class="proposal" style="border:1px solid var(--line)">
-    <h3>اطلب عرضاً تدريبياً</h3>
+    <div class="h3">اطلب عرضاً تدريبياً</div>
     <p class="sub">ستة حقول فقط. يردّ عليك مستشار التدريب بالمواعيد والصيغة وعرض سعر مكتوب.</p>
     @include('partials.enquiry-form', ['type' => 'proposal', 'ar' => true])
   </div>
@@ -75,7 +76,7 @@
 <style>@media(max-width:1024px){#corpGrid{grid-template-columns:1fr!important}}</style>
 
 <section class="closing"><div class="container">
-  <div><h2>أسرع عبر الهاتف.</h2><p>راسلنا على واتساب 056 689 3378 باسم الدورة وحجم الفريق — ونتولى الباقي.</p></div>
+  <div><div class="h2">أسرع عبر الهاتف.</div><p>راسلنا على واتساب 056 689 3378 باسم الدورة وحجم الفريق — ونتولى الباقي.</p></div>
   <div class="actions"><a class="btn btn-wa" href="https://wa.me/971566893378">@include('partials.wa-icon')راسلنا على واتساب</a></div>
 </div></section>
 <!-- FOOTER -->
@@ -87,7 +88,7 @@
         <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وتقنية المعلومات، والأمن السيبراني، والذكاء الاصطناعي. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
-      <div><h4>اتصل بنا</h4>
+      <div><div class="h4">اتصل بنا</div>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الاثنين – الجمعة</p>
       </div>

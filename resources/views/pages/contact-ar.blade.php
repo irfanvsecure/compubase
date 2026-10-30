@@ -24,6 +24,7 @@
     <a class="logo" href="{{ route('home-ar') }}"><img src="{{ asset('images/logo.png') }}" alt="كمبيوبيس — حلول تدريبية مبتكرة" width="720" height="275"></a>
     <nav class="main">
       <ul>
+        <li><a href="{{ route('home-ar') }}">الرئيسية</a></li>
         @include('partials.nav-courses', ['ar' => true])
         <li><a href="{{ route('home-ar', ['go' => 'corporate']) }}">التدريب المؤسسي</a></li>
         <li><a href="{{ route('partners-ar') }}">شركاؤنا</a></li>
@@ -52,13 +53,13 @@
 
 <section class="section"><div class="container" style="display:grid;grid-template-columns:1fr 380px;gap:56px;align-items:start" id="contactGrid">
   <div class="proposal" style="border:1px solid var(--line)">
-    <h3>نموذج التسجيل والاستفسار</h3>
+    <div class="h3">نموذج التسجيل والاستفسار</div>
     <p class="sub">أخبرنا بالدورة والتوقيت المفضل — نردّ عليك بموعد البدء القادم والرسوم.</p>
     @include('partials.enquiry-form', ['type' => 'contact', 'ar' => true])
   </div>
   <aside>
     <div class="side-box">
-      <h4>تواصل معنا مباشرة</h4>
+      <div class="h4">تواصل معنا مباشرة</div>
       <p><b style="color:var(--navy)">الهاتف</b><br><a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">واتساب</b><br><a href="https://wa.me/971566893378" style="color:var(--gold-ink);font-weight:700">056 689 3378</a></p>
       <p style="margin-top:12px"><b style="color:var(--navy)">البريد الإلكتروني</b><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a></p>
@@ -67,7 +68,7 @@
       <a class="btn btn-wa" style="width:100%;margin-top:16px" href="https://wa.me/971566893378">@include('partials.wa-icon')راسلنا على واتساب الآن</a>
     </div>
     <div class="side-box">
-      <h4>كيف تصل إلينا</h4>
+      <div class="h4">كيف تصل إلينا</div>
       <p>مركز كمبيوبيس للتدريب، أبوظبي. اتصل على <a href="tel:+97126771117" style="color:var(--gold-ink);font-weight:700">02 677 1117</a> للحصول على الاتجاهات إلى المقر.</p>
     </div>
   </aside>
@@ -75,7 +76,7 @@
 <style>@media(max-width:1024px){#contactGrid{grid-template-columns:1fr!important}}</style>
 
 <section class="closing"><div class="container">
-  <div><h2>تفضّل الاتصال مباشرة؟</h2><p>يجيب المستشار من الاثنين إلى الجمعة خلال ساعات الدوام.</p></div>
+  <div><div class="h2">تفضّل الاتصال مباشرة؟</div><p>يجيب المستشار من الاثنين إلى الجمعة خلال ساعات الدوام.</p></div>
   <div class="actions"><a class="btn btn-navy" href="tel:+97126771117">اتصل على 02 677 1117</a></div>
 </div></section>
 <!-- FOOTER -->
@@ -87,7 +88,7 @@
         <p style="font-size:15px">تدريب صفّي في تطوير الذات، والقيادة والإدارة، والموارد البشرية، والمالية، وإدارة المشاريع والجودة، والصحة والسلامة، وتقنية المعلومات، والأمن السيبراني، والذكاء الاصطناعي. مقرّ واحد في أبوظبي، مجموعات صباحية ومسائية، من الاثنين إلى الجمعة.</p>
       </div>
       @include('partials.footer-courses', ['ar' => true])
-      <div><h4>اتصل بنا</h4>
+      <div><div class="h4">اتصل بنا</div>
         <p><b style="color:#fff">مركز كمبيوبيس للتدريب</b><br>أبوظبي، الإمارات العربية المتحدة</p>
         <p style="margin-top:10px"><a href="tel:+97126771117">02 677 1117</a><br><a href="mailto:info@compubasetraining.ae">info@compubasetraining.ae</a><br>الاثنين – الجمعة</p>
       </div>
