@@ -35,7 +35,7 @@
     <div class="field"><label for="finderCat{{ $id }}">{{ $ar ? 'الفئة' : 'Category' }}</label>
       <select id="finderCat{{ $id }}" name="category">
         <option value="">{{ $ar ? 'جميع الفئات' : 'All categories' }}</option>
-        @foreach ($ar ? ['management' => 'الإدارة والتطوير المهني', 'it' => 'تقنية المعلومات'] : ['management' => 'Management & Professional', 'it' => 'IT & Technology'] as $group => $label)
+        @foreach ($ar ? ['management' => 'الإدارة والتطوير المهني', 'it' => 'تقنية المعلومات', 'language' => 'دورات اللغات'] : ['management' => 'Management & Professional', 'it' => 'IT & Technology', 'language' => 'Language Courses'] as $group => $label)
         <optgroup label="{{ $label }}">
           @foreach ($categories as $slug => $category)@if ($category['group'] === $group)<option value="{{ $slug }}">{{ $ar ? $category['ar'] : $category['en'] }} ({{ count($category['courses']) }})</option>@endif @endforeach
         </optgroup>

@@ -68,8 +68,8 @@ if(grid && featGroups && filterTabs){
     a.href=href;
   }
   const groupLabel=g=>AR
-    ?(g==='all'?'الدورات':g==='it'?'دورات تقنية المعلومات':'دورات الإدارة')
-    :(g==='all'?'courses':g==='it'?'IT courses':'management courses');
+    ?(g==='all'?'الدورات':g==='it'?'دورات تقنية المعلومات':g==='language'?'دورات اللغات':'دورات الإدارة')
+    :(g==='all'?'courses':g==='it'?'IT courses':g==='language'?'language courses':'management courses');
   function pickGroup(g){
     featGroups.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.g===g));
     chips.forEach(b=>{b.hidden=b.dataset.g!==g;b.classList.remove('active')});

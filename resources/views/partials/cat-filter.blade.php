@@ -4,8 +4,8 @@
     $ar = $ar ?? false;
     $categories = Catalog::categories();
     $groups = $ar
-        ? ['management' => 'الإدارة والتطوير المهني', 'it' => 'تقنية المعلومات']
-        : ['management' => 'Management & Professional', 'it' => 'IT & Technology'];
+        ? ['management' => 'الإدارة والتطوير المهني', 'it' => 'تقنية المعلومات', 'language' => 'دورات اللغات']
+        : ['management' => 'Management & Professional', 'it' => 'IT & Technology', 'language' => 'Language Courses'];
     $inGroup = fn (string $group) => count(array_filter(Catalog::courses(), fn ($course) => collect($course['cats'])->contains(fn ($cat) => ($categories[$cat]['group'] ?? null) === $group)));
 @endphp
 <nav class="feat-filter" aria-label="{{ $label }}">
