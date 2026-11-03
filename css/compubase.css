@@ -174,7 +174,7 @@ nav.main .mega-foot a{font-weight:800;color:var(--navy)}
 .cat{background:#fff;border:1px solid var(--line);display:flex;flex-direction:column;text-decoration:none;color:inherit;overflow:hidden;transition:transform .25s,box-shadow .25s,border-color .25s;min-width:0}
 .cat:hover{transform:translateY(-6px);box-shadow:0 22px 44px rgba(10,28,57,.13);border-color:var(--gold)}
 .cat-photo{position:relative;aspect-ratio:16/9;overflow:hidden;background:var(--navy)}
-.cat-photo img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s}
+.cat-photo img{width:100%;height:100%;object-fit:cover;object-position:center;display:block;transition:transform .5s}
 .cat:hover .cat-photo img{transform:scale(1.06)}
 .cat-photo::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(10,28,57,.7),transparent 60%)}
 .cat-photo .cp-mark{font-size:72px}
