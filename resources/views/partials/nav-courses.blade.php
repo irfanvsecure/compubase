@@ -1,10 +1,19 @@
-{{-- The "Courses" item of the main menu, with a panel listing every category by group. $ar: Arabic. --}}
+ {{-- The "Courses" item of the main menu, with a panel listing every category by group. $ar: Arabic. --}}
 @php
     $ar = $ar ?? false;
     $navCats = App\Support\Catalog::categories();
     $navGroups = $ar
         ? ['management' => 'الإدارة والتطوير المهني', 'it' => 'تقنية المعلومات', 'language' => 'دورات اللغات']
         : ['management' => 'Management & Professional', 'it' => 'IT & Technology', 'language' => 'Language Courses'];
+    $groupIcons = [
+        'management' => $ar ? '📊' : '📊',
+        'it' => $ar ? '💻' : '💻',
+        'language' => $ar ? '🌐' : '🌐',
+    ];
+    $groupCounts = [];
+    foreach ($navGroups as $group => $_) {
+        $groupCounts[$group] = count(array_filter($navCats, fn($c) => $c['group'] === $group));
+    }
 @endphp
 <li class="nav-mega">
   <a href="{{ route($ar ? 'courses-ar' : 'courses') }}">{{ $ar ? 'الدورات' : 'Courses' }}</a>
@@ -12,9 +21,13 @@
   <div class="mega">
     <div class="container">
       @foreach ($navGroups as $group => $groupName)
-      <div class="mega-group">
-        <div class="h4">{{ $groupName }}</div>
-        <ul>
+      <div class="mega-group mega-group--{{ $group }}">
+        <div class="h4">
+          <span class="group-icon">{{ $groupIcons[$group] }}</span>
+          {{ $groupName }}
+          <span class="group-count">{{ $groupCounts[$group] }}</span>
+        </div>
+        <ul class="category-list">
           @foreach ($navCats as $slug => $category)
             @continue($category['group'] !== $group)
             <li><a href="{{ App\Support\Catalog::categoryUrl($slug, $ar) }}">{{ $ar ? $category['ar'] : $category['en'] }} <span>{{ count($category['courses']) }}</span></a></li>

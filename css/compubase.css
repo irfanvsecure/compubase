@@ -78,12 +78,16 @@ nav.main>ul>li{display:flex;align-items:center}
 .nav-mega:hover .mega,.nav-mega:focus-within .mega{opacity:1;visibility:visible;transform:none}
 .nav-mega:hover .mega-toggle{transform:rotate(180deg)}
 /* header.site .container is flex, so this selector has to win or the two groups sit at different heights. */
-header.site .mega .container{display:grid;grid-template-columns:1fr 1fr;gap:8px 48px;align-items:start;justify-content:stretch;min-height:0;padding-top:6px;padding-bottom:0}
+header.site .mega .container{display:grid;grid-template-columns:repeat(3,1fr);gap:10px 32px;align-items:start;justify-content:stretch;min-height:0;padding-top:8px;padding-bottom:4px}
 .mega-group{background:transparent;border:0;min-width:0}
-.mega-group .h4{display:flex;align-items:center;gap:10px;min-height:48px;font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--navy);background:transparent;margin:0 0 8px;padding:14px 0 12px;border-bottom:2px solid var(--gold)}
-.mega-group .h4::before{content:"";width:9px;height:9px;border-radius:2px;background:var(--gold);flex-shrink:0}
-.page[dir="rtl"] .mega-group .h4{letter-spacing:0}
-nav.main .mega-group ul{display:grid;grid-template-columns:1fr 1fr;gap:2px 20px;align-items:start;font-size:15px;font-weight:500;padding:4px 0 8px}
+.mega-group .h4{display:flex;align-items:center;gap:12px;min-height:56px;font-size:14px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--navy);background:transparent;margin:0 0 12px;padding:16px 0 14px;border-bottom:3px solid var(--gold);position:relative}
+.mega-group .h4::before{content:"";width:10px;height:10px;border-radius:2px;background:var(--gold);flex-shrink:0}
+.group-icon{font-size:18px;line-height:1;flex-shrink:0}
+.group-count{margin-left:auto;background:var(--paper);color:var(--gold-ink);font-size:11px;font-weight:800;border-radius:12px;padding:1px 8px;min-width:24px;height:20px;display:inline-flex;align-items:center;justify-content:center}
+.page[dir="rtl"] .mega-group .h4{letter-spacing:0;direction:rtl}
+.page[dir="rtl"] .mega-group .group-count{margin-left:0;margin-right:auto}
+nav.main .mega-group ul{display:grid;grid-template-columns:repeat(2,1fr);gap:4px 24px;align-items:start;font-size:15px;font-weight:500;padding:6px 0 10px}
+nav.main .mega-group--language ul{grid-template-columns:repeat(min(3,auto-fit),1fr)}
 nav.main .mega-group a{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 4px;line-height:1.35;color:var(--navy);border-radius:6px}
 nav.main .mega-group a span{font-size:12px;font-weight:800;color:var(--gold-ink);background:rgba(163,145,97,.16);min-width:26px;height:26px;display:inline-flex;align-items:center;justify-content:center;border-radius:99px;flex-shrink:0}
 nav.main .mega-group a:hover{color:var(--navy);background:var(--paper)}
