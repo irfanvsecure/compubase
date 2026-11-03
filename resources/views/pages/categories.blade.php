@@ -63,7 +63,7 @@
 <section class="section cats-group" id="{{ $group }}">
   <div class="container">
     <div class="cats-group-head">
-      <div class="eyebrow">{{ sprintf('%02d', $loop->iteration) }} · {{ $t(count($inGroup($group)).' categories', count($inGroup($group)).' فئة') }}</div>
+      <div class="eyebrow">{{ $t(count($inGroup($group)).' categories', count($inGroup($group)).' فئة') }}</div>
       <h2>{{ $name }}</h2>
       <p>{{ $intro }}</p>
     </div>
