@@ -9,6 +9,7 @@
     $groups = [
         'management' => [$t('Management & Professional', 'الإدارة والتطوير المهني'), $t('Leadership, HR, finance, projects, quality, customer service and the skills every professional team needs.', 'القيادة والموارد البشرية والمالية والمشاريع والجودة وخدمة العملاء، والمهارات التي يحتاجها كل فريق مهني.')],
         'it' => [$t('IT & Technology', 'تقنية المعلومات'), $t('Cyber security, AI, cloud, governance, infrastructure and the technical skills behind every modern organisation.', 'الأمن السيبراني والذكاء الاصطناعي والحوسبة السحابية والحوكمة والبنية التحتية، والمهارات التقنية وراء كل مؤسسة حديثة.')],
+        'language' => [$t('Language Courses', 'دورات اللغات'), $t('English, Arabic, French, German and Spanish programmes — from beginner to advanced, including IELTS, TOEFL and specialist workplace English.', 'برامج اللغة الإنجليزية والعربية والفرنسية والألمانية والإسبانية — من المستوى المبتدئ إلى المتقدم، بما يشمل التحضير لـ IELTS وTOEFL وإنجليزية بيئة العمل المتخصصة.')],
     ];
     $inGroup = fn ($group) => array_filter($categories, fn ($c) => $c['group'] === $group);
     $alt = route($ar ? 'categories' : 'categories-ar');

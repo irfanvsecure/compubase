@@ -205,7 +205,24 @@ class Catalog
     public static function duration(int $days, bool $ar = false): string
     {
         if (! $ar) {
+            if ($days >= 30 && $days % 30 === 0) {
+                $months = $days / 30;
+
+                return $months.' '.($months === 1 ? 'month' : 'months');
+            }
+
             return $days.' '.($days === 1 ? 'day' : 'days');
+        }
+
+        if ($days >= 30 && $days % 30 === 0) {
+            $months = $days / 30;
+
+            return match (true) {
+                $months === 1 => 'شهر واحد',
+                $months === 2 => 'شهران',
+                $months <= 10 => $months.' أشهر',
+                default => $months.' شهراً',
+            };
         }
 
         return match (true) {

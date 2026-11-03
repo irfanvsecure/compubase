@@ -1,0 +1,256 @@
+{
+ "title": "Arabic for Non-Arabic Speakers – Level 01",
+ "duration": "1 Month",
+ "overview": [
+  "This beginner-level Arabic language course introduces non-Arabic-speaking learners to the essential sounds, script, vocabulary and sentence patterns needed for simple everyday communication. Through guided listening, speaking, reading and writing practice, participants learn to exchange basic personal information, understand familiar expressions and navigate common social situations. The course emphasizes practical Modern Standard Arabic while introducing useful everyday expressions, with supportive pronunciation practice and cultural context. No previous knowledge of Arabic is required."
+ ],
+ "audience": [
+  "Non-Arabic-speaking adults beginning their study of Arabic.",
+  "Expatriate professionals and residents seeking basic communication skills in Arabic-speaking environments.",
+  "Customer-facing employees who interact with Arabic-speaking colleagues or visitors.",
+  "Learners preparing to progress to Arabic Level 02."
+ ],
+ "methodology": [
+  "Trainer-led demonstrations and guided pronunciation drills; visual vocabulary activities; short listening dialogues; paired speaking tasks and role-plays; script tracing and writing practice; reading exercises; cultural scenarios; frequent formative checks; and an integrated end-of-course communication assessment. Activities are differentiated for learners unfamiliar with the Arabic alphabet."
+ ],
+ "competencies": [
+  "Recognizing and producing common Arabic sounds and letter forms.",
+  "Reading and writing familiar words and short basic sentences.",
+  "Using essential greetings, introductions and polite expressions.",
+  "Understanding simple questions and short everyday exchanges.",
+  "Communicating basic personal, numerical, time and location information.",
+  "Applying foundational Arabic grammar in familiar contexts.",
+  "Demonstrating awareness of appropriate language use and cultural etiquette."
+ ],
+ "objectivesIntro": [
+  "By the end of the course, participants will be able to:"
+ ],
+ "objectives": [
+  "Identify Arabic letters in their principal written forms and pronounce common letter–sound combinations.",
+  "Read and write familiar words and short phrases with increasing accuracy.",
+  "Greet others, introduce themselves and exchange simple personal information.",
+  "Ask and answer basic questions about people, places, objects and daily routines.",
+  "Use numbers, dates, times and everyday vocabulary in simple interactions.",
+  "Construct short affirmative, negative and interrogative sentences using beginner grammar patterns.",
+  "Understand the main meaning of slow, clearly spoken exchanges on familiar topics.",
+  "Participate in short practical dialogues with culturally appropriate expressions."
+ ],
+ "outline": [
+  {
+   "title": "Orientation to Arabic Communication",
+   "items": [
+    {"text": "Modern Standard Arabic and everyday communication contexts", "level": 0},
+    {"text": "Right-to-left reading and writing direction", "level": 0},
+    {"text": "Course expectations and beginner learning strategies", "level": 0},
+    {"text": "Common courtesy expressions and listening conventions", "level": 0}
+   ]
+  },
+  {
+   "title": "Arabic Sounds and Pronunciation",
+   "items": [
+    {"text": "Arabic consonants and vowels: an initial overview", "level": 0},
+    {"text": "Recognizing unfamiliar sounds through listening and repetition", "level": 0},
+    {"text": "Short versus long vowel sounds", "level": 0},
+    {"text": "Pronunciation of common words and names", "level": 0}
+   ]
+  },
+  {
+   "title": "Arabic Alphabet and Letter Recognition",
+   "items": [
+    {"text": "Alphabet sequence and letter names", "level": 0},
+    {"text": "Recognizing isolated letter shapes", "level": 0},
+    {"text": "Matching letters to their sounds", "level": 0},
+    {"text": "Visual discrimination of similar letters", "level": 0}
+   ]
+  },
+  {
+   "title": "Letter Forms and Basic Handwriting",
+   "items": [
+    {"text": "Initial, medial, final and isolated letter forms", "level": 0},
+    {"text": "Connecting and non-connecting letters", "level": 0},
+    {"text": "Writing direction and letter placement on the line", "level": 0},
+    {"text": "Copying short familiar words accurately", "level": 0}
+   ]
+  },
+  {
+   "title": "Vowel Marks and Early Reading",
+   "items": [
+    {"text": "Short vowel marks and sukun", "level": 0},
+    {"text": "Long vowels with alif, waw and ya", "level": 0},
+    {"text": "Reading syllables and simple vocalized words", "level": 0},
+    {"text": "Sounding out familiar expressions", "level": 0}
+   ]
+  },
+  {
+   "title": "Greetings and Polite Expressions",
+   "items": [
+    {"text": "Formal and informal greetings", "level": 0},
+    {"text": "Welcoming, thanking and apologizing", "level": 0},
+    {"text": "Common leave-taking expressions", "level": 0},
+    {"text": "Responding politely in short exchanges", "level": 0}
+   ]
+  },
+  {
+   "title": "Introducing Yourself and Others",
+   "items": [
+    {"text": "Stating names and nationalities", "level": 0},
+    {"text": "Asking where someone is from", "level": 0},
+    {"text": "Basic occupations and personal descriptions", "level": 0},
+    {"text": "Short self-introduction dialogues", "level": 0}
+   ]
+  },
+  {
+   "title": "Personal Pronouns and Simple Sentences",
+   "items": [
+    {"text": "Common independent personal pronouns", "level": 0},
+    {"text": "Basic nominal sentence patterns", "level": 0},
+    {"text": "Gender agreement in familiar examples", "level": 0},
+    {"text": "Building short statements about identity", "level": 0}
+   ]
+  },
+  {
+   "title": "Questions and Everyday Answers",
+   "items": [
+    {"text": "Basic question words: who, what, where and how", "level": 0},
+    {"text": "Yes/no questions and short responses", "level": 0},
+    {"text": "Asking for clarification and repetition", "level": 0},
+    {"text": "Practice with structured question–answer exchanges", "level": 0}
+   ]
+  },
+  {
+   "title": "Numbers and Everyday Quantities",
+   "items": [
+    {"text": "Numbers used in common daily situations", "level": 0},
+    {"text": "Giving phone numbers and simple quantities", "level": 0},
+    {"text": "Asking about prices and amounts", "level": 0},
+    {"text": "Recognizing spoken numbers in context", "level": 0}
+   ]
+  },
+  {
+   "title": "Family and People",
+   "items": [
+    {"text": "Core vocabulary for family relationships", "level": 0},
+    {"text": "Introducing family members", "level": 0},
+    {"text": "Simple descriptions of people", "level": 0},
+    {"text": "Possessive expressions in familiar phrases", "level": 0}
+   ]
+  },
+  {
+   "title": "Common Objects and Places",
+   "items": [
+    {"text": "Classroom, home and workplace vocabulary", "level": 0},
+    {"text": "Identifying and naming familiar objects", "level": 0},
+    {"text": "Using basic demonstratives", "level": 0},
+    {"text": "Asking what something is", "level": 0}
+   ]
+  },
+  {
+   "title": "Definite and Indefinite Nouns",
+   "items": [
+    {"text": "The definite article al-", "level": 0},
+    {"text": "Recognizing sun and moon letters in pronunciation", "level": 0},
+    {"text": "Gender of common nouns", "level": 0},
+    {"text": "Simple noun–adjective combinations", "level": 0}
+   ]
+  },
+  {
+   "title": "Adjectives and Basic Descriptions",
+   "items": [
+    {"text": "Colors, sizes and common qualities", "level": 0},
+    {"text": "Describing objects and people", "level": 0},
+    {"text": "Introductory adjective agreement", "level": 0},
+    {"text": "Short descriptive speaking activities", "level": 0}
+   ]
+  },
+  {
+   "title": "Days, Dates and Time",
+   "items": [
+    {"text": "Days of the week and months", "level": 0},
+    {"text": "Asking and telling simple time", "level": 0},
+    {"text": "Basic date expressions", "level": 0},
+    {"text": "Discussing schedules and appointments", "level": 0}
+   ]
+  },
+  {
+   "title": "Daily Routines and Common Verbs",
+   "items": [
+    {"text": "High-frequency verbs in everyday contexts", "level": 0},
+    {"text": "Simple present-tense patterns for familiar subjects", "level": 0},
+    {"text": "Talking about routine activities", "level": 0},
+    {"text": "Using time expressions with daily actions", "level": 0}
+   ]
+  },
+  {
+   "title": "Food, Drinks and Ordering",
+   "items": [
+    {"text": "Common food and beverage vocabulary", "level": 0},
+    {"text": "Expressing basic preferences", "level": 0},
+    {"text": "Making simple requests and orders", "level": 0},
+    {"text": "Role-play in a café or restaurant", "level": 0}
+   ]
+  },
+  {
+   "title": "Directions and Locations",
+   "items": [
+    {"text": "Common places in a city or building", "level": 0},
+    {"text": "Location words and basic prepositions", "level": 0},
+    {"text": "Asking where places are", "level": 0},
+    {"text": "Following short, simple directions", "level": 0}
+   ]
+  },
+  {
+   "title": "Shopping and Basic Transactions",
+   "items": [
+    {"text": "Names of everyday goods", "level": 0},
+    {"text": "Asking prices and quantities", "level": 0},
+    {"text": "Useful phrases for buying items", "level": 0},
+    {"text": "Short buyer–seller dialogues", "level": 0}
+   ]
+  },
+  {
+   "title": "Listening and Reading for Everyday Meaning",
+   "items": [
+    {"text": "Recognizing key words in slow spoken dialogues", "level": 0},
+    {"text": "Reading short notices, signs and messages", "level": 0},
+    {"text": "Finding names, numbers and familiar information", "level": 0},
+    {"text": "Using context to support understanding", "level": 0}
+   ]
+  },
+  {
+   "title": "Writing Short Practical Messages",
+   "items": [
+    {"text": "Completing simple personal-information forms", "level": 0},
+    {"text": "Writing basic sentences about self and family", "level": 0},
+    {"text": "Composing short greetings and messages", "level": 0},
+    {"text": "Checking letter connections and spelling", "level": 0}
+   ]
+  },
+  {
+   "title": "Arabic Social and Cultural Etiquette",
+   "items": [
+    {"text": "Respectful forms of address and greetings", "level": 0},
+    {"text": "Common courtesy conventions in Arabic-speaking settings", "level": 0},
+    {"text": "Language choices for familiar social situations", "level": 0},
+    {"text": "Avoiding misunderstandings in cross-cultural interactions", "level": 0}
+   ]
+  },
+  {
+   "title": "Integrated Conversation Practice",
+   "items": [
+    {"text": "Introducing oneself in a realistic exchange", "level": 0},
+    {"text": "Asking for information in familiar settings", "level": 0},
+    {"text": "Combining greetings, questions and simple descriptions", "level": 0},
+    {"text": "Peer role-plays with corrective feedback", "level": 0}
+   ]
+  },
+  {
+   "title": "Review and End-of-Course Assessment",
+   "items": [
+    {"text": "Consolidation of alphabet, vocabulary and grammar", "level": 0},
+    {"text": "Guided listening and reading comprehension checks", "level": 0},
+    {"text": "Short writing and pronunciation tasks", "level": 0},
+    {"text": "Practical speaking assessment and individual feedback", "level": 0}
+   ]
+  }
+ ]
+}

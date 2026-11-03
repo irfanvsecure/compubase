@@ -249,6 +249,7 @@
         <button type="button" class="active" data-g="all">جميع الدورات <span></span></button>
         <button type="button" data-g="management">الإدارة والمهارات المهنية <span></span></button>
         <button type="button" data-g="it">تقنية المعلومات والتكنولوجيا <span></span></button>
+        <button type="button" data-g="language">دورات اللغات <span></span></button>
       </div>
       <div class="feat-rail" id="featRail" hidden>
         <button type="button" class="rail-arrow prev" aria-label="الفئات السابقة"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>

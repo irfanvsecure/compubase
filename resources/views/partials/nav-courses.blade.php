@@ -3,8 +3,8 @@
     $ar = $ar ?? false;
     $navCats = App\Support\Catalog::categories();
     $navGroups = $ar
-        ? ['management' => 'الإدارة والتطوير المهني', 'it' => 'تقنية المعلومات']
-        : ['management' => 'Management & Professional', 'it' => 'IT & Technology'];
+        ? ['management' => 'الإدارة والتطوير المهني', 'it' => 'تقنية المعلومات', 'language' => 'دورات اللغات']
+        : ['management' => 'Management & Professional', 'it' => 'IT & Technology', 'language' => 'Language Courses'];
 @endphp
 <li class="nav-mega">
   <a href="{{ route($ar ? 'courses-ar' : 'courses') }}">{{ $ar ? 'الدورات' : 'Courses' }}</a>
