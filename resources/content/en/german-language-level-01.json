@@ -2,200 +2,492 @@
     "title": "German Language – Level 01",
     "duration": "1 Month",
     "overview": [
-        "This beginner German language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "This beginner-level German language course introduces learners to essential vocabulary, pronunciation, grammar and everyday communication. Through guided practice and realistic situations, participants learn to understand and use familiar expressions, introduce themselves, ask and answer simple questions, and read and write short messages. The course establishes a foundation for continued German-language study, with integrated listening, speaking, reading and writing practice."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their German language skills.",
-        "Professionals and residents who use German in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of German study."
+        "Beginners with little or no previous knowledge of German; students, professionals, travelers and individuals seeking basic German for personal, educational or workplace purposes."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Interactive instruction, tutor-led pronunciation drills, listening tasks, pair dialogues, vocabulary games, short reading and writing exercises, role plays, visual prompts, guided homework, formative quizzes and end-of-course practical assessment."
     ],
     "competencies": [
-        "Communicating effectively in German in everyday and professional contexts.",
-        "Understanding spoken and written German at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing German texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Basic German pronunciation and listening comprehension",
+        "Essential vocabulary for familiar everyday situations",
+        "Simple spoken interaction and conversational confidence",
+        "Foundational grammar and sentence construction",
+        "Reading and writing short practical texts",
+        "Appropriate basic communication in German-speaking settings"
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use German effectively in a range of everyday and professional situations.",
-        "Understand spoken and written German at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in German.",
-        "Demonstrate cultural awareness in German-speaking contexts."
+        "Recognize and pronounce common German sounds, words and expressions.",
+        "Greet others, introduce themselves and exchange simple personal information.",
+        "Ask and answer basic questions about everyday topics.",
+        "Use common nouns, articles, pronouns and present-tense verbs in simple sentences.",
+        "Understand slow, clearly spoken German on familiar subjects.",
+        "Read signs, forms, notices and short everyday messages.",
+        "Write simple sentences, personal details and short messages.",
+        "Handle basic interactions involving shopping, directions, time and appointments."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Introduction to German and Learning Strategies",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Where German is spoken and contexts for its use",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Course expectations and beginner communication goals",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Classroom expressions and useful learning phrases",
+                    "level": 0
+                },
+                {
+                    "text": "Building vocabulary through repetition and retrieval",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "German Alphabet and Pronunciation",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Letter names and spelling aloud",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Umlauts ä, ö, ü and the letter ß",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Common sound patterns: ch, sch, ei, ie, eu and äu",
+                    "level": 0
+                },
+                {
+                    "text": "Word stress, rhythm and clear articulation",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Greetings and Polite Expressions",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Formal and informal greetings and farewells",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Introducing oneself and responding politely",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Bitte, danke, entschuldigung and common courtesies",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing Sie or du in everyday situations",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Personal Information and Introductions",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Names, nationalities, countries and languages",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Asking and answering where someone comes from",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Giving basic contact and personal details",
+                    "level": 0
+                },
+                {
+                    "text": "Short introductory conversations and role plays",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Numbers, Dates and Basic Quantities",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Numbers for age, prices and telephone numbers",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Days, months and calendar dates",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Basic quantities and counting objects",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding and stating simple numerical information",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Nouns, Gender and Articles",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Noun capitalization and grammatical gender",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Definite and indefinite articles: der, die, das; ein, eine",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Singular and common plural forms",
+                    "level": 0
+                },
+                {
+                    "text": "Learning nouns together with their articles",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Personal Pronouns and Simple Sentences",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "ich, du, er, sie, es, wir, ihr, sie and Sie",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Basic subject–verb–object word order",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Positive and negative statements",
+                    "level": 0
+                },
+                {
+                    "text": "Constructing simple everyday sentences",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Present-Tense Verbs",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Regular verb conjugation in the present tense",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "High-frequency verbs: sein and haben",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Common verbs for daily activities",
+                    "level": 0
+                },
+                {
+                    "text": "Simple affirmative and negative sentences",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Questions and Short Answers",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Yes/no questions and verb-first word order",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Question words: wer, was, wo, wann, wie and warum",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Asking for repetition and clarification",
+                    "level": 0
+                },
+                {
+                    "text": "Short question-and-answer exchanges",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Family, Friends and Descriptions",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Family members and relationships",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Basic adjectives for people and things",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Possessive words mein and dein",
+                    "level": 0
+                },
+                {
+                    "text": "Describing family and friends in short sentences",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Everyday Objects and Places",
+            "items": [
+                {
+                    "text": "Home, classroom and office vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Naming and locating common objects",
+                    "level": 0
+                },
+                {
+                    "text": "Simple descriptions with colors and sizes",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding signs and everyday labels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Daily Routines and Activities",
+            "items": [
+                {
+                    "text": "Common verbs for waking, working and studying",
+                    "level": 0
+                },
+                {
+                    "text": "Talking about regular activities",
+                    "level": 0
+                },
+                {
+                    "text": "Simple time expressions and sequence words",
+                    "level": 0
+                },
+                {
+                    "text": "Describing a typical day in short statements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Time and Appointments",
+            "items": [
+                {
+                    "text": "Asking and telling the time",
+                    "level": 0
+                },
+                {
+                    "text": "Days of the week and parts of the day",
+                    "level": 0
+                },
+                {
+                    "text": "Arranging simple meetings and appointments",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding opening hours and schedules",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Food, Drinks and Ordering",
+            "items": [
+                {
+                    "text": "Common foods, drinks and meal vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Expressing preferences with mögen and möchten",
+                    "level": 0
+                },
+                {
+                    "text": "Ordering politely in a café or restaurant",
+                    "level": 0
+                },
+                {
+                    "text": "Asking about prices and quantities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shopping and Basic Transactions",
+            "items": [
+                {
+                    "text": "Clothing, everyday goods and price expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Asking how much something costs",
+                    "level": 0
+                },
+                {
+                    "text": "Sizes, colors and simple preferences",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing short shopkeeper–customer dialogues",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Places, Directions and Transport",
+            "items": [
+                {
+                    "text": "Common locations in a town or city",
+                    "level": 0
+                },
+                {
+                    "text": "Asking where places are located",
+                    "level": 0
+                },
+                {
+                    "text": "Simple directions: links, rechts, geradeaus",
+                    "level": 0
+                },
+                {
+                    "text": "Basic public transport and travel vocabulary",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Home and Accommodation",
+            "items": [
+                {
+                    "text": "Rooms, furniture and basic housing vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Describing where one lives",
+                    "level": 0
+                },
+                {
+                    "text": "Simple location phrases and everyday prepositions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding brief accommodation descriptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening Skills for Beginners",
+            "items": [
+                {
+                    "text": "Recognizing familiar words in slow speech",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key information in short dialogues",
+                    "level": 0
+                },
+                {
+                    "text": "Listening for names, numbers, places and times",
+                    "level": 0
+                },
+                {
+                    "text": "Checking comprehension through guided exercises",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Simple German Texts",
+            "items": [
+                {
+                    "text": "Reading signs, notices and short messages",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding short descriptions and dialogues",
+                    "level": 0
+                },
+                {
+                    "text": "Using context to infer basic meaning",
+                    "level": 0
+                },
+                {
+                    "text": "Finding key information in forms and schedules",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Practical Beginner Texts",
+            "items": [
+                {
+                    "text": "Completing simple forms with personal details",
+                    "level": 0
+                },
+                {
+                    "text": "Writing short greetings and introductions",
+                    "level": 0
+                },
+                {
+                    "text": "Composing brief messages and invitations",
+                    "level": 0
+                },
+                {
+                    "text": "Checking spelling, capitalization and basic word order",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Conversation Practice",
+            "items": [
+                {
+                    "text": "Meeting and introducing new people",
+                    "level": 0
+                },
+                {
+                    "text": "Ordering food, shopping and asking directions",
+                    "level": 0
+                },
+                {
+                    "text": "Role plays with common beginner communication problems",
+                    "level": 0
+                },
+                {
+                    "text": "Improving fluency through supported pair practice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Review, Assessment and Progression",
+            "items": [
+                {
+                    "text": "Consolidating core vocabulary and grammar",
+                    "level": 0
+                },
+                {
+                    "text": "Short listening, speaking, reading and writing assessments",
+                    "level": 0
+                },
+                {
+                    "text": "Individual feedback on accuracy and confidence",
+                    "level": 0
+                },
+                {
+                    "text": "Personal practice plan for German Language – Level 02",
                     "level": 0
                 }
             ]

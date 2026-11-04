@@ -2,200 +2,496 @@
     "title": "Spanish Language – Level 02",
     "duration": "1 Month",
     "overview": [
-        "This elementary Spanish language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "This elementary Spanish language course builds on Level 01 and develops learners’ ability to manage a wider range of familiar social, travel and routine workplace interactions. Participants consolidate present-tense accuracy, communicate about past events and future plans, expand their practical vocabulary, and strengthen listening, speaking, reading and writing through guided tasks and authentic scenarios."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their Spanish language skills.",
-        "Professionals and residents who use Spanish in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of Spanish study."
+        "Learners who have completed Spanish Language – Level 01 or have equivalent foundational skills.",
+        "Professionals seeking greater confidence in routine interactions with Spanish speakers.",
+        "Travelers and individuals wishing to communicate more independently in everyday situations.",
+        "Learners preparing for the more complex communication tasks in Spanish Language – Level 03."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Instructor-led mini-lessons with demonstrations and supported communicative practice.",
+        "Pair work, information-gap tasks, simulations and practical role-plays.",
+        "Progressive listening and reading exercises using short contextualized materials.",
+        "Guided writing, pronunciation coaching, spaced vocabulary review and corrective feedback.",
+        "Frequent formative checks and an integrated final performance assessment."
     ],
     "competencies": [
-        "Communicating effectively in Spanish in everyday and professional contexts.",
-        "Understanding spoken and written Spanish at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing Spanish texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Maintain connected conversations about everyday routines, experiences and plans.",
+        "Apply elementary grammar and core verb forms in familiar contexts.",
+        "Understand the main points of clear, short spoken and written messages.",
+        "Write organized short messages, descriptions and simple personal correspondence.",
+        "Use appropriate politeness, register and repair strategies when communication is difficult."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use Spanish effectively in a range of everyday and professional situations.",
-        "Understand spoken and written Spanish at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in Spanish.",
-        "Demonstrate cultural awareness in Spanish-speaking contexts."
+        "Describe daily life, people, locations and personal experiences in greater detail.",
+        "Narrate simple completed actions and discuss intentions and upcoming activities.",
+        "Ask for clarification, make arrangements and solve common practical problems.",
+        "Express preferences, comparisons, opinions and reasons using connected sentences.",
+        "Read short practical texts and compose coherent paragraphs and messages.",
+        "Demonstrate readiness to progress to Spanish Language – Level 03."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Level 01 Review and Communicative Confidence",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Revisiting greetings, introductions, routine questions and common responses.",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Refreshing subject pronouns, agreement and high-frequency present-tense verbs.",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Identifying individual learning needs through short diagnostic exchanges.",
+                    "level": 0
+                },
+                {
+                    "text": "Developing strategies for extending a conversation beyond one-word answers.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Pronunciation, Rhythm and Listening Accuracy",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Practicing word stress, accent marks and Spanish syllable patterns.",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Distinguishing challenging consonants and vowel sequences in context.",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Recognizing connected speech in slow, clear everyday dialogues.",
+                    "level": 0
+                },
+                {
+                    "text": "Using repetition and self-monitoring to improve intelligibility.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Present Tense: Regular and Irregular Verbs",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Consolidating -ar, -er and -ir conjugations in meaningful sentences.",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Using common irregular verbs such as tener, venir, hacer and salir.",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Asking and answering questions about habits and current circumstances.",
+                    "level": 0
+                },
+                {
+                    "text": "Applying subject omission and natural word order in short conversations.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Reflexive Verbs and Daily Routines",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Using reflexive pronouns with levantarse, vestirse and acostarse.",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Sequencing a typical weekday and weekend with time expressions.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Comparing personal routines and discussing frequency.",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a connected description of a daily schedule.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Ser, Estar and Hay in Context",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Distinguishing identity, characteristics, condition and location.",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Using hay to describe availability and what exists in a place.",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Describing changes in mood and temporary states.",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting common errors through practical speaking tasks.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "People, Relationships and Descriptions",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Expanding vocabulary for family, colleagues and social relationships.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Describing appearance, personality and responsibilities.",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Applying adjective agreement, position and common intensifiers.",
+                    "level": 0
+                },
+                {
+                    "text": "Introducing someone and providing a fuller personal profile.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Homes, Neighborhoods and Local Services",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Describing rooms, furnishings and neighborhood amenities.",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Using location expressions and prepositions with familiar places.",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Comparing accommodation and discussing practical needs.",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting short property listings and local service notices.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Shopping, Quantities and Consumer Choices",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Requesting sizes, colors, quantities and product information.",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Using demonstratives, basic object references and price expressions.",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Comparing products and asking about availability or alternatives.",
+                    "level": 0
+                },
+                {
+                    "text": "Role-playing exchanges, purchases and simple customer queries.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Food, Dining and Preferences",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Reading menus and identifying common ingredients and meals.",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Using gustar, encantar and preferir to express tastes.",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Making reservations, ordering and requesting changes politely.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining dietary preferences and responding to routine service questions.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Past Events: Introduction to the Preterite",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Forming regular preterite verbs to describe completed actions.",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Recognizing frequent irregular forms in common expressions.",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Using ayer, anoche and la semana pasada for past time reference.",
+                    "level": 0
+                },
+                {
+                    "text": "Describing a recent outing, visit or completed task.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Telling Simple Stories in the Past",
+            "items": [
+                {
+                    "text": "Organizing short narratives with primero, después and finalmente.",
+                    "level": 0
+                },
+                {
+                    "text": "Asking follow-up questions about past experiences.",
+                    "level": 0
+                },
+                {
+                    "text": "Combining actions, places and people in a coherent account.",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a brief account of a memorable day or trip.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Future Plans and Arrangements",
+            "items": [
+                {
+                    "text": "Using ir a + infinitive to express near-future intentions.",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing plans with dates, times and sequencing expressions.",
+                    "level": 0
+                },
+                {
+                    "text": "Inviting others, accepting, declining and suggesting alternatives.",
+                    "level": 0
+                },
+                {
+                    "text": "Arranging a meeting or social activity through dialogue and messages.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Travel, Transport and Directions",
+            "items": [
+                {
+                    "text": "Discussing transport options, schedules and ticket requirements.",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for and explaining routes using movement verbs and landmarks.",
+                    "level": 0
+                },
+                {
+                    "text": "Handling common travel questions and minor disruptions.",
+                    "level": 0
+                },
+                {
+                    "text": "Reading simple itineraries, signs and booking information.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Health, Wellbeing and Appointments",
+            "items": [
+                {
+                    "text": "Naming common symptoms and basic health concerns.",
+                    "level": 0
+                },
+                {
+                    "text": "Using tener, doler and sentirse in everyday contexts.",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting appointments and describing simple problems.",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding basic instructions and common advice expressions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Obligations, Permissions and Recommendations",
+            "items": [
+                {
+                    "text": "Using tener que, hay que, poder and deber with infinitives.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining rules, duties and possibilities in familiar settings.",
+                    "level": 0
+                },
+                {
+                    "text": "Making polite requests and offering straightforward advice.",
+                    "level": 0
+                },
+                {
+                    "text": "Responding appropriately to practical instructions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Comparisons and Expressing Opinions",
+            "items": [
+                {
+                    "text": "Forming comparisons with más que, menos que and tan como.",
+                    "level": 0
+                },
+                {
+                    "text": "Using common superlative structures in familiar descriptions.",
+                    "level": 0
+                },
+                {
+                    "text": "Expressing likes, dislikes and opinions with simple reasons.",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing destinations, activities and everyday products.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Object Pronouns in Everyday Exchanges",
+            "items": [
+                {
+                    "text": "Recognizing direct object pronouns in high-frequency examples.",
+                    "level": 0
+                },
+                {
+                    "text": "Replacing repeated nouns in short statements and questions.",
+                    "level": 0
+                },
+                {
+                    "text": "Introducing common indirect object pronouns in practical exchanges.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing pronoun placement in simple affirmative sentences.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Connected Speech and Conversation Strategies",
+            "items": [
+                {
+                    "text": "Linking ideas with porque, pero, entonces and también.",
+                    "level": 0
+                },
+                {
+                    "text": "Asking speakers to repeat, slow down or clarify meaning.",
+                    "level": 0
+                },
+                {
+                    "text": "Taking turns, checking understanding and maintaining topic continuity.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing short unscripted conversations with guided prompts.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Everyday Authentic Materials",
+            "items": [
+                {
+                    "text": "Identifying purpose and key information in emails, notices and advertisements.",
+                    "level": 0
+                },
+                {
+                    "text": "Scanning timetables, menus and short online descriptions for details.",
+                    "level": 0
+                },
+                {
+                    "text": "Inferring familiar vocabulary from context and visual cues.",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing main ideas in simple spoken or written Spanish.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Messages and Short Paragraphs",
+            "items": [
+                {
+                    "text": "Composing friendly invitations, confirmations and thank-you messages.",
+                    "level": 0
+                },
+                {
+                    "text": "Writing connected descriptions of events, routines and plans.",
+                    "level": 0
+                },
+                {
+                    "text": "Using basic punctuation, accents and paragraph organization.",
+                    "level": 0
+                },
+                {
+                    "text": "Revising drafts for clarity, verb agreement and word choice.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Spanish for Routine Workplace Interactions",
+            "items": [
+                {
+                    "text": "Greeting clients and colleagues using appropriate register.",
+                    "level": 0
+                },
+                {
+                    "text": "Describing schedules, tasks, availability and simple requests.",
+                    "level": 0
+                },
+                {
+                    "text": "Handling basic telephone or reception exchanges.",
+                    "level": 0
+                },
+                {
+                    "text": "Writing brief workplace messages and confirming arrangements.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Practice and Final Assessment",
+            "items": [
+                {
+                    "text": "Completing practical simulations combining past events and future plans.",
+                    "level": 0
+                },
+                {
+                    "text": "Demonstrating listening comprehension through short task-based activities.",
+                    "level": 0
+                },
+                {
+                    "text": "Producing a short reading response and structured written message.",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving individualized feedback and a progression plan for Level 03.",
                     "level": 0
                 }
             ]

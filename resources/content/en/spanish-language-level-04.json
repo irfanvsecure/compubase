@@ -2,200 +2,534 @@
     "title": "Spanish Language – Level 04",
     "duration": "1 Month",
     "overview": [
-        "This intermediate Spanish language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "This intermediate Spanish course strengthens learners’ ability to communicate independently and accurately across familiar social, travel, and professional contexts. Building on Level 03, participants develop connected discourse, control of contrasting past tenses, emerging subjunctive forms, conditional expressions, and more confident comprehension of authentic spoken and written Spanish. Guided practice emphasizes meaningful interaction, intercultural awareness, and effective workplace communication."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their Spanish language skills.",
-        "Professionals and residents who use Spanish in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of Spanish study."
+        "Learners who have completed Spanish Language – Level 03 or demonstrate comparable pre-intermediate competence and wish to progress toward independent intermediate-level communication for personal, academic, travel, or professional purposes."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Interactive trainer-led instruction with guided discovery of grammar in context.",
+        "Pair and group role-plays, problem-solving tasks, and scenario-based conversations.",
+        "Authentic and adapted audio, reading materials, short videos, and structured writing practice.",
+        "Pronunciation coaching, targeted feedback, formative quizzes, and an integrated final performance task."
     ],
     "competencies": [
-        "Communicating effectively in Spanish in everyday and professional contexts.",
-        "Understanding spoken and written Spanish at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing Spanish texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Sustain connected conversations, narrate events, and justify preferences and decisions.",
+        "Use a wider range of tenses, pronouns, connectors, and conditional structures with increasing accuracy.",
+        "Understand the main ideas and relevant details of moderately complex speech and texts.",
+        "Write organized messages, narratives, and professional correspondence appropriate to audience and purpose.",
+        "Handle common workplace exchanges and intercultural situations with confidence."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use Spanish effectively in a range of everyday and professional situations.",
-        "Understand spoken and written Spanish at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in Spanish.",
-        "Demonstrate cultural awareness in Spanish-speaking contexts."
+        "Differentiate and apply pretérito indefinido, imperfecto, and pretérito perfecto in meaningful narratives.",
+        "Express hypotheses, polite requests, future intentions, and advice using appropriate structures.",
+        "Recognize and practice common uses of the present subjunctive in opinions, wishes, and recommendations.",
+        "Participate in discussions, give explanations, and present information using cohesive language.",
+        "Interpret intermediate-level reading and listening texts and produce clear connected written responses.",
+        "Demonstrate integrated listening, speaking, reading, and writing skills in realistic scenarios."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Intermediate Communication Review",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Consolidating key Level 03 structures and high-frequency vocabulary",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Developing longer responses beyond short question-and-answer exchanges",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Strategies for clarification, paraphrasing, and maintaining conversation",
+                    "level": 0
+                },
+                {
+                    "text": "Diagnostic speaking and writing activities",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Past Tense Contrasts in Narratives",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Choosing between pretérito indefinido and imperfecto",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Background descriptions versus completed events",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Time markers and sequencing expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Narrating a memorable personal or professional experience",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Present Perfect and Past-Time Perspectives",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Forming and using pretérito perfecto with irregular participles",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Contrasting recent experiences with completed past events",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Regional variation in common past-tense usage",
+                    "level": 0
+                },
+                {
+                    "text": "Interviewing peers about achievements and experiences",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Past Perfect and Event Sequencing",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Introducing pluscuamperfecto for earlier past events",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Explaining causes and chronology in a story",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Using antes de, después de, ya, and todavía",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a coherent incident report or narrative",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Future Plans, Predictions, and Probability",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Reviewing ir a + infinitive and simple future",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Using future forms for predictions and assumptions",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Talking about schedules, goals, and uncertainty",
+                    "level": 0
+                },
+                {
+                    "text": "Planning an event and explaining expected outcomes",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Conditional Forms and Polite Interaction",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Forming regular and common irregular conditional verbs",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Making polite requests, suggestions, and hypothetical statements",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Expressing preferences and giving tactful advice",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing customer and colleague conversations",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Introduction to the Present Subjunctive",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Forming present subjunctive with common regular and irregular verbs",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Recognizing indicative versus subjunctive contexts",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Expressing wishes, hopes, and recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Guided dialogues using quiero que and espero que",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Opinions, Emotions, and Evaluations",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Expressing certainty and doubt with suitable verb moods",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Using es importante que, me alegra que, and similar expressions",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Supporting viewpoints with reasons and examples",
+                    "level": 0
+                },
+                {
+                    "text": "Participating in structured opinion exchanges",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Commands, Requests, and Recommendations",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Reviewing affirmative and negative imperatives",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Using pronouns with commands and instructions",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Offering advice in direct and indirect ways",
+                    "level": 0
+                },
+                {
+                    "text": "Simulating instructions, workplace guidance, and service interactions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Object Pronouns and Reference",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Reviewing direct and indirect object pronouns",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Combining pronouns in common sentence patterns",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Pronoun placement with infinitives, gerunds, and commands",
+                    "level": 0
+                },
+                {
+                    "text": "Improving clarity and cohesion in spoken exchanges",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Relative Clauses and Description",
+            "items": [
+                {
+                    "text": "Using que, quien, donde, and common relative structures",
+                    "level": 0
+                },
+                {
+                    "text": "Defining and describing people, places, and objects",
+                    "level": 0
+                },
+                {
+                    "text": "Adding relevant details to explanations",
+                    "level": 0
+                },
+                {
+                    "text": "Writing clear descriptions of services or professional roles",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Complex Sentences and Connectors",
+            "items": [
+                {
+                    "text": "Linking ideas with aunque, sin embargo, por eso, and además",
+                    "level": 0
+                },
+                {
+                    "text": "Expressing contrast, cause, consequence, and purpose",
+                    "level": 0
+                },
+                {
+                    "text": "Combining short statements into connected discourse",
+                    "level": 0
+                },
+                {
+                    "text": "Editing paragraphs for logical flow",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Comparisons, Preferences, and Choices",
+            "items": [
+                {
+                    "text": "Making nuanced comparisons and expressing degree",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining advantages, disadvantages, and trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Justifying recommendations using evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing travel options, products, and work processes",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening to Authentic Conversations",
+            "items": [
+                {
+                    "text": "Identifying main ideas, speaker intention, and supporting details",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing common connected-speech features",
+                    "level": 0
+                },
+                {
+                    "text": "Note-taking from interviews and short reports",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to questions after listening activities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading for Meaning and Inference",
+            "items": [
+                {
+                    "text": "Reading articles, notices, emails, and informational texts",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing facts, opinions, and implied meanings",
+                    "level": 0
+                },
+                {
+                    "text": "Inferring unfamiliar vocabulary from context",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing a text and identifying its purpose",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Organized Narratives and Explanations",
+            "items": [
+                {
+                    "text": "Structuring introduction, development, and conclusion",
+                    "level": 0
+                },
+                {
+                    "text": "Using tense consistency and transitional phrases",
+                    "level": 0
+                },
+                {
+                    "text": "Describing experiences, processes, and outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Revising written work for grammar, register, and coherence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Emails and Messages",
+            "items": [
+                {
+                    "text": "Choosing formal and informal greetings and closings",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting information, confirming arrangements, and following up",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining issues and proposing practical solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Drafting and revising realistic workplace emails",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Meetings and Collaborative Discussions",
+            "items": [
+                {
+                    "text": "Opening and participating in short meetings",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing, disagreeing, and requesting clarification politely",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing decisions and allocating simple actions",
+                    "level": 0
+                },
+                {
+                    "text": "Role-playing a collaborative planning meeting",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Presentations and Structured Speaking",
+            "items": [
+                {
+                    "text": "Organizing a short presentation with clear signposting",
+                    "level": 0
+                },
+                {
+                    "text": "Describing trends, experiences, and recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Handling basic follow-up questions",
+                    "level": 0
+                },
+                {
+                    "text": "Delivering a brief individual presentation with feedback",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Travel, Services, and Problem Resolution",
+            "items": [
+                {
+                    "text": "Managing bookings, changes, complaints, and requests",
+                    "level": 0
+                },
+                {
+                    "text": "Describing unexpected situations and proposing alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Using tactful language to negotiate practical solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Role-playing hotel, transport, and customer-service scenarios",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Culture, Register, and Intercultural Awareness",
+            "items": [
+                {
+                    "text": "Recognizing formal and informal language choices",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing common practices across Spanish-speaking regions",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting culturally appropriate conversational norms",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing professional and social etiquette",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Pronunciation, Rhythm, and Fluency",
+            "items": [
+                {
+                    "text": "Refining stress, intonation, and connected speech",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing difficult consonant and vowel combinations",
+                    "level": 0
+                },
+                {
+                    "text": "Using discourse markers to manage pauses",
+                    "level": 0
+                },
+                {
+                    "text": "Recording and reviewing spoken performance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Skills Workshop",
+            "items": [
+                {
+                    "text": "Combining reading, listening, discussion, and writing around a shared topic",
+                    "level": 0
+                },
+                {
+                    "text": "Solving a scenario-based task in small groups",
+                    "level": 0
+                },
+                {
+                    "text": "Producing a concise written recommendation and oral summary",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving targeted feedback on accuracy and fluency",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Final Assessment and Progress Planning",
+            "items": [
+                {
+                    "text": "Assessing listening and reading comprehension through applied tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating speaking through a role-play or short presentation",
+                    "level": 0
+                },
+                {
+                    "text": "Completing a connected writing task with appropriate grammar",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing individual strengths and priorities for Level 05",
                     "level": 0
                 }
             ]

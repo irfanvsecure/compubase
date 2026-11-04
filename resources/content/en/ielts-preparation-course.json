@@ -1,201 +1,583 @@
 {
-    "title": "IELTS Preparation Course",
+    "title": "IELTS PREPARATION COURSE",
     "duration": "1 Month",
     "overview": [
-        "This comprehensive IELTS preparation course equips candidates with the strategies, skills and practice needed to achieve their target band score. Covering all four sections of the test — Listening, Reading, Writing and Speaking — the course combines test-technique training with focused language development to improve performance across Academic and General Training modules."
+        "This intensive, skills-based preparation course develops the English-language abilities and test strategies required for the International English Language Testing System (IELTS). Participants practise Listening, Reading, Writing and Speaking through guided tasks, timed exercises, targeted feedback and realistic mock assessments. The course introduces the Academic and General Training pathways and tailors relevant Reading and Writing practice to the selected test format. Emphasis is placed on accurate communication, task fulfilment, time management and independent improvement; achievement of a particular band score is not guaranteed."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Students applying to universities or academic institutions; professionals seeking English-language evidence for employment, licensing or professional development; individuals preparing for migration-related language requirements; and learners who wish to improve their performance in the IELTS examination. Participants should have a functional foundation in English and undertake a diagnostic assessment to establish their starting level."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Instructor-led language workshops; diagnostic testing; model-answer analysis; guided listening and reading practice; structured writing tasks; paired speaking interviews; pronunciation and vocabulary drills; timed section exercises; peer review; individualized feedback; progress checks; and full or sectional mock tests with improvement planning."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "IELTS test literacy and selection of the appropriate Academic or General Training pathway",
+        "Effective comprehension of spoken English across varied accents and contexts",
+        "Efficient reading for main ideas, details, inference and writer purpose",
+        "Clear, well-organized writing that meets task requirements",
+        "Fluent and coherent spoken interaction with appropriate pronunciation",
+        "Accurate grammatical structures and topic-appropriate vocabulary",
+        "Time management, answer checking and self-correction under exam conditions"
     ],
     "objectivesIntro": [
         "By the end of the course, participants will be able to:"
     ],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Explain the IELTS test structure, scoring criteria and differences between the two test pathways.",
+        "Apply focused listening techniques to identify key information and avoid common distractors.",
+        "Use skimming, scanning and evidence-based reasoning to complete reading tasks efficiently.",
+        "Plan and produce responses for Writing Task 1 and Task 2 according to the selected test format.",
+        "Demonstrate clear, extended and relevant answers across the three parts of the Speaking test.",
+        "Improve grammatical range, lexical precision, cohesion and pronunciation through targeted practice.",
+        "Complete timed practice tests, interpret feedback and establish a personal revision strategy."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "IELTS Examination Orientation",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Purpose, accepted test pathways and typical application contexts",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Listening, Reading, Writing and Speaking components",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Paper-based and computer-delivered test considerations",
+                    "level": 0
+                },
+                {
+                    "text": "Band descriptors, scoring and realistic target setting",
+                    "level": 0
+                },
+                {
+                    "text": "Common preparation errors and effective study routines",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Diagnostic Assessment and Study Planning",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Initial proficiency screening across the four skills",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Identifying recurring language and timing weaknesses",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Establishing personal band objectives and priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting Academic or General Training practice material",
+                    "level": 0
+                },
+                {
+                    "text": "Designing a manageable daily revision schedule",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Core Grammar for IELTS",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Sentence structure, clause control and punctuation",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Verb tenses and accurate subject–verb agreement",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Complex sentences, conditionals and relative clauses",
+                    "level": 0
+                },
+                {
+                    "text": "Articles, prepositions and common error patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for grammatical accuracy and clarity",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Vocabulary Development and Paraphrasing",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Topic vocabulary for education, work, society and technology",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Collocations, word families and precise word choice",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Recognizing paraphrases in questions and passages",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding repetition and inappropriate memorized expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Vocabulary notebooks and contextual revision",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Listening Test Structure and Techniques",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Four-section progression and common recording contexts",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Previewing questions and predicting answer types",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Recognizing signposting and speaker transitions",
+                    "level": 0
+                },
+                {
+                    "text": "Following instructions, spelling and word limits",
+                    "level": 0
+                },
+                {
+                    "text": "Transferring and checking answers appropriately",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Listening for Specific Information",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Names, dates, prices, locations and numerical details",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Form, note, table and sentence completion",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Recognizing corrections, distractors and reformulations",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing essential information from examples",
+                    "level": 0
+                },
+                {
+                    "text": "Timed exercises with error diagnosis",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Listening for Meaning and Organization",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Main ideas, opinions and speaker attitudes",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Multiple-choice and matching question strategies",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Maps, plans, diagrams and directional language",
+                    "level": 0
+                },
+                {
+                    "text": "Academic discussion and lecture organization",
+                    "level": 0
+                },
+                {
+                    "text": "Practising with varied accents and speaking rates",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Reading Test Structure and Time Management",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Academic versus General Training text types",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Question formats and instruction requirements",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Skimming for purpose and paragraph organization",
+                    "level": 0
+                },
+                {
+                    "text": "Scanning for names, figures and key concepts",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating time across passages and checking answers",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Reading: Information Retrieval",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "True/False/Not Given and Yes/No/Not Given distinctions",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Matching information, headings and sentence endings",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Short-answer and completion tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Locating textual evidence without over-interpreting",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing paraphrase and misleading keyword matches",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Reading: Meaning, Argument and Inference",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Identifying writer claims and supporting evidence",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Recognizing tone, attitude and intended audience",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Understanding cohesion and reference words",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting vocabulary from context",
+                    "level": 0
+                },
+                {
+                    "text": "Timed passage analysis and answer justification",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Assessment Criteria and Planning",
+            "items": [
+                {
+                    "text": "Task achievement or task response expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Coherence, cohesion, vocabulary and grammar criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Analysing prompts and selecting relevant content",
+                    "level": 0
+                },
+                {
+                    "text": "Paragraph planning and logical sequencing",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing drafting, writing and proofreading time",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Academic Writing Task 1: Visual Information",
+            "items": [
+                {
+                    "text": "Understanding graphs, charts, tables and processes",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting major trends and meaningful comparisons",
+                    "level": 0
+                },
+                {
+                    "text": "Writing accurate overviews without unsupported opinions",
+                    "level": 0
+                },
+                {
+                    "text": "Describing changes, proportions and stages",
+                    "level": 0
+                },
+                {
+                    "text": "Using precise comparative and quantitative language",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "General Training Writing Task 1: Letters",
+            "items": [
+                {
+                    "text": "Identifying purpose, audience and required tone",
+                    "level": 0
+                },
+                {
+                    "text": "Formal, semi-formal and informal letter conventions",
+                    "level": 0
+                },
+                {
+                    "text": "Covering all bullet-point requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing openings, requests, explanations and closings",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for clarity, politeness and task completion",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Task 2: Essay Types",
+            "items": [
+                {
+                    "text": "Opinion, discussion, advantages/disadvantages and problem/solution prompts",
+                    "level": 0
+                },
+                {
+                    "text": "Developing a clear position and relevant supporting ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Constructing introductions, body paragraphs and conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Using examples, explanations and logical transitions",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding off-topic responses and unsupported claims",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Task 2: Argument and Cohesion",
+            "items": [
+                {
+                    "text": "Topic sentences and paragraph unity",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing perspectives and qualifying claims",
+                    "level": 0
+                },
+                {
+                    "text": "Cohesive devices used naturally and accurately",
+                    "level": 0
+                },
+                {
+                    "text": "Lexical variety without loss of precision",
+                    "level": 0
+                },
+                {
+                    "text": "Timed essay production and rubric-based review",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking Test Format and Assessment",
+            "items": [
+                {
+                    "text": "Three-part interview structure and timing",
+                    "level": 0
+                },
+                {
+                    "text": "Fluency and coherence, lexical resource, grammar and pronunciation",
+                    "level": 0
+                },
+                {
+                    "text": "Developing answers without sounding memorized",
+                    "level": 0
+                },
+                {
+                    "text": "Handling clarification and self-correction naturally",
+                    "level": 0
+                },
+                {
+                    "text": "Building confidence through repeated practice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking Part 1: Familiar Topics",
+            "items": [
+                {
+                    "text": "Responding to personal and everyday questions",
+                    "level": 0
+                },
+                {
+                    "text": "Extending short answers with reasons and examples",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining natural pace and conversational relevance",
+                    "level": 0
+                },
+                {
+                    "text": "Using varied but appropriate vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Pronunciation and immediate feedback practice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking Part 2: Individual Long Turn",
+            "items": [
+                {
+                    "text": "Interpreting cue cards and using preparation time",
+                    "level": 0
+                },
+                {
+                    "text": "Structuring a sustained description or narrative",
+                    "level": 0
+                },
+                {
+                    "text": "Sequencing events and adding meaningful detail",
+                    "level": 0
+                },
+                {
+                    "text": "Recovering when ideas or vocabulary are limited",
+                    "level": 0
+                },
+                {
+                    "text": "Timed long-turn simulations and peer feedback",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking Part 3: Discussion and Analysis",
+            "items": [
+                {
+                    "text": "Explaining opinions on abstract and societal topics",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing alternatives and discussing causes or effects",
+                    "level": 0
+                },
+                {
+                    "text": "Speculating, evaluating and qualifying arguments",
+                    "level": 0
+                },
+                {
+                    "text": "Handling follow-up questions and complex prompts",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining coherence in extended discussion",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Pronunciation, Fluency and Spoken Accuracy",
+            "items": [
+                {
+                    "text": "Word stress, sentence stress and connected speech",
+                    "level": 0
+                },
+                {
+                    "text": "Intonation for emphasis and meaning",
+                    "level": 0
+                },
+                {
+                    "text": "Reducing fillers and managing natural pauses",
+                    "level": 0
+                },
+                {
+                    "text": "Monitoring frequent grammar and pronunciation errors",
+                    "level": 0
+                },
+                {
+                    "text": "Recording, reviewing and improving spoken responses",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Timed Practice and Test Readiness",
+            "items": [
+                {
+                    "text": "Timed listening and reading sets with answer review",
+                    "level": 0
+                },
+                {
+                    "text": "Academic or General Training writing simulations",
+                    "level": 0
+                },
+                {
+                    "text": "Full speaking interview practice",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing accuracy, timing and question compliance",
+                    "level": 0
+                },
+                {
+                    "text": "Test-day preparation and responsible pacing strategies",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Mock Assessment and Individual Improvement Plan",
+            "items": [
+                {
+                    "text": "Mock tasks covering all four components",
+                    "level": 0
+                },
+                {
+                    "text": "Feedback linked to IELTS public assessment criteria",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing strengths, recurring errors and progress",
+                    "level": 0
+                },
+                {
+                    "text": "Setting measurable next-stage practice targets",
+                    "level": 0
+                },
+                {
+                    "text": "Independent revision resources and follow-up routines",
                     "level": 0
                 }
             ]

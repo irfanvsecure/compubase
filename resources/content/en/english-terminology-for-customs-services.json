@@ -2,200 +2,535 @@
     "title": "English Terminology for Customs Services",
     "duration": "15 Days",
     "overview": [
-        "This focused course introduces the English terminology and communication skills used in customs and border control services. Participants learn key vocabulary, procedures and document types, and practise the spoken and written English needed for professional interactions in customs environments."
+        "This specialized English language course develops the terminology and communication skills used in customs administration, border clearance, cargo inspection, and international trade documentation. Participants practice understanding and explaining customs procedures, classifying goods, discussing duties and taxes, identifying discrepancies, and communicating professionally with importers, exporters, brokers, carriers, and travelers. Emphasis is placed on accurate terminology, clear operational exchanges, and realistic customs-service scenarios rather than legal certification or jurisdiction-specific regulatory advice."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Customs officers and border-control personnel requiring English for operational duties.",
+        "Customs clearance, cargo inspection, and trade compliance employees.",
+        "Import/export coordinators, freight forwarders, and customs brokerage personnel.",
+        "Port, airport, logistics, and bonded-warehouse employees.",
+        "Customer-service and administrative staff interacting with international traders and travelers."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Instructor-led language workshops, terminology-building exercises, guided reading of sample customs forms, listening practice, pronunciation drills, role-played inspections and interviews, document-completion tasks, realistic case studies, pair and group communication activities, and formative assessments. Scenarios use illustrative documents and are adapted to participants’ roles and language proficiency."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Accurate recognition and use of customs, trade, and border-processing terminology.",
+        "Professional spoken English in routine and sensitive customs interactions.",
+        "Reading comprehension of declarations, invoices, manifests, and supporting records.",
+        "Clear written communication, requests for clarification, and concise incident notes.",
+        "Appropriate questioning, explanation, and communication during inspection and clearance.",
+        "Confident handling of terminology related to classification, valuation, duties, and compliance."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Identify and correctly pronounce essential customs and international trade terms.",
+        "Explain the stages of import, export, transit, and customs clearance in English.",
+        "Interpret common information fields in customs and shipping documentation.",
+        "Ask precise questions about cargo, declared value, origin, and supporting evidence.",
+        "Use suitable language when discussing tariffs, duties, taxes, exemptions, and guarantees.",
+        "Communicate inspection instructions, document deficiencies, and next steps clearly.",
+        "Handle inquiries, complaints, and difficult conversations with professional courtesy.",
+        "Prepare short written notices, emails, summaries, and inspection-related records.",
+        "Apply relevant terminology accurately in realistic customs-service simulations."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Customs Services and International Trade Language",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Core terms: customs authority, border crossing, port of entry, consignment, shipment, clearance.",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Roles of importer, exporter, consignee, consignor, declarant, broker, and carrier.",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Distinguishing import, export, re-export, temporary admission, and transit.",
+                    "level": 0
+                },
+                {
+                    "text": "Describing the movement of goods across borders using process language.",
+                    "level": 0
+                },
+                {
+                    "text": "Pronunciation and common abbreviations in customs communication.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Professional English in Customs Operations",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Greeting and identifying traders, drivers, agents, and travelers.",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Explaining service steps, queue procedures, and expected documentation.",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Using polite requests, clear instructions, and confirmation questions.",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying misunderstandings and avoiding ambiguous wording.",
+                    "level": 0
+                },
+                {
+                    "text": "Using appropriate formal language in official service encounters.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Cargo, Goods, and Commodity Descriptions",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Naming categories of commercial, industrial, agricultural, and consumer goods.",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Describing quantities, weight, dimensions, packaging, and condition.",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Distinguishing bulk cargo, containers, parcels, and personal effects.",
+                    "level": 0
+                },
+                {
+                    "text": "Using precise adjectives for materials, intended use, and product characteristics.",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing declared descriptions with observed cargo.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Import and Export Procedures",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Explaining registration, declaration submission, verification, inspection, and release.",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Using verbs such as lodge, submit, assess, verify, inspect, approve, and release.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Discussing clearance status, pending actions, and processing delays.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining document requirements for routine import and export cases.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing step-by-step verbal explanations to customers.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Customs Declarations and Data Fields",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Reading declarations and identifying reference numbers and declaration types.",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Understanding importer details, commodity descriptions, quantity, and value fields.",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Recognizing supporting-document references and customs procedure codes.",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting correction of missing, inconsistent, or incomplete entries.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing clear explanations of declaration discrepancies.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Commercial Invoices and Packing Lists",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Identifying seller, buyer, invoice number, currency, unit price, and total value.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Interpreting line items, packing details, weights, and package counts.",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Comparing invoices, packing lists, and declared shipment details.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining errors in quantities, descriptions, or supporting evidence.",
+                    "level": 0
+                },
+                {
+                    "text": "Drafting concise requests for revised commercial documents.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Transport and Shipping Documentation",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Key terms in bills of lading, air waybills, delivery orders, and manifests.",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Recognizing vessel, flight, container, and shipment identifiers.",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Understanding shipper, consignee, notify party, and destination fields.",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating with carriers, freight forwarders, and logistics agents.",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing discrepancies between manifests and cargo documents.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Commodity Classification and HS Terminology",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Understanding the purpose of the Harmonized System and tariff classification.",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Using terms such as heading, subheading, classification ruling, and tariff code.",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Describing product composition, function, and intended use.",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for technical specifications needed for classification review.",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing terminology practice from binding classification decisions.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Customs Valuation and Transaction Language",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Using terms such as transaction value, customs value, invoice value, and adjustments.",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Discussing freight, insurance, discounts, and related costs.",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Asking questions about payments, currency, and supporting contracts.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining requests for valuation evidence without making unsupported conclusions.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing clear communication about value discrepancies.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Duties, Taxes, and Payment Terminology",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Differentiating customs duty, tax, fee, deposit, guarantee, and refund.",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Using terms such as assess, calculate, collect, exempt, defer, and reimburse.",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Reading sample assessments and payment notices.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining outstanding balances and payment procedures in plain English.",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to basic customer questions about assessments.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Rules of Origin and Trade Agreements",
+            "items": [
+                {
+                    "text": "Understanding country of origin, preferential origin, and non-preferential origin.",
+                    "level": 0
+                },
+                {
+                    "text": "Reading certificate-of-origin terminology and origin declarations.",
+                    "level": 0
+                },
+                {
+                    "text": "Using vocabulary for trade agreements, preference claims, and eligibility.",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting supporting evidence for claimed origin.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining that applicable rules depend on the relevant agreement and jurisdiction.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Restricted, Prohibited, and Controlled Goods",
+            "items": [
+                {
+                    "text": "Differentiating prohibited, restricted, controlled, and regulated goods.",
+                    "level": 0
+                },
+                {
+                    "text": "Using vocabulary for permits, licenses, approvals, and certificates.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining referrals to relevant competent authorities.",
+                    "level": 0
+                },
+                {
+                    "text": "Asking neutral questions about intended use and required authorization.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing clear, respectful communication when goods cannot be released.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Cargo Examination and Inspection Instructions",
+            "items": [
+                {
+                    "text": "Describing physical examination, scanning, sampling, and verification.",
+                    "level": 0
+                },
+                {
+                    "text": "Giving safe and unambiguous instructions for opening and presenting cargo.",
+                    "level": 0
+                },
+                {
+                    "text": "Using terms for seals, tampering, damage, discrepancies, and inspection findings.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining inspection sequence and recording factual observations.",
+                    "level": 0
+                },
+                {
+                    "text": "Role-playing officer–agent communication during examination.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Risk, Compliance, and Enforcement Vocabulary",
+            "items": [
+                {
+                    "text": "Understanding risk indicators, compliance checks, audits, and non-compliance.",
+                    "level": 0
+                },
+                {
+                    "text": "Differentiating irregularity, discrepancy, suspected violation, and confirmed finding.",
+                    "level": 0
+                },
+                {
+                    "text": "Using neutral, evidence-based language in questions and reports.",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing terminology related to seizure, detention, and referral.",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining professionalism and avoiding premature accusations.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Passenger and Baggage Customs Communication",
+            "items": [
+                {
+                    "text": "Asking travelers about goods, purchases, cash declarations, and personal effects.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining baggage screening and declaration requirements.",
+                    "level": 0
+                },
+                {
+                    "text": "Using respectful language during routine questioning.",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying answers from travelers with limited English proficiency.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing brief passenger interview scenarios.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Bonded Warehouses and Transit Operations",
+            "items": [
+                {
+                    "text": "Key terms for bonded storage, customs control, temporary storage, and transit.",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing inventory, stock records, seals, and movement authorizations.",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining entry, release, transfer, and discharge of goods.",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting shortages, damage, and irregular stock movements.",
+                    "level": 0
+                },
+                {
+                    "text": "Using clear English for coordination between facilities and customs teams.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Customs Customer Service and Complaint Handling",
+            "items": [
+                {
+                    "text": "Explaining procedural requirements without unnecessary jargon.",
+                    "level": 0
+                },
+                {
+                    "text": "Managing requests for updates and information about delays.",
+                    "level": 0
+                },
+                {
+                    "text": "Using empathy and assertive language with dissatisfied customers.",
+                    "level": 0
+                },
+                {
+                    "text": "De-escalating misunderstandings while maintaining official boundaries.",
+                    "level": 0
+                },
+                {
+                    "text": "Providing accurate next steps and escalation channels.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Email, Notices, and Operational Report Writing",
+            "items": [
+                {
+                    "text": "Writing short emails requesting missing documents or clarification.",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing factual inspection notes and status updates.",
+                    "level": 0
+                },
+                {
+                    "text": "Using consistent terminology in formal notices and internal handovers.",
+                    "level": 0
+                },
+                {
+                    "text": "Structuring messages with reference, issue, required action, and deadline.",
+                    "level": 0
+                },
+                {
+                    "text": "Proofreading for clarity, accuracy, tone, and completeness.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening, Pronunciation, and Communication Practice",
+            "items": [
+                {
+                    "text": "Recognizing terminology in different English accents and speech speeds.",
+                    "level": 0
+                },
+                {
+                    "text": "Pronouncing technical trade and customs expressions intelligibly.",
+                    "level": 0
+                },
+                {
+                    "text": "Taking notes from spoken shipment and declaration information.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing radio, telephone, and counter-service communication.",
+                    "level": 0
+                },
+                {
+                    "text": "Using read-back and confirmation techniques for critical details.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Customs Scenarios and Final Assessment",
+            "items": [
+                {
+                    "text": "Simulating a full shipment inquiry from declaration through release.",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing invoices, packing lists, and transport documents for discrepancies.",
+                    "level": 0
+                },
+                {
+                    "text": "Role-playing inspection instructions and customer explanations.",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a brief operational email or factual incident summary.",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving feedback on terminology, fluency, accuracy, and professional tone.",
                     "level": 0
                 }
             ]

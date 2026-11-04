@@ -2,200 +2,533 @@
     "title": "English for Medicine and Health Care",
     "duration": "15 Days",
     "overview": [
-        "This specialist course develops the English language skills needed by medical and healthcare professionals. Participants build vocabulary for clinical settings, practise patient communication, learn to read and write medical texts and develop the confidence to interact professionally in English-language healthcare environments."
+        "This practical English-language course equips healthcare professionals and support staff to communicate clearly, accurately, and empathetically in clinical and administrative settings. Through realistic healthcare scenarios, participants strengthen medical vocabulary, patient interviewing, explanations of care, professional handovers, written documentation, and communication across multidisciplinary teams. The program emphasizes language skills and communication practices rather than clinical diagnosis or treatment instruction."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Doctors, nurses, allied health professionals, and clinical trainees seeking stronger workplace English.",
+        "Medical receptionists, patient coordinators, healthcare administrators, and customer service staff.",
+        "Pharmacists, laboratory personnel, and other healthcare employees who communicate with patients and colleagues.",
+        "Healthcare professionals preparing to work in English-speaking or multilingual care environments."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Interactive instruction combines targeted vocabulary development, guided listening and reading, patient–provider role-plays, simulated handovers, pronunciation practice, medical-document writing, case-based discussions, and constructive instructor feedback. Formative assessment includes short quizzes, communication checklists, and scenario-based speaking and writing tasks."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Confident, patient-centered spoken English and active listening in healthcare encounters.",
+        "Accurate use and pronunciation of common medical and healthcare terminology.",
+        "Clear patient questioning, explanations, and comprehension checks.",
+        "Professional clinical teamwork, handover, and escalation communication.",
+        "Concise and appropriate healthcare documentation and correspondence.",
+        "Culturally sensitive, confidential, and empathetic communication."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Use essential medical vocabulary to describe body systems, symptoms, conditions, and routine care processes.",
+        "Conduct structured patient introductions, history-taking conversations, and appointment discussions in English.",
+        "Explain routine procedures, instructions, and next steps using understandable, nontechnical language.",
+        "Recognize and clarify patient concerns, including language barriers and misunderstandings.",
+        "Communicate patient information concisely during referrals, handovers, and team discussions.",
+        "Read and draft common workplace documents, messages, and factual patient notes appropriately.",
+        "Apply respectful, empathetic language in sensitive or challenging interactions.",
+        "Demonstrate improved accuracy, fluency, and confidence in simulated healthcare situations."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "English Communication in Healthcare",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Healthcare settings, roles, departments, and common interactions",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Differences between everyday English and clinical terminology",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Accuracy, clarity, professionalism, and patient-centered language",
+                    "level": 0
+                },
+                {
+                    "text": "Introducing oneself and explaining professional responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Polite requests, confirmations, and appropriate forms of address",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Essential Medical Vocabulary",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Common roots, prefixes, suffixes, and abbreviations",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Names and functions of major body systems",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Common symptoms, signs, conditions, and care terms",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing technical vocabulary from patient-friendly words",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding ambiguous abbreviations in communication",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Pronunciation and Listening Accuracy",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Pronouncing frequently used medical terms and drug names",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Stress, syllables, and intelligible speech",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Recognizing numbers, measurements, dates, and times",
+                    "level": 0
+                },
+                {
+                    "text": "Listening to different accents and speaking rates",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying unfamiliar or misheard terminology",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Welcoming and Registering Patients",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Greetings, identity confirmation, and appointment purposes",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Collecting personal and contact information respectfully",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Explaining registration and check-in procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Giving directions to clinics, wards, and service points",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to common reception questions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Taking Patient Histories in English",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Open and closed questions for presenting concerns",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Describing symptom onset, duration, frequency, and severity",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Discussing medical, medication, allergy, and family histories",
+                    "level": 0
+                },
+                {
+                    "text": "Sequencing information and summarizing patient statements",
+                    "level": 0
+                },
+                {
+                    "text": "Checking understanding without leading the patient",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Describing Symptoms and Pain",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Vocabulary for location, quality, and intensity of pain",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Patient descriptions of discomfort and functional limitations",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Asking about associated symptoms and changes over time",
+                    "level": 0
+                },
+                {
+                    "text": "Paraphrasing lay descriptions into clear factual summaries",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing symptom-focused conversations",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Body Systems and Common Clinical Contexts",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Cardiovascular and respiratory vocabulary",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Digestive, urinary, and musculoskeletal terminology",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Neurological, endocrine, and skin-related expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining routine tests and observations in plain English",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting terminology appropriate to the listener",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Vital Signs, Measurements, and Numbers",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Speaking and recording temperature, pulse, and blood pressure",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Units, quantities, ranges, and frequency expressions",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Reading dates, times, percentages, and decimal values",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming numerical information using read-back",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding communication errors with similar-sounding numbers",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Explaining Tests and Routine Procedures",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Introducing common examinations and diagnostic tests",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Explaining preparation and expected steps clearly",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Using sequencing and signposting language",
+                    "level": 0
+                },
+                {
+                    "text": "Inviting questions and checking comprehension",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding unsupported promises or unexplained jargon",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Giving Patient Instructions",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Clear language for appointments and follow-up actions",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Explaining general preparation and aftercare information supplied by clinicians",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Using time expressions and step-by-step directions",
+                    "level": 0
+                },
+                {
+                    "text": "Teach-back and other comprehension checks",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting that instructions were communicated",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Medication-Related Communication",
+            "items": [
+                {
+                    "text": "Common dosage forms and administration vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing medication lists and allergies accurately",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying written instructions from authorized clinicians",
+                    "level": 0
+                },
+                {
+                    "text": "Using careful language for frequency and timing",
+                    "level": 0
+                },
+                {
+                    "text": "Escalating unclear or conflicting medication information",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Empathy and Sensitive Conversations",
+            "items": [
+                {
+                    "text": "Acknowledging patient emotions without assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Supportive language for distress, uncertainty, and frustration",
+                    "level": 0
+                },
+                {
+                    "text": "Respectful expressions when discussing sensitive topics",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining professional boundaries and appropriate tone",
+                    "level": 0
+                },
+                {
+                    "text": "Role-playing difficult conversations with patients and families",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Communicating Across Cultures and Language Barriers",
+            "items": [
+                {
+                    "text": "Cultural awareness and respectful forms of communication",
+                    "level": 0
+                },
+                {
+                    "text": "Using plain language with different English proficiency levels",
+                    "level": 0
+                },
+                {
+                    "text": "Working effectively with qualified interpreters",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding idioms, slang, and unnecessary jargon",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming consent-related understanding through appropriate channels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Telephone and Digital Healthcare Communication",
+            "items": [
+                {
+                    "text": "Answering calls and identifying the purpose of contact",
+                    "level": 0
+                },
+                {
+                    "text": "Taking accurate messages and confirming details",
+                    "level": 0
+                },
+                {
+                    "text": "Managing appointment requests and callbacks",
+                    "level": 0
+                },
+                {
+                    "text": "Professional emails, patient portal messages, and telehealth etiquette",
+                    "level": 0
+                },
+                {
+                    "text": "Privacy-conscious communication through approved channels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Clinical Team Communication and Handover",
+            "items": [
+                {
+                    "text": "Structured verbal updates and concise summaries",
+                    "level": 0
+                },
+                {
+                    "text": "Using SBAR-style situation, background, assessment, recommendation language as a communication framework",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying responsibility and next steps",
+                    "level": 0
+                },
+                {
+                    "text": "Closed-loop communication and read-back",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing handovers with realistic cases",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Referrals, Consultations, and Interdepartmental Coordination",
+            "items": [
+                {
+                    "text": "Introducing the purpose of referrals and consultations",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing relevant factual information",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting clarification or additional information",
+                    "level": 0
+                },
+                {
+                    "text": "Scheduling and coordinating across departments",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating professionally with multidisciplinary teams",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Healthcare Documents",
+            "items": [
+                {
+                    "text": "Understanding common forms, instructions, and appointment letters",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying key information in referral and discharge documents",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing common medical abbreviations in context",
+                    "level": 0
+                },
+                {
+                    "text": "Reading patient education materials critically",
+                    "level": 0
+                },
+                {
+                    "text": "Extracting factual details without making clinical assumptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Patient Notes and Professional Messages",
+            "items": [
+                {
+                    "text": "Objective versus subjective language in documentation",
+                    "level": 0
+                },
+                {
+                    "text": "Writing concise, factual event and observation notes",
+                    "level": 0
+                },
+                {
+                    "text": "Using appropriate tense, chronology, and terminology",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing professional handover and referral messages",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for clarity, completeness, and confidentiality",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Handling Complaints and Communication Breakdowns",
+            "items": [
+                {
+                    "text": "Listening to concerns without interrupting",
+                    "level": 0
+                },
+                {
+                    "text": "Acknowledging inconvenience and explaining available processes",
+                    "level": 0
+                },
+                {
+                    "text": "De-escalating misunderstandings through calm language",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying requests and referring matters to the appropriate staff",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting and following up on communication issues",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Healthcare English Simulations and Assessment",
+            "items": [
+                {
+                    "text": "Integrated patient reception and history-taking scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining routine processes and checking understanding",
+                    "level": 0
+                },
+                {
+                    "text": "Simulated phone calls, handovers, and team coordination",
+                    "level": 0
+                },
+                {
+                    "text": "Short reading and writing assessments using healthcare materials",
+                    "level": 0
+                },
+                {
+                    "text": "Individual feedback and personal language development plan",
                     "level": 0
                 }
             ]

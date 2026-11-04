@@ -2,200 +2,496 @@
     "title": "German Language – Level 02",
     "duration": "1 Month",
     "overview": [
-        "This elementary German language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "German Language – Level 02 develops elementary German communication skills for learners who have completed introductory study or demonstrate equivalent proficiency. The course builds accuracy and confidence in everyday exchanges, extends control of core sentence structures and verb forms, and develops listening, speaking, reading, and writing through realistic personal, social, travel, and workplace situations. Guided practice emphasizes understandable communication, appropriate register, and independent use of familiar German."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their German language skills.",
-        "Professionals and residents who use German in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of German study."
+        "Learners who have completed German Language – Level 01 or possess equivalent foundational knowledge.",
+        "Students and professionals seeking stronger everyday German communication skills.",
+        "Travelers, residents, and individuals preparing for routine interactions in German-speaking environments.",
+        "Learners progressing toward higher-level German language study."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Interactive communicative lessons combining brief grammar explanations, modeled dialogues, pair and group speaking activities, pronunciation practice, guided listening, short reading tasks, structured writing, vocabulary recycling, and situational role-plays. Formative quizzes, teacher feedback, self-assessment, and an integrated final performance task monitor progress across the four language skills."
     ],
     "competencies": [
-        "Communicating effectively in German in everyday and professional contexts.",
-        "Understanding spoken and written German at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing German texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Elementary spoken interaction and turn-taking in familiar contexts.",
+        "Comprehension of short, clearly delivered everyday German messages.",
+        "Use of common present, past, and future-oriented expressions.",
+        "Accurate basic sentence construction, questions, negation, and word order.",
+        "Reading practical notices, short messages, and simple informational texts.",
+        "Writing connected short messages and descriptions using appropriate vocabulary.",
+        "Cultural awareness and polite communication in everyday situations."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use German effectively in a range of everyday and professional situations.",
-        "Understand spoken and written German at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in German.",
-        "Demonstrate cultural awareness in German-speaking contexts."
+        "Exchange information about routines, preferences, past activities, and near-future plans.",
+        "Ask and answer questions using common interrogative forms and appropriate sentence order.",
+        "Use essential modal verbs, separable verbs, and common past-tense patterns in context.",
+        "Understand the main points of short conversations, announcements, and instructions.",
+        "Describe people, places, experiences, and everyday problems with increasing detail.",
+        "Read and respond to short emails, notices, schedules, and practical information.",
+        "Write brief connected texts, invitations, requests, and descriptions.",
+        "Participate in routine shopping, travel, appointment, and workplace interactions."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Review and Consolidation of Level 01",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Revisiting greetings, introductions, personal details, and everyday vocabulary",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Refreshing articles, noun gender, plurals, and common verb conjugations",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Practicing basic questions, negation, and simple sentence patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying individual strengths and learning priorities",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Everyday Routines and Time Management",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Describing daily and weekly routines with frequency expressions",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Telling the time and discussing schedules and appointments",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Using temporal adverbs and sequencing expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing weekday, weekend, and work routines",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Present-Tense Verbs and Sentence Structure",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Conjugating common regular and irregular verbs in the present",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Using main-clause verb-second word order",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Forming yes/no questions and information questions",
+                    "level": 0
+                },
+                {
+                    "text": "Building accurate affirmative and negative statements",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Separable and Inseparable Verbs",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Recognizing common separable prefixes in everyday verbs",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Placing separated prefixes correctly in main clauses",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Using inseparable verbs in practical situations",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing instructions and routine activity descriptions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Modal Verbs for Needs and Possibilities",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Using können, müssen, dürfen, sollen, wollen, and mögen",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Expressing ability, obligation, permission, and preferences",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Placing infinitives correctly in modal-verb constructions",
+                    "level": 0
+                },
+                {
+                    "text": "Making polite requests and responding to suggestions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Nouns, Articles, and Cases in Context",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Reviewing nominative and accusative forms",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Introducing common dative forms and high-frequency expressions",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Selecting definite and indefinite articles in context",
+                    "level": 0
+                },
+                {
+                    "text": "Using personal pronouns in simple case-dependent constructions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Possessives and Describing Relationships",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Using possessive determiners for family and belongings",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Describing family, colleagues, and social relationships",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Asking about ownership and personal connections",
+                    "level": 0
+                },
+                {
+                    "text": "Combining possessives with familiar noun phrases",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Adjectives and Everyday Descriptions",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Describing people, objects, homes, and places",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Using common adjectives and opposites appropriately",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Making simple comparisons with comparative and superlative forms",
+                    "level": 0
+                },
+                {
+                    "text": "Expanding descriptions with intensifiers and modifiers",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Shopping, Prices, and Consumer Conversations",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Asking for sizes, quantities, colors, and prices",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Making purchases and responding to sales questions",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Expressing preferences and comparing products",
+                    "level": 0
+                },
+                {
+                    "text": "Handling simple exchanges, returns, and service requests",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Food, Restaurants, and Social Dining",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Understanding menus and ordering meals politely",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Discussing food preferences and dietary requirements",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Making reservations and requesting the bill",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing service encounters and short social conversations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Travel and Local Transportation",
+            "items": [
+                {
+                    "text": "Asking for and giving directions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding routes, tickets, timetables, and travel notices",
+                    "level": 0
+                },
+                {
+                    "text": "Describing travel arrangements and destination plans",
+                    "level": 0
+                },
+                {
+                    "text": "Managing common transportation-related problems",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Accommodation and Places in Town",
+            "items": [
+                {
+                    "text": "Describing rooms, homes, and local facilities",
+                    "level": 0
+                },
+                {
+                    "text": "Asking about location, availability, and amenities",
+                    "level": 0
+                },
+                {
+                    "text": "Using common location expressions and prepositions",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing neighborhood services and housing needs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Prepositions of Place and Movement",
+            "items": [
+                {
+                    "text": "Using frequent prepositions for location and direction",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing simple where and where-to questions",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing common dative and accusative preposition patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Giving clear directions using landmarks and movement verbs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Talking About Past Experiences",
+            "items": [
+                {
+                    "text": "Introducing conversational past with Perfekt",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing haben or sein with frequent verbs",
+                    "level": 0
+                },
+                {
+                    "text": "Forming common past participles including irregular patterns",
+                    "level": 0
+                },
+                {
+                    "text": "Describing recent activities, visits, and personal experiences",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Future Plans, Invitations, and Arrangements",
+            "items": [
+                {
+                    "text": "Expressing future intentions with present tense and time markers",
+                    "level": 0
+                },
+                {
+                    "text": "Using werden constructions in familiar contexts",
+                    "level": 0
+                },
+                {
+                    "text": "Inviting, accepting, declining, and proposing alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming plans and changing arrangements politely",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Health, Well-Being, and Appointments",
+            "items": [
+                {
+                    "text": "Describing common symptoms and everyday health concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Booking and changing appointments",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding simple health-related advice and instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing clear, polite conversations with service staff",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Workplace Communication Fundamentals",
+            "items": [
+                {
+                    "text": "Describing jobs, responsibilities, and typical tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Using polite requests with colleagues and supervisors",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding short workplace instructions and schedules",
+                    "level": 0
+                },
+                {
+                    "text": "Exchanging routine information in brief professional interactions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening for Meaning and Key Details",
+            "items": [
+                {
+                    "text": "Identifying main ideas in short recorded dialogues",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing dates, numbers, locations, and instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Using context to infer familiar vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Checking comprehension and requesting repetition",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Practical German Texts",
+            "items": [
+                {
+                    "text": "Reading notices, menus, advertisements, and schedules",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding short personal and professional messages",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying main ideas and specific factual details",
+                    "level": 0
+                },
+                {
+                    "text": "Developing strategies for unfamiliar words",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Messages and Short Connected Texts",
+            "items": [
+                {
+                    "text": "Writing short emails, invitations, and replies",
+                    "level": 0
+                },
+                {
+                    "text": "Describing experiences, routines, and future plans",
+                    "level": 0
+                },
+                {
+                    "text": "Using connectors such as und, aber, denn, and weil in guided practice",
+                    "level": 0
+                },
+                {
+                    "text": "Revising texts for clarity, punctuation, and grammatical accuracy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Pronunciation, Fluency, and Interaction",
+            "items": [
+                {
+                    "text": "Practicing German vowel length, umlauts, and consonant contrasts",
+                    "level": 0
+                },
+                {
+                    "text": "Improving sentence rhythm, word stress, and intonation",
+                    "level": 0
+                },
+                {
+                    "text": "Using clarification, repetition, and repair strategies",
+                    "level": 0
+                },
+                {
+                    "text": "Building confidence through structured pair conversations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Practice and Final Assessment",
+            "items": [
+                {
+                    "text": "Role-playing travel, shopping, workplace, and social situations",
+                    "level": 0
+                },
+                {
+                    "text": "Completing listening and reading comprehension tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Producing a short written message and spoken presentation",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing individual feedback and next-level learning goals",
                     "level": 0
                 }
             ]

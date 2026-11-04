@@ -2,200 +2,494 @@
     "title": "TOEFL Preparation Course – Extensive Course",
     "duration": "15 Days",
     "overview": [
-        "This intensive 15-day TOEFL preparation course delivers accelerated training across all four iBT sections. Ideal for candidates approaching their test date, the course focuses on high-yield strategies, extensive practice and targeted feedback to boost scores efficiently."
+        "This intensive TOEFL preparation course develops the academic English proficiency, test-taking judgment, and timed performance required for the TOEFL iBT. Through diagnostic assessment, focused practice in Reading, Listening, Speaking, and Writing, integrated-skills tasks, and structured feedback, participants learn to respond accurately and efficiently under examination conditions. The 15-day format prioritizes high-impact strategies, deliberate practice, and individual improvement plans. Test tasks and timing are reviewed against the format applicable at the time of delivery."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Students preparing for admission to English-medium universities and colleges.",
+        "Professionals seeking an English-language proficiency score for academic or professional requirements.",
+        "Learners with intermediate or higher English proficiency who need intensive TOEFL preparation.",
+        "Candidates retaking the TOEFL who wish to address identified performance gaps."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Trainer-led strategy demonstrations, diagnostic and timed practice tests, academic reading and listening exercises, speaking recordings, writing workshops, peer review, individualized corrective feedback, integrated-skills simulations, and a final mock examination. Progress is tracked using performance rubrics and targeted improvement exercises."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Academic reading comprehension, inference, and information synthesis.",
+        "Listening comprehension and effective academic note-taking.",
+        "Clear, organized, intelligible spoken responses under time limits.",
+        "Accurate, coherent academic writing and source integration.",
+        "Time management, question analysis, self-monitoring, and test readiness."
     ],
     "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
+        "By the end of this course, participants will be able to:"
     ],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Identify TOEFL iBT section requirements, question types, scoring criteria, and examination procedures.",
+        "Apply efficient strategies to understand academic passages and spoken material.",
+        "Organize and deliver relevant spoken responses with appropriate fluency and clarity.",
+        "Plan, compose, and revise written responses using accurate language and logical organization.",
+        "Integrate information from reading and listening sources without distorting meaning.",
+        "Manage test time, evaluate errors, and implement a personalized improvement plan."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "TOEFL iBT Orientation and Diagnostic Assessment",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Purpose, structure, and skills assessed in the TOEFL iBT.",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Current task types, instructions, timing, and score reporting.",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Initial diagnostic exercises across the four language skills.",
+                    "level": 0
+                },
+                {
+                    "text": "Individual target scores and priority development needs.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Intensive Academic English Foundations",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Academic vocabulary and common word families.",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Sentence structure, grammatical accuracy, and cohesion.",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Recognizing argument, evidence, contrast, and cause.",
+                    "level": 0
+                },
+                {
+                    "text": "Precision and concision in academic communication.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Reading: Passage Structure and Main Ideas",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Recognizing topic, purpose, and organizational patterns.",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Locating central claims and supporting evidence.",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Using paragraph functions to navigate long texts.",
+                    "level": 0
+                },
+                {
+                    "text": "Efficient reading without unnecessary rereading.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Reading: Vocabulary and Meaning in Context",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Inferring word meaning from surrounding sentences.",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Recognizing reference words and logical connectors.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Interpreting paraphrases and equivalent meanings.",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding distractors based on isolated keywords.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Reading: Inference and Detail Questions",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Identifying stated facts and implied conclusions.",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Distinguishing supported inferences from assumptions.",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Finding relevant evidence efficiently.",
+                    "level": 0
+                },
+                {
+                    "text": "Checking answers against passage meaning.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Reading: Synthesis and Timed Practice",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Understanding relationships across paragraphs.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Summarizing key ideas without minor details.",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Practicing challenging question sets under time pressure.",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing recurring errors and adjusting strategy.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Listening: Academic Conversations",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Understanding speakers’ purpose and context.",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Recognizing requests, problems, and proposed solutions.",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Interpreting attitude, emphasis, and implied meaning.",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting essential notes without transcribing speech.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Listening: Academic Lectures",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Identifying lecture structure and major concepts.",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Tracking examples, comparisons, and explanations.",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Recognizing transitions and speaker emphasis.",
+                    "level": 0
+                },
+                {
+                    "text": "Using concise symbols and abbreviations in notes.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Listening: Inference and Function",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Identifying why a speaker says something.",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Separating key information from supporting examples.",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Understanding implied relationships and conclusions.",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding answers that distort speaker intent.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Listening: Note-Taking and Timed Drills",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Organizing notes by main idea and supporting points.",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Listening for signal words and topic changes.",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Practicing with varied academic subjects and accents.",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing comprehension and note-taking efficiency.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking: Response Planning and Delivery",
+            "items": [
+                {
+                    "text": "Interpreting prompts and identifying task demands.",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing concise outlines within limited preparation time.",
+                    "level": 0
+                },
+                {
+                    "text": "Developing clear openings, reasons, and examples.",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining intelligibility and appropriate pace.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking: Academic Source Integration",
+            "items": [
+                {
+                    "text": "Extracting essential ideas from written and spoken sources.",
+                    "level": 0
+                },
+                {
+                    "text": "Connecting source information in a logical sequence.",
+                    "level": 0
+                },
+                {
+                    "text": "Paraphrasing accurately without adding unsupported claims.",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing completeness within response limits.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking: Fluency, Pronunciation, and Coherence",
+            "items": [
+                {
+                    "text": "Reducing unnecessary pauses and repetition.",
+                    "level": 0
+                },
+                {
+                    "text": "Using stress, intonation, and grouping for clarity.",
+                    "level": 0
+                },
+                {
+                    "text": "Applying cohesive phrases without overusing templates.",
+                    "level": 0
+                },
+                {
+                    "text": "Recording and reviewing responses using scoring rubrics.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Speaking: Timed Simulations and Feedback",
+            "items": [
+                {
+                    "text": "Completing representative speaking tasks under test conditions.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing rapid planning and response organization.",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving feedback on content, delivery, and language use.",
+                    "level": 0
+                },
+                {
+                    "text": "Building a personal checklist for recurring weaknesses.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing: Task Requirements and Planning",
+            "items": [
+                {
+                    "text": "Understanding writing task objectives and assessment criteria.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying relevant information and intended audience.",
+                    "level": 0
+                },
+                {
+                    "text": "Planning clear, focused responses efficiently.",
+                    "level": 0
+                },
+                {
+                    "text": "Allocating time for drafting and checking.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing: Integrated Academic Responses",
+            "items": [
+                {
+                    "text": "Combining relevant points from reading and listening.",
+                    "level": 0
+                },
+                {
+                    "text": "Showing agreement, contrast, or correction between sources.",
+                    "level": 0
+                },
+                {
+                    "text": "Using accurate paraphrase and attribution.",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding personal opinions when source-based reporting is required.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing: Academic Discussion Responses",
+            "items": [
+                {
+                    "text": "Developing a clear, relevant contribution to a discussion.",
+                    "level": 0
+                },
+                {
+                    "text": "Supporting ideas with concise reasoning and examples.",
+                    "level": 0
+                },
+                {
+                    "text": "Responding appropriately to other viewpoints.",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining clarity, coherence, and task relevance.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing: Language Accuracy and Revision",
+            "items": [
+                {
+                    "text": "Improving sentence variety and grammatical control.",
+                    "level": 0
+                },
+                {
+                    "text": "Using precise vocabulary and logical connectors.",
+                    "level": 0
+                },
+                {
+                    "text": "Checking reference, agreement, and punctuation.",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for clarity within strict time limits.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Skills: Reading, Listening, and Production",
+            "items": [
+                {
+                    "text": "Extracting compatible evidence from multiple sources.",
+                    "level": 0
+                },
+                {
+                    "text": "Prioritizing essential information for speaking and writing.",
+                    "level": 0
+                },
+                {
+                    "text": "Transforming notes into well-structured responses.",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing rapid switching between receptive and productive skills.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Examination Strategy and Time Management",
+            "items": [
+                {
+                    "text": "Setting practical pacing targets for each section.",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing and recovering from difficult questions.",
+                    "level": 0
+                },
+                {
+                    "text": "Applying elimination and evidence-checking techniques.",
+                    "level": 0
+                },
+                {
+                    "text": "Managing concentration and test-day routines.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Full-Length Mock Test and Performance Review",
+            "items": [
+                {
+                    "text": "Completing a realistic practice examination.",
+                    "level": 0
+                },
+                {
+                    "text": "Applying timing and section strategies independently.",
+                    "level": 0
+                },
+                {
+                    "text": "Analyzing performance by skill and task type.",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying the highest-impact areas for final revision.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Personalized Improvement and Final Readiness",
+            "items": [
+                {
+                    "text": "Creating a short-term self-study and practice schedule.",
+                    "level": 0
+                },
+                {
+                    "text": "Using feedback logs and error patterns to guide revision.",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting reliable practice materials and self-assessment methods.",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing test logistics, confidence, and readiness checks.",
                     "level": 0
                 }
             ]

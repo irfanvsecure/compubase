@@ -2,200 +2,495 @@
     "title": "French Language – Level 03",
     "duration": "1 Month",
     "overview": [
-        "This pre-intermediate French language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "French Language – Level 03 develops pre-intermediate communication skills for increasingly varied personal, social, travel, and workplace situations. Building on Level 02, participants strengthen control of past, present, and future forms, expand their vocabulary, and learn to connect ideas, express opinions, describe experiences, and manage everyday problems. The course integrates listening, speaking, reading, writing, pronunciation, and intercultural awareness through practical communicative tasks."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their French language skills.",
-        "Professionals and residents who use French in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of French study."
+        "Learners who have completed French Language – Level 02 or demonstrated equivalent elementary proficiency; students, working professionals, travelers, and individuals seeking greater independence and confidence in everyday French communication."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Communicative instructor-led workshops; scenario-based dialogues; paired and small-group speaking practice; authentic short audio and reading materials; guided grammar discovery; pronunciation coaching; structured writing tasks; vocabulary reviews; role plays; regular formative feedback; and integrated end-of-course assessments."
     ],
     "competencies": [
-        "Communicating effectively in French in everyday and professional contexts.",
-        "Understanding spoken and written French at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing French texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Sustained participation in familiar conversations and routine problem-solving exchanges.",
+        "More accurate use of past, present, and future constructions in connected speech.",
+        "Listening for main ideas and relevant details in clear everyday French.",
+        "Reading short narratives, instructions, notices, and practical workplace messages.",
+        "Writing connected paragraphs, emails, descriptions, and short accounts of events.",
+        "Expressing preferences, reasons, comparisons, suggestions, and simple opinions.",
+        "Improved pronunciation, interaction management, and intercultural appropriateness."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use French effectively in a range of everyday and professional situations.",
-        "Understand spoken and written French at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in French.",
-        "Demonstrate cultural awareness in French-speaking contexts."
+        "Describe experiences and events using the passé composé and introductory imparfait.",
+        "Explain future plans and intentions using the futur proche and futur simple.",
+        "Maintain conversations about work, leisure, travel, health, and daily responsibilities.",
+        "Express opinions, agreement, disagreement, preferences, and supporting reasons.",
+        "Ask for clarification, make suggestions, and resolve common service problems.",
+        "Understand key information in short interviews, announcements, and conversations.",
+        "Read and summarize accessible articles, messages, and narrative passages.",
+        "Write structured emails, short stories, descriptions, and practical requests.",
+        "Use common pronouns, connectors, comparisons, and polite forms with greater accuracy.",
+        "Demonstrate integrated language skills through realistic communication tasks."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Consolidating Elementary French",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Review of core vocabulary and structures from Level 02",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Diagnostic speaking, listening, reading, and writing activities",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Building longer answers beyond isolated sentences",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing common errors and setting learning priorities",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Talking About Daily Life in Detail",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Describing routines, responsibilities, and recurring activities",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Using frequency adverbs and time expressions accurately",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Explaining changes in habits and schedules",
+                    "level": 0
+                },
+                {
+                    "text": "Asking follow-up questions to sustain conversation",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Narrating Completed Events",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Formation and use of the passé composé with avoir and être",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Common irregular past participles and agreement patterns",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Sequencing events with time markers",
+                    "level": 0
+                },
+                {
+                    "text": "Recounting recent personal and professional experiences",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Describing Past Situations",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Introduction to the imparfait for descriptions and habitual actions",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Contrasting background circumstances with completed events",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Talking about childhood, past routines, and settings",
+                    "level": 0
+                },
+                {
+                    "text": "Combining past forms in guided narratives",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Expressing Future Plans and Predictions",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Using futur proche for immediate intentions",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Introduction to futur simple and frequent irregular stems",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Making arrangements, predictions, and commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing personal goals and upcoming activities",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Giving Opinions and Reasons",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Expressions for agreement, disagreement, and preference",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Explaining choices with parce que, car, and donc",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Comparing alternatives and supporting simple arguments",
+                    "level": 0
+                },
+                {
+                    "text": "Practising respectful discussion and turn-taking",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Comparisons and Descriptions",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Comparative and superlative structures",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Describing people, places, products, and services",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Using adjective agreement and placement",
+                    "level": 0
+                },
+                {
+                    "text": "Evaluating options for travel, purchases, and work",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Pronouns and Reference in Conversation",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Direct and indirect object pronouns in common contexts",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Using y and en in frequent practical expressions",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Avoiding unnecessary repetition in speech and writing",
+                    "level": 0
+                },
+                {
+                    "text": "Guided sentence transformation and dialogue practice",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Connecting Ideas in Speech and Writing",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Using puis, ensuite, cependant, pourtant, and enfin",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Expressing cause, consequence, and contrast",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Organizing a short spoken explanation",
+                    "level": 0
+                },
+                {
+                    "text": "Writing coherent paragraphs with logical transitions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Travel and Transport Communication",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Discussing routes, schedules, reservations, and delays",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Understanding announcements and travel instructions",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Explaining travel problems and requesting assistance",
+                    "level": 0
+                },
+                {
+                    "text": "Role plays at stations, airports, and hotels",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shopping, Services, and Consumer Issues",
+            "items": [
+                {
+                    "text": "Comparing prices, features, and quality",
+                    "level": 0
+                },
+                {
+                    "text": "Asking about returns, warranties, and availability",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining dissatisfaction politely and clearly",
+                    "level": 0
+                },
+                {
+                    "text": "Negotiating simple solutions with service staff",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Health, Wellbeing, and Appointments",
+            "items": [
+                {
+                    "text": "Describing symptoms, routines, and basic health concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Arranging and changing appointments",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding straightforward advice and instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Using polite requests in health-related situations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Workplace Communication Fundamentals",
+            "items": [
+                {
+                    "text": "Describing roles, tasks, and team responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing schedules, deadlines, and priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Making requests and providing progress updates",
+                    "level": 0
+                },
+                {
+                    "text": "Participating in simple workplace conversations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Telephone and Digital Communication",
+            "items": [
+                {
+                    "text": "Opening, maintaining, and closing phone calls",
+                    "level": 0
+                },
+                {
+                    "text": "Leaving and understanding brief messages",
+                    "level": 0
+                },
+                {
+                    "text": "Writing practical emails and instant messages",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying names, numbers, dates, and arrangements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Social Invitations and Interactions",
+            "items": [
+                {
+                    "text": "Inviting, accepting, and declining with appropriate tone",
+                    "level": 0
+                },
+                {
+                    "text": "Planning events and coordinating arrangements",
+                    "level": 0
+                },
+                {
+                    "text": "Describing social experiences and shared interests",
+                    "level": 0
+                },
+                {
+                    "text": "Managing common conversational misunderstandings",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening for Main Ideas and Detail",
+            "items": [
+                {
+                    "text": "Identifying topic, speaker intention, and key information",
+                    "level": 0
+                },
+                {
+                    "text": "Listening to short interviews, conversations, and announcements",
+                    "level": 0
+                },
+                {
+                    "text": "Using context to infer unfamiliar vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Practising note-taking and comprehension checks",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Everyday and Informational Texts",
+            "items": [
+                {
+                    "text": "Understanding short articles, notices, and service information",
+                    "level": 0
+                },
+                {
+                    "text": "Finding specific details in schedules and instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing text purpose and organization",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing the main message in accessible French",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Narratives and Descriptions",
+            "items": [
+                {
+                    "text": "Planning a short account with a clear sequence",
+                    "level": 0
+                },
+                {
+                    "text": "Describing places, events, and personal experiences",
+                    "level": 0
+                },
+                {
+                    "text": "Using paragraph structure and linking expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for tense consistency, spelling, and agreement",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional and Personal Correspondence",
+            "items": [
+                {
+                    "text": "Writing short formal and informal emails",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting information and responding to invitations",
+                    "level": 0
+                },
+                {
+                    "text": "Using greetings, closings, and polite formulas",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing tone, clarity, and message organization",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Pronunciation, Rhythm, and Fluency",
+            "items": [
+                {
+                    "text": "Practising liaison, enchaînement, and sentence rhythm",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing challenging vowel and consonant sounds",
+                    "level": 0
+                },
+                {
+                    "text": "Using intonation for questions and emphasis",
+                    "level": 0
+                },
+                {
+                    "text": "Improving fluency through repeated communicative practice",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "French-Speaking Cultures and Etiquette",
+            "items": [
+                {
+                    "text": "Recognizing differences in register and forms of address",
+                    "level": 0
+                },
+                {
+                    "text": "Using tu and vous appropriately",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding everyday politeness and social conventions",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing cultural contexts without stereotyping",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Communication Practice and Assessment",
+            "items": [
+                {
+                    "text": "Role plays combining travel, workplace, and social scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Listening and reading tasks with practical comprehension questions",
+                    "level": 0
+                },
+                {
+                    "text": "Short presentations and connected writing assignments",
+                    "level": 0
+                },
+                {
+                    "text": "Individual feedback and an action plan for progression to Level 04",
                     "level": 0
                 }
             ]

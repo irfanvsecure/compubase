@@ -2,200 +2,664 @@
     "title": "English for Technical Job Performance",
     "duration": "3 Months",
     "overview": [
-        "This extended program develops the English language skills technical professionals need to perform their roles effectively. Covering technical writing, reading manuals and documentation, explaining processes, reporting and professional communication, the course builds both language accuracy and the confidence to interact in English-language technical environments."
+        "English for Technical Job Performance is a practical, workplace-oriented language program designed to help technical employees communicate accurately, confidently and safely in English. Across three months, participants strengthen the language used to interpret technical instructions, explain equipment and processes, report faults, coordinate maintenance, document work, and interact with colleagues, supervisors, contractors and customers. The course integrates listening, speaking, reading and writing with authentic technical scenarios, while adapting terminology and tasks to participants’ industries and job roles."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Technicians, engineers, maintenance staff, operators and technical supervisors.",
+        "Employees in manufacturing, construction, utilities, facilities, logistics, IT support and related technical functions.",
+        "Technical staff who use English in shift handovers, safety briefings, service calls, reporting or contractor coordination.",
+        "Professionals seeking to improve job-specific English accuracy, fluency and confidence."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "A communicative, task-based approach combining instructor-led language input with technical workplace simulations, paired dialogues, pronunciation drills, listening activities, guided reading, structured writing, role-plays and practical assessments. Participants work with sample manuals, job cards, checklists, diagrams, incident descriptions and handover notes. Diagnostic assessment, continuous feedback, targeted vocabulary practice and a final integrated performance task support measurable improvement."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Technical vocabulary and accurate workplace terminology.",
+        "Listening comprehension of technical instructions and operational discussions.",
+        "Clear spoken explanations, questioning and clarification.",
+        "Reading and interpretation of technical documents and visual information.",
+        "Concise, accurate technical writing and reporting.",
+        "Safety-critical communication and effective shift handovers.",
+        "Professional collaboration, troubleshooting discussions and customer interaction."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Use appropriate English to describe tools, materials, components, equipment and technical operations.",
+        "Understand and confirm spoken instructions, warnings, procedures and work priorities.",
+        "Read manuals, specifications, diagrams, work orders and safety information for key details.",
+        "Explain processes, operating conditions, faults and corrective actions in clear sequences.",
+        "Participate effectively in technical meetings, briefings, handovers and troubleshooting discussions.",
+        "Write accurate emails, maintenance notes, service updates, incident descriptions and concise reports.",
+        "Apply clarification, confirmation and escalation language to reduce communication errors.",
+        "Demonstrate improved technical English through realistic workplace performance tasks."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Technical English Foundations",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Workplace language needs analysis and baseline communication assessment",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Common technical verbs, nouns, adjectives and abbreviations",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Building accurate short sentences for routine technical tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Formal and informal registers in technical environments",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Tools, Materials and Components",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Naming tools, parts, materials and consumables",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Describing dimensions, shapes, quantities and properties",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Explaining component purpose and basic functions",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying items from diagrams and workplace inventories",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Equipment and System Descriptions",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Describing machinery, devices and system configurations",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Explaining location, position, connection and movement",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Using present simple and passive structures in descriptions",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting equipment specifications and operating limits",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Technical Numbers and Measurements",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Reading measurements, tolerances, ranges and units",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Pronouncing numbers, decimals, fractions and percentages",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Communicating pressure, temperature, voltage and capacity",
+                    "level": 0
+                },
+                {
+                    "text": "Checking numerical accuracy and avoiding misunderstandings",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Workplace Instructions and Requests",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Understanding commands, requests and sequences",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Giving step-by-step instructions using clear language",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Asking for repetition, clarification and confirmation",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing required, recommended and prohibited actions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Reading Technical Manuals",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Navigating manuals, guides and operating procedures",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Identifying warnings, prerequisites and procedural steps",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Using headings, tables, labels and technical glossaries",
+                    "level": 0
+                },
+                {
+                    "text": "Extracting relevant information without over-interpreting instructions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Diagrams, Drawings and Specifications",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Interpreting legends, symbols, labels and annotations",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Explaining flowcharts, layouts and component relationships",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Describing specifications and technical requirements",
+                    "level": 0
+                },
+                {
+                    "text": "Asking precise questions about unclear drawings",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Safety Language and Hazard Communication",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Safety signs, hazard vocabulary and warning statements",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Describing unsafe conditions and potential consequences",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Communicating protective measures and work restrictions",
+                    "level": 0
+                },
+                {
+                    "text": "Using unambiguous language for urgent safety messages",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Permit-to-Work and Procedure Communication",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Vocabulary of authorization, isolation and access control",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Discussing procedure steps and responsibility boundaries",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Confirming work readiness and required precautions",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting deviations and requesting supervisor guidance",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Listening to Technical Briefings",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Identifying key points in briefings and toolbox talks",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Recognizing action items, deadlines and responsibilities",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Taking structured notes from spoken technical information",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing instructions back to confirm understanding",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shift Handover Communication",
+            "items": [
+                {
+                    "text": "Reporting equipment status, completed work and pending tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Highlighting defects, risks and outstanding actions",
+                    "level": 0
+                },
+                {
+                    "text": "Using standardized handover structures and checklists",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing concise spoken and written handovers",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Maintenance and Inspection Vocabulary",
+            "items": [
+                {
+                    "text": "Describing preventive and corrective maintenance",
+                    "level": 0
+                },
+                {
+                    "text": "Naming inspection methods, checks and observations",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining maintenance schedules and service intervals",
+                    "level": 0
+                },
+                {
+                    "text": "Recording findings using precise technical language",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Describing Faults and Malfunctions",
+            "items": [
+                {
+                    "text": "Reporting symptoms, alarms and abnormal conditions",
+                    "level": 0
+                },
+                {
+                    "text": "Using accurate terms for leaks, vibration, noise and failure",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing observed facts from suspected causes",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining when and how faults occurred",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Troubleshooting Discussions",
+            "items": [
+                {
+                    "text": "Asking diagnostic questions and clarifying evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Describing tests, results and possible causes",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing options and proposing corrective actions",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating unresolved issues and escalation needs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Process and Workflow Explanations",
+            "items": [
+                {
+                    "text": "Sequencing stages with clear linking expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining inputs, outputs and process dependencies",
+                    "level": 0
+                },
+                {
+                    "text": "Using cause-and-effect language for technical processes",
+                    "level": 0
+                },
+                {
+                    "text": "Describing changes in operational conditions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Technical Grammar in Context",
+            "items": [
+                {
+                    "text": "Present, past and future forms for operational updates",
+                    "level": 0
+                },
+                {
+                    "text": "Modal verbs for obligation, possibility and advice",
+                    "level": 0
+                },
+                {
+                    "text": "Conditionals for risks, faults and contingency actions",
+                    "level": 0
+                },
+                {
+                    "text": "Passive voice for processes and incident descriptions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Pronunciation and Spoken Clarity",
+            "items": [
+                {
+                    "text": "Stress patterns in common technical terms",
+                    "level": 0
+                },
+                {
+                    "text": "Pronouncing acronyms, numbers and equipment names",
+                    "level": 0
+                },
+                {
+                    "text": "Managing speaking pace and intelligibility",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing read-back and confirmation techniques",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Technical Telephone and Radio Communication",
+            "items": [
+                {
+                    "text": "Opening calls and identifying purpose quickly",
+                    "level": 0
+                },
+                {
+                    "text": "Spelling names, codes and references accurately",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating short operational updates over audio channels",
+                    "level": 0
+                },
+                {
+                    "text": "Closing conversations with confirmed next steps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Email and Workplace Messaging",
+            "items": [
+                {
+                    "text": "Writing clear subject lines and concise requests",
+                    "level": 0
+                },
+                {
+                    "text": "Providing updates, follow-ups and action summaries",
+                    "level": 0
+                },
+                {
+                    "text": "Using polite but direct technical language",
+                    "level": 0
+                },
+                {
+                    "text": "Proofreading for accuracy, tone and completeness",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Work Orders and Job Cards",
+            "items": [
+                {
+                    "text": "Reading task descriptions, priorities and instructions",
+                    "level": 0
+                },
+                {
+                    "text": "Completing work records with clear action statements",
+                    "level": 0
+                },
+                {
+                    "text": "Documenting materials used, results and outstanding issues",
+                    "level": 0
+                },
+                {
+                    "text": "Separating completed actions from recommendations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Technical Reports and Service Notes",
+            "items": [
+                {
+                    "text": "Structuring inspection and maintenance summaries",
+                    "level": 0
+                },
+                {
+                    "text": "Describing methods, findings and corrective measures",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence-based language and objective wording",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing brief reports for technical supervisors",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Incident and Near-Miss Descriptions",
+            "items": [
+                {
+                    "text": "Reporting what happened in chronological order",
+                    "level": 0
+                },
+                {
+                    "text": "Describing location, equipment and observed conditions",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguishing facts, statements and assumptions",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating immediate actions and escalation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Technical Meetings and Team Coordination",
+            "items": [
+                {
+                    "text": "Sharing progress and operational constraints",
+                    "level": 0
+                },
+                {
+                    "text": "Raising questions and contributing recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing responsibilities, timelines and action items",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing decisions and checking mutual understanding",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Contractor and Cross-Functional Communication",
+            "items": [
+                {
+                    "text": "Explaining scope, interfaces and work boundaries",
+                    "level": 0
+                },
+                {
+                    "text": "Coordinating access, materials and scheduling",
+                    "level": 0
+                },
+                {
+                    "text": "Managing language differences through clarification",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming deliverables and handover requirements",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Customer-Facing Technical English",
+            "items": [
+                {
+                    "text": "Explaining technical issues in accessible language",
+                    "level": 0
+                },
+                {
+                    "text": "Asking customers about symptoms and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating service steps, delays and limitations",
+                    "level": 0
+                },
+                {
+                    "text": "Handling questions professionally without unsupported promises",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Digital Technical Communication",
+            "items": [
+                {
+                    "text": "Reading dashboard alerts and system notifications",
+                    "level": 0
+                },
+                {
+                    "text": "Writing ticket updates and helpdesk descriptions",
+                    "level": 0
+                },
+                {
+                    "text": "Using collaboration platforms for operational follow-up",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining clarity and confidentiality in digital records",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Problem-Solving and Decision Language",
+            "items": [
+                {
+                    "text": "Comparing technical options and trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining root-cause hypotheses cautiously",
+                    "level": 0
+                },
+                {
+                    "text": "Presenting evidence and recommended next steps",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating decisions and implementation responsibilities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Technical Presentations and Demonstrations",
+            "items": [
+                {
+                    "text": "Organizing short technical briefings",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining visuals, equipment and process steps",
+                    "level": 0
+                },
+                {
+                    "text": "Answering technical questions with clear language",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing short job-related demonstrations",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Workplace Simulations",
+            "items": [
+                {
+                    "text": "Responding to a fault report and requesting clarification",
+                    "level": 0
+                },
+                {
+                    "text": "Reading instructions and conducting a simulated handover",
+                    "level": 0
+                },
+                {
+                    "text": "Writing a service update and explaining corrective actions",
+                    "level": 0
+                },
+                {
+                    "text": "Receiving targeted feedback on fluency and accuracy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Final Assessment and Development Plan",
+            "items": [
+                {
+                    "text": "Practical assessment across listening, speaking, reading and writing",
+                    "level": 0
+                },
+                {
+                    "text": "Individual review of strengths and improvement priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Building a role-specific technical vocabulary development plan",
+                    "level": 0
+                },
+                {
+                    "text": "Setting measurable communication goals for workplace application",
                     "level": 0
                 }
             ]

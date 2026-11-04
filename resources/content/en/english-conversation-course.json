@@ -2,200 +2,459 @@
     "title": "English Conversation Course",
     "duration": "15 Days",
     "overview": [
-        "This practical conversation course develops learners' fluency and confidence in spoken English through guided discussion, role plays and interactive activities. Participants practise expressing opinions, telling stories, handling everyday situations and engaging in natural dialogue across a range of social and professional topics."
+        "The English Conversation Course is a practical, speaking-focused program designed to help adult learners communicate more confidently, naturally, and effectively in everyday, social, and workplace situations. Through guided conversations, realistic role-plays, interactive listening activities, and targeted pronunciation practice, participants strengthen fluency, expand useful vocabulary, improve conversational accuracy, and learn to sustain meaningful exchanges with different speakers. Activities are adapted to participants’ starting proficiency, with particular emphasis on active participation, clear expression, and measurable speaking progress."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Adult learners with basic English knowledge who want to become more confident speakers.",
+        "Employees who interact with English-speaking colleagues, clients, or visitors.",
+        "Jobseekers preparing for interviews and professional conversations.",
+        "Individuals who want to communicate more comfortably in travel, social, and everyday settings.",
+        "Learners who understand written English but need more regular speaking and listening practice."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Training is highly interactive and communicative, using paired and small-group discussions, structured speaking drills, scenario-based role-plays, short authentic listening clips, pronunciation coaching, information-gap tasks, guided debates, and mini-presentations. The trainer provides immediate, constructive feedback on clarity, fluency, vocabulary, pronunciation, and interaction strategies. An initial speaking diagnostic and end-of-course performance task support individualized improvement."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Conversational fluency and confidence in familiar social and professional situations.",
+        "Active listening and appropriate turn-taking in two-way communication.",
+        "Functional vocabulary and expressions for common conversational purposes.",
+        "Clear pronunciation, stress, rhythm, and intonation for intelligible speech.",
+        "Question formation, follow-up questioning, and conversational development.",
+        "Appropriate use of polite language, register, and cross-cultural communication conventions.",
+        "Ability to clarify meaning, paraphrase, and repair communication breakdowns.",
+        "Self-monitoring and continued independent speaking practice."
     ],
     "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
+        "By the end of this course, participants will be able to:"
     ],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Introduce themselves, exchange personal and professional information, and sustain short conversations.",
+        "Initiate, maintain, and close conversations using natural expressions and appropriate etiquette.",
+        "Ask clear questions, respond with relevant details, and use follow-up questions to extend discussions.",
+        "Understand the main points of common spoken exchanges and respond appropriately.",
+        "Describe experiences, routines, plans, preferences, and opinions with improved fluency.",
+        "Participate in everyday workplace conversations, requests, meetings, and telephone interactions.",
+        "Use clearer pronunciation, word stress, and intonation to improve listener understanding.",
+        "Manage misunderstandings through clarification, repetition, and paraphrasing.",
+        "Demonstrate improved speaking confidence in realistic role-play and conversation assessments."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Building Speaking Confidence",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Initial speaking assessment and personal communication goals",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Identifying barriers to speaking and practical confidence-building techniques",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Establishing supportive conversation habits and active participation",
+                    "level": 0
+                },
+                {
+                    "text": "Using simple strategies to keep speaking when vocabulary is limited",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Starting and Ending Conversations",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Greetings, introductions, and opening expressions",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Introducing oneself and others in formal and informal contexts",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Small-talk starters and polite responses",
+                    "level": 0
+                },
+                {
+                    "text": "Closing conversations and transitioning between topics",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Asking Questions and Giving Answers",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Yes/no and information questions in natural speech",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Asking follow-up questions to show interest",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Giving complete but concise answers",
+                    "level": 0
+                },
+                {
+                    "text": "Checking and confirming details during conversations",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Listening for Meaning in Conversation",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Recognizing key ideas and supporting details in spoken exchanges",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Understanding common reduced forms and connected speech",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Using context and intonation to interpret speaker intent",
+                    "level": 0
+                },
+                {
+                    "text": "Responding appropriately without translating every word",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Talking About Daily Life and Routines",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Discussing schedules, habits, and everyday activities",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Explaining likes, dislikes, and personal interests",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Describing people, places, and familiar experiences",
+                    "level": 0
+                },
+                {
+                    "text": "Using common time expressions and frequency language",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Developing Fluency and Natural Responses",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Speaking in connected ideas rather than isolated sentences",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Using conversational fillers and thinking-time expressions appropriately",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Paraphrasing unfamiliar words and maintaining momentum",
+                    "level": 0
+                },
+                {
+                    "text": "Balancing speaking speed with clarity and accuracy",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Pronunciation and Speech Clarity",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Practicing commonly confused English sounds",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Word stress, sentence stress, and emphasis",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Intonation in questions, statements, and polite requests",
+                    "level": 0
+                },
+                {
+                    "text": "Linking sounds and improving rhythm in natural speech",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Describing Past Experiences and Events",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Narrating personal experiences in chronological order",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Using past-time expressions and sequence markers",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Sharing anecdotes and memorable events",
+                    "level": 0
+                },
+                {
+                    "text": "Asking questions and reacting to another person’s story",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Expressing Plans and Future Intentions",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Discussing arrangements, intentions, and predictions",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Making invitations and responding to proposals",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Negotiating suitable dates, times, and arrangements",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining goals and expectations in conversation",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Expressing Opinions and Preferences",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Giving and supporting personal opinions",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Agreeing and disagreeing respectfully",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Comparing options and explaining preferences",
+                    "level": 0
+                },
+                {
+                    "text": "Using tactful expressions in sensitive discussions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Everyday Problem-Solving Conversations",
+            "items": [
+                {
+                    "text": "Explaining a problem and asking for assistance",
+                    "level": 0
+                },
+                {
+                    "text": "Making polite requests and offering solutions",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying instructions and confirming understanding",
+                    "level": 0
+                },
+                {
+                    "text": "Handling common misunderstandings calmly",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Social Situations and Cultural Awareness",
+            "items": [
+                {
+                    "text": "Polite conversation at gatherings and networking events",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing differences between formal and informal language",
+                    "level": 0
+                },
+                {
+                    "text": "Using culturally appropriate small talk and courtesy expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Respecting turn-taking, personal boundaries, and communication styles",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Workplace Conversation Essentials",
+            "items": [
+                {
+                    "text": "Speaking with colleagues and supervisors",
+                    "level": 0
+                },
+                {
+                    "text": "Providing short work updates and asking for information",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing responsibilities, priorities, and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Participating constructively in informal workplace discussions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Telephone and Online Conversations",
+            "items": [
+                {
+                    "text": "Opening and managing professional phone calls",
+                    "level": 0
+                },
+                {
+                    "text": "Taking and confirming messages and contact details",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting repetition when audio quality is poor",
+                    "level": 0
+                },
+                {
+                    "text": "Applying clear language and etiquette in video meetings",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Customer-Facing Conversations",
+            "items": [
+                {
+                    "text": "Welcoming visitors and identifying their needs",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining basic products, services, or procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Responding politely to routine questions and concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining a helpful and professional tone",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Travel and Public-Service Situations",
+            "items": [
+                {
+                    "text": "Asking for and giving directions",
+                    "level": 0
+                },
+                {
+                    "text": "Making bookings and confirming arrangements",
+                    "level": 0
+                },
+                {
+                    "text": "Handling transport, accommodation, and shopping interactions",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining issues and requesting practical assistance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Storytelling and Descriptive Speaking",
+            "items": [
+                {
+                    "text": "Organizing short stories with a clear beginning, middle, and end",
+                    "level": 0
+                },
+                {
+                    "text": "Adding relevant detail to descriptions and explanations",
+                    "level": 0
+                },
+                {
+                    "text": "Using linking words to connect ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Engaging listeners through examples and expressive delivery",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Discussion and Group Interaction",
+            "items": [
+                {
+                    "text": "Joining group discussions and contributing relevant ideas",
+                    "level": 0
+                },
+                {
+                    "text": "Taking turns and inviting others to participate",
+                    "level": 0
+                },
+                {
+                    "text": "Seeking clarification and summarizing shared points",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing collaborative decisions in small-group tasks",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Conversation Repair and Communication Strategies",
+            "items": [
+                {
+                    "text": "Asking speakers to slow down, repeat, or rephrase",
+                    "level": 0
+                },
+                {
+                    "text": "Checking whether a message was understood",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting oneself naturally without losing confidence",
+                    "level": 0
+                },
+                {
+                    "text": "Using alternative wording when the exact expression is unknown",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Conversation Practice and Assessment",
+            "items": [
+                {
+                    "text": "Role-plays combining social, travel, and workplace scenarios",
+                    "level": 0
+                },
+                {
+                    "text": "Timed pair discussions and spontaneous question rounds",
+                    "level": 0
+                },
+                {
+                    "text": "Individual feedback on fluency, accuracy, clarity, and interaction",
+                    "level": 0
+                },
+                {
+                    "text": "Final conversation assessment and personal continued-practice plan",
                     "level": 0
                 }
             ]

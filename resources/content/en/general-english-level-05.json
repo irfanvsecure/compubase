@@ -2,166 +2,414 @@
     "title": "General English – Level 05",
     "duration": "1 Month",
     "overview": [
-        "This upper-intermediate English language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "General English – Level 05 is an upper-intermediate English language program designed to help learners communicate with greater fluency, precision, and independence across professional, academic, and social settings. Building on Level 04, the course develops nuanced expression, confident participation in extended discussions, comprehension of complex authentic material, and coherent written communication. Integrated listening, speaking, reading, and writing practice emphasizes accurate language choices, effective discourse, and strategies for continued progression toward advanced proficiency."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Learners who have completed General English – Level 04 or demonstrate equivalent intermediate proficiency.",
+        "Professionals who need to discuss complex workplace topics, contribute to meetings, and communicate with diverse audiences.",
+        "Adults preparing for higher-level English study, international work, or English-medium learning environments.",
+        "Individuals seeking more confident, natural, and accurate spoken and written English."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "The course follows a communicative, task-based approach combining authentic audio and reading texts, facilitated discussion, problem-solving, presentations, structured writing workshops, grammar-in-context practice, and pronunciation coaching. Learners complete collaborative tasks, role-plays, peer reviews, and short performance assessments. Instructor feedback and individualized practice address fluency, accuracy, coherence, and pragmatic language use."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Comprehension of extended speech, complex arguments, and implied meaning in familiar and unfamiliar contexts.",
+        "Fluent discussion, persuasive speaking, and appropriate interaction in professional and social situations.",
+        "Flexible control of upper-intermediate grammar, vocabulary, register, and discourse markers.",
+        "Critical reading of authentic articles, reports, and opinion texts.",
+        "Coherent, well-structured professional and general-purpose writing.",
+        "Effective pronunciation, intonation, and communication repair strategies.",
+        "Self-monitoring, editing, and independent language-development skills."
     ],
     "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
+        "By the end of this course, participants will be able to:"
     ],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Follow extended conversations, presentations, and interviews, identifying viewpoints, supporting evidence, and implied meaning.",
+        "Express and defend opinions, compare alternatives, and participate constructively in complex discussions.",
+        "Use advanced tense relationships, modals, conditionals, passive constructions, and clause structures with greater accuracy.",
+        "Apply a broad range of topic-specific vocabulary, collocations, idiomatic expressions, and appropriate register.",
+        "Analyze authentic reading materials and distinguish facts, opinions, assumptions, and persuasive techniques.",
+        "Produce organized reports, formal emails, proposals, and extended opinion texts with clear cohesion.",
+        "Deliver structured presentations and respond confidently to questions and challenges.",
+        "Identify recurring language weaknesses and implement a personal improvement plan."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Upper-Intermediate Communication Foundations",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Review of Level 04 skills and diagnostic communication tasks",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Setting fluency, accuracy, and confidence goals",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Adapting language to purpose, audience, and context",
+                    "level": 0
+                },
+                {
+                    "text": "Developing independent practice routines",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Extended Conversation and Turn-Taking",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Initiating, sustaining, and closing extended conversations",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Managing interruptions and taking the floor politely",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Clarifying, reformulating, and checking understanding",
+                    "level": 0
+                },
+                {
+                    "text": "Using natural response phrases and conversational fillers",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Expressing and Defending Opinions",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Presenting viewpoints with reasons and evidence",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Agreeing, disagreeing, and qualifying claims diplomatically",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Evaluating contrasting perspectives",
+                    "level": 0
+                },
+                {
+                    "text": "Building persuasive spoken arguments",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Complex Tense Relationships",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Reviewing perfect and continuous aspects in context",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Describing sequences, changes, and ongoing developments",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Maintaining consistent timelines in narratives",
+                    "level": 0
+                },
+                {
+                    "text": "Correcting common tense and aspect errors",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Advanced Modal Meaning",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Expressing probability, deduction, and speculation",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Using past modals for criticism and missed opportunities",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Communicating obligation, permission, and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing modal strength and politeness appropriately",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Conditionals and Hypothetical Language",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Using mixed and advanced conditional structures",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Discussing alternatives and consequences",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Expressing regrets, wishes, and hypothetical outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Applying conditional language in decisions and negotiations",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Complex Sentences and Emphasis",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Combining ideas using relative and participle clauses",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Using concession, contrast, and cause-effect structures",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Applying passive voice and reporting structures",
+                    "level": 0
+                },
+                {
+                    "text": "Creating emphasis through sentence organization",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Vocabulary Depth and Precision",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Developing collocations and word-family awareness",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Distinguishing near-synonyms and connotations",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Using phrasal verbs and common idiomatic expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting precise vocabulary for different registers",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening to Extended Authentic Speech",
+            "items": [
+                {
+                    "text": "Understanding interviews, discussions, and presentations",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying speaker stance, tone, and implied meaning",
+                    "level": 0
+                },
+                {
+                    "text": "Following arguments, examples, and transitions",
+                    "level": 0
+                },
+                {
+                    "text": "Taking useful notes while listening",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Pronunciation, Stress, and Intonation",
+            "items": [
+                {
+                    "text": "Using sentence stress to emphasize key information",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing connected speech and reduced forms",
+                    "level": 0
+                },
+                {
+                    "text": "Applying intonation to signal attitude and intention",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing clear delivery at a natural speaking pace",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Complex Authentic Texts",
+            "items": [
+                {
+                    "text": "Identifying main arguments and supporting evidence",
+                    "level": 0
+                },
+                {
+                    "text": "Inferring vocabulary and meaning from context",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing bias, purpose, and author perspective",
+                    "level": 0
+                },
+                {
+                    "text": "Synthesizing information across paragraphs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Critical Reading and Information Evaluation",
+            "items": [
+                {
+                    "text": "Separating factual claims from interpretation",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing assumptions and rhetorical techniques",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing perspectives across short texts",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing and evaluating evidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Coherent Extended Writing",
+            "items": [
+                {
+                    "text": "Planning introductions, supporting paragraphs, and conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Using cohesive devices without repetition",
+                    "level": 0
+                },
+                {
+                    "text": "Developing examples, explanations, and counterarguments",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for clarity, accuracy, and logical flow",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Emails and Reports",
+            "items": [
+                {
+                    "text": "Adapting tone for formal and semi-formal correspondence",
+                    "level": 0
+                },
+                {
+                    "text": "Writing clear requests, updates, and recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Organizing concise reports and summaries",
+                    "level": 0
+                },
+                {
+                    "text": "Proofreading for audience, purpose, and register",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Presentations and Public Speaking",
+            "items": [
+                {
+                    "text": "Structuring a persuasive short presentation",
+                    "level": 0
+                },
+                {
+                    "text": "Using signposting and effective transitions",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining visual information and key findings",
+                    "level": 0
+                },
+                {
+                    "text": "Handling audience questions with confidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Meetings, Collaboration, and Problem-Solving",
+            "items": [
+                {
+                    "text": "Contributing ideas and building consensus",
+                    "level": 0
+                },
+                {
+                    "text": "Making proposals and evaluating options",
+                    "level": 0
+                },
+                {
+                    "text": "Negotiating priorities and resolving misunderstandings",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing decisions and next steps",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Narratives, Experiences, and Storytelling",
+            "items": [
+                {
+                    "text": "Telling engaging stories with clear chronology",
+                    "level": 0
+                },
+                {
+                    "text": "Describing motivations, reactions, and outcomes",
+                    "level": 0
+                },
+                {
+                    "text": "Using vivid descriptive language and narrative tenses",
+                    "level": 0
+                },
+                {
+                    "text": "Adjusting detail and emphasis for the listener",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Discussing Contemporary Issues",
+            "items": [
+                {
+                    "text": "Exploring technology, education, work, and society",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing advantages, risks, and trade-offs",
+                    "level": 0
+                },
+                {
+                    "text": "Using evidence and examples in group discussions",
+                    "level": 0
+                },
+                {
+                    "text": "Responding respectfully to challenging perspectives",
                     "level": 0
                 }
             ]
@@ -170,32 +418,40 @@
             "title": "Integrated Skills Practice",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Completing tasks that combine reading, listening, and discussion",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Preparing written responses from multiple sources",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Delivering short group presentations",
+                    "level": 0
+                },
+                {
+                    "text": "Applying feedback to improve accuracy and fluency",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Assessment and Continued Development",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Conducting speaking and writing performance tasks",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Reviewing progress against individual learning goals",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Identifying priority grammar and vocabulary gaps",
+                    "level": 0
+                },
+                {
+                    "text": "Developing an independent study and progression plan",
                     "level": 0
                 }
             ]

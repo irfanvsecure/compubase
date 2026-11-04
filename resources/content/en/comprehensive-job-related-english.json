@@ -1,201 +1,668 @@
 {
-    "title": "Comprehensive Job-Related English",
+    "title": "Comprehensive Job–Related English",
     "duration": "6 Months",
     "overview": [
-        "This six-month comprehensive program provides a thorough grounding in workplace English from foundational to advanced level. Participants develop all four language skills in professional contexts, covering communication, writing, presentations, negotiations and industry-specific language. The program is suitable for professionals at any level seeking significant, sustained improvement in job-related English."
+        "This comprehensive six-month English language program develops the practical communication skills required to perform confidently across diverse professional roles and workplace situations. Participants progressively strengthen listening, speaking, reading and writing, while applying grammar, vocabulary and pronunciation to realistic business tasks. The course integrates everyday professional interaction, written correspondence, meetings, presentations, customer service, technical and administrative communication, and collaborative problem-solving. Learning activities and performance assessments are adapted to participants’ starting proficiency and occupational contexts."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Employees and professionals seeking stronger English for daily job responsibilities.",
+        "Administrative, customer-facing, operational and technical staff working in English-speaking environments.",
+        "Supervisors, coordinators and team leaders who communicate with colleagues, clients and external stakeholders.",
+        "Job seekers and early-career professionals preparing for English-language workplaces.",
+        "Learners with foundational English knowledge who wish to progress toward independent professional communication."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Instructor-led interactive lessons; diagnostic placement and individualized learning goals; workplace dialogues and role-plays; vocabulary and grammar workshops; guided listening and reading; email, report and document-writing practice; meeting and presentation simulations; peer feedback; pronunciation coaching; sector-relevant case studies; digital learning tasks; periodic progress checks and integrated performance assessments."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Functional workplace fluency and intelligible pronunciation.",
+        "Accurate grammar and role-relevant professional vocabulary.",
+        "Active listening, clarification and confident interpersonal communication.",
+        "Clear professional writing and document comprehension.",
+        "Effective participation in meetings, calls and presentations.",
+        "Customer and stakeholder communication across routine and challenging situations.",
+        "Cross-cultural communication, collaboration and independent language development."
     ],
     "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
+        "By the end of the program, participants will be able to:"
     ],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Communicate accurately and confidently in common workplace interactions and job-specific situations.",
+        "Understand workplace conversations, instructions, meetings and relevant spoken information.",
+        "Read, interpret and summarize emails, policies, procedures, reports and technical or administrative texts.",
+        "Write clear emails, messages, reports and other routine business documents using appropriate tone.",
+        "Participate constructively in meetings, telephone calls, discussions and professional presentations.",
+        "Explain tasks, processes, problems and recommendations using relevant vocabulary and grammatical structures.",
+        "Handle customer enquiries, workplace misunderstandings and difficult conversations professionally.",
+        "Demonstrate measurable improvement through practical assessments and a personalized development plan."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Language Assessment and Professional Learning Goals",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Initial diagnostic evaluation of listening, speaking, reading and writing",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Individual language needs analysis by job function and responsibilities",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Personal learning objectives, proficiency milestones and practice routines",
+                    "level": 0
+                },
+                {
+                    "text": "Strategies for self-monitoring and sustained improvement",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Core Workplace Vocabulary and Expressions",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Common job roles, departments, responsibilities and reporting lines",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "High-frequency workplace verbs, nouns and functional phrases",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Formal and informal register in professional environments",
+                    "level": 0
+                },
+                {
+                    "text": "Word families, collocations and terminology-building techniques",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Essential Grammar for Professional Accuracy",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Sentence structure, word order and agreement",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Present, past and future forms for workplace communication",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Questions, negatives, articles, prepositions and connectors",
+                    "level": 0
+                },
+                {
+                    "text": "Common grammatical errors and self-correction strategies",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Professional Pronunciation and Intelligibility",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "English sounds, word stress and sentence rhythm",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Connected speech and recognizing spoken variations",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Pronunciation of numbers, dates, names and technical terms",
+                    "level": 0
+                },
+                {
+                    "text": "Intonation for politeness, clarity and confidence",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Everyday Workplace Conversations",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Greetings, introductions and professional small talk",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Explaining duties, schedules and current work activities",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Asking for assistance and offering support",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining and closing productive conversations",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Active Listening in Professional Settings",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Listening for purpose, key facts and supporting details",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Recognizing requests, instructions and priorities",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Note-taking and confirming important information",
+                    "level": 0
+                },
+                {
+                    "text": "Clarifying unfamiliar vocabulary and different accents",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Asking Questions and Clarifying Information",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Open, closed and follow-up questions",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Checking understanding and paraphrasing instructions",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Polite requests for repetition, examples and confirmation",
+                    "level": 0
+                },
+                {
+                    "text": "Avoiding misunderstandings and communicating uncertainty",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Describing People, Roles and Organizations",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Explaining company structure and departmental functions",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Describing qualifications, responsibilities and experience",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Introducing colleagues and external stakeholders",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing workplace relationships and professional expectations",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Time, Scheduling and Priorities",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Talking about calendars, deadlines and availability",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Arranging and rescheduling appointments",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Describing task sequences, dependencies and priorities",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating delays and revised completion dates",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Telephone and Video-Call Communication",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Opening and managing professional telephone calls",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Taking messages and transferring enquiries",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Speaking clearly in virtual meetings and online calls",
+                    "level": 0
+                },
+                {
+                    "text": "Handling connection problems and summarizing action points",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Email Fundamentals",
+            "items": [
+                {
+                    "text": "Email structure, subject lines and appropriate greetings",
+                    "level": 0
+                },
+                {
+                    "text": "Clear requests, updates, confirmations and follow-ups",
+                    "level": 0
+                },
+                {
+                    "text": "Professional tone, concise wording and courtesy",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for grammar, punctuation and accuracy",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Business Correspondence and Messaging",
+            "items": [
+                {
+                    "text": "Writing memos, internal notices and formal letters",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating with suppliers, clients and colleagues",
+                    "level": 0
+                },
+                {
+                    "text": "Managing attachments, references and document requests",
+                    "level": 0
+                },
+                {
+                    "text": "Selecting the right level of formality for the recipient",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Workplace Documents",
+            "items": [
+                {
+                    "text": "Scanning and skimming for relevant information",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding policies, notices, instructions and procedures",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting forms, schedules and organizational documents",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying obligations, deadlines and action items",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Reports and Data-Based Texts",
+            "items": [
+                {
+                    "text": "Recognizing report structure, findings and recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding charts, tables, trends and comparisons",
+                    "level": 0
+                },
+                {
+                    "text": "Identifying facts, assumptions and key conclusions",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing written information in clear English",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Describing Processes and Procedures",
+            "items": [
+                {
+                    "text": "Sequencing instructions and explaining work steps",
+                    "level": 0
+                },
+                {
+                    "text": "Using imperative forms, passive voice and linking expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Describing standard operating procedures and workflows",
+                    "level": 0
+                },
+                {
+                    "text": "Checking procedural understanding and safety-related wording",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Meetings: Preparation and Participation",
+            "items": [
+                {
+                    "text": "Meeting agendas, objectives and participant roles",
+                    "level": 0
+                },
+                {
+                    "text": "Contributing updates, opinions and questions",
+                    "level": 0
+                },
+                {
+                    "text": "Agreeing, disagreeing and interrupting diplomatically",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing decisions and assigned responsibilities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Meeting Minutes and Action Tracking",
+            "items": [
+                {
+                    "text": "Recording key points, decisions and commitments",
+                    "level": 0
+                },
+                {
+                    "text": "Using concise, neutral language in minutes",
+                    "level": 0
+                },
+                {
+                    "text": "Drafting action logs with owners and deadlines",
+                    "level": 0
+                },
+                {
+                    "text": "Following up on outstanding actions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Presentations and Briefings",
+            "items": [
+                {
+                    "text": "Structuring an opening, main message and conclusion",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining results, proposals and project updates",
+                    "level": 0
+                },
+                {
+                    "text": "Using signposting language and visual aids",
+                    "level": 0
+                },
+                {
+                    "text": "Handling audience questions and presenting with confidence",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Workplace Collaboration and Team Communication",
+            "items": [
+                {
+                    "text": "Sharing information and coordinating responsibilities",
+                    "level": 0
+                },
+                {
+                    "text": "Giving constructive feedback and responding professionally",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing expectations and resolving misunderstandings",
+                    "level": 0
+                },
+                {
+                    "text": "Using inclusive, respectful language across teams",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Customer Service and Client Interaction",
+            "items": [
+                {
+                    "text": "Welcoming customers and identifying their needs",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining services, processes and available options",
+                    "level": 0
+                },
+                {
+                    "text": "Responding to requests, enquiries and follow-ups",
+                    "level": 0
+                },
+                {
+                    "text": "Maintaining a professional tone and positive service experience",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Complaints and Difficult Conversations",
+            "items": [
+                {
+                    "text": "Listening empathetically and acknowledging concerns",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining limitations and proposing solutions",
+                    "level": 0
+                },
+                {
+                    "text": "De-escalating tense interactions with appropriate wording",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming resolution, next steps and follow-up",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Problem-Solving and Decision Communication",
+            "items": [
+                {
+                    "text": "Describing operational problems and their impact",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining causes, alternatives and proposed actions",
+                    "level": 0
+                },
+                {
+                    "text": "Making recommendations and justifying decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating risks, contingencies and escalation needs",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Negotiation and Persuasive Workplace Language",
+            "items": [
+                {
+                    "text": "Expressing preferences and explaining value",
+                    "level": 0
+                },
+                {
+                    "text": "Making proposals, counterproposals and concessions",
+                    "level": 0
+                },
+                {
+                    "text": "Using diplomatic disagreement and persuasive reasoning",
+                    "level": 0
+                },
+                {
+                    "text": "Confirming agreed terms and responsibilities",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reporting Progress and Performance",
+            "items": [
+                {
+                    "text": "Describing completed work and ongoing activities",
+                    "level": 0
+                },
+                {
+                    "text": "Reporting achievements, challenges and performance indicators",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing outcomes against targets and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Delivering concise verbal and written status updates",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Writing: Reports and Summaries",
+            "items": [
+                {
+                    "text": "Organizing short reports with logical headings",
+                    "level": 0
+                },
+                {
+                    "text": "Writing factual descriptions, findings and recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Summarizing meetings, incidents and project updates",
+                    "level": 0
+                },
+                {
+                    "text": "Reviewing clarity, coherence and consistency",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Job-Specific Vocabulary and Scenarios",
+            "items": [
+                {
+                    "text": "Selecting terminology relevant to participants’ occupations",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining specialized tools, services and tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Interpreting role-specific instructions and documents",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing authentic workplace scenarios and terminology",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Cross-Cultural Workplace Communication",
+            "items": [
+                {
+                    "text": "Understanding differences in communication style and etiquette",
+                    "level": 0
+                },
+                {
+                    "text": "Using tactful language in multicultural teams",
+                    "level": 0
+                },
+                {
+                    "text": "Managing tone, formality and expectations",
+                    "level": 0
+                },
+                {
+                    "text": "Preventing misinterpretation in international interactions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Digital Communication and Collaboration",
+            "items": [
+                {
+                    "text": "Writing effective instant messages and collaboration updates",
+                    "level": 0
+                },
+                {
+                    "text": "Communicating through shared documents and task platforms",
+                    "level": 0
+                },
+                {
+                    "text": "Using professional etiquette in remote teamwork",
+                    "level": 0
+                },
+                {
+                    "text": "Checking accuracy, confidentiality and audience suitability",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Career Communication and Professional Development",
+            "items": [
+                {
+                    "text": "Explaining professional experience and accomplishments",
+                    "level": 0
+                },
+                {
+                    "text": "Preparing CV language and professional profile statements",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing interviews and workplace self-introductions",
+                    "level": 0
+                },
+                {
+                    "text": "Setting continuing English-development objectives",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Workplace Simulations and Final Assessment",
+            "items": [
+                {
+                    "text": "Role-play scenarios combining meetings, calls and customer interaction",
+                    "level": 0
+                },
+                {
+                    "text": "Reading and writing tasks based on realistic workplace documents",
+                    "level": 0
+                },
+                {
+                    "text": "Individual presentations and collaborative problem-solving exercises",
+                    "level": 0
+                },
+                {
+                    "text": "Final proficiency review, constructive feedback and personal action plan",
                     "level": 0
                 }
             ]

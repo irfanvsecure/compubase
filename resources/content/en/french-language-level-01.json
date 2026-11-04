@@ -2,200 +2,497 @@
     "title": "French Language – Level 01",
     "duration": "1 Month",
     "overview": [
-        "This beginner French language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "French Language – Level 01 is an introductory course for learners with little or no previous knowledge of French. It develops the foundations of pronunciation, essential vocabulary, basic grammar and practical communication through everyday situations. Learners gradually build confidence in understanding simple spoken French, introducing themselves, asking and answering questions, reading short texts and writing basic messages. The course uses guided practice, realistic dialogues and regular feedback to prepare participants for further French study."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their French language skills.",
-        "Professionals and residents who use French in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of French study."
+        "Beginners seeking a structured introduction to French; students and professionals preparing for travel, study or work in French-speaking environments; customer-facing employees; and anyone wishing to acquire practical everyday French communication skills. No prior French language knowledge is required."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Interactive instructor-led lessons; pronunciation and listening drills; model dialogues and paired speaking practice; vocabulary games; guided grammar exercises; short reading and writing tasks; situational role plays; digital audio activities; frequent formative checks; and a final integrated communication assessment."
     ],
     "competencies": [
-        "Communicating effectively in French in everyday and professional contexts.",
-        "Understanding spoken and written French at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing French texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Recognizing and producing common French sounds and basic spelling patterns.",
+        "Using essential greetings, introductions and courteous expressions.",
+        "Understanding and responding to familiar questions and simple instructions.",
+        "Applying basic sentence structures, articles, pronouns and present-tense verbs.",
+        "Exchanging information about personal details, family, time and everyday routines.",
+        "Reading simple notices, forms, messages and short descriptive texts.",
+        "Writing short sentences and practical messages with reasonable accuracy.",
+        "Communicating appropriately in routine social and travel situations."
     ],
     "objectivesIntro": [
         "By the end of the course, participants will be able to:"
     ],
     "objectives": [
-        "Use French effectively in a range of everyday and professional situations.",
-        "Understand spoken and written French at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in French.",
-        "Demonstrate cultural awareness in French-speaking contexts."
+        "Pronounce the French alphabet and common sounds with improved clarity.",
+        "Introduce themselves and others and exchange basic personal information.",
+        "Ask and answer simple questions about familiar topics using everyday vocabulary.",
+        "Use common present-tense verbs and basic grammatical patterns in short sentences.",
+        "Identify numbers, dates, times, prices and simple directions in spoken and written French.",
+        "Understand the main meaning of slow, clearly articulated everyday exchanges.",
+        "Read short texts and complete simple forms in French.",
+        "Write brief messages and descriptions about routine situations.",
+        "Participate in short guided conversations with appropriate greetings and courtesy."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Introduction to French Communication",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Where French is spoken and how it is used in everyday settings",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Course goals, learning routines and beginner communication strategies",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Formal and informal registers in common social encounters",
+                    "level": 0
+                },
+                {
+                    "text": "Building confidence through short, repeatable exchanges",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "French Alphabet and Sound System",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Letter names and spelling names aloud",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "French vowels, consonants and common sound combinations",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Silent final letters, liaison and basic rhythm",
+                    "level": 0
+                },
+                {
+                    "text": "Listening discrimination and guided pronunciation practice",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Greetings and Polite Expressions",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Bonjour, bonsoir, salut and au revoir in context",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "S’il vous plaît, merci, pardon and excusez-moi",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Introducing a conversation and ending it politely",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing tu or vous for familiar and formal interactions",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Introducing Yourself and Others",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Giving names, nationality and place of residence",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Asking Comment vous appelez-vous ? and related questions",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Presenting another person with c’est and voici",
+                    "level": 0
+                },
+                {
+                    "text": "Short paired introductions and identity dialogues",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Personal Information and Basic Questions",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Using qui, où, comment, quel and combien",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Providing address, telephone number and email details",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Responding to basic personal information questions",
+                    "level": 0
+                },
+                {
+                    "text": "Completing introductory information forms",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Numbers, Dates and Time",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Numbers and common counting patterns",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Days of the week, months and calendar dates",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Asking for and telling the time",
+                    "level": 0
+                },
+                {
+                    "text": "Using numbers for phone numbers, prices and appointments",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Nouns, Gender and Articles",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Masculine and feminine nouns",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Definite and indefinite articles: le, la, les, un, une, des",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Recognizing singular and plural forms",
+                    "level": 0
+                },
+                {
+                    "text": "Building simple noun phrases with familiar vocabulary",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Subject Pronouns and Essential Verbs",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Je, tu, il, elle, nous, vous, ils and elles",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Present-tense forms of être and avoir",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Using c’est and il y a in simple descriptions",
+                    "level": 0
+                },
+                {
+                    "text": "Making affirmative, negative and interrogative sentences",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Regular Present-Tense Verbs",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Common -er verbs such as parler, aimer and travailler",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Simple conjugation patterns and subject agreement",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Describing basic actions and preferences",
+                    "level": 0
+                },
+                {
+                    "text": "Asking questions using intonation and est-ce que",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Family and Relationships",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Vocabulary for immediate family and relationships",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Possessive adjectives: mon, ma, mes and related forms",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Describing family members with simple adjectives",
+                    "level": 0
+                },
+                {
+                    "text": "Short speaking and writing tasks about family",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Describing People and Things",
+            "items": [
+                {
+                    "text": "Common adjectives for appearance and personality",
+                    "level": 0
+                },
+                {
+                    "text": "Basic adjective agreement and placement",
+                    "level": 0
+                },
+                {
+                    "text": "Colors, sizes and everyday descriptive vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing simple descriptions of people and objects",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Everyday Routines and Activities",
+            "items": [
+                {
+                    "text": "Common verbs for daily activities and schedules",
+                    "level": 0
+                },
+                {
+                    "text": "Using time expressions for morning, afternoon and evening",
+                    "level": 0
+                },
+                {
+                    "text": "Describing a typical day in short sequences",
+                    "level": 0
+                },
+                {
+                    "text": "Asking and answering questions about routines",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Food, Drinks and Ordering",
+            "items": [
+                {
+                    "text": "Food and beverage vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Expressing likes and dislikes with aimer and préférer",
+                    "level": 0
+                },
+                {
+                    "text": "Ordering politely in cafés and simple restaurants",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding basic menus, quantities and prices",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shopping and Prices",
+            "items": [
+                {
+                    "text": "Clothing, everyday items and basic store vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Asking Combien ça coûte ? and discussing prices",
+                    "level": 0
+                },
+                {
+                    "text": "Sizes, colors and simple purchase preferences",
+                    "level": 0
+                },
+                {
+                    "text": "Role plays for buying and requesting assistance",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Places in Town and Directions",
+            "items": [
+                {
+                    "text": "Common buildings and locations in a town",
+                    "level": 0
+                },
+                {
+                    "text": "Asking where places are located",
+                    "level": 0
+                },
+                {
+                    "text": "Simple prepositions of place and direction phrases",
+                    "level": 0
+                },
+                {
+                    "text": "Following and giving short directions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Travel and Transportation Basics",
+            "items": [
+                {
+                    "text": "Transport vocabulary for buses, trains and taxis",
+                    "level": 0
+                },
+                {
+                    "text": "Buying a ticket and asking about destinations",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding basic departure times and signs",
+                    "level": 0
+                },
+                {
+                    "text": "Practising short travel-related exchanges",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Home and Living Spaces",
+            "items": [
+                {
+                    "text": "Rooms, furniture and household objects",
+                    "level": 0
+                },
+                {
+                    "text": "Describing where objects are located",
+                    "level": 0
+                },
+                {
+                    "text": "Using il y a and prepositions for simple descriptions",
+                    "level": 0
+                },
+                {
+                    "text": "Reading and writing brief descriptions of a home",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Weather and Seasons",
+            "items": [
+                {
+                    "text": "Seasons, weather conditions and common expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding basic weather forecasts",
+                    "level": 0
+                },
+                {
+                    "text": "Choosing clothing or activities for the weather",
+                    "level": 0
+                },
+                {
+                    "text": "Short conversations about daily conditions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening and Reading Foundations",
+            "items": [
+                {
+                    "text": "Recognizing key words in slow everyday dialogues",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding short notices, signs and personal messages",
+                    "level": 0
+                },
+                {
+                    "text": "Using context and familiar vocabulary to infer meaning",
+                    "level": 0
+                },
+                {
+                    "text": "Answering basic comprehension questions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Short Messages",
+            "items": [
+                {
+                    "text": "Writing greetings, introductions and simple personal notes",
+                    "level": 0
+                },
+                {
+                    "text": "Completing forms with accurate personal information",
+                    "level": 0
+                },
+                {
+                    "text": "Constructing short descriptions of people and routines",
+                    "level": 0
+                },
+                {
+                    "text": "Checking spelling, articles and basic sentence order",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Practical Conversations and Role Plays",
+            "items": [
+                {
+                    "text": "Introducing oneself in a social or workplace setting",
+                    "level": 0
+                },
+                {
+                    "text": "Ordering refreshments and making a simple purchase",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for directions and confirming basic information",
+                    "level": 0
+                },
+                {
+                    "text": "Responding politely when clarification is needed",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Review and Integrated Assessment",
+            "items": [
+                {
+                    "text": "Consolidating key grammar and vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Listening and reading comprehension practice",
+                    "level": 0
+                },
+                {
+                    "text": "Short spoken interaction and guided writing tasks",
+                    "level": 0
+                },
+                {
+                    "text": "Individual feedback and recommended next steps for Level 02",
                     "level": 0
                 }
             ]

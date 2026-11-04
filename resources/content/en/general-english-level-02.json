@@ -1,125 +1,363 @@
 {
-    "title": "General English – Level 02",
+    "title": "General English - Level 02",
     "duration": "1 Month",
     "overview": [
-        "This elementary English language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "General English – Level 02 builds on beginner-level foundations and develops learners’ ability to communicate with greater independence in familiar social, travel, and workplace situations. Through structured language practice, learners extend their vocabulary, strengthen their control of essential grammar, and improve fluency and accuracy in listening, speaking, reading, and writing. The course is designed for learners progressing toward an elementary (approximately CEFR A2) level, with practical tasks that support confident everyday communication."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their English language skills.",
-        "Professionals and residents who use English in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of English study."
+        "Learners who have completed General English – Level 01 or demonstrate equivalent beginner proficiency.",
+        "Adults and young professionals seeking greater confidence in everyday English.",
+        "Employees who use simple English for routine workplace and customer interactions.",
+        "Individuals preparing to progress to intermediate English-language studies."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Interactive instructor-led lessons integrate communicative pair and group tasks, guided conversations, listening and reading activities, contextual grammar practice, pronunciation coaching, and short writing assignments. Learners apply language in realistic situations such as making arrangements, explaining problems, giving directions, and discussing past experiences. Formative quizzes, role-plays, peer feedback, and end-of-course skills assessments track progress and guide targeted practice."
     ],
     "competencies": [
-        "Communicating effectively in English in everyday and professional contexts.",
-        "Understanding spoken and written English at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing English texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Communicating effectively in routine social and workplace exchanges.",
+        "Understanding the main points of clear spoken English on familiar subjects.",
+        "Using present, past, and future forms with improving grammatical accuracy.",
+        "Asking follow-up questions and sustaining short conversations.",
+        "Reading practical texts, emails, notices, and short articles for key information.",
+        "Writing coherent short messages, descriptions, and simple emails.",
+        "Applying appropriate vocabulary, pronunciation, and polite expressions in common situations."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use English effectively in a range of everyday and professional situations.",
-        "Understand spoken and written English at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in English.",
-        "Demonstrate cultural awareness in English-speaking contexts."
+        "Describe daily activities, interests, experiences, and plans using connected sentences.",
+        "Ask for and provide information, clarification, directions, and assistance.",
+        "Narrate simple past events and discuss future arrangements and intentions.",
+        "Compare people, places, products, and choices using suitable descriptive language.",
+        "Understand everyday conversations, announcements, and short spoken instructions.",
+        "Read familiar texts to identify main ideas, relevant details, and sequence.",
+        "Write short organized paragraphs, invitations, messages, and practical emails.",
+        "Participate in routine conversations with more natural rhythm, confidence, and accuracy."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Reviewing Essential English Foundations",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Review of introductions, personal information, and everyday exchanges",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Core sentence patterns, subject–verb agreement, and common question forms",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "High-frequency vocabulary from familiar situations",
+                    "level": 0
+                },
+                {
+                    "text": "Strategies for identifying and correcting recurring beginner errors",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Talking About Daily Life and Habits",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Present simple for routines, habits, and general facts",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Adverbs and expressions of frequency",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Describing workdays, study routines, and leisure activities",
+                    "level": 0
+                },
+                {
+                    "text": "Asking and answering detailed questions about schedules",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Describing Actions and Current Situations",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Present continuous for actions happening now and temporary situations",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Contrasting present simple and present continuous",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Talking about changes, temporary projects, and current activities",
+                    "level": 0
+                },
+                {
+                    "text": "Describing pictures, events, and situations in progress",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Sharing Past Experiences",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Past simple with regular and common irregular verbs",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Affirmative, negative, and interrogative past forms",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Time expressions and sequencing words for past events",
+                    "level": 0
+                },
+                {
+                    "text": "Describing trips, experiences, and completed activities",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Talking About Future Plans",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Going to for intentions and planned actions",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Present continuous for arrangements and scheduled meetings",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Will for simple predictions and immediate decisions",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing goals, appointments, and upcoming events",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Developing Everyday Conversation Skills",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Opening, maintaining, and closing short conversations",
+                    "level": 0
+                },
+                {
+                    "text": "Follow-up questions and active listening responses",
+                    "level": 0
+                },
+                {
+                    "text": "Expressing agreement, disagreement, and personal preferences",
+                    "level": 0
+                },
+                {
+                    "text": "Asking for repetition and clarification politely",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Describing People and Personalities",
+            "items": [
+                {
+                    "text": "Physical appearance and personality adjectives",
+                    "level": 0
+                },
+                {
+                    "text": "Comparative and superlative forms",
+                    "level": 0
+                },
+                {
+                    "text": "Describing relationships, abilities, and personal qualities",
+                    "level": 0
+                },
+                {
+                    "text": "Comparing people respectfully and accurately",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Describing Places and Neighborhoods",
+            "items": [
+                {
+                    "text": "Vocabulary for buildings, facilities, and public spaces",
+                    "level": 0
+                },
+                {
+                    "text": "There is/there are and location prepositions",
+                    "level": 0
+                },
+                {
+                    "text": "Giving and following directions using landmarks",
+                    "level": 0
+                },
+                {
+                    "text": "Describing neighborhoods, workplaces, and accommodation",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shopping and Everyday Transactions",
+            "items": [
+                {
+                    "text": "Vocabulary for clothing, prices, sizes, and quantities",
+                    "level": 0
+                },
+                {
+                    "text": "Countable and uncountable nouns; some, any, much, and many",
+                    "level": 0
+                },
+                {
+                    "text": "Requesting information and comparing products",
+                    "level": 0
+                },
+                {
+                    "text": "Handling purchases, returns, and simple customer queries",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Food, Restaurants, and Preferences",
+            "items": [
+                {
+                    "text": "Food and meal vocabulary; menus and ordering",
+                    "level": 0
+                },
+                {
+                    "text": "Polite requests with would like, can, and could",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining preferences, dietary needs, and quantities",
+                    "level": 0
+                },
+                {
+                    "text": "Restaurant role-plays and service interactions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Travel and Transport Communication",
+            "items": [
+                {
+                    "text": "Transport, ticketing, accommodation, and travel vocabulary",
+                    "level": 0
+                },
+                {
+                    "text": "Asking about routes, schedules, and prices",
+                    "level": 0
+                },
+                {
+                    "text": "Checking in, requesting assistance, and explaining travel problems",
+                    "level": 0
+                },
+                {
+                    "text": "Understanding simple travel announcements and instructions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Health and Everyday Problems",
+            "items": [
+                {
+                    "text": "Vocabulary for symptoms, health routines, and common problems",
+                    "level": 0
+                },
+                {
+                    "text": "Should/should not for advice and recommendations",
+                    "level": 0
+                },
+                {
+                    "text": "Explaining a problem and requesting help",
+                    "level": 0
+                },
+                {
+                    "text": "Role-plays involving appointments and practical solutions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making Requests and Offering Help",
+            "items": [
+                {
+                    "text": "Can, could, and would for requests and offers",
+                    "level": 0
+                },
+                {
+                    "text": "Permission, ability, and obligation in everyday situations",
+                    "level": 0
+                },
+                {
+                    "text": "Polite responses, refusals, and alternatives",
+                    "level": 0
+                },
+                {
+                    "text": "Practicing workplace and social service exchanges",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Expressing Opinions and Making Comparisons",
+            "items": [
+                {
+                    "text": "Giving simple reasons using because and so",
+                    "level": 0
+                },
+                {
+                    "text": "Comparative structures and preference expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Discussing options, advantages, and disadvantages",
+                    "level": 0
+                },
+                {
+                    "text": "Participating in short decision-making discussions",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening for Meaning and Detail",
+            "items": [
+                {
+                    "text": "Understanding short conversations and recorded messages",
+                    "level": 0
+                },
+                {
+                    "text": "Listening for gist, specific details, numbers, and times",
+                    "level": 0
+                },
+                {
+                    "text": "Recognizing key words and speaker intention",
+                    "level": 0
+                },
+                {
+                    "text": "Using context to infer unfamiliar vocabulary",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading Practical English Texts",
+            "items": [
+                {
+                    "text": "Reading emails, advertisements, notices, and short articles",
+                    "level": 0
+                },
+                {
+                    "text": "Scanning for names, dates, prices, and instructions",
                     "level": 0
                 },
                 {
@@ -127,75 +365,91 @@
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Using context and text structure to support comprehension",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Writing Messages and Short Paragraphs",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Organizing short descriptions with clear sentence order",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Writing invitations, replies, and informal emails",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Using basic connectors such as and, but, because, and then",
+                    "level": 0
+                },
+                {
+                    "text": "Editing for spelling, punctuation, and grammar",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Pronunciation and Spoken Fluency",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Word stress and common vowel and consonant contrasts",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Sentence rhythm and intonation for questions and requests",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Connected speech in frequently used expressions",
+                    "level": 0
+                },
+                {
+                    "text": "Confidence-building speaking drills and dialogue practice",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "English in Routine Workplace Situations",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Greeting colleagues and customers and exchanging information",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Describing tasks, progress, schedules, and simple problems",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Writing brief workplace messages and appointment requests",
+                    "level": 0
+                },
+                {
+                    "text": "Participating in short team conversations and service scenarios",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Integrated Practice and Final Assessment",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Real-life simulations combining listening, speaking, reading, and writing",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Review of key grammar, vocabulary, and communication functions",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Individual feedback on accuracy, fluency, and learning needs",
+                    "level": 0
+                },
+                {
+                    "text": "End-of-course skills assessment and progression guidance",
                     "level": 0
                 }
             ]

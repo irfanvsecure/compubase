@@ -1,201 +1,442 @@
 {
-    "title": "German Language – Level 05",
+    "title": "GERMAN LANGUAGE – LEVEL 05",
     "duration": "1 Month",
     "overview": [
-        "This upper-intermediate German language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "German Language – Level 05 consolidates upper-intermediate communication through nuanced discussion, complex sentence patterns, critical reading, extended listening, and professional writing. Learners develop greater fluency and independence when evaluating evidence, handling unfamiliar situations, presenting arguments, and collaborating in German-speaking environments. The course integrates accuracy, appropriate register, intercultural awareness, and purposeful communication across authentic-style tasks."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their German language skills.",
-        "Professionals and residents who use German in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of German study."
+        "Learners who have completed German Language – Level 04 or possess comparable intermediate proficiency.",
+        "Professionals who need to participate in detailed discussions, meetings, presentations, and written exchanges in German.",
+        "Students and independent learners preparing for more demanding academic, social, or workplace language tasks."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Task-based language workshops combining grammar refinement with practical speaking and writing.",
+        "Structured discussions, case studies, simulations, peer feedback, and problem-solving activities.",
+        "Guided analysis of authentic-style articles, interviews, reports, and presentations.",
+        "Iterative drafting of professional texts, argumentation, and concise summaries.",
+        "Diagnostic practice, formative assessment, and a final integrated performance task."
     ],
     "competencies": [
-        "Communicating effectively in German in everyday and professional contexts.",
-        "Understanding spoken and written German at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing German texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Express and defend detailed viewpoints with coherent arguments and appropriate nuance.",
+        "Use a broad range of complex grammatical structures with increasing consistency.",
+        "Interpret extended speech and written texts, distinguishing evidence, tone, and implied meaning.",
+        "Produce clear, organized professional correspondence, summaries, and reports.",
+        "Manage discussions, presentations, negotiations, and intercultural exchanges independently."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use German effectively in a range of everyday and professional situations.",
-        "Understand spoken and written German at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in German.",
-        "Demonstrate cultural awareness in German-speaking contexts."
+        "Build coherent arguments using contrast, concession, condition, and consequence.",
+        "Apply advanced relative structures, passive alternatives, nominalization, and reported speech in context.",
+        "Evaluate information from articles, interviews, and workplace documentation.",
+        "Adapt register, tone, and communication strategies to different audiences.",
+        "Write structured reports, persuasive emails, and well-supported opinion texts.",
+        "Deliver and defend a presentation while responding constructively to questions."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Upper-Intermediate Diagnostic and Skills Review",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Review complex clauses, case usage, tense choices, and formal registers.",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Assess fluency, listening accuracy, reading strategies, and written organization.",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Set individual targets for precision, coherence, and confidence.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Nuanced Opinions and Evidence-Based Arguments",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Develop claims with examples, qualifications, and counterarguments.",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Use expressions of probability, certainty, and reservation.",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Distinguish facts, assumptions, and personal interpretations.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Complex Connectors and Logical Relationships",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Use concessive, conditional, causal, and consecutive connectors.",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Practice obwohl, während, sofern, falls, sodass, and dennoch.",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Organize multi-paragraph explanations with coherent transitions.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Advanced Relative Clauses and Reference",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Use relative clauses with prepositions and genitive forms.",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Avoid ambiguous reference in long and complex sentences.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Integrate descriptive information naturally into reports and discussions.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Konjunktiv II and Hypothetical Reasoning",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Form past hypothetical constructions and conditional consequences.",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Express regret, unrealized possibilities, and diplomatic suggestions.",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Evaluate alternative outcomes in professional scenarios.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Reported Speech and Konjunktiv I Awareness",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Recognize common Konjunktiv I forms in reporting and journalism.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Distinguish direct quotation, indirect reporting, and paraphrase.",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Report statements accurately while attributing sources.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Passive Structures and Alternatives",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Consolidate Vorgangspassiv across common tenses.",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Contrast passive voice with man, sich lassen, and sein + zu constructions.",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Describe procedures, responsibilities, and institutional processes.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Nominalization and Formal Written Style",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Transform verbal expressions into appropriate nominal structures.",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Recognize noun-based formulations in administrative and business texts.",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Balance formal precision with readability.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Participial Attributes and Dense Information",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Recognize present and past participles used as modifiers.",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Unpack dense noun phrases in professional and informational texts.",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Rewrite complex formulations into clearer spoken explanations.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Prepositional Patterns and Case Accuracy",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Refine verb–preposition combinations and case selection.",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Use pronominal adverbs and complex reference structures.",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Correct recurring errors through contextual editing.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Collocations, Idioms, and Word Formation",
+            "items": [
+                {
+                    "text": "Build natural verb–noun combinations and common fixed expressions.",
+                    "level": 0
+                },
+                {
+                    "text": "Analyze compounds, prefixes, and derivational patterns.",
+                    "level": 0
+                },
+                {
+                    "text": "Select vocabulary appropriate to professional and social contexts.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Advanced Listening: Interviews and Debates",
+            "items": [
+                {
+                    "text": "Follow extended interviews with differing viewpoints.",
+                    "level": 0
+                },
+                {
+                    "text": "Identify speaker attitude, supporting details, and implied meaning.",
+                    "level": 0
+                },
+                {
+                    "text": "Take structured notes and synthesize key points.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Critical Reading of Articles and Reports",
+            "items": [
+                {
+                    "text": "Evaluate arguments, evidence, and rhetorical framing.",
+                    "level": 0
+                },
+                {
+                    "text": "Distinguish main claims from qualifications and examples.",
+                    "level": 0
+                },
+                {
+                    "text": "Summarize longer texts accurately without copying language.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Professional Meetings and Decision-Making",
+            "items": [
+                {
+                    "text": "Chair or contribute to agenda-driven discussions.",
+                    "level": 0
+                },
+                {
+                    "text": "Clarify proposals, challenge assumptions tactfully, and build consensus.",
+                    "level": 0
+                },
+                {
+                    "text": "Document decisions, responsibilities, and follow-up actions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Negotiation, Diplomacy, and Conflict Resolution",
+            "items": [
+                {
+                    "text": "Use tactful language for disagreement and compromise.",
+                    "level": 0
+                },
+                {
+                    "text": "Reframe objections and propose workable alternatives.",
+                    "level": 0
+                },
+                {
+                    "text": "Manage misunderstandings with clarification and active listening.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Persuasive Presentations and Question Handling",
+            "items": [
+                {
+                    "text": "Structure persuasive talks with evidence and signposting.",
+                    "level": 0
+                },
+                {
+                    "text": "Use rhetorical emphasis and audience-appropriate explanations.",
+                    "level": 0
+                },
+                {
+                    "text": "Respond to challenging questions with precision and composure.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Formal Emails and Business Correspondence",
+            "items": [
+                {
+                    "text": "Write proposals, escalations, follow-ups, and reasoned requests.",
+                    "level": 0
+                },
+                {
+                    "text": "Adapt formality, politeness, and clarity to recipient and purpose.",
+                    "level": 0
+                },
+                {
+                    "text": "Edit style, structure, and accuracy through peer review.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reports, Summaries, and Recommendations",
+            "items": [
+                {
+                    "text": "Write executive-style summaries of findings and outcomes.",
+                    "level": 0
+                },
+                {
+                    "text": "Compare options using criteria and supporting justification.",
+                    "level": 0
+                },
+                {
+                    "text": "Prepare concise recommendations with clear next steps.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Society, Culture, and Contemporary Issues",
+            "items": [
+                {
+                    "text": "Discuss technology, sustainability, education, and social change.",
+                    "level": 0
+                },
+                {
+                    "text": "Compare perspectives sensitively across cultural contexts.",
+                    "level": 0
+                },
+                {
+                    "text": "Support viewpoints with balanced language and relevant examples.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Workplace Problem-Solving Simulations",
+            "items": [
+                {
+                    "text": "Analyze a realistic service or project challenge.",
+                    "level": 0
+                },
+                {
+                    "text": "Collaborate on solutions and communicate trade-offs.",
+                    "level": 0
+                },
+                {
+                    "text": "Present agreed recommendations orally and in writing.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Register, Tone, and Intercultural Pragmatics",
+            "items": [
+                {
+                    "text": "Distinguish informal, neutral, and formal styles.",
+                    "level": 0
+                },
+                {
+                    "text": "Interpret indirect requests, disagreement, and politeness strategies.",
+                    "level": 0
+                },
+                {
+                    "text": "Adapt phrasing to professional hierarchies and intercultural settings.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Pronunciation and Spoken Fluency Refinement",
+            "items": [
+                {
+                    "text": "Improve sentence stress, rhythm, and connected speech.",
+                    "level": 0
+                },
+                {
+                    "text": "Practice pacing, emphasis, and intonation in extended explanations.",
+                    "level": 0
+                },
+                {
+                    "text": "Use recordings and targeted feedback to improve intelligibility.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Communication Project",
+            "items": [
+                {
+                    "text": "Research and synthesize information on a selected practical issue.",
+                    "level": 0
+                },
+                {
+                    "text": "Deliver a structured presentation and facilitate discussion.",
+                    "level": 0
+                },
+                {
+                    "text": "Submit a professional written summary with recommendations.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Consolidation and Final Performance Assessment",
+            "items": [
+                {
+                    "text": "Review upper-intermediate structures and communication strategies.",
+                    "level": 0
+                },
+                {
+                    "text": "Complete integrated listening, reading, speaking, and writing tasks.",
+                    "level": 0
+                },
+                {
+                    "text": "Identify priorities for continued advanced German development.",
                     "level": 0
                 }
             ]

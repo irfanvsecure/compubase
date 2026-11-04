@@ -1,201 +1,442 @@
 {
-    "title": "German Language – Level 03",
+    "title": "GERMAN LANGUAGE – LEVEL 03",
     "duration": "1 Month",
     "overview": [
-        "This pre-intermediate German language course is designed to develop learners' communication skills in everyday, social and professional contexts. Through guided listening, speaking, reading and writing practice, participants build vocabulary, grammar accuracy and cultural awareness needed for effective interaction."
+        "German Language – Level 03 develops pre-intermediate German communication skills, building on the elementary foundation of Levels 01 and 02. Participants learn to sustain conversations about familiar topics, describe experiences and plans, understand connected spoken and written texts, and communicate with greater grammatical accuracy in everyday and routine professional situations. The course integrates guided language study with practical tasks, pronunciation coaching, and ongoing feedback."
     ],
     "audience": [
-        "Learners at the appropriate level seeking to improve their German language skills.",
-        "Professionals and residents who use German in daily life or the workplace.",
-        "Individuals preparing to progress to the next level of German study."
+        "Learners who have completed German Language – Level 02 or demonstrate equivalent elementary proficiency.",
+        "Professionals and students seeking greater independence in everyday German communication.",
+        "Individuals preparing to use German in travel, social interactions, study, or routine workplace settings."
     ],
     "methodology": [
-        "Communicative instructor-led lessons combining guided speaking, listening, reading and writing tasks; grammar practice; vocabulary building; role plays; authentic materials; formative feedback; and an end-of-course assessment."
+        "Interactive instructor-led lessons combining concise grammar explanations with contextual practice.",
+        "Pair and group conversations, role-plays, information-gap tasks, and guided discussions.",
+        "Listening to authentic-style dialogues and reading short practical texts, followed by comprehension tasks.",
+        "Structured writing, pronunciation feedback, vocabulary recycling, and regular formative checks.",
+        "Integrated communicative practice and a final skills-based assessment."
     ],
     "competencies": [
-        "Communicating effectively in German in everyday and professional contexts.",
-        "Understanding spoken and written German at the appropriate level.",
-        "Using grammar and vocabulary accurately and appropriately.",
-        "Reading and writing German texts for practical purposes.",
-        "Applying culturally appropriate language and etiquette."
+        "Communicate in connected sentences about familiar experiences, preferences, routines, and plans.",
+        "Apply pre-intermediate grammar, word order, and verb forms with increasing accuracy.",
+        "Understand the main points of clear speech and accessible written materials on familiar topics.",
+        "Write coherent short messages, descriptions, and practical workplace communications.",
+        "Use strategies to clarify meaning, ask follow-up questions, and maintain a conversation."
     ],
-    "objectivesIntro": [
-        "By the end of the course, participants will be able to:"
-    ],
+    "objectivesIntro": [],
     "objectives": [
-        "Use German effectively in a range of everyday and professional situations.",
-        "Understand spoken and written German at the appropriate level.",
-        "Apply key grammar structures and vocabulary with increasing accuracy.",
-        "Read and produce practical texts in German.",
-        "Demonstrate cultural awareness in German-speaking contexts."
+        "Narrate past experiences and describe sequences of events using appropriate tense forms.",
+        "Discuss intentions, arrangements, preferences, reasons, and simple hypothetical situations.",
+        "Use subordinate clauses, modal constructions, case patterns, and adjective endings in context.",
+        "Manage everyday service interactions and routine workplace exchanges more independently.",
+        "Extract key information from short announcements, conversations, emails, and articles.",
+        "Produce organized short texts and deliver a brief prepared oral presentation."
     ],
     "outline": [
         {
-            "title": "Course Introduction and Diagnostic Assessment",
+            "title": "Foundation Review and Level 03 Diagnostic",
             "items": [
                 {
-                    "text": "Reviewing prior learning and setting course goals",
+                    "text": "Review core present-tense forms, articles, cases, and common sentence patterns.",
                     "level": 0
                 },
                 {
-                    "text": "Diagnostic speaking, listening, reading and writing tasks",
+                    "text": "Identify gaps in everyday vocabulary, listening, and speaking confidence.",
                     "level": 0
                 },
                 {
-                    "text": "Introduction to course structure and learning strategies",
+                    "text": "Set personal communicative goals through short diagnostic tasks.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Pronunciation and Listening Skills",
+            "title": "Connected Conversation and Interaction",
             "items": [
                 {
-                    "text": "Key sounds, stress and intonation patterns",
+                    "text": "Extend responses beyond isolated sentences with supporting details.",
                     "level": 0
                 },
                 {
-                    "text": "Listening for main ideas and key details",
+                    "text": "Ask follow-up questions and respond naturally to a conversation partner.",
                     "level": 0
                 },
                 {
-                    "text": "Recognizing natural connected speech",
+                    "text": "Use common fillers, clarification requests, and repair expressions.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Vocabulary Building",
+            "title": "Narrating Experiences with the Perfekt",
             "items": [
                 {
-                    "text": "Thematic vocabulary for everyday and professional topics",
+                    "text": "Select haben or sein with frequently used past participles.",
                     "level": 0
                 },
                 {
-                    "text": "Word families, collocations and useful expressions",
+                    "text": "Describe personal experiences, travel, and recent events in sequence.",
                     "level": 0
                 },
                 {
-                    "text": "Strategies for independent vocabulary learning",
+                    "text": "Practice spoken narratives with time expressions and connectors.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Grammar in Context",
+            "title": "Introduction to the Präteritum",
             "items": [
                 {
-                    "text": "Core grammar structures appropriate to this level",
+                    "text": "Use war, hatte, and common modal verbs in the simple past.",
                     "level": 0
                 },
                 {
-                    "text": "Guided practice in speaking and writing contexts",
+                    "text": "Recognize frequent Präteritum forms in short narratives.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying and correcting common errors",
+                    "text": "Compare typical spoken and written past-tense usage.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Speaking and Interaction",
+            "title": "Time Expressions and Event Sequences",
             "items": [
                 {
-                    "text": "Conversations, discussions and role plays",
+                    "text": "Use zuerst, dann, danach, später, and schließlich to organize accounts.",
                     "level": 0
                 },
                 {
-                    "text": "Expressing opinions, preferences and information",
+                    "text": "Express duration, frequency, and points in time accurately.",
                     "level": 0
                 },
                 {
-                    "text": "Turn-taking, clarification and natural interaction strategies",
+                    "text": "Build coherent descriptions of a past day or project activity.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Reading Skills",
+            "title": "Subordinate Clauses with weil and dass",
             "items": [
                 {
-                    "text": "Reading practical and informational texts",
+                    "text": "Explain reasons using weil and report statements using dass.",
                     "level": 0
                 },
                 {
-                    "text": "Identifying main ideas and supporting details",
+                    "text": "Apply verb-final word order in subordinate clauses.",
                     "level": 0
                 },
                 {
-                    "text": "Inferring meaning from context",
+                    "text": "Combine short sentences into more natural connected speech.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Writing Skills",
+            "title": "Conditions and Time Clauses",
             "items": [
                 {
-                    "text": "Writing messages, emails and short texts",
+                    "text": "Use wenn for recurring conditions and future situations.",
                     "level": 0
                 },
                 {
-                    "text": "Organizing ideas with appropriate connectors",
+                    "text": "Introduce als for one-time events in the past.",
                     "level": 0
                 },
                 {
-                    "text": "Editing for accuracy and clarity",
+                    "text": "Practice clause order and punctuation in everyday contexts.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Everyday and Professional Communication",
+            "title": "Modal Verbs and Practical Obligations",
             "items": [
                 {
-                    "text": "Handling common social and workplace situations",
+                    "text": "Review können, müssen, dürfen, sollen, wollen, and mögen.",
                     "level": 0
                 },
                 {
-                    "text": "Cultural awareness and appropriate language use",
+                    "text": "Express permissions, rules, recommendations, and obligations.",
                     "level": 0
                 },
                 {
-                    "text": "Practical scenario-based tasks",
+                    "text": "Handle practical requests and workplace instructions politely.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "Integrated Skills Practice",
+            "title": "Separable and Inseparable Verbs",
             "items": [
                 {
-                    "text": "Combined listening, speaking, reading and writing tasks",
+                    "text": "Distinguish separable prefixes in main and subordinate clauses.",
                     "level": 0
                 },
                 {
-                    "text": "Peer collaboration and feedback",
+                    "text": "Expand vocabulary for appointments, tasks, and daily activities.",
                     "level": 0
                 },
                 {
-                    "text": "Review of key language from the course",
+                    "text": "Use common inseparable verbs in meaningful sentences.",
                     "level": 0
                 }
             ]
         },
         {
-            "title": "End-of-Course Assessment and Review",
+            "title": "Accusative and Dative in Context",
             "items": [
                 {
-                    "text": "Speaking and writing performance tasks",
+                    "text": "Choose cases with common verbs and prepositions.",
                     "level": 0
                 },
                 {
-                    "text": "Listening and reading comprehension checks",
+                    "text": "Practice pronouns and noun phrases in service encounters.",
                     "level": 0
                 },
                 {
-                    "text": "Individual feedback and progression planning",
+                    "text": "Improve accuracy through substitution and dialogue exercises.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Two-Way Prepositions and Location",
+            "items": [
+                {
+                    "text": "Differentiate location and direction with Wechselpräpositionen.",
+                    "level": 0
+                },
+                {
+                    "text": "Describe office layouts, routes, and object placement.",
+                    "level": 0
+                },
+                {
+                    "text": "Use appropriate dative or accusative endings in context.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Adjective Endings and Descriptions",
+            "items": [
+                {
+                    "text": "Introduce frequent adjective endings after definite and indefinite articles.",
+                    "level": 0
+                },
+                {
+                    "text": "Describe people, products, accommodation, and workplaces.",
+                    "level": 0
+                },
+                {
+                    "text": "Compare short descriptive texts for accuracy and clarity.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Comparisons and Preferences",
+            "items": [
+                {
+                    "text": "Use comparative and superlative forms, including common irregulars.",
+                    "level": 0
+                },
+                {
+                    "text": "Compare options and justify personal preferences.",
+                    "level": 0
+                },
+                {
+                    "text": "Practice decision-making dialogues for purchases and travel.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Future Plans and Arrangements",
+            "items": [
+                {
+                    "text": "Discuss future events using present tense and werden + infinitive.",
+                    "level": 0
+                },
+                {
+                    "text": "Arrange appointments and negotiate suitable times.",
+                    "level": 0
+                },
+                {
+                    "text": "Describe goals and upcoming activities in clear connected speech.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Making Suggestions and Giving Advice",
+            "items": [
+                {
+                    "text": "Use sollten, könnten, and common recommendation structures.",
+                    "level": 0
+                },
+                {
+                    "text": "Offer, accept, or decline suggestions appropriately.",
+                    "level": 0
+                },
+                {
+                    "text": "Role-play problem-solving conversations with peers.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Health, Wellbeing, and Everyday Problems",
+            "items": [
+                {
+                    "text": "Explain symptoms and everyday difficulties in accessible language.",
+                    "level": 0
+                },
+                {
+                    "text": "Understand common advice and simple instructions.",
+                    "level": 0
+                },
+                {
+                    "text": "Practice booking appointments and asking for assistance.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Travel, Transport, and Accommodation",
+            "items": [
+                {
+                    "text": "Handle bookings, route changes, and travel inquiries.",
+                    "level": 0
+                },
+                {
+                    "text": "Understand key information in timetables and announcements.",
+                    "level": 0
+                },
+                {
+                    "text": "Describe travel problems and request practical solutions.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Shopping, Services, and Complaints",
+            "items": [
+                {
+                    "text": "Ask detailed questions about products, prices, and conditions.",
+                    "level": 0
+                },
+                {
+                    "text": "Make polite requests, returns, and simple complaints.",
+                    "level": 0
+                },
+                {
+                    "text": "Respond to service staff and clarify misunderstandings.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Routine Workplace Communication",
+            "items": [
+                {
+                    "text": "Discuss responsibilities, schedules, and simple work updates.",
+                    "level": 0
+                },
+                {
+                    "text": "Use appropriate polite forms in requests and coordination.",
+                    "level": 0
+                },
+                {
+                    "text": "Participate in brief task-focused meetings and exchanges.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Reading for Main Ideas and Details",
+            "items": [
+                {
+                    "text": "Read short articles, notices, emails, and informational webpages.",
+                    "level": 0
+                },
+                {
+                    "text": "Identify topic sentences, specific facts, and implied purpose.",
+                    "level": 0
+                },
+                {
+                    "text": "Develop scanning and context-based vocabulary strategies.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Writing Emails and Connected Paragraphs",
+            "items": [
+                {
+                    "text": "Structure informal and basic formal emails with suitable openings.",
+                    "level": 0
+                },
+                {
+                    "text": "Write short descriptions, invitations, updates, and explanations.",
+                    "level": 0
+                },
+                {
+                    "text": "Use linking expressions and revise grammar for clarity.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Listening, Pronunciation, and Fluency",
+            "items": [
+                {
+                    "text": "Follow clear connected speech on familiar themes.",
+                    "level": 0
+                },
+                {
+                    "text": "Practice word stress, sentence rhythm, and difficult sound contrasts.",
+                    "level": 0
+                },
+                {
+                    "text": "Use repetition and paraphrasing to confirm understanding.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Integrated Role-Plays and Short Presentations",
+            "items": [
+                {
+                    "text": "Deliver a short prepared talk about an experience or future plan.",
+                    "level": 0
+                },
+                {
+                    "text": "Combine listening, speaking, reading, and writing in realistic tasks.",
+                    "level": 0
+                },
+                {
+                    "text": "Give and receive constructive peer feedback.",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "title": "Consolidation and Final Skills Assessment",
+            "items": [
+                {
+                    "text": "Review high-frequency grammar, vocabulary, and communicative functions.",
+                    "level": 0
+                },
+                {
+                    "text": "Complete integrated listening, reading, writing, and speaking tasks.",
+                    "level": 0
+                },
+                {
+                    "text": "Identify strengths and readiness for German Language – Level 04.",
                     "level": 0
                 }
             ]
