@@ -4,7 +4,7 @@
 @section('title', 'About Us — CompuBase Training Center, Abu Dhabi')
 
 @section('content')
-<div class="page active" id="pg-about" lang="en">
+<div class="page active about-page" id="pg-about" lang="en">
 <div class="utility">
   <div class="container">
     <div class="left"><span>Abu Dhabi campus</span><span>Weekdays, Monday to Friday</span><span>Morning and evening classes</span></div>
@@ -39,45 +39,52 @@
 </header>
 
 <div class="crumbs"><div class="container"><a href="{{ route('home') }}">Home</a><span>/</span><b style="color:var(--navy)">About us</b></div></div>
-<section class="course-hero"><div class="container" style="grid-template-columns:1fr">
+<section class="course-hero"><div class="container">
   <div><div class="eyebrow on-dark">Innovative Training Solutions</div>
   <h1>About CompuBase</h1>
   <p class="lead">Established in 1998 in Abu Dhabi, UAE, <b>CompuBase Training Center</b> is a professional training and development institution dedicated to empowering individuals and organizations through high-quality, industry-relevant learning solutions.</p>
   <p class="lead">With over 28 years of experience, CompuBase offers a diverse portfolio of training programs covering Information Technology, Artificial Intelligence, Business and Management, Professional Certifications, Leadership Development, and Languages.</p>
   <p class="lead">Combining experienced trainers, practical learning methodologies, and customized corporate training solutions, CompuBase helps professionals enhance their capabilities, advance their careers, and meet the evolving demands of today’s workplace.</p></div>
+  <div class="about-stats">
+    <div><b><bdi dir="ltr">1998</bdi></b><span>Year established</span></div>
+    <div><b><bdi dir="ltr">+28</bdi></b><span>Years of training experience</span></div>
+    <div><b><bdi dir="ltr">+500</bdi></b><span>Courses</span></div>
+    <div><b><bdi dir="ltr">{{ count(config('partners.partners')) }}</bdi></b><span>Partners and accreditations</span></div>
+  </div>
 </div></section>
 <section class="section"><div class="container">
   <div class="eyebrow">Who we are</div>
   <h2>Empowering People. Developing Skills. Driving Success.</h2>
   <div class="about-intro">
-    <div>
-  <div style="max-width:760px">
+    <div class="about-copy">
     <p>Founded in 1998 in Abu Dhabi, UAE, <b>CompuBase Training Center</b> is an established professional training and development institution committed to empowering individuals and organizations through knowledge, skills, and continuous learning.</p>
     <p>With more than 28 years of experience in the training industry, we have evolved alongside the changing demands of the professional world, delivering practical, relevant, and results-oriented learning experiences that help people grow and organizations thrive.</p>
     <p>Our diverse +500 courses training portfolio spans <b>Information Technology, Artificial Intelligence, Cybersecurity, Business and Management, Leadership Development, International Professional Certifications, and Language Training.</b> We serve individual learners, corporate teams, and government entities through structured training programs and customized learning solutions tailored to their specific objectives.</p>
     <p>At CompuBase, we believe that effective training goes beyond acquiring knowledge. It is about building confidence, developing practical capabilities, and transforming learning into measurable professional performance.</p>
     <p>By combining experienced instructors, industry-relevant content, and interactive training methodologies, we create learning experiences that bridge the gap between knowledge and real-world application.</p>
-    <p><b>Our commitment is simple: to equip people with the skills they need today and the capabilities they need to succeed tomorrow.</b></p>
-  </div>
     </div>
-    <figure class="about-photo"><img src="{{ url('uploads/2026/10/abu-dhabi-skyline-training-hall-group-work-q4i42l.jpg') }}" alt="Professionals working in groups in a CompuBase training hall overlooking Abu Dhabi" loading="lazy"></figure>
+    <div class="about-aside">
+      <figure class="about-photo"><img src="{{ url('uploads/2026/10/abu-dhabi-skyline-training-hall-group-work-q4i42l.jpg') }}" alt="Professionals working in groups in a CompuBase training hall overlooking Abu Dhabi" loading="lazy"></figure>
+      <p class="about-promise"><b>Our commitment is simple: to equip people with the skills they need today and the capabilities they need to succeed tomorrow.</b></p>
+    </div>
   </div>
 </div></section>
 @include('partials.accreditation')
 <section class="section why"><div class="container">
-  <div class="eyebrow">Why learners choose us</div>
-  <h2>Your Ambition. Our Expertise. Your Success.</h2>
-  <div style="max-width:860px">
-    <p>At <b>CompuBase Training Center</b>, we believe that the right learning experience can open doors to new opportunities. For over 28 years, we have helped learners build valuable skills, strengthen their confidence, and take meaningful steps toward their professional goals.</p>
-    <p><b>Here’s what makes learning with us different:</b></p>
+  <div class="about-why-head">
+    <div><div class="eyebrow">Why learners choose us</div><h2>Your Ambition. Our Expertise. Your Success.</h2></div>
+    <div class="about-copy">
+      <p>At <b>CompuBase Training Center</b>, we believe that the right learning experience can open doors to new opportunities. For over 28 years, we have helped learners build valuable skills, strengthen their confidence, and take meaningful steps toward their professional goals.</p>
+      <p><b>Here’s what makes learning with us different:</b></p>
+    </div>
   </div>
   <div class="why-grid">
-    <div class="why-item"><h3>1. Over 28 Years of Training Excellence</h3><p>Established in Abu Dhabi in 1998, we bring decades of experience in professional education, combining a strong training legacy with a commitment to continuous improvement and innovation.</p></div>
-    <div class="why-item"><h3>2. Practical, Real-World Learning</h3><p>We believe learning should go beyond theory. Our programs emphasize hands-on activities, practical exercises, and workplace applications, helping you turn new knowledge into skills you can use with confidence.</p></div>
-    <div class="why-item"><h3>3. Experienced, Industry-Focused Trainers</h3><p>Learn from knowledgeable professionals who bring practical expertise and real-world perspectives into the classroom, making complex concepts easier to understand and apply.</p></div>
-    <div class="why-item"><h3>4. Skills That Move Your Career Forward</h3><p>Whether you’re starting your career, upgrading your expertise, exploring emerging technologies, or preparing for an international professional certification, our training programs are designed to support your professional growth.</p></div>
-    <div class="why-item"><h3>5. An Engaging, Supportive Learning Environment</h3><p>We create interactive learning experiences that encourage participation, discussion, and collaboration. Our learner-focused approach helps you stay engaged, ask questions, and build confidence throughout your training journey.</p></div>
-    <div class="why-item"><h3>6. Diverse Learning Opportunities</h3><p>From Artificial Intelligence and IT to Business, Leadership, Professional Certifications, and Languages, our wide range of programs helps you develop the capabilities needed to succeed in an ever-changing professional world.</p></div>
+    <div class="why-item"><span class="why-num" aria-hidden="true">1</span><h3>Over 28 Years of Training Excellence</h3><p>Established in Abu Dhabi in 1998, we bring decades of experience in professional education, combining a strong training legacy with a commitment to continuous improvement and innovation.</p></div>
+    <div class="why-item"><span class="why-num" aria-hidden="true">2</span><h3>Practical, Real-World Learning</h3><p>We believe learning should go beyond theory. Our programs emphasize hands-on activities, practical exercises, and workplace applications, helping you turn new knowledge into skills you can use with confidence.</p></div>
+    <div class="why-item"><span class="why-num" aria-hidden="true">3</span><h3>Experienced, Industry-Focused Trainers</h3><p>Learn from knowledgeable professionals who bring practical expertise and real-world perspectives into the classroom, making complex concepts easier to understand and apply.</p></div>
+    <div class="why-item"><span class="why-num" aria-hidden="true">4</span><h3>Skills That Move Your Career Forward</h3><p>Whether you’re starting your career, upgrading your expertise, exploring emerging technologies, or preparing for an international professional certification, our training programs are designed to support your professional growth.</p></div>
+    <div class="why-item"><span class="why-num" aria-hidden="true">5</span><h3>An Engaging, Supportive Learning Environment</h3><p>We create interactive learning experiences that encourage participation, discussion, and collaboration. Our learner-focused approach helps you stay engaged, ask questions, and build confidence throughout your training journey.</p></div>
+    <div class="why-item"><span class="why-num" aria-hidden="true">6</span><h3>Diverse Learning Opportunities</h3><p>From Artificial Intelligence and IT to Business, Leadership, Professional Certifications, and Languages, our wide range of programs helps you develop the capabilities needed to succeed in an ever-changing professional world.</p></div>
   </div>
   <div class="steps-photo"><img src="{{ url('uploads/2026/10/collaborative-workshop-sticky-notes-f1z3dh.jpg') }}" alt="Trainer guiding an interactive workshop with learners at CompuBase" loading="lazy"></div>
 </div></section>

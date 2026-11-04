@@ -13,12 +13,18 @@
     $days = array_column($courses, 'days');
     $minDays = $days ? min($days) : 0;
     $maxDays = $days ? max($days) : 0;
-    $groupNames = ['management' => $t('Management & Professional', 'الإدارة والتطوير المهني'), 'it' => $t('IT & Technology', 'تقنية المعلومات')];
+    $groupNames = ['management' => $t('Management & Professional', 'الإدارة والتطوير المهني'), 'it' => $t('IT & Technology', 'تقنية المعلومات'), 'language' => $t('Language Courses', 'دورات اللغات')];
     $groupName = $groupNames[$category['group']] ?? '';
     $slugs = array_keys($categories);
     $number = array_search($slug, $slugs) + 1;
     $siblings = array_filter($categories, fn ($c, $s) => $s !== $slug && $c['group'] === $category['group'], ARRAY_FILTER_USE_BOTH);
     $others = array_filter($categories, fn ($c) => $c['group'] !== $category['group']);
+    // "More categories" shows six: the next four in this group, then two from other groups.
+    // Starting after the current category gives every category a fair share of these links.
+    $rotate = fn (array $list, int $by) => array_slice($list, $by, null, true) + array_slice($list, 0, $by, true);
+    $sameGroup = array_keys(array_filter($categories, fn ($c) => $c['group'] === $category['group']));
+    $nearby = array_slice($rotate($siblings, (int) array_search($slug, $sameGroup)), 0, 4, true);
+    $more = $nearby + array_slice($rotate($others, $others ? $number % count($others) : 0), 0, 6 - count($nearby), true);
     $shots = array_slice(array_values(array_filter(array_map(fn ($c) => ['src' => Catalog::photo($c), 'alt' => Catalog::title($c, $ar)], $courses), fn ($s) => $s['src'])), 0, 3);
     $photos = array_column($shots, 'src');
     $range = $minDays === $maxDays ? Catalog::duration($minDays, $ar) : ($ar ? 'من '.$minDays.' إلى '.Catalog::duration($maxDays, true) : $minDays.' to '.$maxDays.' days');
@@ -308,23 +314,23 @@
 
 <!-- MORE CATEGORIES -->
 <section class="section cat-more">
-  <div class="container">
-    <span class="nx-kicker">{{ $t('Keep exploring', 'واصل الاستكشاف') }}</span>
-    <div class="cat-more-top"><div class="h2 nx-h2">{{ $t('More categories', 'فئات أخرى') }}</div><a class="nx-btn nx-btn-dark" href="{{ route($ar ? 'categories-ar' : 'categories') }}">{{ $t('All categories', 'جميع الفئات') }} {!! $arrow !!}</a></div>
-    @foreach (array_filter([$groupName => $siblings, ($groupNames[$category['group'] === 'it' ? 'management' : 'it'] ?? '') => $others]) as $heading => $list)
-    <div class="h3 cat-more-group">{{ $heading }}</div>
+  <div class="container cat-more-wrap">
+    <div class="cat-more-intro">
+      <span class="nx-kicker">{{ $t('Keep exploring', 'واصل الاستكشاف') }}</span>
+      <div class="h2 nx-h2">{{ $t('More categories', 'فئات أخرى') }}</div>
+      <a class="nx-btn nx-btn-dark" href="{{ route($ar ? 'categories-ar' : 'categories') }}">{{ $t('All categories', 'جميع الفئات') }} {!! $arrow !!}</a>
+    </div>
     <div class="cat-more-grid">
-      @foreach ($list as $s => $c)
+      @foreach ($more as $s => $c)
       @php($cd = array_column($c['courses'], 'days'))
       <a class="cat-tile" href="{{ Catalog::categoryUrl($s, $ar) }}">
-        <span class="n">{{ sprintf('%02d', array_search($s, $slugs) + 1) }}</span>
+        <span class="g">{{ $groupNames[$c['group']] ?? '' }}</span>
         <span class="h4">{{ $ar ? $c['ar'] : $c['en'] }}</span>
         <span class="m">{{ $t(count($c['courses']).' courses', count($c['courses']).' دورة') }}@if ($cd) · {{ min($cd) === max($cd) ? Catalog::duration(min($cd), $ar) : ($ar ? min($cd).' – '.Catalog::duration(max($cd), true) : min($cd).' – '.max($cd).' days') }}@endif</span>
         <span class="go" aria-hidden="true">{{ $ar ? '←' : '→' }}</span>
       </a>
       @endforeach
     </div>
-    @endforeach
   </div>
 </section>
 
