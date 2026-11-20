@@ -247,7 +247,7 @@ nav.main .mega-foot a{font-weight:800;color:var(--navy)}
 .pager button:disabled{opacity:.4;cursor:default}
 .pager-gap{display:inline-flex;align-items:center;padding:0 4px;color:var(--gold-ink)}
 .filter-tabs button.active{background:var(--navy);color:#fff;border-color:var(--navy)}
-.course-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px}
+.course-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px}
 /* Home + /courses share category-page photo cards (.cp-card.course-card) */
 .course-grid>.course-card{margin:0;text-decoration:none;color:inherit}
 .course-card:not(.cp-card){border:1px solid var(--line);display:flex;flex-direction:column;background:#fff}
@@ -1112,7 +1112,7 @@ button.dl-link:hover{text-decoration:underline}
 .cat-days button{font:inherit;font-size:14px;font-weight:600;padding:5px 14px;border:1px solid var(--line);background:#fff;color:var(--text);cursor:pointer;border-radius:999px;transition:.2s}
 .cat-days button:hover{border-color:var(--gold)}
 .cat-days button.on{background:var(--gold);border-color:var(--gold);color:var(--navy-deep)}
-.cp-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px}
+.cp-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px}
 .cp-card{display:flex;flex-direction:column;background:#fff;border:1px solid var(--line);transition:transform .25s,box-shadow .25s,border-color .25s}
 .cp-card[hidden]{display:none}
 .cp-card:hover{transform:translateY(-6px);box-shadow:0 22px 44px rgba(10,28,57,.13);border-color:var(--gold)}
@@ -1121,8 +1121,8 @@ button.dl-link:hover{text-decoration:underline}
 .cp-card:hover .cp-photo img{transform:scale(1.06)}
 .cp-photo::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(10,28,57,.55),transparent 55%)}
 .cp-mark{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:72px;font-weight:800;color:var(--gold-light);background:radial-gradient(circle at 70% 20%,#1B3A6B,var(--navy-deep))}
-.cp-days{position:absolute;z-index:1;bottom:12px;inset-inline-start:14px;background:var(--gold);color:var(--navy-deep);font-size:13px;font-weight:800;line-height:24px;padding:0 10px}
-.cp-num{position:absolute;z-index:1;top:8px;inset-inline-end:14px;font-size:15px;font-weight:800;color:#fff;opacity:.85}
+.cp-days{position:absolute;z-index:1;bottom:12px;inset-inline-start:14px;display:inline-flex;align-items:center;gap:6px;background:var(--gold);color:var(--navy-deep);font-size:13px;font-weight:800;line-height:26px;padding:0 10px;border-radius:4px}
+.cp-days .cp-ic{width:14px;height:14px;color:inherit}
 .cp-body{padding:20px 22px 18px;display:flex;flex-direction:column;flex:1}
 .cp-body h3,.cp-body .h3{font-size:20px;line-height:1.3;margin-bottom:8px}
 .cp-body p{font-size:15px;line-height:24px;color:var(--text);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:16px}
@@ -1130,6 +1130,34 @@ button.dl-link:hover{text-decoration:underline}
 .cp-foot b{color:var(--navy);font-size:15px;white-space:nowrap;transition:transform .2s}
 .cp-card:hover .cp-foot b{transform:translateX(4px)}
 [dir="rtl"] .cp-card:hover .cp-foot b{transform:translateX(-4px)}
+/* Course card details: category chip, title link over the whole card, icon facts, two buttons */
+.course-card.cp-card{position:relative;border-radius:10px;overflow:hidden}
+.cp-cat{position:absolute;z-index:1;top:12px;inset-inline-start:12px;max-width:calc(100% - 24px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;background:rgba(10,28,57,.72);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);color:#fff;font-size:12px;font-weight:700;letter-spacing:.02em;line-height:24px;padding:0 10px;border-radius:999px;border:1px solid rgba(255,255,255,.18)}
+.cp-body h3 a.cp-link{color:var(--navy);text-decoration:none;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.cp-link::after{content:"";position:absolute;inset:0;z-index:1}
+.cp-link:focus-visible{outline:none}
+.cp-card:has(.cp-link:focus-visible){outline:3px solid var(--gold);outline-offset:2px}
+.course-card .cp-body p{-webkit-line-clamp:2;margin-bottom:14px}
+.cp-meta{list-style:none;margin:0 0 16px;padding:12px 0 0;border-top:1px solid var(--line);display:grid;grid-template-columns:1fr 1fr;gap:8px 12px}
+.cp-meta li{display:flex;align-items:center;gap:7px;font-size:13px;line-height:18px;color:var(--text);min-width:0;margin:0;padding:0}
+.cp-meta li::before{content:none}
+.cp-ic{flex:none;color:var(--gold)}
+.cp-actions{margin-top:auto;display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.cp-btn{display:flex;align-items:center;justify-content:center;min-height:42px;padding:0 12px;border-radius:6px;font-size:14px;font-weight:700;text-align:center;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.cp-btn-ghost{border:1px solid var(--navy);color:var(--navy)}
+.cp-card:hover .cp-btn-ghost{background:var(--navy);color:#fff}
+.cp-btn-gold{position:relative;z-index:2;background:var(--gold);color:var(--navy-deep);border:1px solid var(--gold)}
+.cp-btn-gold:hover,.cp-btn-gold:focus-visible{background:var(--navy-deep);border-color:var(--navy-deep);color:#fff}
+/* Four to a row: tighter type, facts one per line */
+.course-card .cp-body{padding:16px 16px 16px}
+.course-card .cp-body h3{font-size:17px;line-height:1.35;margin-bottom:6px}
+.course-card .cp-body p{font-size:14px;line-height:21px}
+.course-card .cp-meta{grid-template-columns:1fr;gap:6px}
+.course-card .cp-btn{min-height:40px;font-size:13px;padding:0 8px}
+.course-card .cp-actions{gap:8px}
+@media(min-width:1025px) and (max-width:1180px){.course-grid,.cp-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:640px){.course-card .cp-meta{grid-template-columns:1fr 1fr}}
+@media(max-width:380px){.course-card .cp-meta{grid-template-columns:1fr}}
 .cat-empty{text-align:center;padding:40px 0;color:var(--gold-ink);font-weight:600}
 .cat-why{background:var(--navy-deep);color:#fff;padding:76px 0}
 .cat-why-head{max-width:640px}

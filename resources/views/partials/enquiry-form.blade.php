@@ -5,7 +5,7 @@
     $mine = old('type') === $type;
     $sent = session('enquiry_sent') === $type;
     $val = fn ($field, $default = '') => $mine ? old($field, $default) : $default;
-    $chosen = $val('course', ($c = Catalog::courses()[request('course')] ?? null) ? $c['en'] : '');
+    $chosen = $val('course', ($c = Catalog::find((string) request('course'))) ? $c['en'] : '');
     $courses = collect(Catalog::courses())->sortBy(fn ($c) => Catalog::title($c, $ar), SORT_NATURAL | SORT_FLAG_CASE);
     $t = fn ($en, $arText) => $ar ? $arText : $en;
 @endphp

@@ -176,19 +176,7 @@
     </div>
     <div class="cp-grid">
       @foreach ($courses as $course)
-      @php($photo = Catalog::photo($course))
-      <a class="cp-card" href="{{ Catalog::url($course, $ar) }}" data-title="{{ mb_strtolower($course['en'].' '.$course['ar']) }}" data-days="{{ $course['days'] }}">
-        <div class="cp-photo">
-          @if ($photo)<img src="{{ $photo }}" alt="{{ Catalog::title($course, $ar) }}" loading="lazy">@else<div class="cp-mark">{{ $initial($course['en']) }}</div>@endif
-          <span class="cp-days">{{ Catalog::duration($course['days'], $ar) }}</span>
-          <span class="cp-num">{{ sprintf('%02d', $loop->iteration) }}</span>
-        </div>
-        <div class="cp-body">
-          <h3>{{ Catalog::title($course, $ar) }}</h3>
-          @if ($sum = Catalog::summary($course, $ar))<p>{{ $sum }}</p>@endif
-          <div class="cp-foot"><span>{{ $t('Mon – Fri · Morning or evening', 'الاثنين – الجمعة · صباحي أو مسائي') }}</span><b>{{ $t('Details →', 'التفاصيل ←') }}</b></div>
-        </div>
-      </a>
+      @include('partials.course-card', ['ar' => $ar, 'hideCat' => true])
       @endforeach
     </div>
     <p class="cat-empty" hidden></p>

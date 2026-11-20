@@ -12,23 +12,42 @@ const AR = String(window.INITIAL_PAGE || '').endsWith('-ar');
 const esc=s=>String(s).replace(/[&<>"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]));
 
 /* ---------------- Render featured cards ---------------- */
+// Card icons: same paths as resources/views/partials/card-icon.blade.php.
+const ICONS={
+  clock:'<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+  calendar:'<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',
+  sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>',
+  pin:'<path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/>',
+  award:'<circle cx="12" cy="9" r="6"/><path d="M8.5 14 7 22l5-3 5 3-1.5-8"/>'
+};
 const grid=document.getElementById('courseGrid');
 function renderGrid(list){
   if(!grid) return;
   grid.innerHTML='';
-  list.slice(0,6).forEach((c,i)=>{
+  // Same markup as resources/views/partials/course-card.blade.php.
+  const t=(en,ar)=>AR?ar:en, ic=n=>`<svg class="cp-ic" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${ICONS[n]}</svg>`;
+  list.slice(0,8).forEach(c=>{
     const media=c.photo
       ?`<img src="${esc(c.photo)}" alt="" loading="lazy">`
       :`<div class="cp-mark">${esc(c.mark||'?')}</div>`;
     grid.insertAdjacentHTML('beforeend',`
-    <a class="cp-card course-card" href="${esc(c.url)}">
-      <div class="cp-photo">${media}<span class="cp-days">${esc(c.dur)}</span><span class="cp-num">${String(i+1).padStart(2,'0')}</span></div>
+    <article class="cp-card course-card">
+      <div class="cp-photo">${media}<span class="cp-cat">${esc(c.catName)}</span><span class="cp-days">${ic('clock')}${esc(c.dur)}</span></div>
       <div class="cp-body">
-        <h3>${esc(c.title)}</h3>
-        <p>${c.summary?esc(c.summary):''}</p>
-        <div class="cp-foot"><span>${AR?'الاثنين – الجمعة · صباحاً أو مساءً':'Mon – Fri · Morning or evening'}</span><b>${AR?'التفاصيل ←':'Details →'}</b></div>
+        <h3><a class="cp-link" href="${esc(c.url)}">${esc(c.title)}</a></h3>
+        ${c.summary?`<p>${esc(c.summary)}</p>`:''}
+        <ul class="cp-meta">
+          <li>${ic('calendar')}${t('Mon – Fri','الاثنين – الجمعة')}</li>
+          <li>${ic('sun')}${t('Morning or evening','صباحي أو مسائي')}</li>
+          <li>${ic('pin')}${t('Abu Dhabi or in-house','أبوظبي أو مؤسستك')}</li>
+          <li>${ic('award')}${t('Certificate','شهادة إتمام')}</li>
+        </ul>
+        <div class="cp-actions">
+          <span class="cp-btn cp-btn-ghost" aria-hidden="true">${t('View course','عرض الدورة')}</span>
+          <a class="cp-btn cp-btn-gold" href="${esc(c.enquire)}">${t('Enquire now','استفسر الآن')}</a>
+        </div>
       </div>
-    </a>`);
+    </article>`);
   });
 }
 /* Scrolling category row: arrows step through it and grey out at either end. Returns a refresh function. */

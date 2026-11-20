@@ -20,7 +20,22 @@
 <title>{{ $metaTitle }}</title>
 <meta name="description" content="{{ $metaDescription }}">
 @if ($seo?->keywords)<meta name="keywords" content="{{ $seo->keywords }}">@endif
-<link rel="canonical" href="{{ $seo?->canonical ?: url()->current() }}">
+@php
+    // Every page has an English and an Arabic twin (/x and /ar/x). Blog posts are written
+    // per language with their own slugs, so they get no language alternates.
+    $hreflangPath = trim(request()->path(), '/');
+    $hreflangPath = $hreflangPath === 'ar' ? '' : (Str::startsWith($hreflangPath, 'ar/') ? substr($hreflangPath, 3) : $hreflangPath);
+    $hreflangOn = ! request()->routeIs('blog.post', 'blog-ar.post', 'blog.preview');
+    $hreflangEn = rtrim(url('/'), '/').($hreflangPath === '' ? '/' : '/'.$hreflangPath);
+    $hreflangAr = rtrim(url('/'), '/').'/ar'.($hreflangPath === '' ? '' : '/'.$hreflangPath);
+    $hreflangSelf = request()->is('ar', 'ar/*') ? $hreflangAr : $hreflangEn;
+@endphp
+<link rel="canonical" href="{{ $seo?->canonical ?: $hreflangSelf }}">
+@if ($hreflangOn)
+<link rel="alternate" hreflang="en" href="{{ $hreflangEn }}">
+<link rel="alternate" hreflang="ar" href="{{ $hreflangAr }}">
+<link rel="alternate" hreflang="x-default" href="{{ $hreflangEn }}">
+@endif
 <meta property="og:type" content="{{ $section('og_type', 'website') }}">
 <meta property="og:site_name" content="CompuBase Training Center">
 <meta property="og:title" content="{{ $metaTitle }}">

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "ClaudeInChromeDomain(www.meirc.com)",
+      "ClaudeInChromeDomain(www.koenig-solutions.com)"
+    ]
+  }
+}
