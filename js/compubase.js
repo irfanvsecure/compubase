@@ -26,7 +26,7 @@ function renderGrid(list){
   grid.innerHTML='';
   // Same markup as resources/views/partials/course-card.blade.php.
   const t=(en,ar)=>AR?ar:en, ic=n=>`<svg class="cp-ic" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${ICONS[n]}</svg>`;
-  list.slice(0,8).forEach(c=>{
+  list.slice(0,10).forEach(c=>{
     const media=c.photo
       ?`<img src="${esc(c.photo)}" alt="" loading="lazy">`
       :`<div class="cp-mark">${esc(c.mark||'?')}</div>`;
@@ -198,6 +198,8 @@ function showTab(id,remember){
  const box=panel.parentElement;
  box.querySelectorAll(':scope>.tab-panel').forEach(x=>x.classList.toggle('active',x===panel));
  box.querySelectorAll('.tabs [data-tab]').forEach(a=>{a.classList.toggle('active',a.dataset.tab===id);a.setAttribute('aria-selected',a.dataset.tab===id)});
+ const act=box.querySelector('.tabs [data-tab].active');
+ if(act&&act.parentElement.scrollWidth>act.parentElement.clientWidth)act.scrollIntoView({block:'nearest',inline:'nearest'});
  if(remember)history.replaceState(null,'','#'+id);
  return true;
 }
